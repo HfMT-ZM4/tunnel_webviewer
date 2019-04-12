@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    <!-- our stylesheet -->
+    <link rel="stylesheet" href="lib/drawsocket-defaults.css">
+
+  </head>
+  <script>
+      function makeLinks()
+      {
+
+        // to do: make 1-72 lookup into this list
+        let instrs = [
+            "vln", "vln", "fl", "fl",   "cl", "asax", "trb", "vc", "perc", "sopr", "egtr", "accord", 
+            "vln", "vla", "fl", "srec", "cl", "trp", "tuba", "vc", "perc", "sopr", "egtr", "accord", 
+            "vln", "vln", "fl", "ob",   "cl", "tsax", "trb", "vc", "perc", "sopr", "egtr", "accord", 
+            "vln", "vla", "fl", "brec", "cl", "asax", "bsn", "db", "perc", "baritone", "egtr", "accord", 
+            "vln", "vln", "fl", "trec", "cl", "trp", "trb", "vc", "perc", "sopr", "egtr", "accord", 
+            "vln", "vla", "fl", "ob",   "cl", "tsax", "btuba", "vc", "perc", "sopr", "egtr", "accord",
+
+            "subrec", //40 + 72 = 112
+            "arec", //64 + 72 = 136
+            "hrn" //67 + 72 = 139
+            
+            /*,
+            "vln", "vln", "fl", "fl",   "cl", "asax", "trb", "vc", "perc", "sopr", "egtr", "accord", 
+            "vln", "vla", "fl", "srec", "cl", "trp", "tuba", "vc", "perc", "sopr", "egtr", "accord", 
+            "vln", "vln", "fl", "arec", "cl", "tsax", "trb", "vc", "perc", "sopr", "egtr", "accord", 
+            "vln", "vla", "fl", "subrec", "cl", "asax", "bsn", "db", "perc", "baritone", "egtr", "accord", 
+            "vln", "vln", "fl", "trec", "cl", "trp", "trb", "vc", "perc", "sopr", "egtr", "accord", 
+            "vln", "vla", "fl", "ob",   "cl", "tsax", "hrn", "vc", "perc", "sopr", "egtr", "accord" */
+        ];
+
+        let _div = document.getElementById("piecelist");
+        for( let i = 0; i < 144; i++)
+        {
+            let idx = i+1;
+            let instr_i = (i % 72);
+            let _link = document.createElement("a");
+            _link.href = `webview.html?fetch=scores/rama/echoic.json&prefix=/${instr_i+1}`;
+            _link.innerHTML = `${idx} ${instrs[instr_i]}`;
+            _div.appendChild(_link);
+            _div.appendChild(document.createElement("br"));
+        }
+
+      }
+  </script>
+  <body onload="makeLinks()">
+    <div class="basestyle">
+      <p><em>echoic memory capsule</em> by rama gottfried</p>
+      <p>Please select the instrument-number you would like to view:</p>
+
+        <div id="piecelist"></div>
+    </div>
+
+
+  </body>
+</html>
