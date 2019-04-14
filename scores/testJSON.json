@@ -1,0 +1,412 @@
+{
+	"1" : [ 		{
+			"key" : "remove",
+			"val" : "main"
+		}
+, 		{
+			"key" : "svg",
+			"val" : [ 				{
+					"parent" : "main-svg",
+					"new" : "g",
+					"id" : "back"
+				}
+, 				{
+					"parent" : "main-svg",
+					"new" : "g",
+					"id" : "main"
+				}
+, 				{
+					"parent" : "main-svg",
+					"new" : "g",
+					"id" : "overlay"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "rect",
+					"id" : "_1",
+					"x" : 20,
+					"y" : 51,
+					"width" : 0.6,
+					"height" : 24,
+					"style" : 					{
+						"stroke" : "none",
+						"stroke-width" : 0.4
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_2",
+					"x" : 20,
+					"y" : 33,
+					"child" : "  &lt;&lt;",
+					"style" : 					{
+						"stroke" : "none",
+						"stroke-width" : 0,
+						"font-family" : "Arial",
+						"font-size" : 10
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_4",
+					"x" : 680.65997314453125,
+					"y" : 33,
+					"child" : "&gt;&gt;",
+					"style" : 					{
+						"stroke" : "none",
+						"stroke-width" : 0,
+						"font-family" : "Arial",
+						"font-size" : 10
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_5",
+					"x" : 20,
+					"y" : 21,
+					"child" : "",
+					"style" : 					{
+						"stroke" : "none",
+						"stroke-width" : 0,
+						"font-family" : "Bravura",
+						"font-size" : 12
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_6",
+					"x" : 25,
+					"y" : 21,
+					"child" : "",
+					"style" : 					{
+						"stroke" : "none",
+						"stroke-width" : 0,
+						"font-family" : "Bravura",
+						"font-size" : 8
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_7",
+					"x" : 30,
+					"y" : 24,
+					"child" : "60",
+					"style" : 					{
+						"stroke" : "none",
+						"stroke-width" : 0,
+						"font-family" : "Arial",
+						"font-size" : 10
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_8",
+					"x" : 0,
+					"y" : 0,
+					"child" : "",
+					"style" : 					{
+						"fill" : "rgb(0,0,0)",
+						"font-family" : "Bravura",
+						"font-size" : 24
+					}
+,
+					"transform" : "matrix(1,0,0,1,22,69.95999908447266)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_9",
+					"x" : 0,
+					"y" : 0,
+					"child" : "MaxScoreIns-0",
+					"style" : 					{
+						"fill" : "rgb(0,0,0)",
+						"font-family" : "Arial",
+						"font-size" : 10
+					}
+,
+					"transform" : "matrix(1,0,0,1,-78.6953125,65)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_10",
+					"x" : 0,
+					"y" : 0,
+					"child" : "",
+					"style" : 					{
+						"fill" : "rgb(0,0,0)",
+						"font-family" : "Bravura",
+						"font-size" : 24
+					}
+,
+					"transform" : "matrix(1,0,0,1,43,57)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_11",
+					"x" : 0,
+					"y" : 0,
+					"child" : "",
+					"style" : 					{
+						"fill" : "rgb(0,0,0)",
+						"font-family" : "Bravura",
+						"font-size" : 24
+					}
+,
+					"transform" : "matrix(1,0,0,1,43,69)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_12",
+					"x" : 0,
+					"y" : 0,
+					"child" : "",
+					"style" : 					{
+						"fill" : "rgb(0,0,0)",
+						"font-family" : "Bravura",
+						"font-size" : 22
+					}
+,
+					"transform" : "matrix(1,0,0,1,83.62068939208984,69)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_13",
+					"x" : 0,
+					"y" : 0,
+					"child" : "",
+					"style" : 					{
+						"fill" : "rgb(0,0,0)",
+						"font-family" : "Bravura",
+						"font-size" : 22
+					}
+,
+					"transform" : "matrix(1,0,0,1,160.62069702148438,60)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "rect",
+					"id" : "_14",
+					"x" : 90.220689392089838,
+					"y" : 36.5,
+					"width" : 0.75,
+					"height" : 31.5,
+					"style" : 					{
+						"stroke-width" : 0.4
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "rect",
+					"id" : "_15",
+					"x" : 90.620689392089844,
+					"y" : 36,
+					"width" : 77,
+					"height" : 3,
+					"style" : 					{
+						"stroke" : "none",
+						"stroke-width" : 0
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_16",
+					"x" : 0,
+					"y" : 0,
+					"child" : "",
+					"style" : 					{
+						"fill" : "rgb(0,0,0)",
+						"font-family" : "Bravura",
+						"font-size" : 22
+					}
+,
+					"transform" : "matrix(1,0,0,1,237.62069702148438,63)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_17",
+					"x" : 0,
+					"y" : 0,
+					"child" : "",
+					"style" : 					{
+						"fill" : "rgb(0,0,255)",
+						"font-family" : "Bravura",
+						"font-size" : 22
+					}
+,
+					"transform" : "matrix(1,0,0,1,314.6206970214844,60)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "rect",
+					"id" : "_18",
+					"x" : 167.220697021484369,
+					"y" : 36.5,
+					"width" : 0.75,
+					"height" : 22.5,
+					"style" : 					{
+						"stroke-width" : 0.4
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "rect",
+					"id" : "_19",
+					"x" : 237.620697021484375,
+					"y" : 62.25,
+					"width" : 0.75,
+					"height" : 20,
+					"style" : 					{
+						"stroke-width" : 0.4
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "rect",
+					"id" : "_20",
+					"x" : 237.620697021484375,
+					"y" : 81,
+					"width" : 77,
+					"height" : 3,
+					"style" : 					{
+						"stroke" : "none",
+						"stroke-width" : 0
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_21",
+					"x" : 0,
+					"y" : 0,
+					"child" : "",
+					"style" : 					{
+						"fill" : "rgb(0,0,255)",
+						"font-family" : "Bravura",
+						"font-size" : 22
+					}
+,
+					"transform" : "matrix(1,0,0,1,391.6206970214844,69)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "rect",
+					"id" : "_22",
+					"x" : 314.620697021484375,
+					"y" : 60,
+					"width" : 0.75,
+					"height" : 22.25,
+					"style" : 					{
+						"stroke-width" : 0.4
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "text",
+					"id" : "_23",
+					"x" : 0,
+					"y" : 0,
+					"child" : "",
+					"style" : 					{
+						"fill" : "rgb(0,0,255)",
+						"font-family" : "Bravura",
+						"font-size" : 24
+					}
+,
+					"transform" : "matrix(1,0,0,1,398.6206970214844,50)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "rect",
+					"id" : "_24",
+					"x" : 1280.942626953125,
+					"y" : 51,
+					"width" : 0.6,
+					"height" : 24,
+					"style" : 					{
+						"stroke" : "none",
+						"stroke-width" : 0.4
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "rect",
+					"id" : "_26",
+					"x" : 700,
+					"y" : 51,
+					"width" : 0.6,
+					"height" : 24,
+					"style" : 					{
+						"stroke" : "none",
+						"stroke-width" : 0.4
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "rect",
+					"id" : "_27",
+					"x" : 398.220697021484398,
+					"y" : 48,
+					"width" : 0.75,
+					"height" : 20,
+					"style" : 					{
+						"stroke-width" : 0.4
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+, 				{
+					"parent" : "main",
+					"new" : "path",
+					"id" : "_28",
+					"d" : "M20,51 L1280.942626953125,51,M20,57 L1280.942626953125,57,M20,63 L1280.942626953125,63,M20,69 L1280.942626953125,69,M20,75 L1280.942626953125,75,",
+					"style" : 					{
+						"stroke-width" : 0.4
+					}
+,
+					"transform" : "matrix(1,0,0,1,0,0)"
+				}
+ ]
+		}
+ ]
+}
