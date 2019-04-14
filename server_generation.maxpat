@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 0,
-			"revision" : 4,
+			"revision" : 6,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -277,7 +277,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 0,
-							"revision" : 4,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -322,7 +322,7 @@
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 0,
-											"revision" : 4,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -708,7 +708,7 @@
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 0,
-											"revision" : 4,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -870,7 +870,7 @@
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 0,
-											"revision" : 4,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -1028,9 +1028,9 @@
 										"styles" : [ 											{
 												"name" : "black on white",
 												"number" : 												{
-													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 													"fontsize" : [ 12.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ]
 												}
 ,
 												"umenu" : 												{
@@ -1053,8 +1053,8 @@
 , 											{
 												"name" : "caption text",
 												"default" : 												{
-													"fontface" : [ 2 ],
-													"fontsize" : [ 11.0 ]
+													"fontsize" : [ 11.0 ],
+													"fontface" : [ 2 ]
 												}
 ,
 												"parentstyle" : "",
@@ -1063,9 +1063,9 @@
 , 											{
 												"name" : "section dividers",
 												"default" : 												{
-													"fontface" : [ 3 ],
 													"fontsize" : [ 15.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"fontface" : [ 3 ]
 												}
 ,
 												"parentstyle" : "",
@@ -1084,9 +1084,9 @@
 , 											{
 												"name" : "titles",
 												"default" : 												{
-													"fontface" : [ 1 ],
 													"fontsize" : [ 20.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"fontface" : [ 1 ]
 												}
 ,
 												"parentstyle" : "",
@@ -1633,7 +1633,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 0,
-							"revision" : 4,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1885,9 +1885,9 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 47.53539366043924, 250.0, 143.0, 38.0 ],
-					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 47, 49, 47, 115, 121, 110, 99, 79, 102, 102, 115, 101, 116, 0, 0, 0, 44, 100, 0, 0, -65, -59, 85, 85, 85, 85, 85, 85 ],
+					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 47, 49, 47, 115, 121, 110, 99, 79, 102, 102, 115, 101, 116, 0, 0, 0, 44, 100, 0, 0, 63, -48, 0, 0, 0, 0, 0, 0 ],
 					"saved_bundle_length" : 48,
-					"text" : "/1/syncOffset : -0.166667"
+					"text" : "/1/syncOffset : 0.25"
 				}
 
 			}
@@ -1995,7 +1995,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 0,
-							"revision" : 4,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2150,11 +2150,11 @@
 					"presentation_rect" : [ 10.73230316978038, 225.294326999999953, 21.53539366043924, 21.647163499999976 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_longname" : "live.button",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "live.button",
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_type" : 2,
-							"parameter_longname" : "live.button"
+							"parameter_type" : 2
 						}
 
 					}
@@ -2167,15 +2167,14 @@
 				"box" : 				{
 					"fontsize" : 18.0,
 					"id" : "obj-114",
-					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 326.0, 269.294326999999953, 234.0, 47.0 ],
+					"patching_rect" : [ 326.0, 269.294326999999953, 234.0, 27.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 2,
 					"presentation_rect" : [ 37.0, 222.61790874999997, 224.0, 47.0 ],
-					"text" : "http://192.168.178.177,169.254.69.67:3002"
+					"text" : "http://192.168.178.177:3002"
 				}
 
 			}
@@ -2185,13 +2184,13 @@
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"outlettype" : [ "FullPacket" ],
 					"patcher" : 					{
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 0,
-							"revision" : 4,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2224,6 +2223,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-6",
@@ -2236,7 +2236,7 @@
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 0,
-											"revision" : 4,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -2364,9 +2364,9 @@
 										"styles" : [ 											{
 												"name" : "black on white",
 												"number" : 												{
-													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 													"fontsize" : [ 12.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ]
 												}
 ,
 												"umenu" : 												{
@@ -2389,8 +2389,8 @@
 , 											{
 												"name" : "caption text",
 												"default" : 												{
-													"fontface" : [ 2 ],
-													"fontsize" : [ 11.0 ]
+													"fontsize" : [ 11.0 ],
+													"fontface" : [ 2 ]
 												}
 ,
 												"parentstyle" : "",
@@ -2399,9 +2399,9 @@
 , 											{
 												"name" : "section dividers",
 												"default" : 												{
-													"fontface" : [ 3 ],
 													"fontsize" : [ 15.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"fontface" : [ 3 ]
 												}
 ,
 												"parentstyle" : "",
@@ -2420,9 +2420,9 @@
 , 											{
 												"name" : "titles",
 												"default" : 												{
-													"fontface" : [ 1 ],
 													"fontsize" : [ 20.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"fontface" : [ 1 ]
 												}
 ,
 												"parentstyle" : "",
@@ -2455,7 +2455,7 @@
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 0,
-											"revision" : 4,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -2583,9 +2583,9 @@
 										"styles" : [ 											{
 												"name" : "black on white",
 												"number" : 												{
-													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 													"fontsize" : [ 12.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ]
 												}
 ,
 												"umenu" : 												{
@@ -2608,8 +2608,8 @@
 , 											{
 												"name" : "caption text",
 												"default" : 												{
-													"fontface" : [ 2 ],
-													"fontsize" : [ 11.0 ]
+													"fontsize" : [ 11.0 ],
+													"fontface" : [ 2 ]
 												}
 ,
 												"parentstyle" : "",
@@ -2618,9 +2618,9 @@
 , 											{
 												"name" : "section dividers",
 												"default" : 												{
-													"fontface" : [ 3 ],
 													"fontsize" : [ 15.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"fontface" : [ 3 ]
 												}
 ,
 												"parentstyle" : "",
@@ -2639,9 +2639,9 @@
 , 											{
 												"name" : "titles",
 												"default" : 												{
-													"fontface" : [ 1 ],
 													"fontsize" : [ 20.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"fontface" : [ 1 ]
 												}
 ,
 												"parentstyle" : "",
@@ -2703,7 +2703,7 @@
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 0,
-											"revision" : 4,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -2969,9 +2969,9 @@
 										"styles" : [ 											{
 												"name" : "black on white",
 												"number" : 												{
-													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 													"fontsize" : [ 12.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ]
 												}
 ,
 												"umenu" : 												{
@@ -2994,8 +2994,8 @@
 , 											{
 												"name" : "caption text",
 												"default" : 												{
-													"fontface" : [ 2 ],
-													"fontsize" : [ 11.0 ]
+													"fontsize" : [ 11.0 ],
+													"fontface" : [ 2 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3004,9 +3004,9 @@
 , 											{
 												"name" : "section dividers",
 												"default" : 												{
-													"fontface" : [ 3 ],
 													"fontsize" : [ 15.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"fontface" : [ 3 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3025,9 +3025,9 @@
 , 											{
 												"name" : "titles",
 												"default" : 												{
-													"fontface" : [ 1 ],
 													"fontsize" : [ 20.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"fontface" : [ 1 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3091,13 +3091,13 @@
 									"maxclass" : "newobj",
 									"numinlets" : 2,
 									"numoutlets" : 1,
-									"outlettype" : [ "" ],
+									"outlettype" : [ "FullPacket" ],
 									"patcher" : 									{
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 0,
-											"revision" : 4,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -3130,7 +3130,123 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "",
+										"visible" : 1,
 										"boxes" : [ 											{
+												"box" : 												{
+													"id" : "obj-21",
+													"maxclass" : "newobj",
+													"numinlets" : 1,
+													"numoutlets" : 1,
+													"outlettype" : [ "FullPacket" ],
+													"patcher" : 													{
+														"fileversion" : 1,
+														"appversion" : 														{
+															"major" : 8,
+															"minor" : 0,
+															"revision" : 6,
+															"architecture" : "x64",
+															"modernui" : 1
+														}
+,
+														"classnamespace" : "box",
+														"rect" : [ 34.0, 79.0, 1612.0, 937.0 ],
+														"bglocked" : 0,
+														"openinpresentation" : 0,
+														"default_fontsize" : 12.0,
+														"default_fontface" : 0,
+														"default_fontname" : "Arial",
+														"gridonopen" : 1,
+														"gridsize" : [ 15.0, 15.0 ],
+														"gridsnaponopen" : 1,
+														"objectsnaponopen" : 1,
+														"statusbarvisible" : 2,
+														"toolbarvisible" : 1,
+														"lefttoolbarpinned" : 0,
+														"toptoolbarpinned" : 0,
+														"righttoolbarpinned" : 0,
+														"bottomtoolbarpinned" : 0,
+														"toolbars_unpinned_last_save" : 0,
+														"tallnewobj" : 0,
+														"boxanimatetime" : 200,
+														"enablehscroll" : 1,
+														"enablevscroll" : 1,
+														"devicewidth" : 0.0,
+														"description" : "",
+														"digest" : "",
+														"tags" : "",
+														"style" : "",
+														"subpatcher_template" : "",
+														"boxes" : [ 															{
+																"box" : 																{
+																	"fontface" : 0,
+																	"fontsize" : 12.0,
+																	"id" : "obj-8",
+																	"linecount" : 101,
+																	"maxclass" : "o.expr.codebox",
+																	"numinlets" : 1,
+																	"numoutlets" : 2,
+																	"outlettype" : [ "FullPacket", "FullPacket" ],
+																	"patching_rect" : [ 50.0, 100.0, 1537.0, 1391.0 ],
+																	"text" : "\n/players = aseq(1,72),\n\n/repeats = 1,\n\n/npages = 20,\n/secPerPage ??= 36,\n\n/x = 100,\n/y = 100,\n\n#/numbersY = 350,\n/numbersY = 80,\n\n/scale = 10,\n\n/stafflength = 731.441 * /scale,\n/leadin = 100 + /x,\n\n/scoreWidth = /stafflength * /npages ,\n\n/pixWidth = /scoreWidth * /repeats + /leadin,\n\n/secPerPix = /secPerPage / float32(/stafflength) ,\n\n/totalduration = /pixWidth * /secPerPix,\n\n/pages = aseq(1,/npages),\n\n\n/tween./id = \"score-anim\",\n/tween./target = \"#score\",\n/tween./dur = /totalduration,\n\n/tvars./x = -/pixWidth,\n/tvars./ease = \"linear\",\n/tvars./paused = \"true\",\n\n/tween./vars = /tvars,\n\n\n/tween2./id = \"miniscore-anim\",\n/tween2./target = \"#miniplayhead\",\n/tween2./dur = /totalduration,\n\n/tvars2./x = \"+= \" + (/pixWidth * 0.008),\n/tvars2./ease = \"linear\",\n/tvars2./paused = \"true\",\n\n/tween2./vars = /tvars2,\n\n/newtween./key = \"tween\",\n/newtween./val = [/tween, /tween2],\n\nassign(\"/out/all\", /newtween),\n\n/instr = [\"vln\", \"vln\", \"fl\", \"fl\", \"cl\", \"asax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"srec\", \"cl\", \"trp\", \"tuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"ob\", \"cl\", \"tsax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"brec\", \"cl\", \"asax\", \"bsn\", \"db\", \"perc\", \"baritone\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"trec\", \"cl\", \"trp\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"ob\", \"cl\", \"tsax\", \"btuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\"],\n\nmap(\n  lambda([i],\n    /prefix = \"/\"+i,\n\n    /pid./new = \"text\",\n    /pid./id = \"playerID\",\n    /pid./x = 10,\n    /pid./y = 80,\n    /pid./text = i+\" \"+/instr[[i-1]],\n\n    /svg = /pid,\n\n            /n./parent = \"defscore\",\n            /n./new = \"use\",\n\n    map( \n      lambda([repeat],\n        /repeatStart = repeat * /scoreWidth, \n        map(\n          lambda([page],\n            /n./id = \"p\" + page + \"-\" + repeat,\n            /n./x = /leadin + /repeatStart + ((page - 1) * /stafflength),\n            /n./y = /y,\n            /n./href = [\"scores/rama/echoic-\"+(page < 10 ? \"0\" : \"\")+page+\".svg#Layer_\"+i+\"_\"+/instr[[i-1]], 1],\n            /n./transform = \"scale(\"+/scale+\")\",\n            /svg = [/svg, /n],\n\n            /n./id = \"n\"+page+\"-\"+repeat,\n            /n./y = /numbersY,\n            /n./href = [\"scores/rama/echoic-\"+(page < 10 ? \"0\" : \"\")+page+\".svg#count\", 1],\n            /svg = [/svg, /n]\n\n          ), /pages\n        )\n      ), aseq(0, /repeats-1)\n    ),\n  /new./key = \"svg\",\n  /new./val = /svg,\n  assign(\"/out\"+/prefix, /new )\n  ),  /players \n)"
+																}
+
+															}
+, 															{
+																"box" : 																{
+																	"comment" : "",
+																	"id" : "obj-12",
+																	"index" : 1,
+																	"maxclass" : "inlet",
+																	"numinlets" : 0,
+																	"numoutlets" : 1,
+																	"outlettype" : [ "bang" ],
+																	"patching_rect" : [ 50.0, 39.999999999999936, 30.0, 30.0 ]
+																}
+
+															}
+, 															{
+																"box" : 																{
+																	"comment" : "",
+																	"id" : "obj-13",
+																	"index" : 1,
+																	"maxclass" : "outlet",
+																	"numinlets" : 1,
+																	"numoutlets" : 0,
+																	"patching_rect" : [ 50.0, 1447.705672999999933, 30.0, 30.0 ]
+																}
+
+															}
+ ],
+														"lines" : [ 															{
+																"patchline" : 																{
+																	"destination" : [ "obj-8", 0 ],
+																	"source" : [ "obj-12", 0 ]
+																}
+
+															}
+, 															{
+																"patchline" : 																{
+																	"destination" : [ "obj-13", 0 ],
+																	"source" : [ "obj-8", 0 ]
+																}
+
+															}
+ ]
+													}
+,
+													"patching_rect" : [ 132.0, 264.29432700000001, 64.0, 22.0 ],
+													"saved_object_attributes" : 													{
+														"description" : "",
+														"digest" : "",
+														"globalpatchername" : "",
+														"tags" : ""
+													}
+,
+													"text" : "p codebox"
+												}
+
+											}
+, 											{
 												"box" : 												{
 													"fontface" : 0,
 													"fontsize" : 12.0,
@@ -3330,31 +3446,17 @@
 												"box" : 												{
 													"fontface" : 0,
 													"fontsize" : 12.0,
-													"id" : "obj-8",
-													"linecount" : 92,
-													"maxclass" : "o.expr.codebox",
-													"numinlets" : 1,
-													"numoutlets" : 2,
-													"outlettype" : [ "FullPacket", "FullPacket" ],
-													"patching_rect" : [ -92.0, 12.294327000000067, 911.0, 1269.0 ],
-													"text" : "\n/players = aseq(1,72),\n\n/repeats = 1,\n\n/npages = 20,\n/secPerPage ??= 36,\n\n/x = 100,\n/y = 100,\n\n/scale = 10,\n\n/stafflength = 731.441 * /scale,\n/leadin = 100 + /x,\n\n/scoreWidth = /stafflength * /npages ,\n\n/pixWidth = /scoreWidth * /repeats + /leadin,\n\n/secPerPix = /secPerPage / float32(/stafflength) ,\n\n/totalduration = /pixWidth * /secPerPix,\n\n/pages = aseq(1,/npages),\n\n\n/tween./id = \"score-anim\",\n/tween./target = \"#score\",\n/tween./dur = /totalduration,\n\n/tvars./x = -/pixWidth,\n/tvars./ease = \"linear\",\n/tvars./paused = \"true\",\n\n/tween./vars = /tvars,\n\n\n/tween2./id = \"miniscore-anim\",\n/tween2./target = \"#miniplayhead\",\n/tween2./dur = /totalduration,\n\n/tvars2./x = \"+= \" + (/pixWidth * 0.008),\n/tvars2./ease = \"linear\",\n/tvars2./paused = \"true\",\n\n/tween2./vars = /tvars2,\n\n/newtween./key = \"tween\",\n/newtween./val = [/tween, /tween2],\n\nassign(\"/out/all\", /newtween),\n\n/instr = [\"vln\", \"vln\", \"fl\", \"fl\", \"cl\", \"asax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"srec\", \"cl\", \"trp\", \"tuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"ob\", \"cl\", \"tsax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"brec\", \"cl\", \"asax\", \"bsn\", \"db\", \"perc\", \"baritone\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"trec\", \"cl\", \"trp\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"ob\", \"cl\", \"tsax\", \"btuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\"],\n\nmap(\n  lambda([i],\n    /prefix = \"/\"+i,\n\n    /pid./new = \"text\",\n    /pid./id = \"playerID\",\n    /pid./x = 10,\n    /pid./y = 80,\n    /pid./text = i+\" \"+/instr[[i-1]],\n\n    /svg = /pid,\n    map( \n      lambda([repeat],\n        /repeatStart = repeat * /scoreWidth, \n        map(\n          lambda([page],\n            /n./parent = \"defscore\",\n            /n./new = \"use\",\n            /n./id = \"p\" + page + \"-\" + repeat,\n            /n./x = /leadin + /repeatStart + ((page - 1) * /stafflength),\n            /n./y = /y,\n            /n./href = [\"scores/rama/echoic_v7-\"+(page < 10 ? \"0\" : \"\")+page+\".svg#Layer_\"+i+\"_\"+/instr[[i-1]], 1],\n            /n./transform = \"scale(\"+/scale+\")\",\n            /svg = [/svg, /n]\n          ), /pages\n        )\n      ), aseq(0, /repeats-1)\n    ),\n  /new./key = \"svg\",\n  /new./val = /svg,\n  assign(\"/out\"+/prefix, /new )\n  ),  /players \n)"
-												}
-
-											}
-, 											{
-												"box" : 												{
-													"fontface" : 0,
-													"fontsize" : 12.0,
 													"id" : "obj-2",
-													"linecount" : 48,
+													"linecount" : 54,
 													"maxclass" : "o.compose",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 682.0, 615.0, 265.0, 663.0 ],
-													"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, -8, 47, 42, 0, 0, 44, 46, 0, 0, 0, 0, 3, -20, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 115, 118, 103, 0, 0, 0, 3, -60, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 46, 46, 46, 46, 46, 0, 0, 0, 0, 84, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 103, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 100, 101, 102, 115, 0, 0, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 100, 101, 102, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 0, 0, 56, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 103, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 1, 12, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 108, 105, 110, 101, 0, 0, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 112, 108, 97, 121, 104, 101, 97, 100, 0, 0, 0, 0, 0, 0, 0, 12, 47, 120, 49, 0, 44, 105, 0, 0, 0, 0, 0, 100, 0, 0, 0, 12, 47, 120, 50, 0, 44, 105, 0, 0, 0, 0, 0, 100, 0, 0, 0, 12, 47, 121, 49, 0, 44, 105, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 47, 121, 50, 0, 44, 105, 0, 0, 0, 0, 1, -112, 0, 0, 0, 112, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 96, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 115, 116, 114, 111, 107, 101, 0, 44, 115, 0, 0, 114, 101, 100, 0, 0, 0, 0, 24, 47, 115, 116, 114, 111, 107, 101, 45, 119, 105, 100, 116, 104, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 3, 0, 0, 0, 28, 47, 115, 116, 114, 111, 107, 101, 45, 111, 112, 97, 99, 105, 116, 121, 0, 44, 100, 0, 0, 63, -32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 84, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 117, 115, 101, 0, 0, 0, 0, 24, 47, 104, 114, 101, 102, 0, 0, 0, 44, 115, 0, 0, 35, 100, 101, 102, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 0, -100, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 109, 105, 110, 105, 0, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 117, 115, 101, 0, 0, 0, 0, 24, 47, 104, 114, 101, 102, 0, 0, 0, 44, 115, 0, 0, 35, 100, 101, 102, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 0, 12, 47, 121, 0, 0, 44, 105, 0, 0, 0, 0, 2, -68, 0, 0, 0, 12, 47, 120, 0, 0, 44, 105, 0, 0, 0, 0, 48, -44, 0, 0, 0, 36, 47, 116, 114, 97, 110, 115, 102, 111, 114, 109, 0, 0, 44, 115, 0, 0, 115, 99, 97, 108, 101, 40, 48, 46, 48, 48, 56, 44, 32, 48, 46, 53, 41, 0, 0, 0, 0, 0, 1, 20, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 108, 105, 110, 101, 0, 0, 0, 0, 0, 0, 0, 24, 47, 105, 100, 0, 44, 115, 0, 0, 109, 105, 110, 105, 112, 108, 97, 121, 104, 101, 97, 100, 0, 0, 0, 0, 0, 0, 0, 12, 47, 120, 49, 0, 44, 105, 0, 0, 0, 0, 0, 100, 0, 0, 0, 12, 47, 120, 50, 0, 44, 105, 0, 0, 0, 0, 0, 100, 0, 0, 0, 12, 47, 121, 49, 0, 44, 105, 0, 0, 0, 0, 1, -92, 0, 0, 0, 12, 47, 121, 50, 0, 44, 105, 0, 0, 0, 0, 1, -12, 0, 0, 0, 116, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 100, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 115, 116, 114, 111, 107, 101, 0, 44, 115, 0, 0, 98, 108, 117, 101, 0, 0, 0, 0, 0, 0, 0, 24, 47, 115, 116, 114, 111, 107, 101, 45, 119, 105, 100, 116, 104, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 3, 0, 0, 0, 28, 47, 115, 116, 114, 111, 107, 101, 45, 111, 112, 97, 99, 105, 116, 121, 0, 44, 100, 0, 0, 63, -32, 0, 0, 0, 0, 0, 0 ],
-													"saved_bundle_length" : 1036,
-													"text" : "/* : {\n\t/key : \"svg\",\n\t/val : [{\n\t\t/new : \"g\",\n\t\t/parent : \"defs\",\n\t\t/id : \"defscore\"\n\t}, {\n\t\t/new : \"g\",\n\t\t/id : \"overlay\"\n\t}, {\n\t\t/parent : \"overlay\",\n\t\t/new : \"line\",\n\t\t/id : \"playhead\",\n\t\t/x1 : 100,\n\t\t/x2 : 100,\n\t\t/y1 : 0,\n\t\t/y2 : 400,\n\t\t/style : {\n\t\t\t/stroke : \"red\",\n\t\t\t/stroke-width : 3,\n\t\t\t/stroke-opacity : 0.5\n\t\t}\n\t}, {\n\t\t/id : \"score\",\n\t\t/new : \"use\",\n\t\t/href : \"#defscore\"\n\t}, {\n\t\t/id : \"mini\",\n\t\t/new : \"use\",\n\t\t/href : \"#defscore\",\n\t\t/y : 700,\n\t\t/x : 12500,\n\t\t/transform : \"scale(0.008, 0.5)\"\n\t}, {\n\t\t/parent : \"overlay\",\n\t\t/new : \"line\",\n\t\t/id : \"miniplayhead\",\n\t\t/x1 : 100,\n\t\t/x2 : 100,\n\t\t/y1 : 420,\n\t\t/y2 : 500,\n\t\t/style : {\n\t\t\t/stroke : \"blue\",\n\t\t\t/stroke-width : 3,\n\t\t\t/stroke-opacity : 0.5\n\t\t}\n\t}]\n}"
+													"patching_rect" : [ 531.0, 630.0, 402.0, 745.0 ],
+													"presentation_linecount" : 54,
+													"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, -60, 47, 42, 0, 0, 44, 46, 0, 0, 0, 0, 4, -72, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 115, 118, 103, 0, 0, 0, 4, -112, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 46, 46, 46, 46, 46, 0, 0, 0, 0, 84, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 103, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 100, 101, 102, 115, 0, 0, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 100, 101, 102, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 0, 0, 56, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 103, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 1, 12, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 108, 105, 110, 101, 0, 0, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 112, 108, 97, 121, 104, 101, 97, 100, 0, 0, 0, 0, 0, 0, 0, 12, 47, 120, 49, 0, 44, 105, 0, 0, 0, 0, 0, 100, 0, 0, 0, 12, 47, 120, 50, 0, 44, 105, 0, 0, 0, 0, 0, 100, 0, 0, 0, 12, 47, 121, 49, 0, 44, 105, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 47, 121, 50, 0, 44, 105, 0, 0, 0, 0, 1, -112, 0, 0, 0, 112, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 96, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 115, 116, 114, 111, 107, 101, 0, 44, 115, 0, 0, 114, 101, 100, 0, 0, 0, 0, 24, 47, 115, 116, 114, 111, 107, 101, 45, 119, 105, 100, 116, 104, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 3, 0, 0, 0, 28, 47, 115, 116, 114, 111, 107, 101, 45, 111, 112, 97, 99, 105, 116, 121, 0, 44, 100, 0, 0, 63, -32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 84, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 117, 115, 101, 0, 0, 0, 0, 24, 47, 104, 114, 101, 102, 0, 0, 0, 44, 115, 0, 0, 35, 100, 101, 102, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 0, -100, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 109, 105, 110, 105, 0, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 117, 115, 101, 0, 0, 0, 0, 24, 47, 104, 114, 101, 102, 0, 0, 0, 44, 115, 0, 0, 35, 100, 101, 102, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 0, 12, 47, 121, 0, 0, 44, 105, 0, 0, 0, 0, 2, -68, 0, 0, 0, 12, 47, 120, 0, 0, 44, 105, 0, 0, 0, 0, 48, -44, 0, 0, 0, 36, 47, 116, 114, 97, 110, 115, 102, 111, 114, 109, 0, 0, 44, 115, 0, 0, 115, 99, 97, 108, 101, 40, 48, 46, 48, 48, 56, 44, 32, 48, 46, 53, 41, 0, 0, 0, 0, 0, 1, -32, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 108, 105, 110, 101, 0, 0, 0, 0, 0, 0, 0, 24, 47, 105, 100, 0, 44, 115, 0, 0, 109, 105, 110, 105, 112, 108, 97, 121, 104, 101, 97, 100, 0, 0, 0, 0, 0, 0, 0, 12, 47, 120, 49, 0, 44, 105, 0, 0, 0, 0, 0, 100, 0, 0, 0, 12, 47, 120, 50, 0, 44, 105, 0, 0, 0, 0, 0, 100, 0, 0, 0, 12, 47, 121, 49, 0, 44, 105, 0, 0, 0, 0, 1, -92, 0, 0, 0, 12, 47, 121, 50, 0, 44, 105, 0, 0, 0, 0, 1, -12, 0, 0, 0, -56, 47, 111, 110, 109, 111, 117, 115, 101, 109, 111, 118, 101, 0, 0, 0, 0, 44, 115, 0, 0, 105, 102, 40, 101, 118, 101, 110, 116, 46, 98, 117, 116, 116, 111, 110, 115, 32, 61, 61, 32, 49, 41, 123, 10, 32, 32, 32, 32, 108, 101, 116, 32, 120, 32, 61, 32, 116, 104, 105, 115, 46, 103, 101, 116, 65, 116, 116, 114, 105, 98, 117, 116, 101, 40, 39, 120, 49, 39, 41, 59, 10, 32, 32, 32, 32, 101, 118, 101, 110, 116, 46, 112, 114, 101, 118, 101, 110, 116, 68, 101, 102, 97, 117, 108, 116, 40, 41, 59, 10, 32, 32, 32, 32, 116, 104, 105, 115, 46, 115, 101, 116, 65, 116, 116, 114, 105, 98, 117, 116, 101, 40, 39, 120, 49, 39, 44, 32, 101, 118, 101, 110, 116, 46, 112, 97, 103, 101, 88, 32, 41, 59, 10, 32, 32, 32, 32, 116, 104, 105, 115, 46, 115, 101, 116, 65, 116, 116, 114, 105, 98, 117, 116, 101, 40, 39, 120, 50, 39, 44, 32, 101, 118, 101, 110, 116, 46, 112, 97, 103, 101, 88, 32, 41, 59, 10, 32, 32, 125, 0, 0, 0, 0, 0, 116, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 100, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 115, 116, 114, 111, 107, 101, 0, 44, 115, 0, 0, 98, 108, 117, 101, 0, 0, 0, 0, 0, 0, 0, 24, 47, 115, 116, 114, 111, 107, 101, 45, 119, 105, 100, 116, 104, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 3, 0, 0, 0, 28, 47, 115, 116, 114, 111, 107, 101, 45, 111, 112, 97, 99, 105, 116, 121, 0, 44, 100, 0, 0, 63, -32, 0, 0, 0, 0, 0, 0 ],
+													"saved_bundle_length" : 1240,
+													"text" : "/* : {\n\t/key : \"svg\",\n\t/val : [{\n\t\t/new : \"g\",\n\t\t/parent : \"defs\",\n\t\t/id : \"defscore\"\n\t}, {\n\t\t/new : \"g\",\n\t\t/id : \"overlay\"\n\t}, {\n\t\t/parent : \"overlay\",\n\t\t/new : \"line\",\n\t\t/id : \"playhead\",\n\t\t/x1 : 100,\n\t\t/x2 : 100,\n\t\t/y1 : 0,\n\t\t/y2 : 400,\n\t\t/style : {\n\t\t\t/stroke : \"red\",\n\t\t\t/stroke-width : 3,\n\t\t\t/stroke-opacity : 0.5\n\t\t}\n\t}, {\n\t\t/id : \"score\",\n\t\t/new : \"use\",\n\t\t/href : \"#defscore\"\n\t}, {\n\t\t/id : \"mini\",\n\t\t/new : \"use\",\n\t\t/href : \"#defscore\",\n\t\t/y : 700,\n\t\t/x : 12500,\n\t\t/transform : \"scale(0.008, 0.5)\"\n\t}, {\n\t\t/parent : \"overlay\",\n\t\t/new : \"line\",\n\t\t/id : \"miniplayhead\",\n\t\t/x1 : 100,\n\t\t/x2 : 100,\n\t\t/y1 : 420,\n\t\t/y2 : 500,\n\t\t/onmousemove : \"if(event.buttons == 1){\n    let x = this.getAttribute('x1');\n    event.preventDefault();\n    this.setAttribute('x1', event.pageX );\n    this.setAttribute('x2', event.pageX );\n  }\",\n\t\t/style : {\n\t\t\t/stroke : \"blue\",\n\t\t\t/stroke-width : 3,\n\t\t\t/stroke-opacity : 0.5\n\t\t}\n\t}]\n}"
 												}
 
 											}
@@ -3387,8 +3489,7 @@
 											}
 , 											{
 												"patchline" : 												{
-													"destination" : [ "obj-8", 0 ],
-													"midpoints" : [ 678.5, 154.0, 665.0, 154.0, 665.0, 8.294327000000067, -82.5, 8.294327000000067 ],
+													"destination" : [ "obj-21", 0 ],
 													"source" : [ "obj-15", 0 ]
 												}
 
@@ -3431,7 +3532,7 @@
 , 											{
 												"patchline" : 												{
 													"destination" : [ "obj-1", 0 ],
-													"midpoints" : [ 691.5, 1466.5, 133.5, 1466.5 ],
+													"midpoints" : [ 540.5, 1466.5, 133.5, 1466.5 ],
 													"source" : [ "obj-2", 0 ]
 												}
 
@@ -3440,6 +3541,13 @@
 												"patchline" : 												{
 													"destination" : [ "obj-1", 0 ],
 													"source" : [ "obj-20", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-10", 0 ],
+													"source" : [ "obj-21", 0 ]
 												}
 
 											}
@@ -3460,13 +3568,6 @@
 											}
 , 											{
 												"patchline" : 												{
-													"destination" : [ "obj-10", 0 ],
-													"source" : [ "obj-8", 0 ]
-												}
-
-											}
-, 											{
-												"patchline" : 												{
 													"destination" : [ "obj-1", 0 ],
 													"source" : [ "obj-9", 0 ]
 												}
@@ -3476,9 +3577,9 @@
 										"styles" : [ 											{
 												"name" : "black on white",
 												"number" : 												{
-													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 													"fontsize" : [ 12.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ]
 												}
 ,
 												"umenu" : 												{
@@ -3501,8 +3602,8 @@
 , 											{
 												"name" : "caption text",
 												"default" : 												{
-													"fontface" : [ 2 ],
-													"fontsize" : [ 11.0 ]
+													"fontsize" : [ 11.0 ],
+													"fontface" : [ 2 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3511,9 +3612,9 @@
 , 											{
 												"name" : "section dividers",
 												"default" : 												{
-													"fontface" : [ 3 ],
 													"fontsize" : [ 15.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"fontface" : [ 3 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3532,9 +3633,9 @@
 , 											{
 												"name" : "titles",
 												"default" : 												{
-													"fontface" : [ 1 ],
 													"fontsize" : [ 20.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"fontface" : [ 1 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3579,13 +3680,13 @@
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 0,
-											"revision" : 4,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 34.0, 334.0, 1612.0, 845.0 ],
+										"rect" : [ 34.0, 79.0, 1612.0, 845.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -3630,15 +3731,16 @@
 													"fontface" : 0,
 													"fontsize" : 12.0,
 													"id" : "obj-5",
-													"linecount" : 126,
+													"linecount" : 107,
 													"maxclass" : "o.compose",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 62.0, 65.0, 726.0, 1723.0 ],
-													"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, -76, 47, 42, 0, 0, 44, 46, 46, 0, 0, 0, 0, -56, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 99, 115, 115, 0, 0, 0, 0, -96, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 0, 0, 0, 0, 0, -112, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 115, 101, 108, 101, 99, 116, 111, 114, 0, 0, 0, 44, 115, 0, 0, 46, 114, 101, 97, 100, 121, 0, 0, 0, 0, 0, 96, 47, 112, 114, 111, 112, 115, 0, 0, 44, 46, 0, 0, 0, 0, 0, 80, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 47, 98, 97, 99, 107, 103, 114, 111, 117, 110, 100, 45, 99, 111, 108, 111, 114, 0, 0, 0, 44, 115, 0, 0, 108, 105, 103, 104, 116, 98, 108, 117, 101, 0, 0, 0, 0, 0, 0, 20, 47, 99, 111, 108, 111, 114, 0, 0, 44, 115, 0, 0, 98, 108, 97, 99, 107, 0, 0, 0, 0, 0, 10, -36, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 104, 116, 109, 108, 0, 0, 0, 0, 0, 0, 10, -80, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 46, 46, 46, 46, 46, 0, 0, 0, 0, -64, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 102, 111, 114, 109, 115, 0, 0, 0, 0, 0, 0, 12, 47, 105, 100, 0, 44, 115, 0, 0, 85, 73, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 100, 105, 118, 0, 0, 0, 0, 112, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 96, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 47, 112, 111, 115, 105, 116, 105, 111, 110, 0, 0, 0, 44, 115, 0, 0, 97, 98, 115, 111, 108, 117, 116, 101, 0, 0, 0, 0, 0, 0, 0, 20, 47, 102, 108, 111, 97, 116, 0, 0, 44, 115, 0, 0, 108, 101, 102, 116, 0, 0, 0, 0, 0, 0, 0, 20, 47, 119, 105, 100, 116, 104, 0, 0, 44, 115, 0, 0, 49, 48, 48, 118, 119, 0, 0, 0, 0, 0, 2, -116, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 85, 73, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 114, 101, 97, 100, 121, 98, 117, 116, 116, 111, 110, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 98, 117, 116, 116, 111, 110, 0, 0, 0, 0, 0, 20, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 114, 101, 97, 100, 121, 0, 0, 0, 0, 0, 0, 20, 47, 99, 108, 97, 115, 115, 0, 0, 44, 115, 0, 0, 98, 117, 116, 116, 111, 110, 0, 0, 0, 0, 0, -128, 47, 111, 110, 108, 111, 97, 100, 0, 44, 115, 0, 0, 108, 101, 116, 32, 109, 115, 103, 32, 61, 32, 123, 125, 59, 10, 32, 32, 32, 32, 32, 108, 101, 116, 32, 97, 100, 100, 114, 32, 61, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 111, 115, 99, 112, 114, 101, 102, 105, 120, 43, 39, 47, 114, 101, 97, 100, 121, 98, 117, 116, 116, 111, 110, 39, 59, 10, 32, 32, 32, 32, 32, 109, 115, 103, 91, 97, 100, 100, 114, 93, 32, 61, 32, 48, 59, 10, 32, 32, 32, 32, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 115, 101, 110, 100, 40, 109, 115, 103, 41, 59, 0, 0, 0, 0, 0, 1, -128, 47, 111, 110, 99, 108, 105, 99, 107, 0, 0, 0, 0, 44, 115, 0, 0, 10, 32, 32, 32, 32, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 115, 116, 97, 114, 116, 65, 117, 100, 105, 111, 40, 41, 59, 10, 32, 32, 32, 32, 32, 108, 101, 116, 32, 109, 115, 103, 32, 61, 32, 123, 125, 59, 10, 32, 32, 32, 32, 32, 108, 101, 116, 32, 97, 100, 100, 114, 32, 61, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 111, 115, 99, 112, 114, 101, 102, 105, 120, 43, 39, 47, 114, 101, 97, 100, 121, 98, 117, 116, 116, 111, 110, 47, 115, 116, 97, 116, 101, 39, 59, 10, 32, 32, 32, 32, 32, 105, 102, 40, 32, 33, 116, 104, 105, 115, 46, 99, 108, 97, 115, 115, 76, 105, 115, 116, 46, 99, 111, 110, 116, 97, 105, 110, 115, 40, 39, 114, 101, 97, 100, 121, 39, 41, 32, 41, 10, 32, 32, 32, 32, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 116, 104, 105, 115, 46, 99, 108, 97, 115, 115, 76, 105, 115, 116, 46, 97, 100, 100, 40, 39, 114, 101, 97, 100, 121, 39, 41, 59, 10, 32, 32, 32, 32, 32, 32, 32, 32, 109, 115, 103, 91, 97, 100, 100, 114, 93, 32, 61, 32, 49, 59, 10, 32, 32, 32, 32, 32, 32, 32, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 115, 101, 110, 100, 40, 109, 115, 103, 41, 59, 10, 32, 32, 32, 32, 32, 125, 32, 101, 108, 115, 101, 32, 123, 32, 10, 32, 32, 32, 32, 32, 32, 32, 32, 116, 104, 105, 115, 46, 99, 108, 97, 115, 115, 76, 105, 115, 116, 46, 114, 101, 109, 111, 118, 101, 40, 39, 114, 101, 97, 100, 121, 39, 41, 59, 10, 32, 32, 32, 32, 32, 32, 32, 32, 109, 115, 103, 91, 97, 100, 100, 114, 93, 32, 61, 32, 48, 59, 10, 32, 32, 32, 32, 32, 32, 32, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 115, 101, 110, 100, 40, 109, 115, 103, 41, 59, 10, 32, 32, 32, 32, 32, 125, 0, 0, 0, 0, 0, 1, 8, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 85, 73, 0, 0, 0, 0, 0, 12, 47, 105, 100, 0, 44, 115, 0, 0, 109, 115, 103, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 100, 105, 118, 0, 0, 0, 0, 68, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 111, 110, 108, 105, 110, 101, 32, 114, 101, 104, 101, 97, 114, 115, 97, 108, 32, 109, 111, 100, 101, 32, 45, 45, 32, 99, 108, 105, 99, 107, 32, 116, 104, 101, 32, 112, 108, 97, 121, 32, 98, 117, 116, 116, 111, 110, 32, 116, 111, 32, 115, 116, 97, 114, 116, 0, 0, 0, 0, 116, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 100, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 47, 112, 111, 115, 105, 116, 105, 111, 110, 0, 0, 0, 44, 115, 0, 0, 97, 98, 115, 111, 108, 117, 116, 101, 0, 0, 0, 0, 0, 0, 0, 20, 47, 108, 101, 102, 116, 0, 0, 0, 44, 115, 0, 0, 49, 48, 53, 112, 120, 0, 0, 0, 0, 0, 0, 24, 47, 102, 111, 110, 116, 45, 115, 105, 122, 101, 0, 0, 44, 115, 0, 0, 49, 50, 112, 120, 0, 0, 0, 0, 0, 0, 1, -8, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 85, 73, 0, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 105, 110, 112, 117, 116, 0, 0, 0, 0, 0, 0, 20, 47, 116, 121, 112, 101, 0, 0, 0, 44, 115, 0, 0, 116, 101, 120, 116, 0, 0, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 117, 115, 101, 114, 105, 110, 112, 117, 116, 0, 0, 0, 0, 0, 0, 24, 47, 110, 97, 109, 101, 0, 0, 0, 44, 115, 0, 0, 117, 115, 101, 114, 105, 110, 112, 117, 116, 0, 0, 0, 0, 0, 0, 16, 47, 115, 105, 122, 101, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 10, 0, 0, 0, -8, 47, 111, 110, 107, 101, 121, 100, 111, 119, 110, 0, 0, 44, 115, 0, 0, 10, 32, 32, 32, 32, 32, 105, 102, 40, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 115, 117, 98, 109, 105, 116, 79, 110, 69, 110, 116, 101, 114, 75, 101, 121, 40, 116, 104, 105, 115, 41, 32, 41, 32, 123, 32, 32, 32, 32, 10, 32, 32, 32, 32, 32, 32, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 105, 110, 112, 117, 116, 40, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 107, 101, 121, 58, 32, 39, 116, 119, 101, 101, 110, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 118, 97, 108, 58, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 99, 109, 100, 58, 32, 39, 112, 108, 97, 121, 102, 114, 111, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 116, 105, 109, 101, 58, 32, 116, 104, 105, 115, 46, 118, 97, 108, 117, 101, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 125, 10, 32, 32, 32, 32, 32, 32, 32, 125, 41, 59, 10, 32, 32, 32, 32, 32, 125, 0, 0, 0, 0, 0, 92, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 76, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 47, 112, 111, 115, 105, 116, 105, 111, 110, 0, 0, 0, 44, 115, 0, 0, 114, 101, 108, 97, 116, 105, 118, 101, 0, 0, 0, 0, 0, 0, 0, 24, 47, 109, 97, 114, 103, 105, 110, 45, 108, 101, 102, 116, 0, 0, 0, 0, 44, 115, 0, 0, 53, 112, 120, 0, 0, 0, 0, -20, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 85, 73, 0, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 108, 97, 98, 101, 108, 0, 0, 0, 0, 0, 0, 24, 47, 102, 111, 114, 0, 0, 0, 0, 44, 115, 0, 0, 117, 115, 101, 114, 105, 110, 112, 117, 116, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 115, 101, 110, 116, 0, 0, 0, 0, 0, 0, 0, 20, 47, 110, 97, 109, 101, 0, 0, 0, 44, 115, 0, 0, 115, 101, 110, 116, 0, 0, 0, 0, 0, 0, 0, 16, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 0, 0, 0, 0, 0, 0, 0, 80, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 64, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 102, 111, 110, 116, 45, 115, 105, 122, 101, 0, 0, 44, 115, 0, 0, 54, 48, 37, 0, 0, 0, 0, 20, 47, 99, 111, 108, 111, 114, 0, 0, 44, 115, 0, 0, 103, 114, 97, 121, 0, 0, 0, 0, 0, 0, 3, 80, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 85, 73, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 112, 108, 97, 121, 98, 117, 116, 116, 111, 110, 0, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 98, 117, 116, 116, 111, 110, 0, 0, 0, 0, 0, 20, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 112, 108, 97, 121, 0, 0, 0, 0, 0, 0, 0, 20, 47, 99, 108, 97, 115, 115, 0, 0, 44, 115, 0, 0, 98, 117, 116, 116, 111, 110, 0, 0, 0, 0, 0, 56, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 40, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 102, 108, 111, 97, 116, 0, 0, 44, 115, 0, 0, 114, 105, 103, 104, 116, 0, 0, 0, 0, 0, 2, -116, 47, 111, 110, 99, 108, 105, 99, 107, 0, 0, 0, 0, 44, 115, 0, 0, 10, 32, 32, 32, 32, 32, 105, 102, 40, 32, 33, 116, 104, 105, 115, 46, 99, 108, 97, 115, 115, 76, 105, 115, 116, 46, 99, 111, 110, 116, 97, 105, 110, 115, 40, 39, 114, 101, 97, 100, 121, 39, 41, 32, 41, 10, 32, 32, 32, 32, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 116, 104, 105, 115, 46, 99, 108, 97, 115, 115, 76, 105, 115, 116, 46, 97, 100, 100, 40, 39, 114, 101, 97, 100, 121, 39, 41, 59, 10, 32, 32, 32, 32, 32, 32, 32, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 105, 110, 112, 117, 116, 40, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 107, 101, 121, 58, 32, 39, 116, 119, 101, 101, 110, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 118, 97, 108, 58, 32, 91, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 9, 9, 32, 32, 32, 99, 109, 100, 32, 58, 32, 39, 112, 108, 97, 121, 39, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 125, 44, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 109, 105, 110, 105, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 9, 9, 32, 32, 32, 99, 109, 100, 32, 58, 32, 39, 112, 108, 97, 121, 39, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 125, 32, 93, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 116, 105, 109, 101, 116, 97, 103, 58, 32, 68, 97, 116, 101, 46, 110, 111, 119, 40, 41, 10, 32, 32, 32, 32, 32, 32, 32, 32, 125, 41, 59, 10, 32, 32, 32, 32, 32, 125, 32, 101, 108, 115, 101, 32, 123, 32, 10, 32, 32, 32, 32, 32, 32, 32, 32, 116, 104, 105, 115, 46, 99, 108, 97, 115, 115, 76, 105, 115, 116, 46, 114, 101, 109, 111, 118, 101, 40, 39, 114, 101, 97, 100, 121, 39, 41, 59, 10, 32, 32, 32, 32, 32, 32, 32, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 105, 110, 112, 117, 116, 40, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 107, 101, 121, 58, 32, 39, 116, 119, 101, 101, 110, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 118, 97, 108, 58, 32, 91, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 9, 9, 32, 32, 32, 99, 109, 100, 32, 58, 32, 39, 114, 101, 115, 101, 116, 39, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 125, 44, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 109, 105, 110, 105, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 9, 9, 32, 32, 32, 99, 109, 100, 32, 58, 32, 39, 114, 101, 115, 101, 116, 39, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 125, 93, 10, 32, 32, 32, 32, 32, 32, 32, 32, 125, 41, 59, 10, 32, 32, 32, 32, 32, 125, 0, 0, 0, 0 ],
-													"saved_bundle_length" : 3016,
-													"text" : "/* : [{\n\t/key : \"css\",\n\t/val : {\n\t\t/selector : \".ready\",\n\t\t/props : {\n\t\t\t/background-color : \"lightblue\",\n\t\t\t/color : \"black\"\n\t\t}\n\t}\n}, {\n\t/key : \"html\",\n\t/val : [{\n\t\t/parent : \"forms\",\n\t\t/id : \"UI\",\n\t\t/new : \"div\",\n\t\t/style : {\n\t\t\t/position : \"absolute\",\n\t\t\t/float : \"left\",\n\t\t\t/width : \"100vw\"\n\t\t}\n\t}, {\n\t\t/parent : \"UI\",\n\t\t/id : \"readybutton\",\n\t\t/new : \"button\",\n\t\t/text : \"ready\",\n\t\t/class : \"button\",\n\t\t/onload : \"let msg = {};\n     let addr = drawsocket.oscprefix+'/readybutton';\n     msg[addr] = 0;\n     drawsocket.send(msg);\",\n\t\t/onclick : \"\n     drawsocket.startAudio();\n     let msg = {};\n     let addr = drawsocket.oscprefix+'/readybutton/state';\n     if( !this.classList.contains('ready') )\n     {\n        this.classList.add('ready');\n        msg[addr] = 1;\n        drawsocket.send(msg);\n     } else { \n        this.classList.remove('ready');\n        msg[addr] = 0;\n        drawsocket.send(msg);\n     }\"\n\t}, {\n\t\t/parent : \"UI\",\n\t\t/id : \"msg\",\n\t\t/new : \"div\",\n\t\t/text : \"online rehearsal mode -- click the play button to start\",\n\t\t/style : {\n\t\t\t/position : \"absolute\",\n\t\t\t/left : \"105px\",\n\t\t\t/font-size : \"12px\"\n\t\t}\n\t}, {\n\t\t/parent : \"UI\",\n\t\t/new : \"input\",\n\t\t/type : \"text\",\n\t\t/id : \"userinput\",\n\t\t/name : \"userinput\",\n\t\t/size : 10,\n\t\t/onkeydown : \"\n     if( drawsocket.submitOnEnterKey(this) ) {    \n       drawsocket.input({\n         key: 'tween',\n         val: {\n           id: 'score-anim',\n           cmd: 'playfrom',\n           time: this.value\n         }\n       });\n     }\",\n\t\t/style : {\n\t\t\t/position : \"relative\",\n\t\t\t/margin-left : \"5px\"\n\t\t}\n\t}, {\n\t\t/parent : \"UI\",\n\t\t/new : \"label\",\n\t\t/for : \"userinput\",\n\t\t/id : \"sent\",\n\t\t/name : \"sent\",\n\t\t/text : \"\",\n\t\t/style : {\n\t\t\t/font-size : \"60%\",\n\t\t\t/color : \"gray\"\n\t\t}\n\t}, {\n\t\t/parent : \"UI\",\n\t\t/id : \"playbutton\",\n\t\t/new : \"button\",\n\t\t/text : \"play\",\n\t\t/class : \"button\",\n\t\t/style : {\n\t\t\t/float : \"right\"\n\t\t},\n\t\t/onclick : \"\n     if( !this.classList.contains('ready') )\n     {\n        this.classList.add('ready');\n        drawsocket.input({\n          key: 'tween',\n          val: [ {\n            id: 'score-anim',\n       \t\t   cmd : 'play'\n          }, {\n            id: 'miniscore-anim',\n       \t\t   cmd : 'play'\n          } ],\n          timetag: Date.now()\n        });\n     } else { \n        this.classList.remove('ready');\n        drawsocket.input({\n          key: 'tween',\n          val: [{\n            id: 'score-anim',\n       \t\t   cmd : 'reset'\n          }, {\n            id: 'miniscore-anim',\n       \t\t   cmd : 'reset'\n          }]\n        });\n     }\"\n\t}]\n}]"
+													"patching_rect" : [ 195.0, 67.0, 726.0, 1465.0 ],
+													"presentation_linecount" : 107,
+													"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, -32, 47, 42, 0, 0, 44, 46, 46, 0, 0, 0, 0, -56, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 99, 115, 115, 0, 0, 0, 0, -96, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 0, 0, 0, 0, 0, -112, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 115, 101, 108, 101, 99, 116, 111, 114, 0, 0, 0, 44, 115, 0, 0, 46, 114, 101, 97, 100, 121, 0, 0, 0, 0, 0, 96, 47, 112, 114, 111, 112, 115, 0, 0, 44, 46, 0, 0, 0, 0, 0, 80, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 47, 98, 97, 99, 107, 103, 114, 111, 117, 110, 100, 45, 99, 111, 108, 111, 114, 0, 0, 0, 44, 115, 0, 0, 108, 105, 103, 104, 116, 98, 108, 117, 101, 0, 0, 0, 0, 0, 0, 20, 47, 99, 111, 108, 111, 114, 0, 0, 44, 115, 0, 0, 98, 108, 97, 99, 107, 0, 0, 0, 0, 0, 9, 8, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 104, 116, 109, 108, 0, 0, 0, 0, 0, 0, 8, -36, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 46, 46, 46, 0, 0, 0, 0, 0, 0, -64, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 102, 111, 114, 109, 115, 0, 0, 0, 0, 0, 0, 12, 47, 105, 100, 0, 44, 115, 0, 0, 85, 73, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 100, 105, 118, 0, 0, 0, 0, 112, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 96, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 47, 112, 111, 115, 105, 116, 105, 111, 110, 0, 0, 0, 44, 115, 0, 0, 97, 98, 115, 111, 108, 117, 116, 101, 0, 0, 0, 0, 0, 0, 0, 20, 47, 102, 108, 111, 97, 116, 0, 0, 44, 115, 0, 0, 108, 101, 102, 116, 0, 0, 0, 0, 0, 0, 0, 20, 47, 119, 105, 100, 116, 104, 0, 0, 44, 115, 0, 0, 49, 48, 48, 118, 119, 0, 0, 0, 0, 0, 3, -44, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 85, 73, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 112, 108, 97, 121, 98, 117, 116, 116, 111, 110, 0, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 98, 117, 116, 116, 111, 110, 0, 0, 0, 0, 0, 20, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 112, 108, 97, 121, 0, 0, 0, 0, 0, 0, 0, 20, 47, 99, 108, 97, 115, 115, 0, 0, 44, 115, 0, 0, 98, 117, 116, 116, 111, 110, 0, 0, 0, 0, 0, 56, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 40, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 102, 108, 111, 97, 116, 0, 0, 44, 115, 0, 0, 108, 101, 102, 116, 0, 0, 0, 0, 0, 0, 3, 16, 47, 111, 110, 99, 108, 105, 99, 107, 0, 0, 0, 0, 44, 115, 0, 0, 10, 32, 32, 32, 32, 32, 105, 102, 40, 32, 33, 116, 104, 105, 115, 46, 99, 108, 97, 115, 115, 76, 105, 115, 116, 46, 99, 111, 110, 116, 97, 105, 110, 115, 40, 39, 114, 101, 97, 100, 121, 39, 41, 32, 41, 10, 32, 32, 32, 32, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 116, 104, 105, 115, 46, 99, 108, 97, 115, 115, 76, 105, 115, 116, 46, 97, 100, 100, 40, 39, 114, 101, 97, 100, 121, 39, 41, 59, 10, 32, 32, 32, 32, 32, 32, 32, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 105, 110, 112, 117, 116, 40, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 107, 101, 121, 58, 32, 39, 116, 119, 101, 101, 110, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 118, 97, 108, 58, 32, 91, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 9, 9, 32, 32, 32, 99, 109, 100, 32, 58, 32, 39, 112, 108, 97, 121, 39, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 125, 44, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 109, 105, 110, 105, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 9, 9, 32, 32, 32, 99, 109, 100, 32, 58, 32, 39, 112, 108, 97, 121, 39, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 125, 32, 93, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 116, 105, 109, 101, 116, 97, 103, 58, 32, 68, 97, 116, 101, 46, 110, 111, 119, 40, 41, 10, 32, 32, 32, 32, 32, 32, 32, 32, 125, 41, 59, 10, 32, 32, 32, 32, 32, 125, 32, 101, 108, 115, 101, 32, 123, 32, 10, 32, 32, 32, 32, 32, 32, 32, 32, 116, 104, 105, 115, 46, 99, 108, 97, 115, 115, 76, 105, 115, 116, 46, 114, 101, 109, 111, 118, 101, 40, 39, 114, 101, 97, 100, 121, 39, 41, 59, 10, 10, 32, 32, 32, 32, 32, 32, 32, 108, 101, 116, 32, 115, 116, 97, 114, 116, 116, 105, 109, 101, 32, 61, 32, 100, 111, 99, 117, 109, 101, 110, 116, 46, 103, 101, 116, 69, 108, 101, 109, 101, 110, 116, 66, 121, 73, 100, 40, 39, 117, 115, 101, 114, 105, 110, 112, 117, 116, 39, 41, 59, 10, 10, 32, 32, 32, 32, 32, 32, 32, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 105, 110, 112, 117, 116, 40, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 107, 101, 121, 58, 32, 39, 116, 119, 101, 101, 110, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 118, 97, 108, 58, 32, 91, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 9, 9, 32, 32, 32, 99, 109, 100, 58, 32, 39, 112, 97, 117, 115, 101, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 116, 105, 109, 101, 58, 32, 115, 116, 97, 114, 116, 116, 105, 109, 101, 46, 118, 97, 108, 117, 101, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 125, 44, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 109, 105, 110, 105, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 9, 9, 32, 32, 32, 99, 109, 100, 32, 58, 32, 39, 112, 97, 117, 115, 101, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 116, 105, 109, 101, 58, 32, 115, 116, 97, 114, 116, 116, 105, 109, 101, 46, 118, 97, 108, 117, 101, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 125, 93, 10, 32, 32, 32, 32, 32, 32, 32, 32, 125, 41, 59, 10, 32, 32, 32, 32, 32, 125, 0, 0, 0, 0, 0, 0, 1, 28, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 85, 73, 0, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 108, 97, 98, 101, 108, 0, 0, 0, 0, 0, 0, 24, 47, 102, 111, 114, 0, 0, 0, 0, 44, 115, 0, 0, 117, 115, 101, 114, 105, 110, 112, 117, 116, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 115, 101, 110, 116, 0, 0, 0, 0, 0, 0, 0, 20, 47, 110, 97, 109, 101, 0, 0, 0, 44, 115, 0, 0, 115, 101, 110, 116, 0, 0, 0, 0, 0, 0, 0, 32, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 115, 116, 97, 114, 116, 32, 97, 116, 32, 116, 105, 109, 101, 60, 98, 114, 62, 0, 0, 0, 0, 0, 0, 112, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 96, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 102, 111, 110, 116, 45, 115, 105, 122, 101, 0, 0, 44, 115, 0, 0, 54, 48, 37, 0, 0, 0, 0, 20, 47, 99, 111, 108, 111, 114, 0, 0, 44, 115, 0, 0, 103, 114, 97, 121, 0, 0, 0, 0, 0, 0, 0, 28, 47, 109, 97, 114, 103, 105, 110, 45, 108, 101, 102, 116, 0, 0, 0, 0, 44, 115, 0, 0, 50, 48, 112, 120, 0, 0, 0, 0, 0, 0, 3, 12, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 85, 73, 0, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 105, 110, 112, 117, 116, 0, 0, 0, 0, 0, 0, 20, 47, 116, 121, 112, 101, 0, 0, 0, 44, 115, 0, 0, 116, 101, 120, 116, 0, 0, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 117, 115, 101, 114, 105, 110, 112, 117, 116, 0, 0, 0, 0, 0, 0, 24, 47, 110, 97, 109, 101, 0, 0, 0, 44, 115, 0, 0, 117, 115, 101, 114, 105, 110, 112, 117, 116, 0, 0, 0, 0, 0, 0, 24, 47, 112, 108, 97, 99, 101, 104, 111, 108, 100, 101, 114, 0, 0, 0, 0, 44, 115, 0, 0, 48, 0, 0, 0, 0, 0, 0, 16, 47, 115, 105, 122, 101, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 5, 0, 0, 1, -16, 47, 111, 110, 107, 101, 121, 100, 111, 119, 110, 0, 0, 44, 115, 0, 0, 10, 32, 32, 32, 32, 32, 105, 102, 40, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 115, 117, 98, 109, 105, 116, 79, 110, 69, 110, 116, 101, 114, 75, 101, 121, 40, 116, 104, 105, 115, 41, 32, 41, 32, 123, 32, 10, 32, 32, 32, 32, 32, 32, 32, 108, 101, 116, 32, 98, 117, 116, 116, 111, 110, 32, 61, 32, 100, 111, 99, 117, 109, 101, 110, 116, 46, 103, 101, 116, 69, 108, 101, 109, 101, 110, 116, 66, 121, 73, 100, 40, 39, 112, 108, 97, 121, 98, 117, 116, 116, 111, 110, 39, 41, 59, 10, 32, 32, 32, 32, 32, 32, 32, 105, 102, 40, 32, 98, 117, 116, 116, 111, 110, 46, 99, 108, 97, 115, 115, 76, 105, 115, 116, 46, 99, 111, 110, 116, 97, 105, 110, 115, 40, 39, 114, 101, 97, 100, 121, 39, 41, 32, 41, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 116, 104, 105, 115, 46, 99, 108, 97, 115, 115, 76, 105, 115, 116, 46, 114, 101, 109, 111, 118, 101, 40, 39, 114, 101, 97, 100, 121, 39, 41, 59, 10, 10, 32, 32, 32, 32, 32, 32, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 105, 110, 112, 117, 116, 40, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 107, 101, 121, 58, 32, 39, 116, 119, 101, 101, 110, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 118, 97, 108, 58, 32, 91, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 99, 109, 100, 58, 32, 39, 112, 97, 117, 115, 101, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 116, 105, 109, 101, 58, 32, 116, 104, 105, 115, 46, 118, 97, 108, 117, 101, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 125, 44, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 109, 105, 110, 105, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 9, 9, 32, 99, 109, 100, 32, 58, 32, 39, 112, 97, 117, 115, 101, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 116, 105, 109, 101, 58, 32, 116, 104, 105, 115, 46, 118, 97, 108, 117, 101, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 125, 93, 10, 32, 32, 32, 32, 32, 32, 32, 125, 41, 59, 10, 32, 32, 32, 32, 32, 125, 0, 0, 0, 0, 0, 0, 92, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 76, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 47, 109, 97, 114, 103, 105, 110, 45, 108, 101, 102, 116, 0, 0, 0, 0, 44, 115, 0, 0, 51, 53, 112, 120, 0, 0, 0, 0, 0, 0, 0, 24, 47, 116, 101, 120, 116, 45, 97, 108, 105, 103, 110, 0, 44, 115, 0, 0, 99, 101, 110, 116, 101, 114, 0, 0 ],
+													"saved_bundle_length" : 2548,
+													"text" : "/* : [{\n\t/key : \"css\",\n\t/val : {\n\t\t/selector : \".ready\",\n\t\t/props : {\n\t\t\t/background-color : \"lightblue\",\n\t\t\t/color : \"black\"\n\t\t}\n\t}\n}, {\n\t/key : \"html\",\n\t/val : [{\n\t\t/parent : \"forms\",\n\t\t/id : \"UI\",\n\t\t/new : \"div\",\n\t\t/style : {\n\t\t\t/position : \"absolute\",\n\t\t\t/float : \"left\",\n\t\t\t/width : \"100vw\"\n\t\t}\n\t}, {\n\t\t/parent : \"UI\",\n\t\t/id : \"playbutton\",\n\t\t/new : \"button\",\n\t\t/text : \"play\",\n\t\t/class : \"button\",\n\t\t/style : {\n\t\t\t/float : \"left\"\n\t\t},\n\t\t/onclick : \"\n     if( !this.classList.contains('ready') )\n     {\n        this.classList.add('ready');\n        drawsocket.input({\n          key: 'tween',\n          val: [ {\n            id: 'score-anim',\n       \t\t   cmd : 'play'\n          }, {\n            id: 'miniscore-anim',\n       \t\t   cmd : 'play'\n          } ],\n          timetag: Date.now()\n        });\n     } else { \n        this.classList.remove('ready');\n\n       let starttime = document.getElementById('userinput');\n\n        drawsocket.input({\n          key: 'tween',\n          val: [{\n            id: 'score-anim',\n       \t\t   cmd: 'pause',\n            time: starttime.value\n          }, {\n            id: 'miniscore-anim',\n       \t\t   cmd : 'pause',\n            time: starttime.value\n          }]\n        });\n     }\"\n\t}, {\n\t\t/parent : \"UI\",\n\t\t/new : \"label\",\n\t\t/for : \"userinput\",\n\t\t/id : \"sent\",\n\t\t/name : \"sent\",\n\t\t/text : \"start at time<br>\",\n\t\t/style : {\n\t\t\t/font-size : \"60%\",\n\t\t\t/color : \"gray\",\n\t\t\t/margin-left : \"20px\"\n\t\t}\n\t}, {\n\t\t/parent : \"UI\",\n\t\t/new : \"input\",\n\t\t/type : \"text\",\n\t\t/id : \"userinput\",\n\t\t/name : \"userinput\",\n\t\t/placeholder : \"0\",\n\t\t/size : 5,\n\t\t/onkeydown : \"\n     if( drawsocket.submitOnEnterKey(this) ) { \n       let button = document.getElementById('playbutton');\n       if( button.classList.contains('ready') )\n            this.classList.remove('ready');\n\n       drawsocket.input({\n         key: 'tween',\n         val: [{\n           id: 'score-anim',\n           cmd: 'pause',\n           time: this.value\n         }, {\n          id: 'miniscore-anim',\n       \t\t cmd : 'pause',\n          time: this.value\n          }]\n       });\n     }\",\n\t\t/style : {\n\t\t\t/margin-left : \"35px\",\n\t\t\t/text-align : \"center\"\n\t\t}\n\t}]\n}]"
 												}
 
 											}
@@ -3673,9 +3775,9 @@
 										"styles" : [ 											{
 												"name" : "black on white",
 												"number" : 												{
-													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 													"fontsize" : [ 12.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ]
 												}
 ,
 												"umenu" : 												{
@@ -3698,8 +3800,8 @@
 , 											{
 												"name" : "caption text",
 												"default" : 												{
-													"fontface" : [ 2 ],
-													"fontsize" : [ 11.0 ]
+													"fontsize" : [ 11.0 ],
+													"fontface" : [ 2 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3708,9 +3810,9 @@
 , 											{
 												"name" : "section dividers",
 												"default" : 												{
-													"fontface" : [ 3 ],
 													"fontsize" : [ 15.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"fontface" : [ 3 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3729,9 +3831,9 @@
 , 											{
 												"name" : "titles",
 												"default" : 												{
-													"fontface" : [ 1 ],
 													"fontsize" : [ 20.0 ],
-													"fontname" : [ "Arial" ]
+													"fontname" : [ "Arial" ],
+													"fontface" : [ 1 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3859,9 +3961,9 @@
 						"styles" : [ 							{
 								"name" : "black on white",
 								"number" : 								{
-									"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 									"fontsize" : [ 12.0 ],
-									"fontname" : [ "Arial" ]
+									"fontname" : [ "Arial" ],
+									"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ]
 								}
 ,
 								"umenu" : 								{
@@ -3884,8 +3986,8 @@
 , 							{
 								"name" : "caption text",
 								"default" : 								{
-									"fontface" : [ 2 ],
-									"fontsize" : [ 11.0 ]
+									"fontsize" : [ 11.0 ],
+									"fontface" : [ 2 ]
 								}
 ,
 								"parentstyle" : "",
@@ -3894,9 +3996,9 @@
 , 							{
 								"name" : "section dividers",
 								"default" : 								{
-									"fontface" : [ 3 ],
 									"fontsize" : [ 15.0 ],
-									"fontname" : [ "Arial" ]
+									"fontname" : [ "Arial" ],
+									"fontface" : [ 3 ]
 								}
 ,
 								"parentstyle" : "",
@@ -3915,9 +4017,9 @@
 , 							{
 								"name" : "titles",
 								"default" : 								{
-									"fontface" : [ 1 ],
 									"fontsize" : [ 20.0 ],
-									"fontname" : [ "Arial" ]
+									"fontname" : [ "Arial" ],
+									"fontface" : [ 1 ]
 								}
 ,
 								"parentstyle" : "",
@@ -3950,7 +4052,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 0,
-							"revision" : 4,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -4120,11 +4222,11 @@
 					"presentation_rect" : [ 14.0, 18.5, 38.0, 28.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_longname" : "live.text",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "live.text",
 							"parameter_enum" : [ "val1", "val2" ],
-							"parameter_type" : 2,
-							"parameter_longname" : "live.text"
+							"parameter_type" : 2
 						}
 
 					}
@@ -4150,11 +4252,11 @@
 					"presentation_rect" : [ 591.46460633956076, 228.294326999999953, 21.53539366043924, 21.647163499999976 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_longname" : "live.button[1]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "live.button",
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_type" : 2,
-							"parameter_longname" : "live.button[1]"
+							"parameter_type" : 2
 						}
 
 					}
@@ -4438,9 +4540,9 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-95" : [ "live.text", "live.text", 0 ],
 			"obj-119" : [ "live.button", "live.button", 0 ],
 			"obj-26" : [ "live.button[1]", "live.button", 0 ],
+			"obj-95" : [ "live.text", "live.text", 0 ],
 			"parameterbanks" : 			{
 
 			}
@@ -4449,29 +4551,29 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "hfmt.drawsocket.maxpat",
-				"bootpath" : "~/Documents/Max 8/Packages/hfmt-drawsocket/patchers",
-				"patcherrelativepath" : "../../Max 8/Packages/hfmt-drawsocket/patchers",
+				"bootpath" : "~/Documents/Max 8/Packages/drawsocket/patchers",
+				"patcherrelativepath" : "../../Max 8/Packages/drawsocket/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "drawsocket-server-cluster.js",
-				"bootpath" : "~/Documents/Max 8/Packages/hfmt-drawsocket/code/node",
-				"patcherrelativepath" : "../../Max 8/Packages/hfmt-drawsocket/code/node",
+				"bootpath" : "~/Documents/Max 8/Packages/drawsocket/code/node",
+				"patcherrelativepath" : "../../Max 8/Packages/drawsocket/code/node",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "startscript.js",
-				"bootpath" : "~/Documents/Max 8/Packages/hfmt-drawsocket/code",
-				"patcherrelativepath" : "../../Max 8/Packages/hfmt-drawsocket/code",
+				"bootpath" : "~/Documents/Max 8/Packages/drawsocket/code",
+				"patcherrelativepath" : "../../Max 8/Packages/drawsocket/code",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "flattenAPI.js",
-				"bootpath" : "~/Documents/Max 8/Packages/hfmt-drawsocket/code",
-				"patcherrelativepath" : "../../Max 8/Packages/hfmt-drawsocket/code",
+				"bootpath" : "~/Documents/Max 8/Packages/drawsocket/code",
+				"patcherrelativepath" : "../../Max 8/Packages/drawsocket/code",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
@@ -4527,9 +4629,9 @@
 		"styles" : [ 			{
 				"name" : "black on white",
 				"number" : 				{
-					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 					"fontsize" : [ 12.0 ],
-					"fontname" : [ "Arial" ]
+					"fontname" : [ "Arial" ],
+					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ]
 				}
 ,
 				"umenu" : 				{
@@ -4552,8 +4654,8 @@
 , 			{
 				"name" : "caption text",
 				"default" : 				{
-					"fontface" : [ 2 ],
-					"fontsize" : [ 11.0 ]
+					"fontsize" : [ 11.0 ],
+					"fontface" : [ 2 ]
 				}
 ,
 				"parentstyle" : "",
@@ -4562,9 +4664,9 @@
 , 			{
 				"name" : "section dividers",
 				"default" : 				{
-					"fontface" : [ 3 ],
 					"fontsize" : [ 15.0 ],
-					"fontname" : [ "Arial" ]
+					"fontname" : [ "Arial" ],
+					"fontface" : [ 3 ]
 				}
 ,
 				"parentstyle" : "",
@@ -4583,9 +4685,9 @@
 , 			{
 				"name" : "titles",
 				"default" : 				{
-					"fontface" : [ 1 ],
 					"fontsize" : [ 20.0 ],
-					"fontname" : [ "Arial" ]
+					"fontname" : [ "Arial" ],
+					"fontface" : [ 1 ]
 				}
 ,
 				"parentstyle" : "",
