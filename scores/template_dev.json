@@ -1,0 +1,334 @@
+{
+    "1": {
+        "key": "svg",
+        "val": [
+            {
+                "id": "scoreGroup",
+                "new": "g"
+            },
+            {
+                "id": "defscore",
+                "new": "g",
+                "parent": "defs"
+            },
+            {
+                "id": "score",
+                "new": "use",
+                "parent": "scoreGroup",
+                "href": "#defscore",
+                "x": "< lead-in-time * timeToPixScalar >",
+                "y": 100
+            },
+            {
+                "new" : "text",
+                "parent": "scoreGroup",
+                "id" :"playerID",
+                "x" : 10,
+                "y" : 80,
+                "text" : "< instrument name and number >"
+            },
+            {
+                "id": "miniscore",
+                "new": "use",
+                "parent": "scoreGroup",
+                "href": "#defscore",
+                "x": "< 1080. / scorePixWidth >",
+                "y": 720
+            },
+            {
+                "id": "clef",
+                "new": "g",
+                "parent": "scoreGroup"
+            },
+            {
+                "id": "instructions",
+                "new": "g",
+                "parent": "scoreGroup"
+            },
+            {
+                "parent": "defscore",
+                "new": "rect",
+                "id": "_1",
+                "x": 20,
+                "y": 51,
+                "width": 0.6,
+                "height": 24,
+                "style": {
+                    "stroke": "none",
+                    "stroke-width": 0.4
+                },
+                "transform": "matrix(1,0,0,1,0,0)"
+            },
+            {
+                "parent": "defscore",
+                "new": "text",
+                "id": "_2",
+                "x": 20,
+                "y": 33,
+                "text": "  &lt;&lt;",
+                "style": {
+                    "stroke": "none",
+                    "stroke-width": 0,
+                    "font-family": "Arial",
+                    "font-size": 10
+                },
+                "transform": "matrix(1,0,0,1,0,0)"
+            },
+            {
+                "parent": "defscore",
+                "new": "text",
+                "id": "_4",
+                "x": 680.65997314453125,
+                "y": 33,
+                "text": "&gt;&gt;",
+                "style": {
+                    "stroke": "none",
+                    "stroke-width": 0,
+                    "font-family": "Arial",
+                    "font-size": 10
+                },
+                "transform": "matrix(1,0,0,1,0,0)"
+            }
+        ]
+    },
+    "2": {
+        "key": "svg",
+        "val": [
+            {
+                "new" : "text",
+                "parent": "scoreGroup",
+                "id" :"playerID",
+                "x" : 10,
+                "y" : 80,
+                "text" : "< instrument name and number >"
+            },
+            {
+                "id": "clef",
+                "new": "g",
+                "parent": "scoreGroup"
+            },
+            {
+                "id": "instructions",
+                "new": "g",
+                "parent": "scoreGroup"
+            },
+            {
+                "parent": "defscore",
+                "new": "rect",
+                "id": "_1",
+                "x": 20,
+                "y": 51,
+                "width": 0.6,
+                "height": 24,
+                "style": {
+                    "stroke": "none",
+                    "stroke-width": 0.4
+                },
+                "transform": "matrix(1,0,0,1,0,0)"
+            },
+            {
+                "parent": "defscore",
+                "new": "text",
+                "id": "_2",
+                "x": 20,
+                "y": 33,
+                "text": "  &lt;&lt;",
+                "style": {
+                    "stroke": "none",
+                    "stroke-width": 0,
+                    "font-family": "Arial",
+                    "font-size": 10
+                },
+                "transform": "matrix(1,0,0,1,0,0)"
+            },
+            {
+                "parent": "defscore",
+                "new": "text",
+                "id": "_4",
+                "x": 680.65997314453125,
+                "y": 33,
+                "text": "&gt;&gt;",
+                "style": {
+                    "stroke": "none",
+                    "stroke-width": 0,
+                    "font-family": "Arial",
+                    "font-size": 10
+                },
+                "transform": "matrix(1,0,0,1,0,0)"
+            }
+        ]
+    },
+    "*": [
+        {
+            "key": "css",
+            "val": [
+                {
+                    "selector": ".ready",
+                    "props": {
+                        "background-color": "lightblue",
+                        "color": "black"
+                    }
+                },
+                {
+                    "selector": ".noclick",
+                    "props": {
+                        "user-select": "none",
+                        "pointer-events": "none"
+                    }
+                }
+            ]
+        },
+        {
+            "key": "html",
+            "val": [
+                {
+                    "parent": "forms",
+                    "id": "UI",
+                    "new": "div",
+                    "style": {
+                        "position": "absolute",
+                        "float": "left",
+                        "width": "100vw"
+                    }
+                },
+                {
+                    "parent": "UI",
+                    "id": "playbutton",
+                    "new": "button",
+                    "text": "play",
+                    "class": "button",
+                    "style": {
+                        "float": "left"
+                    },
+                    "onclick": "\n     if( !this.classList.contains('ready') )\n     {\n        this.classList.add('ready');\n        drawsocket.input({\n          key: 'tween',\n          val: [ {\n            id: 'score-anim',\n       \t\t   cmd : 'play'\n          }, {\n            id: 'miniscore-anim',\n       \t\t   cmd : 'play'\n          } ],\n          timetag: Date.now()\n        });\n     } else { \n        this.classList.remove('ready');\n\n       let starttime = document.getElementById('userinput');\n\n        drawsocket.input({\n          key: 'tween',\n          val: [{\n            id: 'score-anim',\n       \t\t   cmd: 'pause',\n            time: starttime.value\n          }, {\n            id: 'miniscore-anim',\n       \t\t   cmd : 'pause',\n            time: starttime.value\n          }]\n        });\n     }"
+                },
+                {
+                    "parent": "UI",
+                    "new": "label",
+                    "for": "userinput",
+                    "id": "sent",
+                    "name": "sent",
+                    "text": "start at time<br>",
+                    "style": {
+                        "font-size": "60%",
+                        "color": "gray",
+                        "margin-left": "20px"
+                    }
+                },
+                {
+                    "parent": "UI",
+                    "new": "input",
+                    "type": "text",
+                    "id": "userinput",
+                    "name": "userinput",
+                    "placeholder": "0",
+                    "size": 5,
+                    "onkeydown": "\n     if( drawsocket.submitOnEnterKey(this) ) { \n       let button = document.getElementById('playbutton');\n       if( button.classList.contains('ready') )\n            button.classList.remove('ready');\n\n       drawsocket.input({\n         key: 'tween',\n         val: [{\n           id: 'score-anim',\n           cmd: 'pause',\n           time: this.value\n         }, {\n          id: 'miniscore-anim',\n       \t\t cmd : 'pause',\n          time: this.value\n          }]\n       });\n     }",
+                    "style": {
+                        "margin-left": "35px",
+                        "text-align": "center"
+                    }
+                }
+            ]
+        },
+        {
+            "key": "svg",
+            "val": [
+                {
+                    "id": "defscore",
+                    "new": "g",
+                    "parent": "defs"
+                },
+                {
+                    "new": "g",
+                    "id": "overlay"
+                },
+                {
+                    "parent": "overlay",
+                    "new": "line",
+                    "id": "playhead",
+                    "x1": 200,
+                    "x2": 200,
+                    "y1": 0,
+                    "y2": 400,
+                    "style": {
+                        "stroke": "red",
+                        "stroke-width": 3,
+                        "stroke-opacity": 0.5
+                    }
+                },
+                {
+                    "id": "scoreGroup",
+                    "new": "g"
+                },
+                {
+                    "parent": "scoreGroup",
+                    "id": "score",
+                    "new": "use",
+                    "href": "#defscore",
+                    "x": "< lead-in-time * timeToPixScalar >",
+                    "y": 100
+                },
+                {
+                    "parent": "scoreGroup",
+                    "id": "miniscore",
+                    "new": "use",
+                    "href": "#defscore",
+                    "x": "< 1080. / scorePixWidth (including lead in) >",
+                    "y": 720
+                },
+                {
+                    "parent": "overlay",
+                    "new": "line",
+                    "id": "miniplayhead",
+                    "x1": 20,
+                    "x2": 20,
+                    "y1": 400,
+                    "y2": 500,
+                    "style": {
+                        "stroke": "blue",
+                        "stroke-width": 3,
+                        "stroke-opacity": 0.5
+                    }
+                },
+                {
+                    "parent" : "overlay",
+                    "id" : "scrollbar",
+                    "new" : "rect",
+                    "x" : 20,
+                    "y" : 400,
+                    "height" : 15,
+                    "width" : 1080,
+                    "fill" : "rgba(0,0,255,0.5)",
+                    "onmousemove" : "< see email >",
+                    "ontouchmove" : "< see email >"
+                }                
+            ]
+        },
+        {
+            "key": "tween",
+            "val": [
+                {
+                    "id": "score-anim",
+                    "target": "#score",
+                    "dur": "< duration of piece + lead-in time >",
+                    "vars": {
+                        "x": "< (duration of piece + lead-in time) in pixels * -1 >",
+                        "ease": "linear",
+                        "paused": "true"
+                    }
+                },
+                {
+                    "id": "miniscore-anim",
+                    "target": "#miniplayhead",
+                    "dur": "< duration of piece + lead-in time >",
+                    "vars": {
+                        "x": "+= 1080",
+                        "ease": "linear",
+                        "paused": "true"
+                    }
+                }
+            ]
+        }
+    ]
+}
