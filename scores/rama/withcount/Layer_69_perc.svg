@@ -1,0 +1,1839 @@
+<?xml version="1.0" encoding="utf8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.1//EN'
+  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg encoding="UTF-8" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<g data-name="Layer 69 perc" id="Layer_69_perc-01">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.156263811874449px" x1="280.95306" x2="281.83856" y1="1109.39839" y2="1110.28389"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.156263811874449px" x1="280.92702" x2="281.90367" y1="1110.30993" y2="1109.33328"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(278.90015 1115.56876)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(276.99907 1106.5618)">on rim</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="281.45412" x2="281.45412" y1="1110.48283" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="284.20669" x2="284.20669" y1="1110.45991" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="286.95926" x2="286.95926" y1="1110.43699" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="289.71183" x2="289.71183" y1="1110.41407" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="292.4644" x2="292.4644" y1="1110.39115" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="295.21697" x2="295.21697" y1="1110.36823" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="281.37041" x2="295.13327" y1="1115.56879" y2="1115.56879"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="281.37041" x2="295.13327" y1="1114.66879" y2="1114.66879"/>
+	</g>
+	<g id="count-01">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11755 1174.33183)">
+			1
+			<tspan style="letter-spacing:5.490397135416667em" x="1.80029" y="0">	</tspan>
+			<tspan x="20.07178" y="0">2</tspan>
+			<tspan style="letter-spacing:5.442545572916667em" x="21.87207" y="0">	</tspan>
+			<tspan x="40" y="0">3</tspan>
+			<tspan style="letter-spacing:5.7138671875em" x="41.80029" y="0">	</tspan>
+			<tspan x="60.74219" y="0">4</tspan>
+			<tspan style="letter-spacing:5.552408854166667em" x="62.54248" y="0">	</tspan>
+			<tspan x="81" y="0">5</tspan>
+			<tspan style="letter-spacing:5.466471354166667em" x="82.80029" y="0">	</tspan>
+			<tspan x="101" y="0">6</tspan>
+			<tspan style="letter-spacing:5.777180989583333em" x="102.80029" y="0">	</tspan>
+			<tspan x="121.93213" y="0">7</tspan>
+			<tspan style="letter-spacing:5.489095052083333em" x="123.73242" y="0">	</tspan>
+			<tspan x="142" y="0">8</tspan>
+			<tspan style="letter-spacing:5.466471354166667em" x="143.80029" y="0">	</tspan>
+			<tspan x="162" y="0">9</tspan>
+			<tspan style="letter-spacing:5.466471354166667em" x="163.80029" y="0">	</tspan>
+			<tspan x="182" y="0">10</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="185.60059" y="0">	</tspan>
+			<tspan x="202" y="0">11</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="205.60059" y="0">	</tspan>
+			<tspan x="222" y="0">12</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="225.60059" y="0">	</tspan>
+			<tspan x="243" y="0">13</tspan>
+			<tspan style="letter-spacing:4.911458333333333em" x="246.60059" y="0">	</tspan>
+			<tspan x="263.13525" y="0">14</tspan>
+			<tspan style="letter-spacing:5.154622395833333em" x="266.73584" y="0">	</tspan>
+			<tspan x="284" y="0">15</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="287.60059" y="0">	</tspan>
+			<tspan x="304" y="0">16</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="307.60059" y="0">	</tspan>
+			<tspan x="324" y="0">17</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="327.60059" y="0">	</tspan>
+			<tspan x="345" y="0">18</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="348.60059" y="0">	</tspan>
+			<tspan x="365" y="0">19</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="368.60059" y="0">	</tspan>
+			<tspan x="386" y="0">20</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="389.60059" y="0">	</tspan>
+			<tspan x="406" y="0">21</tspan>
+			<tspan style="letter-spacing:4.507486979166667em" x="409.60059" y="0">	</tspan>
+			<tspan x="424.92334" y="0">22</tspan>
+			<tspan style="letter-spacing:5.040364583333333em" x="428.52393" y="0">	</tspan>
+			<tspan x="445.44531" y="0">23</tspan>
+			<tspan style="letter-spacing:5.05126953125em" x="449.0459" y="0">	</tspan>
+			<tspan x="466" y="0">24</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="469.60059" y="0">	</tspan>
+			<tspan x="487" y="0">25</tspan>
+			<tspan style="letter-spacing:4.424479166666667em" x="490.60059" y="0">	</tspan>
+			<tspan x="505.67432" y="0">26</tspan>
+			<tspan style="letter-spacing:4.974934895833333em" x="509.2749" y="0">	</tspan>
+			<tspan x="526" y="0">27</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="529.60059" y="0">	</tspan>
+			<tspan x="547" y="0">28</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="550.60059" y="0">	</tspan>
+			<tspan x="568" y="0">29</tspan>
+			<tspan style="letter-spacing:4.608561197916667em" x="571.60059" y="0">	</tspan>
+			<tspan x="587.22656" y="0">30</tspan>
+			<tspan style="letter-spacing:5.124186197916667em" x="590.82715" y="0">	</tspan>
+			<tspan x="608" y="0">31</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="611.60059" y="0">	</tspan>
+			<tspan x="629" y="0">32</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="632.60059" y="0">	</tspan>
+			<tspan x="649" y="0">33</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="652.60059" y="0">	</tspan>
+			<tspan x="669" y="0">34</tspan>
+			<tspan style="letter-spacing:4.622395833333333em" x="672.60059" y="0">	</tspan>
+			<tspan x="688.26807" y="0">35</tspan>
+			<tspan style="letter-spacing:4.760904947916667em" x="691.86865" y="0">	</tspan>
+			<tspan x="707.95166" y="0">36</tspan>
+			<tspan style="letter-spacing:2.2158203125em" x="711.55225" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-02">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+	</g>
+	<g id="count-02">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11757 1174.33183)">
+			37
+			<tspan style="letter-spacing:4.890299479166667em" x="3.60059" y="0">	</tspan>
+			<tspan x="20.07178" y="0">38</tspan>
+			<tspan style="letter-spacing:4.842447916666667em" x="23.67236" y="0">	</tspan>
+			<tspan x="40" y="0">39</tspan>
+			<tspan style="letter-spacing:5.11376953125em" x="43.60059" y="0">	</tspan>
+			<tspan x="60.74219" y="0">40</tspan>
+			<tspan style="letter-spacing:4.952311197916667em" x="64.34277" y="0">	</tspan>
+			<tspan x="81" y="0">41</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="84.60059" y="0">	</tspan>
+			<tspan x="101" y="0">42</tspan>
+			<tspan style="letter-spacing:5.177083333333333em" x="104.60059" y="0">	</tspan>
+			<tspan x="121.93213" y="0">43</tspan>
+			<tspan style="letter-spacing:4.888997395833333em" x="125.53271" y="0">	</tspan>
+			<tspan x="142" y="0">44</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="145.60059" y="0">	</tspan>
+			<tspan x="162" y="0">45</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="165.60059" y="0">	</tspan>
+			<tspan x="182" y="0">46</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="185.60059" y="0">	</tspan>
+			<tspan x="202" y="0">47</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="205.60059" y="0">	</tspan>
+			<tspan x="222" y="0">48</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="225.60059" y="0">	</tspan>
+			<tspan x="243" y="0">49</tspan>
+			<tspan style="letter-spacing:4.911458333333333em" x="246.60059" y="0">	</tspan>
+			<tspan x="263.13525" y="0">50</tspan>
+			<tspan style="letter-spacing:5.154622395833333em" x="266.73584" y="0">	</tspan>
+			<tspan x="284" y="0">51</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="287.60059" y="0">	</tspan>
+			<tspan x="304" y="0">52</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="307.60059" y="0">	</tspan>
+			<tspan x="324" y="0">53</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="327.60059" y="0">	</tspan>
+			<tspan x="345" y="0">54</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="348.60059" y="0">	</tspan>
+			<tspan x="365" y="0">55</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="368.60059" y="0">	</tspan>
+			<tspan x="386" y="0">56</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="389.60059" y="0">	</tspan>
+			<tspan x="406" y="0">57</tspan>
+			<tspan style="letter-spacing:4.507486979166667em" x="409.60059" y="0">	</tspan>
+			<tspan x="424.92334" y="0">58</tspan>
+			<tspan style="letter-spacing:5.040364583333333em" x="428.52393" y="0">	</tspan>
+			<tspan x="445.44531" y="0">59</tspan>
+			<tspan style="letter-spacing:5.05126953125em" x="449.0459" y="0">	</tspan>
+			<tspan x="466" y="0">60</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="469.60059" y="0">	</tspan>
+			<tspan x="487" y="0">61</tspan>
+			<tspan style="letter-spacing:4.424479166666667em" x="490.60059" y="0">	</tspan>
+			<tspan x="505.67432" y="0">62</tspan>
+			<tspan style="letter-spacing:4.974934895833333em" x="509.2749" y="0">	</tspan>
+			<tspan x="526" y="0">63</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="529.60059" y="0">	</tspan>
+			<tspan x="547" y="0">64</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="550.60059" y="0">	</tspan>
+			<tspan x="568" y="0">65</tspan>
+			<tspan style="letter-spacing:4.608561197916667em" x="571.60059" y="0">	</tspan>
+			<tspan x="587.22656" y="0">66</tspan>
+			<tspan style="letter-spacing:5.124186197916667em" x="590.82715" y="0">	</tspan>
+			<tspan x="608" y="0">67</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="611.60059" y="0">	</tspan>
+			<tspan x="629" y="0">68</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="632.60059" y="0">	</tspan>
+			<tspan x="649" y="0">69</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="652.60059" y="0">	</tspan>
+			<tspan x="669" y="0">70</tspan>
+			<tspan style="letter-spacing:4.622395833333333em" x="672.60059" y="0">	</tspan>
+			<tspan x="688.26807" y="0">71</tspan>
+			<tspan style="letter-spacing:4.760904947916667em" x="691.86865" y="0">	</tspan>
+			<tspan x="707.95166" y="0">72</tspan>
+			<tspan style="letter-spacing:2.2158203125em" x="711.55225" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-03">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(111.3616 1103.87241)">(mute)</text>
+		<circle cx="120.58315" cy="1103.86388" r="0.92845" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.17255937850879px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.15px" x1="118.9116" x2="122.52827" y1="1103.86388" y2="1103.86388"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.15px" x1="120.59982" x2="120.59982" y1="1101.54721" y2="1106.19721"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="80.75374" x2="80.75374" y1="1114.74337" y2="1110.01006"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="80.75374" x2="83.31248" y1="1114.64337" y2="1114.64337"/>
+		<circle cx="80.74208" cy="1109.7466" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(80.74197 1117.3765)"></text>
+		<path d="M82.38626,1109.41127a13.22325,13.22325,0,0,1,7.63019,0" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+	</g>
+	<g id="count-03">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11758 1174.33183)">
+			73
+			<tspan style="letter-spacing:4.890299479166667em" x="3.60059" y="0">	</tspan>
+			<tspan x="20.07178" y="0">74</tspan>
+			<tspan style="letter-spacing:4.842447916666667em" x="23.67236" y="0">	</tspan>
+			<tspan x="40" y="0">75</tspan>
+			<tspan style="letter-spacing:5.11376953125em" x="43.60059" y="0">	</tspan>
+			<tspan x="60.74219" y="0">76</tspan>
+			<tspan style="letter-spacing:4.952311197916667em" x="64.34277" y="0">	</tspan>
+			<tspan x="81" y="0">77</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="84.60059" y="0">	</tspan>
+			<tspan x="101" y="0">78</tspan>
+			<tspan style="letter-spacing:5.177083333333333em" x="104.60059" y="0">	</tspan>
+			<tspan x="121.93213" y="0">79</tspan>
+			<tspan style="letter-spacing:4.888997395833333em" x="125.53271" y="0">	</tspan>
+			<tspan x="142" y="0">80</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="145.60059" y="0">	</tspan>
+			<tspan x="162" y="0">81</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="165.60059" y="0">	</tspan>
+			<tspan x="182" y="0">82</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="185.60059" y="0">	</tspan>
+			<tspan x="202" y="0">83</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="205.60059" y="0">	</tspan>
+			<tspan x="222" y="0">84</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="225.60059" y="0">	</tspan>
+			<tspan x="243" y="0">85</tspan>
+			<tspan style="letter-spacing:4.911458333333333em" x="246.60059" y="0">	</tspan>
+			<tspan x="263.13525" y="0">86</tspan>
+			<tspan style="letter-spacing:5.154622395833333em" x="266.73584" y="0">	</tspan>
+			<tspan x="284" y="0">87</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="287.60059" y="0">	</tspan>
+			<tspan x="304" y="0">88</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="307.60059" y="0">	</tspan>
+			<tspan x="324" y="0">89</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="327.60059" y="0">	</tspan>
+			<tspan x="345" y="0">90</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="348.60059" y="0">	</tspan>
+			<tspan x="365" y="0">91</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="368.60059" y="0">	</tspan>
+			<tspan x="386" y="0">92</tspan>
+			<tspan style="letter-spacing:4.866373697916667em" x="389.60059" y="0">	</tspan>
+			<tspan x="406" y="0">93</tspan>
+			<tspan style="letter-spacing:4.507486979166667em" x="409.60059" y="0">	</tspan>
+			<tspan x="424.92334" y="0">94</tspan>
+			<tspan style="letter-spacing:5.040364583333333em" x="428.52393" y="0">	</tspan>
+			<tspan x="445.44531" y="0">95</tspan>
+			<tspan style="letter-spacing:5.05126953125em" x="449.0459" y="0">	</tspan>
+			<tspan x="466" y="0">96</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="469.60059" y="0">	</tspan>
+			<tspan x="487" y="0">97</tspan>
+			<tspan style="letter-spacing:4.424479166666667em" x="490.60059" y="0">	</tspan>
+			<tspan x="505.67432" y="0">98</tspan>
+			<tspan style="letter-spacing:4.974934895833333em" x="509.2749" y="0">	</tspan>
+			<tspan x="526" y="0">99</tspan>
+			<tspan style="letter-spacing:5.19970703125em" x="529.60059" y="0">	</tspan>
+			<tspan x="547" y="0">100</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">101</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">102</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">103</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">104</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">105</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">106</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">107</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">108</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-04">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="81.05481" x2="81.05481" y1="1113.52884" y2="1103.79552"/>
+		<circle cx="81.05781" cy="1103.53206" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(81.04289 1116.16212)"></text>
+		<path d="M82.68733,1103.19674a13.22325,13.22325,0,0,1,7.63019,0" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(80.04387 1101.73135)">triangle</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(110.45915 1102.7316)">(mute)</text>
+		<circle cx="119.68054" cy="1102.72302" r="0.92845" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.17255937850879px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.15px" x1="118.00899" x2="121.62565" y1="1102.72302" y2="1102.72302"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.15px" x1="119.6972" x2="119.6972" y1="1100.40635" y2="1105.05635"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="323.80952" x2="323.80952" y1="1113.52884" y2="1103.79552"/>
+		<circle cx="323.79787" cy="1103.53206" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(323.79777 1116.16212)"></text>
+		<path d="M325.442,1103.19674a13.22325,13.22325,0,0,1,7.63019,0" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(322.79851 1101.73135)">triangle</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(353.21379 1102.7316)">(mute)</text>
+		<circle cx="362.43525" cy="1102.72302" r="0.92845" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.17255937850879px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.15px" x1="360.7637" x2="364.38036" y1="1102.72302" y2="1102.72302"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.15px" x1="362.45191" x2="362.45191" y1="1100.40635" y2="1105.05635"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="221.2531" x2="221.2531" y1="1114.74337" y2="1110.01006"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="221.2531" x2="223.81184" y1="1114.64337" y2="1114.64337"/>
+		<circle cx="221.24145" cy="1109.7466" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(221.24113 1117.3765)"></text>
+		<path d="M222.88563,1109.41127a13.22321,13.22321,0,0,1,7.63018,0" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+	</g>
+	<g id="count-04">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.1176 1174.33183)">
+			109
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">110</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">111</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">112</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">113</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">114</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">115</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">116</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">117</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">118</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">119</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">120</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">121</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">122</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">123</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">124</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">125</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">126</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">127</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">128</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">129</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">130</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">131</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">132</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">133</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">134</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">135</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">136</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">137</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">138</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">139</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">140</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">141</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">142</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">143</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">144</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-05">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.156263811874449px" x1="280.95306" x2="281.83856" y1="1109.39839" y2="1110.28389"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.156263811874449px" x1="280.92702" x2="281.90367" y1="1110.30993" y2="1109.33328"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(278.90015 1115.56877)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(276.99907 1106.56182)">on rim</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="281.45412" x2="281.45412" y1="1110.48283" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="284.20669" x2="284.20669" y1="1110.45991" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="286.95926" x2="286.95926" y1="1110.43699" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="289.71183" x2="289.71183" y1="1110.41407" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="292.4644" x2="292.4644" y1="1110.39115" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="295.21697" x2="295.21697" y1="1110.36823" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="281.37041" x2="295.13327" y1="1115.56879" y2="1115.56879"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="281.37041" x2="295.13327" y1="1114.66879" y2="1114.66879"/>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(598.70878 1103.87236)">(mute)</text>
+		<circle cx="607.93032" cy="1103.86388" r="0.92845" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.17255937850879px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.15px" x1="606.25877" x2="609.87544" y1="1103.86388" y2="1103.86388"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.15px" x1="607.94699" x2="607.94699" y1="1101.54721" y2="1106.19721"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="568.10091" x2="568.10091" y1="1114.74337" y2="1110.01006"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="568.10091" x2="570.65965" y1="1114.64337" y2="1114.64337"/>
+		<circle cx="568.08926" cy="1109.7466" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(568.08911 1117.37651)"></text>
+		<path d="M569.73343,1109.41127a13.22325,13.22325,0,0,1,7.63019,0" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(98.56006 1114.70928)"></text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.156263811874449px" x1="81.25623" x2="82.14172" y1="1109.0781" y2="1109.96359"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.156263811874449px" x1="81.23019" x2="82.20683" y1="1109.98963" y2="1109.01299"/>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(79.48584 1106.24126)">snare</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(86.86084 1106.24126)">press roll</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="81.75729" x2="81.75729" y1="1110.16253" y2="1116.00174"/>
+		<path d="M96.90511,1113.34335c-.25.25-8.19167,1-8.19167,1l8.19167,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="82.40683" x2="100.07303" y1="1109.61299" y2="1109.61299"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="80.94196" x2="82.30683" y1="1113.50741" y2="1112.59075"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="81.04196" x2="82.40683" y1="1114.30741" y2="1113.39075"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="81.04196" x2="82.40683" y1="1115.16795" y2="1114.25128"/>
+	</g>
+	<g id="count-05">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11755 1174.33184)">
+			145
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">146</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">147</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">148</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">149</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">150</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">151</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">152</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">153</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">154</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">155</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">156</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">157</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">158</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">159</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">160</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">161</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">162</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">163</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">164</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">165</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">166</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">167</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">168</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">169</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">170</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">171</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">172</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">173</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">174</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">175</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">176</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">177</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">178</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">179</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">180</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-06">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+	</g>
+	<g id="count-06">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11757 1174.33184)">
+			181
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">182</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">183</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">184</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">185</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">186</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">187</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">188</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">189</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">190</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">191</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">192</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">193</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">194</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">195</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">196</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">197</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">198</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">199</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">200</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">201</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">202</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">203</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">204</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">205</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">206</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">207</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">208</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">209</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">210</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">211</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">212</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">213</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">214</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">215</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">216</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-07">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+	</g>
+	<g id="count-07">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11758 1174.33184)">
+			217
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">218</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">219</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">220</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">221</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">222</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">223</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">224</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">225</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">226</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">227</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">228</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">229</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">230</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">231</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">232</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">233</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">234</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">235</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">236</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">237</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">238</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">239</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">240</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">241</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">242</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">243</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">244</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">245</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">246</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">247</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">248</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">249</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">250</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">251</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">252</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-08">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="222.3749" x2="222.3749" y1="1114.74337" y2="1110.01006"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="222.3749" x2="224.93364" y1="1114.64337" y2="1114.64337"/>
+		<circle cx="222.36325" cy="1109.7466" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(222.3632 1117.37651)"></text>
+		<path d="M224.00742,1109.41127a13.22325,13.22325,0,0,1,7.63019,0" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+	</g>
+	<g id="count-08">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.1176 1174.33184)">
+			253
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">254</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">255</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">256</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">257</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">258</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">259</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">260</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">261</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">262</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">263</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">264</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">265</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">266</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">267</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">268</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">269</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">270</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">271</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">272</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">273</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">274</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">275</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">276</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">277</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">278</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">279</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">280</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">281</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">282</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">283</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">284</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">285</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">286</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">287</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">288</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-09">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.156263811874449px" x1="179.32379" x2="180.20928" y1="1109.39839" y2="1110.28389"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.156263811874449px" x1="179.29774" x2="180.27439" y1="1110.30993" y2="1109.33328"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(177.27075 1115.5687)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(175.36978 1106.56187)">on rim</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="179.82484" x2="179.82484" y1="1110.48283" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="182.57741" x2="182.57741" y1="1110.45991" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="185.32998" x2="185.32998" y1="1110.43699" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="188.08256" x2="188.08256" y1="1110.41407" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="190.83513" x2="190.83513" y1="1110.39115" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="193.5877" x2="193.5877" y1="1110.36823" y2="1115.75271"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="179.74113" x2="193.50399" y1="1115.56879" y2="1115.56879"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="179.74113" x2="193.50399" y1="1114.66879" y2="1114.66879"/>
+	</g>
+	<g id="count-09">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11755 1174.33188)">
+			289
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">290</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">291</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">292</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">293</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">294</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">295</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">296</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">297</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">298</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">299</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">300</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">301</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">302</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">303</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">304</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">305</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">306</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">307</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">308</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">309</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">310</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">311</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">312</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">313</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">314</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">315</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">316</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">317</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">318</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">319</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">320</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">321</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">322</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">323</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">324</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-10">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+	</g>
+	<g id="count-10">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11757 1174.33188)">
+			325
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">326</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">327</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">328</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">329</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">330</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">331</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">332</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">333</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">334</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">335</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">336</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">337</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">338</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">339</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">340</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">341</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">342</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">343</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">344</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">345</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">346</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">347</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">348</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">349</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">350</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">351</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">352</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">353</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">354</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">355</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">356</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">357</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">358</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">359</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">360</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-11">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+	</g>
+	<g id="count-11">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11758 1174.33188)">
+			361
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">362</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">363</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">364</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">365</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">366</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">367</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">368</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">369</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">370</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">371</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">372</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">373</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">374</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">375</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">376</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">377</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">378</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">379</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">380</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">381</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">382</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">383</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">384</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">385</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">386</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">387</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">388</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">389</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">390</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">391</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">392</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">393</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">394</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">395</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">396</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-12">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+	</g>
+	<g id="count-12">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.1176 1174.33188)">
+			397
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">398</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">399</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">400</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">401</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">402</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">403</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">404</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">405</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">406</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">407</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">408</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">409</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">410</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">411</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">412</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">413</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">414</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">415</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">416</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">417</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">418</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">419</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">420</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">421</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">422</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">423</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">424</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">425</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">426</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">427</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">428</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">429</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">430</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">431</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">432</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-13">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="347.84416" x2="347.84416" y1="1115.48959" y2="1105.75628"/>
+		<circle cx="347.8325" cy="1105.49282" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(347.83203 1118.12266)"></text>
+		<path d="M349.47668,1105.15749a13.22325,13.22325,0,0,1,7.63019,0" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(334.54199 1106.44639)">triangle</text>
+	</g>
+	<g id="count-13">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11743 1174.33188)">
+			433
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">434</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">435</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">436</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">437</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">438</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">439</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">440</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">441</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">442</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">443</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">444</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">445</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">446</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">447</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">448</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">449</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">450</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">451</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">452</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">453</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">454</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">455</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">456</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">457</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">458</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">459</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">460</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">461</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">462</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">463</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">464</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">465</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">466</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">467</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">468</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-14">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+	</g>
+	<g id="count-14">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11757 1174.33188)">
+			469
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">470</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">471</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">472</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">473</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">474</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">475</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">476</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">477</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">478</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">479</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">480</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">481</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">482</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">483</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">484</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">485</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">486</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">487</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">488</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">489</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">490</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">491</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">492</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">493</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">494</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">495</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">496</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">497</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">498</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">499</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">500</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">501</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">502</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">503</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">504</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-15">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+	</g>
+	<g id="count-15">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11755 1174.33177)">
+			505
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">506</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">507</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">508</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">509</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">510</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">511</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">512</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">513</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">514</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">515</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">516</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">517</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">518</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">519</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">520</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">521</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">522</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">523</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">524</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">525</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">526</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">527</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">528</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">529</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">530</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">531</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">532</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">533</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">534</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">535</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">536</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">537</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">538</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">539</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">540</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-16">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="322.44064" x2="322.44064" y1="1113.81034" y2="1104.07703"/>
+		<circle cx="322.42899" cy="1103.81357" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(322.42885 1116.44335)"></text>
+		<path d="M324.07317,1103.47824a13.22321,13.22321,0,0,1,7.63018,0" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(309.13844 1105.06737)">triangle</text>
+	</g>
+	<g id="count-16">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11757 1174.33177)">
+			541
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">542</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">543</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">544</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">545</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">546</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">547</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">548</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">549</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">550</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">551</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">552</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">553</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">554</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">555</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">556</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">557</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">558</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">559</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">560</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">561</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">562</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">563</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">564</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">565</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">566</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">567</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">568</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">569</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">570</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">571</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">572</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">573</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">574</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">575</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">576</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-17">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="247.55474" x2="247.55474" y1="1113.81034" y2="1104.07703"/>
+		<circle cx="247.54309" cy="1103.81357" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(247.54275 1116.44335)"></text>
+		<path d="M249.18727,1103.47824a13.22324,13.22324,0,0,1,7.63019,0" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(234.25259 1105.06737)">triangle</text>
+	</g>
+	<g id="count-17">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11758 1174.33177)">
+			577
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">578</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">579</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">580</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">581</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">582</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">583</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">584</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">585</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">586</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">587</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">588</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">589</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">590</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">591</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">592</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">593</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">594</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">595</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">596</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">597</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">598</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">599</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">600</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">601</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">602</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">603</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">604</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">605</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">606</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">607</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">608</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">609</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">610</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">611</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">612</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-18">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+	</g>
+	<g id="count-18">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.1176 1174.33177)">
+			613
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">614</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">615</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">616</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">617</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">618</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">619</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">620</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">621</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">622</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">623</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">624</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">625</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">626</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">627</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">628</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">629</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">630</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">631</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">632</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">633</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">634</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">635</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">636</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">637</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">638</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">639</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">640</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">641</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">642</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">643</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">644</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">645</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">646</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">647</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">648</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-19">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+	</g>
+	<g id="count-19">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11743 1174.33177)">
+			649
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">650</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">651</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">652</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">653</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">654</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">655</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">656</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">657</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">658</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">659</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">660</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">661</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">662</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">663</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">664</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">665</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">666</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">667</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">668</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">669</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">670</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">671</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">672</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">673</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">674</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">675</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">676</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">677</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">678</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">679</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">680</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">681</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">682</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">683</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">684</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+	<g data-name="Layer 69 perc" id="Layer_69_perc-20">
+		<line data-name="spacer" id="spacer-4" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="1112.65424" y2="1098.48035"/>
+		<g id="player-69-perc">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1106.80457" y2="1106.80457"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1108.23675" y2="1108.23675"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1109.66893" y2="1109.66893"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1111.10111" y2="1111.10111"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="1112.53329" y2="1112.53329"/>
+		</g>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="790.59266" x2="790.59266" y1="1113.81034" y2="1104.07703"/>
+		<circle cx="790.58101" cy="1103.81357" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(790.58094 1116.44335)"></text>
+		<path d="M792.22519,1103.47824a13.22324,13.22324,0,0,1,7.63019,0" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(777.29091 1105.06737)">triangle</text>
+	</g>
+	<g id="count-20">
+		<text style="font-size:3px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(79.11757 1174.33177)">
+			685
+			<tspan style="letter-spacing:4.290201822916667em" x="5.40088" y="0">	</tspan>
+			<tspan x="20.07178" y="0">686</tspan>
+			<tspan style="letter-spacing:4.242350260416667em" x="25.47266" y="0">	</tspan>
+			<tspan x="40" y="0">687</tspan>
+			<tspan style="letter-spacing:4.513671875em" x="45.40088" y="0">	</tspan>
+			<tspan x="60.74219" y="0">688</tspan>
+			<tspan style="letter-spacing:4.352213541666667em" x="66.14307" y="0">	</tspan>
+			<tspan x="81" y="0">689</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="86.40088" y="0">	</tspan>
+			<tspan x="101" y="0">690</tspan>
+			<tspan style="letter-spacing:4.576985677083333em" x="106.40088" y="0">	</tspan>
+			<tspan x="121.93213" y="0">691</tspan>
+			<tspan style="letter-spacing:4.288899739583333em" x="127.33301" y="0">	</tspan>
+			<tspan x="142" y="0">692</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="147.40088" y="0">	</tspan>
+			<tspan x="162" y="0">693</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="167.40088" y="0">	</tspan>
+			<tspan x="182" y="0">694</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="187.40088" y="0">	</tspan>
+			<tspan x="202" y="0">695</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="207.40088" y="0">	</tspan>
+			<tspan x="222" y="0">696</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="227.40088" y="0">	</tspan>
+			<tspan x="243" y="0">697</tspan>
+			<tspan style="letter-spacing:4.311360677083333em" x="248.40088" y="0">	</tspan>
+			<tspan x="263.13525" y="0">698</tspan>
+			<tspan style="letter-spacing:4.554524739583333em" x="268.53613" y="0">	</tspan>
+			<tspan x="284" y="0">699</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="289.40088" y="0">	</tspan>
+			<tspan x="304" y="0">700</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="309.40088" y="0">	</tspan>
+			<tspan x="324" y="0">701</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="329.40088" y="0">	</tspan>
+			<tspan x="345" y="0">702</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="350.40088" y="0">	</tspan>
+			<tspan x="365" y="0">703</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="370.40088" y="0">	</tspan>
+			<tspan x="386" y="0">704</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="391.40088" y="0">	</tspan>
+			<tspan x="406" y="0">705</tspan>
+			<tspan style="letter-spacing:3.9073893229166665em" x="411.40088" y="0">	</tspan>
+			<tspan x="424.92334" y="0">706</tspan>
+			<tspan style="letter-spacing:4.440266927083333em" x="430.32422" y="0">	</tspan>
+			<tspan x="445.44531" y="0">707</tspan>
+			<tspan style="letter-spacing:4.451171875em" x="450.84619" y="0">	</tspan>
+			<tspan x="466" y="0">708</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="471.40088" y="0">	</tspan>
+			<tspan x="487" y="0">709</tspan>
+			<tspan style="letter-spacing:3.8243815104166665em" x="492.40088" y="0">	</tspan>
+			<tspan x="505.67432" y="0">710</tspan>
+			<tspan style="letter-spacing:4.374837239583333em" x="511.0752" y="0">	</tspan>
+			<tspan x="526" y="0">711</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="531.40088" y="0">	</tspan>
+			<tspan x="547" y="0">712</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="552.40088" y="0">	</tspan>
+			<tspan x="568" y="0">713</tspan>
+			<tspan style="letter-spacing:4.008463541666667em" x="573.40088" y="0">	</tspan>
+			<tspan x="587.22656" y="0">714</tspan>
+			<tspan style="letter-spacing:4.524088541666667em" x="592.62744" y="0">	</tspan>
+			<tspan x="608" y="0">715</tspan>
+			<tspan style="letter-spacing:4.599609375em" x="613.40088" y="0">	</tspan>
+			<tspan x="629" y="0">716</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="634.40088" y="0">	</tspan>
+			<tspan x="649" y="0">717</tspan>
+			<tspan style="letter-spacing:4.266276041666667em" x="654.40088" y="0">	</tspan>
+			<tspan x="669" y="0">718</tspan>
+			<tspan style="letter-spacing:4.022298177083333em" x="674.40088" y="0">	</tspan>
+			<tspan x="688.26807" y="0">719</tspan>
+			<tspan style="letter-spacing:4.160807291666667em" x="693.66895" y="0">	</tspan>
+			<tspan x="707.95166" y="0">720</tspan>
+			<tspan style="letter-spacing:1.61572265625em" x="713.35254" y="0">	</tspan>
+		</text>
+	</g>
+</svg>

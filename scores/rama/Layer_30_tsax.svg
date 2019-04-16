@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.1//EN'
+  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg encoding="UTF-8" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-01">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+			<circle cx="99.59783" cy="472.92562" r="0.47422" style="fill:#231f20"/>
+			<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(97.28491 472.92554)">♭</text>
+			<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="99.53248" x2="99.53248" y1="473.162" y2="480.47917"/>
+			<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="99.59783" x2="102.15657" y1="479.6875" y2="479.6875"/>
+			<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="99.48949" x2="102.04824" y1="480.47917" y2="480.47917"/>
+			<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(95.54443 481.13037)"></text>
+			<circle cx="99.50777" cy="471.17678" r="0.19822" style="fill:#231f20"/>
+			<circle cx="318.02185" cy="472.92562" r="0.47422" style="fill:#231f20"/>
+			<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(315.70874 472.92554)">♭</text>
+			<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="317.9565" x2="317.9565" y1="473.162" y2="480.47917"/>
+			<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="318.02185" x2="320.58059" y1="479.6875" y2="479.6875"/>
+			<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="317.91352" x2="320.47226" y1="480.47917" y2="480.47917"/>
+			<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(312.60278 480.48907)"></text>
+			<circle cx="317.93179" cy="471.17678" r="0.19822" style="fill:#231f20"/>
+		</g>
+		<circle cx="222.39305" cy="472.84525" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(220.16479 472.84558)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="222.39305" x2="222.39305" y1="473.15516" y2="480.59311"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="222.39305" x2="224.95179" y1="479.69728" y2="479.69728"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="222.28472" x2="224.84346" y1="480.48895" y2="480.48895"/>
+		<circle cx="222.28472" cy="470.70662" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(218.79468 480.48907)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(460.87744 480.28094)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(467.06421 475.06958)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(472.16431 475.82874)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="484.36667" x2="484.36667" y1="477.89483" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="481.6" x2="481.6" y1="477.65936" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="479.93327" x2="479.93327" y1="477.0239" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="478.125" x2="478.125" y1="476.58843" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="475.71667" x2="475.71667" y1="476.15297" y2="470.79115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="473.66667" x2="473.66667" y1="475.7175" y2="470.69115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="470.89993" x2="470.89993" y1="475.48204" y2="470.39115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="468.825" x2="468.825" y1="474.84657" y2="469.99115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="466.23937" x2="466.23937" y1="474.4111" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="464.12357" x2="464.12357" y1="473.97564" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="484.3283" x2="464.16545" y1="471.37507" y2="469.77507"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="484.3283" x2="464.16545" y1="472.29645" y2="470.69645"/>
+		<circle cx="464.12357" cy="473.61693" r="0.47422" style="fill:#231f20"/>
+		<circle cx="466.17783" cy="474.29115" r="0.47422" style="fill:#231f20"/>
+		<circle cx="468.825" cy="474.96209" r="0.47422" style="fill:#231f20"/>
+		<circle cx="470.89993" cy="475.72861" r="0.47422" style="fill:#231f20"/>
+		<circle cx="473.66667" cy="475.83317" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(476.65576 476.52911)">♭</text>
+		<circle cx="475.5916" cy="476.42901" r="0.47422" style="fill:#231f20"/>
+		<circle cx="478.15833" cy="476.53357" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(482.90576 478.00769)">♭</text>
+		<circle cx="479.93327" cy="477.10777" r="0.47422" style="fill:#231f20"/>
+		<circle cx="481.6" cy="478.01232" r="0.47422" style="fill:#231f20"/>
+		<circle cx="484.36667" cy="477.95607" r="0.47422" style="fill:#231f20"/>
+		<path d="M463.91121,475.93317s4.05344,4.44487,20.13046,3.52516" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<path d="M476.32805,480.878c.25.25,8.19167,1,8.19167,1l-8.19167,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-02">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(704.94887 480.28094)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(711.13588 475.06958)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(716.23598 475.82874)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="728.43821" x2="728.43821" y1="477.89483" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="725.67155" x2="725.67155" y1="477.65936" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="724.00481" x2="724.00481" y1="477.0239" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="722.19655" x2="722.19655" y1="476.58843" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="719.78821" x2="719.78821" y1="476.15297" y2="470.79115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="717.73821" x2="717.73821" y1="475.7175" y2="470.69115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="714.97148" x2="714.97148" y1="475.48204" y2="470.39115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="712.89655" x2="712.89655" y1="474.84657" y2="469.99115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="710.31092" x2="710.31092" y1="474.4111" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="708.19512" x2="708.19512" y1="473.97564" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="728.39985" x2="708.23699" y1="471.37507" y2="469.77507"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="728.39985" x2="708.23699" y1="472.29645" y2="470.69645"/>
+		<circle cx="708.19512" cy="473.61693" r="0.47422" style="fill:#231f20"/>
+		<circle cx="710.24938" cy="474.29115" r="0.47422" style="fill:#231f20"/>
+		<circle cx="712.89655" cy="474.96209" r="0.47422" style="fill:#231f20"/>
+		<circle cx="714.97148" cy="475.72861" r="0.47422" style="fill:#231f20"/>
+		<circle cx="717.73821" cy="475.83317" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(720.72719 476.52911)">♭</text>
+		<circle cx="719.66315" cy="476.42901" r="0.47422" style="fill:#231f20"/>
+		<circle cx="722.22988" cy="476.53357" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(726.97719 478.00769)">♭</text>
+		<circle cx="724.00481" cy="477.10777" r="0.47422" style="fill:#231f20"/>
+		<circle cx="725.67155" cy="478.01232" r="0.47422" style="fill:#231f20"/>
+		<circle cx="728.43821" cy="477.95607" r="0.47422" style="fill:#231f20"/>
+		<path d="M707.98276,475.93317s4.05344,4.44487,20.13045,3.52516" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<path d="M720.3996,480.878c.25.25,8.19166,1,8.19166,1l-8.19166,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(260.0768 480.28094)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(266.26381 475.06958)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(271.36391 475.82874)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="283.56615" x2="283.56615" y1="477.89483" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="280.79949" x2="280.79949" y1="477.65936" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="279.13276" x2="279.13276" y1="477.0239" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="277.32449" x2="277.32449" y1="476.58843" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="274.91615" x2="274.91615" y1="476.15297" y2="470.79115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="272.86615" x2="272.86615" y1="475.7175" y2="470.69115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="270.09942" x2="270.09942" y1="475.48204" y2="470.39115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="268.02449" x2="268.02449" y1="474.84657" y2="469.99115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="265.43886" x2="265.43886" y1="474.4111" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="263.32306" x2="263.32306" y1="473.97564" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="283.52779" x2="263.36494" y1="471.37507" y2="469.77507"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="283.52779" x2="263.36494" y1="472.29645" y2="470.69645"/>
+		<circle cx="263.32306" cy="473.61693" r="0.47422" style="fill:#231f20"/>
+		<circle cx="265.37732" cy="474.29115" r="0.47422" style="fill:#231f20"/>
+		<circle cx="268.02449" cy="474.96209" r="0.47422" style="fill:#231f20"/>
+		<circle cx="270.09942" cy="475.72861" r="0.47422" style="fill:#231f20"/>
+		<circle cx="272.86615" cy="475.83317" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(275.85512 476.52911)">♭</text>
+		<circle cx="274.79109" cy="476.42901" r="0.47422" style="fill:#231f20"/>
+		<circle cx="277.35782" cy="476.53357" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(282.10512 478.00769)">♭</text>
+		<circle cx="279.13276" cy="477.10777" r="0.47422" style="fill:#231f20"/>
+		<circle cx="280.79949" cy="478.01232" r="0.47422" style="fill:#231f20"/>
+		<circle cx="283.56615" cy="477.95607" r="0.47422" style="fill:#231f20"/>
+		<path d="M263.1107,475.93317s4.05344,4.44487,20.13045,3.52516" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<path d="M275.52754,480.878c.25.25,8.19167,1,8.19167,1l-8.19167,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<circle cx="121.25795" cy="472.92562" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(118.94496 472.92554)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="121.1926" x2="121.1926" y1="473.162" y2="480.47917"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="121.25795" x2="123.81669" y1="479.6875" y2="479.6875"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="121.14961" x2="123.70835" y1="480.47917" y2="480.47917"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(116.52846 480.84924)"></text>
+		<circle cx="121.16789" cy="471.17678" r="0.19822" style="fill:#231f20"/>
+		<circle cx="548.23819" cy="472.84525" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(546.0099 472.84558)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="548.23819" x2="548.23819" y1="473.15516" y2="480.59311"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="548.23819" x2="550.79693" y1="479.69728" y2="479.69728"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="548.12986" x2="550.6886" y1="480.48895" y2="480.48895"/>
+		<circle cx="548.12986" cy="470.70662" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(544.63979 480.48907)"></text>
+		<circle cx="342.49515" cy="472.92562" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="342.4298" x2="342.4298" y1="473.162" y2="480.47917"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="342.49515" x2="345.05389" y1="479.6875" y2="479.6875"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="342.38682" x2="344.94556" y1="480.47917" y2="480.47917"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(338.44203 481.13037)"></text>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-03">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(484.31521 480.28094)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(490.50223 475.06958)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(495.60232 475.82874)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="507.80433" x2="507.80433" y1="477.89483" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="505.03766" x2="505.03766" y1="477.65936" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="503.37093" x2="503.37093" y1="477.0239" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="501.56266" x2="501.56266" y1="476.58843" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="499.15433" x2="499.15433" y1="476.15297" y2="470.79115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="497.10433" x2="497.10433" y1="475.7175" y2="470.69115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="494.3376" x2="494.3376" y1="475.48204" y2="470.39115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="492.26266" x2="492.26266" y1="474.84657" y2="469.99115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="489.67704" x2="489.67704" y1="474.4111" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="487.56124" x2="487.56124" y1="473.97564" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="507.76597" x2="487.60311" y1="471.37507" y2="469.77507"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="507.76597" x2="487.60311" y1="472.29645" y2="470.69645"/>
+		<circle cx="487.56124" cy="473.61693" r="0.47422" style="fill:#231f20"/>
+		<circle cx="489.61549" cy="474.29115" r="0.47422" style="fill:#231f20"/>
+		<circle cx="492.26266" cy="474.96209" r="0.47422" style="fill:#231f20"/>
+		<circle cx="494.3376" cy="475.72861" r="0.47422" style="fill:#231f20"/>
+		<circle cx="497.10433" cy="475.83317" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(500.09354 476.52911)">♭</text>
+		<circle cx="499.02927" cy="476.42901" r="0.47422" style="fill:#231f20"/>
+		<circle cx="501.596" cy="476.53357" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(506.34354 478.00769)">♭</text>
+		<circle cx="503.37093" cy="477.10777" r="0.47422" style="fill:#231f20"/>
+		<circle cx="505.03766" cy="478.01232" r="0.47422" style="fill:#231f20"/>
+		<circle cx="507.80433" cy="477.95607" r="0.47422" style="fill:#231f20"/>
+		<path d="M487.34888,475.93317s4.05344,4.44487,20.13045,3.52516" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<path d="M499.76572,480.878c.25.25,8.19166,1,8.19166,1l-8.19166,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<circle cx="364.37126" cy="472.92562" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(362.05838 472.92554)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="364.30591" x2="364.30591" y1="473.162" y2="480.47917"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="364.37126" x2="366.93" y1="479.6875" y2="479.6875"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="364.26292" x2="366.82166" y1="480.47917" y2="480.47917"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(360.31814 481.13037)"></text>
+		<circle cx="364.2812" cy="471.17678" r="0.19822" style="fill:#231f20"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-04">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-05">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<circle cx="99.59783" cy="472.92562" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(97.28491 472.92559)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="99.53248" x2="99.53248" y1="473.162" y2="480.47917"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="99.59783" x2="102.15657" y1="479.6875" y2="479.6875"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="99.48949" x2="102.04824" y1="480.47917" y2="480.47917"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(95.17871 481.13024)"></text>
+		<circle cx="99.50777" cy="471.17678" r="0.19822" style="fill:#231f20"/>
+		<circle cx="311.61349" cy="472.92562" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(309.30054 472.92559)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="311.54815" x2="311.54815" y1="473.162" y2="480.47917"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="311.61349" x2="314.17224" y1="479.6875" y2="479.6875"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="311.50516" x2="314.0639" y1="480.47917" y2="480.47917"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(307.5603 481.13036)"></text>
+		<circle cx="311.52344" cy="471.17678" r="0.19822" style="fill:#231f20"/>
+		<circle cx="222.39305" cy="472.84525" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(220.16479 472.84551)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="222.39305" x2="222.39305" y1="473.15516" y2="480.59311"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="222.39305" x2="224.95179" y1="479.69728" y2="479.69728"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="222.28472" x2="224.84346" y1="480.48895" y2="480.48895"/>
+		<circle cx="222.28472" cy="470.70662" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(218.79468 480.48906)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(459.14087 480.28093)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(465.32788 475.06957)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(470.42798 475.82872)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="482.63021" x2="482.63021" y1="477.89483" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="479.86354" x2="479.86354" y1="477.65936" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="478.19681" x2="478.19681" y1="477.0239" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="476.38854" x2="476.38854" y1="476.58843" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="473.98021" x2="473.98021" y1="476.15297" y2="470.79115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="471.93021" x2="471.93021" y1="475.7175" y2="470.69115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="469.16348" x2="469.16348" y1="475.48204" y2="470.39115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="467.08854" x2="467.08854" y1="474.84657" y2="469.99115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="464.50292" x2="464.50292" y1="474.4111" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="462.38712" x2="462.38712" y1="473.97564" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="482.59185" x2="462.42899" y1="471.37507" y2="469.77507"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="482.59185" x2="462.42899" y1="472.29645" y2="470.69645"/>
+		<circle cx="462.38712" cy="473.61693" r="0.47422" style="fill:#231f20"/>
+		<circle cx="464.44137" cy="474.29115" r="0.47422" style="fill:#231f20"/>
+		<circle cx="467.08854" cy="474.96209" r="0.47422" style="fill:#231f20"/>
+		<circle cx="469.16348" cy="475.72861" r="0.47422" style="fill:#231f20"/>
+		<circle cx="471.93021" cy="475.83317" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(474.91919 476.5291)">♭</text>
+		<circle cx="473.85514" cy="476.42901" r="0.47422" style="fill:#231f20"/>
+		<circle cx="476.42188" cy="476.53357" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(481.16919 478.00768)">♭</text>
+		<circle cx="478.19681" cy="477.10777" r="0.47422" style="fill:#231f20"/>
+		<circle cx="479.86354" cy="478.01232" r="0.47422" style="fill:#231f20"/>
+		<circle cx="482.63021" cy="477.95607" r="0.47422" style="fill:#231f20"/>
+		<path d="M462.17476,475.93317s4.05344,4.44487,20.13045,3.52516" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<path d="M474.59159,480.878c.25.25,8.19167,1,8.19167,1l-8.19167,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-06">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<circle cx="342.49515" cy="472.92562" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="342.4298" x2="342.4298" y1="473.162" y2="480.47917"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="342.49515" x2="345.05389" y1="479.6875" y2="479.6875"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="342.38682" x2="344.94556" y1="480.47917" y2="480.47917"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(338.44203 481.13036)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(705.06068 480.28093)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(711.24721 475.06957)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(716.3473 475.82872)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="728.55" x2="728.55" y1="477.89483" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="725.78334" x2="725.78334" y1="477.65936" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="724.1166" x2="724.1166" y1="477.0239" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="722.30834" x2="722.30834" y1="476.58843" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="719.9" x2="719.9" y1="476.15297" y2="470.79115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="717.85" x2="717.85" y1="475.7175" y2="470.69115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="715.08327" x2="715.08327" y1="475.48204" y2="470.39115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="713.00834" x2="713.00834" y1="474.84657" y2="469.99115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="710.42271" x2="710.42271" y1="474.4111" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="708.30691" x2="708.30691" y1="473.97564" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="728.51164" x2="708.34878" y1="471.37507" y2="469.77507"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="728.51164" x2="708.34878" y1="472.29645" y2="470.69645"/>
+		<circle cx="708.30691" cy="473.61693" r="0.47422" style="fill:#231f20"/>
+		<circle cx="710.36117" cy="474.29115" r="0.47422" style="fill:#231f20"/>
+		<circle cx="713.00834" cy="474.96209" r="0.47422" style="fill:#231f20"/>
+		<circle cx="715.08327" cy="475.72861" r="0.47422" style="fill:#231f20"/>
+		<circle cx="717.85" cy="475.83317" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(720.839 476.5291)">♭</text>
+		<circle cx="719.77494" cy="476.42901" r="0.47422" style="fill:#231f20"/>
+		<circle cx="722.34167" cy="476.53357" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(727.089 478.00768)">♭</text>
+		<circle cx="724.1166" cy="477.10777" r="0.47422" style="fill:#231f20"/>
+		<circle cx="725.78334" cy="478.01232" r="0.47422" style="fill:#231f20"/>
+		<circle cx="728.55" cy="477.95607" r="0.47422" style="fill:#231f20"/>
+		<path d="M708.09455,475.93317s4.05344,4.44487,20.13045,3.52516" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<path d="M720.51139,480.878c.25.25,8.19166,1,8.19166,1l-8.19166,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-07">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(504.99881 480.28093)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(511.18582 475.06957)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(516.28592 475.82872)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="528.48772" x2="528.48772" y1="477.89483" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="525.72106" x2="525.72106" y1="477.65936" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="524.05432" x2="524.05432" y1="477.0239" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="522.24606" x2="522.24606" y1="476.58843" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="519.83772" x2="519.83772" y1="476.15297" y2="470.79115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="517.78772" x2="517.78772" y1="475.7175" y2="470.69115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="515.02099" x2="515.02099" y1="475.48204" y2="470.39115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="512.94606" x2="512.94606" y1="474.84657" y2="469.99115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="510.36043" x2="510.36043" y1="474.4111" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="508.24463" x2="508.24463" y1="473.97564" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="528.44936" x2="508.2865" y1="471.37507" y2="469.77507"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="528.44936" x2="508.2865" y1="472.29645" y2="470.69645"/>
+		<circle cx="508.24463" cy="473.61693" r="0.47422" style="fill:#231f20"/>
+		<circle cx="510.29888" cy="474.29115" r="0.47422" style="fill:#231f20"/>
+		<circle cx="512.94606" cy="474.96209" r="0.47422" style="fill:#231f20"/>
+		<circle cx="515.02099" cy="475.72861" r="0.47422" style="fill:#231f20"/>
+		<circle cx="517.78772" cy="475.83317" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(520.77713 476.5291)">♭</text>
+		<circle cx="519.71266" cy="476.42901" r="0.47422" style="fill:#231f20"/>
+		<circle cx="522.27939" cy="476.53357" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(527.02713 478.00768)">♭</text>
+		<circle cx="524.05432" cy="477.10777" r="0.47422" style="fill:#231f20"/>
+		<circle cx="525.72106" cy="478.01232" r="0.47422" style="fill:#231f20"/>
+		<circle cx="528.48772" cy="477.95607" r="0.47422" style="fill:#231f20"/>
+		<path d="M508.03227,475.93317s4.05344,4.44487,20.13045,3.52516" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<path d="M520.44911,480.878c.25.25,8.19166,1,8.19166,1l-8.19166,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<circle cx="385.05465" cy="472.92562" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(382.74197 472.92559)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="384.9893" x2="384.9893" y1="473.162" y2="480.47917"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="385.05465" x2="387.61339" y1="479.6875" y2="479.6875"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="384.94631" x2="387.50506" y1="480.47917" y2="480.47917"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(381.00174 481.13036)"></text>
+		<circle cx="384.96459" cy="471.17678" r="0.19822" style="fill:#231f20"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-08">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-09">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(115.65845 480.28098)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(121.94507 475.16953)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(127.04517 475.82871)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="139.14753" x2="139.14753" y1="477.89483" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="136.68086" x2="136.68086" y1="477.65936" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="134.91413" x2="134.91413" y1="477.0239" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="133.30586" x2="133.30586" y1="476.58843" y2="471.19115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="130.59753" x2="130.59753" y1="476.15297" y2="470.79115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="128.54753" x2="128.54753" y1="475.7175" y2="470.69115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="125.6808" x2="125.6808" y1="475.48204" y2="470.39115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="123.70586" x2="123.70586" y1="474.84657" y2="469.99115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="121.02023" x2="121.02023" y1="474.4111" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="118.90443" x2="118.90443" y1="473.97564" y2="469.59115"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="139.10916" x2="118.94631" y1="471.37507" y2="469.77507"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="139.10916" x2="118.94631" y1="472.29645" y2="470.69645"/>
+		<circle cx="118.90443" cy="473.61693" r="0.47422" style="fill:#231f20"/>
+		<circle cx="120.95869" cy="474.29115" r="0.47422" style="fill:#231f20"/>
+		<circle cx="123.70586" cy="474.96209" r="0.47422" style="fill:#231f20"/>
+		<circle cx="125.6808" cy="475.72861" r="0.47422" style="fill:#231f20"/>
+		<circle cx="128.54753" cy="475.83317" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(131.83716 476.52915)">♭</text>
+		<circle cx="130.47246" cy="476.42901" r="0.47422" style="fill:#231f20"/>
+		<circle cx="133.33919" cy="476.53357" r="0.47422" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(137.68677 478.00767)">♭</text>
+		<circle cx="134.91413" cy="477.10777" r="0.47422" style="fill:#231f20"/>
+		<circle cx="136.68086" cy="478.01232" r="0.47422" style="fill:#231f20"/>
+		<circle cx="139.14753" cy="477.95607" r="0.47422" style="fill:#231f20"/>
+		<path d="M118.69208,475.93317s4.05344,4.44487,20.13045,3.52516" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<path d="M131.10891,480.878c.25.25,8.19167,1,8.19167,1l-8.19167,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-10">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<path d="M81.07085,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<polygon data-name="beam" id="beam-243" points="89.243 470.577 82.339 470.213 82.339 469.623 89.243 469.987 89.243 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="82.32216" x2="82.32216" y1="469.6168" y2="479.42899"/>
+		<path d="M84.5,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="82.25678" cy="478.96889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(87.37172 479.86851)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="85.6567" x2="85.6567" y1="469.90641" y2="479.7186"/>
+		<circle cx="85.59133" cy="479.7585" r="0.53124" style="fill:#231f20"/>
+		<path d="M88.12905,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="89.28579" x2="89.28579" y1="470.30641" y2="479.7186"/>
+		<circle cx="89.22041" cy="479.9585" r="0.53124" style="fill:#231f20"/>
+		<path d="M192.13443,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<path d="M195.36354,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="193.32036" cy="479.06889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(198.4352 479.86851)">♭</text>
+		<circle cx="196.4549" cy="479.7585" r="0.53124" style="fill:#231f20"/>
+		<path d="M199.19262,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="200.28399" cy="479.9585" r="0.53124" style="fill:#231f20"/>
+		<polygon data-name="beam" id="beam-244" points="302.006 470.577 295.101 470.213 295.101 469.623 302.006 469.987 302.006 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="295.08439" x2="295.08439" y1="469.6168" y2="479.12899"/>
+		<path d="M296.96219,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="295.01901" cy="478.66889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(292.99672 478.79233)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="298.11893" x2="298.11893" y1="469.90641" y2="479.1186"/>
+		<circle cx="298.05356" cy="478.9585" r="0.53124" style="fill:#231f20"/>
+		<path d="M300.89128,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="302.04802" x2="302.04802" y1="470.30641" y2="479.7186"/>
+		<circle cx="301.98264" cy="479.6585" r="0.53124" style="fill:#231f20"/>
+		<polygon data-name="beam" id="beam-245" points="576.086 471.701 569.181 471.337 569.181 470.747 576.086 471.111 576.086 471.701" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="569.16427" x2="569.16427" y1="470.74073" y2="476.95292"/>
+		<circle cx="569.0989" cy="476.49282" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="572.19882" x2="572.29882" y1="471.03034" y2="477.14253"/>
+		<circle cx="572.23344" cy="477.18243" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="576.1279" x2="576.1279" y1="471.43034" y2="477.54253"/>
+		<circle cx="576.06252" cy="477.89165" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(567.02602 476.4603)">♭</text>
+		<circle cx="92.24622" cy="474.33122" r="0.26562" style="fill:#231f20"/>
+		<circle cx="92.24622" cy="475.73649" r="0.26562" style="fill:#231f20"/>
+		<circle cx="80.21063" cy="474.33122" r="0.26562" style="fill:#231f20"/>
+		<circle cx="80.21063" cy="475.73649" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="92.92347" x2="92.92347" y1="473.36993" y2="476.63189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="79.5583" x2="79.5583" y1="473.36993" y2="476.63189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="93.54847" x2="93.54847" y1="473.36993" y2="476.63189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="78.9501" x2="78.9501" y1="473.36993" y2="476.63189"/>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-ItalicMT, Courier New;font-style:italic" transform="translate(94.52467 471.61461)">repeat, ad lib, as fast as possible</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="93.34339" x2="288.54816" y1="474.9591" y2="474.9591"/>
+		<path d="M190.64854,477.9476c-1.446,0-1.387,2.55933,0,2.55933" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px"/>
+		<path d="M202.25907,477.9476c1.446,0,1.387,2.55933,0,2.55933" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px"/>
+		<circle cx="303.90389" cy="474.34282" r="0.26562" style="fill:#231f20"/>
+		<circle cx="303.90389" cy="475.74808" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="305.00106" x2="320.15914" y1="474.9707" y2="474.9707"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="304.58114" x2="304.58114" y1="473.38153" y2="476.64349"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="305.20614" x2="305.20614" y1="473.38153" y2="476.64349"/>
+		<circle cx="292.2463" cy="474.34282" r="0.26562" style="fill:#231f20"/>
+		<circle cx="292.2463" cy="475.74808" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="291.56905" x2="291.56905" y1="473.38153" y2="476.64349"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="290.94405" x2="290.94405" y1="473.38153" y2="476.64349"/>
+		<circle cx="334.53301" cy="474.14282" r="0.26562" style="fill:#231f20"/>
+		<circle cx="334.53301" cy="475.54808" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="335.63018" x2="432.38539" y1="474.7707" y2="474.7707"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="335.21025" x2="335.21025" y1="473.18153" y2="476.44349"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="335.83525" x2="335.83525" y1="473.18153" y2="476.44349"/>
+		<circle cx="322.73913" cy="474.14282" r="0.26562" style="fill:#231f20"/>
+		<circle cx="322.73913" cy="475.54808" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="322.06188" x2="322.06188" y1="473.18153" y2="476.44349"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="321.43688" x2="321.43688" y1="473.18153" y2="476.44349"/>
+		<circle cx="447.55995" cy="474.22597" r="0.26562" style="fill:#231f20"/>
+		<circle cx="447.55995" cy="475.63124" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="448.65712" x2="507.19498" y1="474.85386" y2="474.85386"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="448.2372" x2="448.2372" y1="473.26468" y2="476.52664"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="448.8622" x2="448.8622" y1="473.26468" y2="476.52664"/>
+		<circle cx="435.90236" cy="474.22597" r="0.26562" style="fill:#231f20"/>
+		<circle cx="435.90236" cy="475.63124" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="435.22511" x2="435.22511" y1="473.26468" y2="476.52664"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="434.60011" x2="434.60011" y1="473.26468" y2="476.52664"/>
+		<circle cx="683.71865" cy="474.22597" r="0.26562" style="fill:#231f20"/>
+		<circle cx="683.71865" cy="475.63124" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="684.3959" x2="684.3959" y1="473.26468" y2="476.52664"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="685.0209" x2="685.0209" y1="473.26468" y2="476.52664"/>
+		<circle cx="672.06106" cy="474.22597" r="0.26562" style="fill:#231f20"/>
+		<circle cx="672.06106" cy="475.63124" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="671.38381" x2="671.38381" y1="473.26468" y2="476.52664"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="670.75881" x2="670.75881" y1="473.26468" y2="476.52664"/>
+		<circle cx="521.30714" cy="474.26941" r="0.26562" style="fill:#231f20"/>
+		<circle cx="521.30714" cy="475.67468" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="522.40431" x2="562.12805" y1="474.89729" y2="474.89729"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="521.98438" x2="521.98438" y1="473.30812" y2="476.57008"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="522.60938" x2="522.60938" y1="473.30812" y2="476.57008"/>
+		<circle cx="509.51326" cy="474.26941" r="0.26562" style="fill:#231f20"/>
+		<circle cx="509.51326" cy="475.67468" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="508.83601" x2="508.83601" y1="473.30812" y2="476.57008"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="508.21101" x2="508.21101" y1="473.30812" y2="476.57008"/>
+		<circle cx="577.97848" cy="474.34282" r="0.26562" style="fill:#231f20"/>
+		<circle cx="577.97848" cy="475.74808" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="579.07564" x2="618.23928" y1="474.9707" y2="474.9707"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="578.65572" x2="578.65572" y1="473.38153" y2="476.64349"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="579.28072" x2="579.28072" y1="473.38153" y2="476.64349"/>
+		<circle cx="566.32088" cy="474.34282" r="0.26562" style="fill:#231f20"/>
+		<circle cx="566.32088" cy="475.74808" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="565.64364" x2="565.64364" y1="473.38153" y2="476.64349"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="565.01864" x2="565.01864" y1="473.38153" y2="476.64349"/>
+		<circle cx="633.69109" cy="474.35321" r="0.26562" style="fill:#231f20"/>
+		<circle cx="633.69109" cy="475.75847" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="634.78826" x2="669.3683" y1="474.98109" y2="474.98109"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="685.28463" x2="808.89418" y1="474.98109" y2="474.98109"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="634.36834" x2="634.36834" y1="473.39192" y2="476.65388"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="634.99334" x2="634.99334" y1="473.39192" y2="476.65388"/>
+		<circle cx="621.30492" cy="474.35321" r="0.26562" style="fill:#231f20"/>
+		<circle cx="621.30492" cy="475.75847" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="620.62768" x2="620.62768" y1="473.39192" y2="476.65388"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="620.00268" x2="620.00268" y1="473.39192" y2="476.65388"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="84.83998" x2="81.46339" y1="468.15" y2="472.18475"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="297.41832" x2="294.04174" y1="468.55" y2="473.58475"/>
+		<path d="M82.07436,480.84945s2.13146,2.92555,7.14605,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<path d="M323.63986,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<polygon data-name="beam" id="beam-246" points="331.812 470.577 324.908 470.213 324.908 469.623 331.812 469.987 331.812 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="324.89117" x2="324.89117" y1="469.6168" y2="479.42899"/>
+		<path d="M327.069,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="324.82579" cy="478.96889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(329.94057 479.86851)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="328.22572" x2="328.22572" y1="469.90641" y2="479.7186"/>
+		<circle cx="328.16034" cy="479.7585" r="0.53124" style="fill:#231f20"/>
+		<path d="M330.69806,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="331.8548" x2="331.8548" y1="470.30641" y2="479.7186"/>
+		<circle cx="331.78942" cy="479.9585" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="327.40899" x2="324.03241" y1="468.15" y2="472.18475"/>
+		<path d="M324.64337,480.84945s2.13146,2.92555,7.14605,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<path d="M510.6198,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<polygon data-name="beam" id="beam-247" points="518.792 470.577 511.888 470.213 511.888 469.623 518.792 469.987 518.792 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="511.87111" x2="511.87111" y1="469.6168" y2="479.42899"/>
+		<path d="M514.04891,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="511.80573" cy="478.96889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(516.92055 479.86851)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="515.20566" x2="515.20566" y1="469.90641" y2="479.7186"/>
+		<circle cx="515.14028" cy="479.7585" r="0.53124" style="fill:#231f20"/>
+		<path d="M517.678,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="518.83474" x2="518.83474" y1="470.30641" y2="479.7186"/>
+		<circle cx="518.76936" cy="479.9585" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="514.38893" x2="511.01235" y1="468.15" y2="472.18475"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="571.38231" x2="568.00572" y1="470.55" y2="472.58475"/>
+		<path d="M511.62331,480.84945s2.13146,2.92555,7.14605,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<path d="M622.29282,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<polygon data-name="beam" id="beam-248" points="630.465 470.577 623.561 470.213 623.561 469.623 630.465 469.987 630.465 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="623.54413" x2="623.54413" y1="469.6168" y2="479.42899"/>
+		<path d="M625.72193,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="623.47875" cy="478.96889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(628.5934 479.86851)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="626.87867" x2="626.87867" y1="469.90641" y2="479.7186"/>
+		<circle cx="626.81329" cy="479.7585" r="0.53124" style="fill:#231f20"/>
+		<path d="M629.351,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="630.50776" x2="630.50776" y1="470.30641" y2="479.7186"/>
+		<circle cx="630.44238" cy="479.9585" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="626.06195" x2="622.68536" y1="468.15" y2="472.18475"/>
+		<path d="M623.29632,480.84945s2.13147,2.92555,7.14606,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<path d="M568.41283,479.84945s2.13146,2.92555,7.14605,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<path d="M294.57579,480.84945s2.13147,2.92555,7.14606,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<polygon data-name="beam" id="beam-249" points="445.596 470.577 438.692 470.213 438.692 469.623 445.596 469.987 445.596 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="438.67473" x2="438.67473" y1="469.6168" y2="479.12899"/>
+		<path d="M440.55253,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="438.60936" cy="478.66889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(436.58705 478.79233)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="441.70928" x2="441.70928" y1="469.90641" y2="479.1186"/>
+		<circle cx="441.6439" cy="478.9585" r="0.53124" style="fill:#231f20"/>
+		<path d="M444.48162,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="445.63836" x2="445.63836" y1="470.30641" y2="479.7186"/>
+		<circle cx="445.57298" cy="479.6585" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="441.00867" x2="437.63208" y1="468.55" y2="473.58475"/>
+		<path d="M438.16613,480.84945s2.13147,2.92555,7.14606,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<polygon data-name="beam" id="beam-250" points="682.066 470.577 675.161 470.213 675.161 469.623 682.066 469.987 682.066 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="675.14454" x2="675.14454" y1="469.6168" y2="479.12899"/>
+		<path d="M677.02234,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="675.07917" cy="478.66889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(673.05678 478.79233)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="678.17909" x2="678.17909" y1="469.90641" y2="479.1186"/>
+		<circle cx="678.11371" cy="478.9585" r="0.53124" style="fill:#231f20"/>
+		<path d="M680.95143,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="682.10817" x2="682.10817" y1="470.30641" y2="479.7186"/>
+		<circle cx="682.04279" cy="479.6585" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="677.47848" x2="674.10189" y1="468.55" y2="473.58475"/>
+		<path d="M674.63594,480.84945s2.13147,2.92555,7.14606,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-11">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="78.21981" x2="86.02811" y1="474.98109" y2="474.98109"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="86.02811" x2="86.02811" y1="473.61913" y2="476.08109"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-12">
+		<line data-name="spacer" id="spacer-47" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<path d="M81.07085,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<polygon data-name="beam" id="beam-245" points="89.243 470.577 82.339 470.213 82.339 469.623 89.243 469.987 89.243 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="82.32216" x2="82.32216" y1="469.6168" y2="479.42899"/>
+		<path d="M84.5,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="82.25678" cy="478.96889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(87.3715 479.86851)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="85.6567" x2="85.6567" y1="469.90641" y2="479.7186"/>
+		<circle cx="85.59133" cy="479.7585" r="0.53124" style="fill:#231f20"/>
+		<path d="M88.12905,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="89.28579" x2="89.28579" y1="470.30641" y2="479.7186"/>
+		<circle cx="89.22041" cy="479.9585" r="0.53124" style="fill:#231f20"/>
+		<path d="M192.13443,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<path d="M195.36354,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="193.32036" cy="479.06889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(198.43498 479.86851)">♭</text>
+		<circle cx="196.4549" cy="479.7585" r="0.53124" style="fill:#231f20"/>
+		<path d="M199.19262,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="200.28399" cy="479.9585" r="0.53124" style="fill:#231f20"/>
+		<polygon data-name="beam" id="beam-246" points="302.006 470.577 295.101 470.213 295.101 469.623 302.006 469.987 302.006 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="295.08439" x2="295.08439" y1="469.6168" y2="479.12899"/>
+		<path d="M296.96219,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="295.01901" cy="478.66889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(292.9965 478.79233)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="298.11893" x2="298.11893" y1="469.90641" y2="479.1186"/>
+		<circle cx="298.05356" cy="478.9585" r="0.53124" style="fill:#231f20"/>
+		<path d="M300.89128,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="302.04802" x2="302.04802" y1="470.30641" y2="479.7186"/>
+		<circle cx="301.98264" cy="479.6585" r="0.53124" style="fill:#231f20"/>
+		<polygon data-name="beam" id="beam-247" points="576.086 471.701 569.181 471.337 569.181 470.747 576.086 471.111 576.086 471.701" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="569.16427" x2="569.16427" y1="470.74073" y2="476.95292"/>
+		<circle cx="569.0989" cy="476.49282" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="572.19882" x2="572.29882" y1="471.03034" y2="477.14253"/>
+		<circle cx="572.23344" cy="477.18243" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="576.1279" x2="576.1279" y1="471.43034" y2="477.54253"/>
+		<circle cx="576.06252" cy="477.89165" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(567.0258 476.4603)">♭</text>
+		<circle cx="92.24622" cy="474.33122" r="0.26562" style="fill:#231f20"/>
+		<circle cx="92.24622" cy="475.73649" r="0.26562" style="fill:#231f20"/>
+		<circle cx="80.21063" cy="474.33122" r="0.26562" style="fill:#231f20"/>
+		<circle cx="80.21063" cy="475.73649" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="92.92347" x2="92.92347" y1="473.36993" y2="476.63189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="79.5583" x2="79.5583" y1="473.36993" y2="476.63189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="93.54847" x2="93.54847" y1="473.36993" y2="476.63189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="78.9501" x2="78.9501" y1="473.36993" y2="476.63189"/>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-ItalicMT, Courier New;font-style:italic" transform="translate(94.5247 471.61461)">repeat, ad lib, as fast as possible</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="93.34339" x2="288.54816" y1="474.9591" y2="474.9591"/>
+		<path d="M190.64854,477.9476c-1.446,0-1.387,2.55933,0,2.55933" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px"/>
+		<path d="M202.25907,477.9476c1.446,0,1.387,2.55933,0,2.55933" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px"/>
+		<circle cx="303.90389" cy="474.34282" r="0.26562" style="fill:#231f20"/>
+		<circle cx="303.90389" cy="475.74808" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="305.00106" x2="320.15914" y1="474.9707" y2="474.9707"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="304.58114" x2="304.58114" y1="473.38153" y2="476.64349"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="305.20614" x2="305.20614" y1="473.38153" y2="476.64349"/>
+		<circle cx="292.2463" cy="474.34282" r="0.26562" style="fill:#231f20"/>
+		<circle cx="292.2463" cy="475.74808" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="291.56905" x2="291.56905" y1="473.38153" y2="476.64349"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="290.94405" x2="290.94405" y1="473.38153" y2="476.64349"/>
+		<circle cx="334.53301" cy="474.14282" r="0.26562" style="fill:#231f20"/>
+		<circle cx="334.53301" cy="475.54808" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="335.63018" x2="432.38539" y1="474.7707" y2="474.7707"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="335.21025" x2="335.21025" y1="473.18153" y2="476.44349"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="335.83525" x2="335.83525" y1="473.18153" y2="476.44349"/>
+		<circle cx="322.73913" cy="474.14282" r="0.26562" style="fill:#231f20"/>
+		<circle cx="322.73913" cy="475.54808" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="322.06188" x2="322.06188" y1="473.18153" y2="476.44349"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="321.43688" x2="321.43688" y1="473.18153" y2="476.44349"/>
+		<circle cx="447.55995" cy="474.22597" r="0.26562" style="fill:#231f20"/>
+		<circle cx="447.55995" cy="475.63124" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="448.65712" x2="507.19498" y1="474.85386" y2="474.85386"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="448.2372" x2="448.2372" y1="473.26468" y2="476.52664"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="448.8622" x2="448.8622" y1="473.26468" y2="476.52664"/>
+		<circle cx="435.90236" cy="474.22597" r="0.26562" style="fill:#231f20"/>
+		<circle cx="435.90236" cy="475.63124" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="435.22511" x2="435.22511" y1="473.26468" y2="476.52664"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="434.60011" x2="434.60011" y1="473.26468" y2="476.52664"/>
+		<circle cx="683.71865" cy="474.22597" r="0.26562" style="fill:#231f20"/>
+		<circle cx="683.71865" cy="475.63124" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="684.3959" x2="684.3959" y1="473.26468" y2="476.52664"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="685.0209" x2="685.0209" y1="473.26468" y2="476.52664"/>
+		<circle cx="672.06106" cy="474.22597" r="0.26562" style="fill:#231f20"/>
+		<circle cx="672.06106" cy="475.63124" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="671.38381" x2="671.38381" y1="473.26468" y2="476.52664"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="670.75881" x2="670.75881" y1="473.26468" y2="476.52664"/>
+		<circle cx="521.30714" cy="474.26941" r="0.26562" style="fill:#231f20"/>
+		<circle cx="521.30714" cy="475.67468" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="522.40431" x2="562.12805" y1="474.89729" y2="474.89729"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="521.98438" x2="521.98438" y1="473.30812" y2="476.57008"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="522.60938" x2="522.60938" y1="473.30812" y2="476.57008"/>
+		<circle cx="509.51326" cy="474.26941" r="0.26562" style="fill:#231f20"/>
+		<circle cx="509.51326" cy="475.67468" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="508.83601" x2="508.83601" y1="473.30812" y2="476.57008"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="508.21101" x2="508.21101" y1="473.30812" y2="476.57008"/>
+		<circle cx="577.97848" cy="474.34282" r="0.26562" style="fill:#231f20"/>
+		<circle cx="577.97848" cy="475.74808" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="579.07564" x2="618.23928" y1="474.9707" y2="474.9707"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="578.65572" x2="578.65572" y1="473.38153" y2="476.64349"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="579.28072" x2="579.28072" y1="473.38153" y2="476.64349"/>
+		<circle cx="566.32088" cy="474.34282" r="0.26562" style="fill:#231f20"/>
+		<circle cx="566.32088" cy="475.74808" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="565.64364" x2="565.64364" y1="473.38153" y2="476.64349"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="565.01864" x2="565.01864" y1="473.38153" y2="476.64349"/>
+		<circle cx="633.69109" cy="474.35321" r="0.26562" style="fill:#231f20"/>
+		<circle cx="633.69109" cy="475.75847" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="634.78826" x2="669.3683" y1="474.98109" y2="474.98109"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="685.28463" x2="808.89418" y1="474.98109" y2="474.98109"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="634.36834" x2="634.36834" y1="473.39192" y2="476.65388"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="634.99334" x2="634.99334" y1="473.39192" y2="476.65388"/>
+		<circle cx="621.30492" cy="474.35321" r="0.26562" style="fill:#231f20"/>
+		<circle cx="621.30492" cy="475.75847" r="0.26562" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="620.62768" x2="620.62768" y1="473.39192" y2="476.65388"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="620.00268" x2="620.00268" y1="473.39192" y2="476.65388"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="84.83998" x2="81.46339" y1="468.15" y2="472.18475"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="297.41832" x2="294.04174" y1="468.55" y2="473.58475"/>
+		<path d="M82.07436,480.84945s2.13146,2.92555,7.14605,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<path d="M323.63986,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<polygon data-name="beam" id="beam-248" points="331.812 470.577 324.908 470.213 324.908 469.623 331.812 469.987 331.812 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="324.89117" x2="324.89117" y1="469.6168" y2="479.42899"/>
+		<path d="M327.069,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="324.82579" cy="478.96889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(329.94035 479.86851)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="328.22572" x2="328.22572" y1="469.90641" y2="479.7186"/>
+		<circle cx="328.16034" cy="479.7585" r="0.53124" style="fill:#231f20"/>
+		<path d="M330.69806,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="331.8548" x2="331.8548" y1="470.30641" y2="479.7186"/>
+		<circle cx="331.78942" cy="479.9585" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="327.40899" x2="324.03241" y1="468.15" y2="472.18475"/>
+		<path d="M324.64337,480.84945s2.13146,2.92555,7.14605,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<path d="M510.6198,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<polygon data-name="beam" id="beam-249" points="518.792 470.577 511.888 470.213 511.888 469.623 518.792 469.987 518.792 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="511.87111" x2="511.87111" y1="469.6168" y2="479.42899"/>
+		<path d="M514.04891,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="511.80573" cy="478.96889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(516.92033 479.86851)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="515.20566" x2="515.20566" y1="469.90641" y2="479.7186"/>
+		<circle cx="515.14028" cy="479.7585" r="0.53124" style="fill:#231f20"/>
+		<path d="M517.678,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="518.83474" x2="518.83474" y1="470.30641" y2="479.7186"/>
+		<circle cx="518.76936" cy="479.9585" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="514.38893" x2="511.01235" y1="468.15" y2="472.18475"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="571.38231" x2="568.00572" y1="470.55" y2="472.58475"/>
+		<path d="M511.62331,480.84945s2.13146,2.92555,7.14605,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<path d="M622.29282,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<polygon data-name="beam" id="beam-250" points="630.465 470.577 623.561 470.213 623.561 469.623 630.465 469.987 630.465 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="623.54413" x2="623.54413" y1="469.6168" y2="479.42899"/>
+		<path d="M625.72193,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="623.47875" cy="478.96889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(628.59318 479.86851)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="626.87867" x2="626.87867" y1="469.90641" y2="479.7186"/>
+		<circle cx="626.81329" cy="479.7585" r="0.53124" style="fill:#231f20"/>
+		<path d="M629.351,478.96386h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="630.50776" x2="630.50776" y1="470.30641" y2="479.7186"/>
+		<circle cx="630.44238" cy="479.9585" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="626.06195" x2="622.68536" y1="468.15" y2="472.18475"/>
+		<path d="M623.29632,480.84945s2.13147,2.92555,7.14606,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<path d="M568.41283,479.84945s2.13146,2.92555,7.14605,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<path d="M294.57579,480.84945s2.13147,2.92555,7.14606,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<polygon data-name="beam" id="beam-251" points="445.596 470.577 438.692 470.213 438.692 469.623 445.596 469.987 445.596 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="438.67473" x2="438.67473" y1="469.6168" y2="479.12899"/>
+		<path d="M440.55253,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="438.60936" cy="478.66889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(436.58684 478.79233)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="441.70928" x2="441.70928" y1="469.90641" y2="479.1186"/>
+		<circle cx="441.6439" cy="478.9585" r="0.53124" style="fill:#231f20"/>
+		<path d="M444.48162,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="445.63836" x2="445.63836" y1="470.30641" y2="479.7186"/>
+		<circle cx="445.57298" cy="479.6585" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="441.00867" x2="437.63208" y1="468.55" y2="473.58475"/>
+		<path d="M438.16613,480.84945s2.13147,2.92555,7.14606,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<polygon data-name="beam" id="beam-252" points="682.066 470.577 675.161 470.213 675.161 469.623 682.066 469.987 682.066 470.577" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="675.14454" x2="675.14454" y1="469.6168" y2="479.12899"/>
+		<path d="M677.02234,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<circle cx="675.07917" cy="478.66889" r="0.53124" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(673.05656 478.79233)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="678.17909" x2="678.17909" y1="469.90641" y2="479.1186"/>
+		<circle cx="678.11371" cy="478.9585" r="0.53124" style="fill:#231f20"/>
+		<path d="M680.95143,478.96386h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="682.10817" x2="682.10817" y1="470.30641" y2="479.7186"/>
+		<circle cx="682.04279" cy="479.6585" r="0.53124" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="677.47848" x2="674.10189" y1="468.55" y2="473.58475"/>
+		<path d="M674.63594,480.84945s2.13147,2.92555,7.14606,1.17555" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-13">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="78.21981" x2="86.02811" y1="474.98109" y2="474.98109"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="86.02811" x2="86.02811" y1="473.61913" y2="476.08109"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-14">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-15">
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="761.10206" x2="763.80206" y1="470.79841" y2="470.79841"/>
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<circle cx="762.38801" cy="470.79841" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="762.88667" x2="809.47177" y1="470.79841" y2="470.85276"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(760.00781 481.0161)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(760.0083 470.81224)">♯</text>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-16">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="287.77966" x2="290.47966" y1="470.79841" y2="470.79841"/>
+		<circle cx="289.06562" cy="470.79841" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="289.56427" x2="336.14937" y1="470.79841" y2="470.85276"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(286.68568 481.0161)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(286.68617 470.81224)">♯</text>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="504.18363" x2="506.88363" y1="470.79841" y2="470.79841"/>
+		<circle cx="505.46958" cy="469.79841" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="505.96823" x2="552.55333" y1="469.79841" y2="469.85276"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(503.08949 481.0161)"></text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="78.58596" x2="133.73501" y1="470.79841" y2="470.80486"/>
+		<path d="M327.75928,480.011c.195.25,8.38894,1,8.38894,1l-8.38894,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+		<path d="M542.70753,480.011c.195.25,8.38893,1,8.38893,1l-8.38893,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-17">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="84.9792" x2="87.6792" y1="470.79841" y2="470.79841"/>
+		<circle cx="86.26515" cy="470.79841" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(83.88504 481.0161)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(83.88553 470.81224)">♯</text>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="631.90342" x2="634.02842" y1="470.93409" y2="470.93409"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="87.83999" x2="627.42044" y1="470.79841" y2="470.85276"/>
+		<circle cx="633.00962" cy="470.93449" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="634.129" x2="808.57177" y1="470.93449" y2="470.98884"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(631.54812 479.48216)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(630.61844 470.96117)">♮</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="632.96592" x2="632.96592" y1="471.52044" y2="476.64891"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-18">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(302.10344 475.7141)">♯</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="304.37108" x2="304.37108" y1="470.23314" y2="475.36161"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="306.32109" x2="390.3768" y1="475.62923" y2="475.62923"/>
+		<circle cx="304.42602" cy="475.71434" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<circle cx="393.48794" cy="475.05054" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="393.48794" x2="393.48794" y1="475.73719" y2="480.86566"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="393.9739" x2="519.34573" y1="475.15054" y2="475.15054"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="532.04616" x2="544.37883" y1="475.15054" y2="475.15054"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="554.08711" x2="566.41977" y1="475.15054" y2="475.15054"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="572.68236" x2="587.10903" y1="475.15054" y2="475.15054"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="735.99749" x2="746.33016" y1="475.15054" y2="475.15054"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="754.49274" x2="764.82541" y1="475.05054" y2="475.05054"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="684.04481" x2="725.73234" y1="475.15054" y2="475.15054"/>
+		<circle cx="531.17603" cy="475.05054" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="531.17603" x2="531.17603" y1="475.73719" y2="480.86566"/>
+		<circle cx="553.16857" cy="475.05054" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="553.16857" x2="553.16857" y1="475.73719" y2="480.86566"/>
+		<circle cx="571.99835" cy="475.05054" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="571.99835" x2="571.99835" y1="475.73719" y2="480.86566"/>
+		<circle cx="683.1287" cy="475.05054" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="683.1287" x2="683.1287" y1="475.73719" y2="480.86566"/>
+		<circle cx="735.1323" cy="475.05054" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="735.1323" x2="735.1323" y1="475.73719" y2="480.86566"/>
+		<circle cx="753.77184" cy="475.05054" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="753.77184" x2="753.77184" y1="475.73719" y2="480.86566"/>
+		<circle cx="773.23265" cy="475.05054" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="773.23265" x2="773.23265" y1="475.73719" y2="480.86566"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(80.54094 479.38207)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(79.205 470.8972)">♯</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="81.47224" x2="81.47224" y1="471.3833" y2="476.51177"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="83.42225" x2="148.77567" y1="470.81224" y2="470.81224"/>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="80.23425" x2="82.93425" y1="470.89735" y2="470.89735"/>
+		<circle cx="81.52718" cy="470.89735" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<circle cx="151.68681" cy="470.23355" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="151.68681" x2="151.68681" y1="470.9202" y2="476.04867"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="152.17276" x2="257.76068" y1="470.33355" y2="470.33355"/>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="150.31412" x2="152.71412" y1="471.0202" y2="471.0202"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(302.10344 480.86571)">
+			
+			<tspan style="font-size:2px;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" x="2.90796" y="0">subito</tspan>
+		</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="773.88799" x2="786.31466" y1="475.05054" y2="475.05054"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-19">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="80" x2="82.7" y1="469.9202" y2="469.9202"/>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="290.05504" x2="292.75504" y1="470.03355" y2="470.03355"/>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="290.05504" x2="292.75504" y1="471.13355" y2="471.13355"/>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="290.05504" x2="292.75504" y1="468.93355" y2="468.93355"/>
+		<circle cx="81.35" cy="469.93355" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="81.35" x2="81.35" y1="470.6202" y2="475.74867"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="81.83595" x2="287.22775" y1="469.93355" y2="469.93355"/>
+		<circle cx="291.41909" cy="468.03355" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(289.04004 468.14623)">♯</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="291.41909" x2="291.41909" y1="468.7202" y2="473.84867"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="291.90504" x2="503.51406" y1="468.03355" y2="468.03355"/>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="80" x2="82.7" y1="471.0202" y2="471.0202"/>
+	</g>
+	<g data-name="Layer 30 tsax" id="Layer_30_tsax-20">
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="478.06778" y2="463.89388"/>
+		<g id="player-30-tsax">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="472.18475" y2="472.18475"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="473.61693" y2="473.61693"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="475.04911" y2="475.04911"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="476.48129" y2="476.48129"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="477.91347" y2="477.91347"/>
+		</g>
+	</g>
+</svg>

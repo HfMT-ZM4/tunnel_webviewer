@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.1//EN'
+  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg encoding="UTF-8" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<g data-name="Layer 31 trb" id="Layer_31_trb-01">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g id="player-31-trb">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="98.19791" x2="100.89791" y1="484.86682" y2="484.86682"/>
+			<circle cx="99.4725" cy="484.86647" r="0.47422" style="fill:#231f20"/>
+			<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="99.4725" x2="99.4725" y1="494.48017" y2="485.14685"/>
+			<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="99.4725" x2="102.03124" y1="494.38017" y2="494.38017"/>
+			<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="99.36417" x2="101.92291" y1="493.5885" y2="493.5885"/>
+			<circle cx="99.2882" cy="483.43096" r="0.19822" style="fill:#231f20"/>
+			<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(97.7395 496.3783)"></text>
+			<circle cx="314.98386" cy="485.16647" r="0.47422" style="fill:#231f20"/>
+			<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="314.98386" x2="314.98386" y1="494.78017" y2="485.44685"/>
+			<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="314.98386" x2="317.5426" y1="494.68017" y2="494.68017"/>
+			<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="314.87553" x2="317.43427" y1="493.8885" y2="493.8885"/>
+			<circle cx="314.79957" cy="483.73096" r="0.19822" style="fill:#231f20"/>
+			<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(309.27417 494.68018)"></text>
+		</g>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="221.17031" x2="223.87031" y1="485.14158" y2="485.14158"/>
+		<circle cx="222.52031" cy="485.14642" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="222.52031" x2="222.52031" y1="485.21289" y2="494.07908"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="222.52031" x2="225.07905" y1="493.28742" y2="493.28742"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="222.41197" x2="224.97071" y1="494.07908" y2="494.07908"/>
+		<circle cx="222.51197" cy="484.21658" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(217.52808 494.07892)"></text>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-02">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g data-name="player-31-trb" id="player-31-trb-2">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="119.45803" x2="122.15803" y1="484.86682" y2="484.86682"/>
+		<circle cx="121.13262" cy="484.86647" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="121.13262" x2="121.13262" y1="494.48017" y2="485.14685"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="121.13262" x2="123.69136" y1="494.38017" y2="494.38017"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="121.02429" x2="123.58303" y1="493.5885" y2="493.5885"/>
+		<circle cx="120.94832" cy="483.43096" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(115.42299 494.38025)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(298.28432 494.39905)"></text>
+		<circle cx="303.39303" cy="488.32706" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="303.39303" x2="303.39303" y1="494.499" y2="488.32706"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="303.39303" x2="305.95177" y1="494.399" y2="494.399"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="303.2847" x2="305.84344" y1="493.60733" y2="493.60733"/>
+		<circle cx="303.20873" cy="484.54979" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(301.16859 488.32733)">♭</text>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="547.01544" x2="549.71544" y1="485.14158" y2="485.14158"/>
+		<circle cx="548.36544" cy="485.14642" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="548.36544" x2="548.36544" y1="485.21289" y2="494.07908"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="548.36544" x2="550.92419" y1="493.28742" y2="493.28742"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="548.25711" x2="550.81585" y1="494.07908" y2="494.07908"/>
+		<circle cx="548.35711" cy="484.21658" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(543.37318 494.07892)"></text>
+		<circle cx="342.36982" cy="489.06647" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="342.36982" x2="342.36982" y1="494.58017" y2="489.34685"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="342.36982" x2="344.92857" y1="494.48017" y2="494.48017"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="342.26149" x2="344.82023" y1="493.6885" y2="493.6885"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(337.39516 494.38025)"></text>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-03">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g data-name="player-31-trb" id="player-31-trb-2">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="79.30238" x2="82.30238" y1="493.14042" y2="493.14042"/>
+		<circle cx="80.74742" cy="493.14042" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="80.74742" x2="80.74742" y1="485.80711" y2="493.14042"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="81.14869" x2="119.12825" y1="493.14042" y2="493.14042"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(80.05643 496.15845)"></text>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="362.57134" x2="365.27134" y1="484.86682" y2="484.86682"/>
+		<circle cx="364.24593" cy="484.86647" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="364.24593" x2="364.24593" y1="494.48017" y2="485.14685"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="364.24593" x2="366.80467" y1="494.38017" y2="494.38017"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="364.1376" x2="366.69634" y1="493.5885" y2="493.5885"/>
+		<circle cx="364.06163" cy="483.43096" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(358.53641 494.38025)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(542.14529 494.39905)"></text>
+		<circle cx="547.5235" cy="488.32706" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="547.5235" x2="547.5235" y1="494.499" y2="488.32706"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="547.5235" x2="550.08224" y1="494.399" y2="494.399"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="547.41517" x2="549.97391" y1="493.60733" y2="493.60733"/>
+		<circle cx="547.3392" cy="484.54979" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(545.02957 488.32733)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(561.72391 494.39905)"></text>
+		<circle cx="567.10223" cy="488.32706" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="567.10223" x2="567.10223" y1="494.499" y2="488.32706"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="567.10223" x2="569.66097" y1="494.399" y2="494.399"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="566.9939" x2="569.55264" y1="493.60733" y2="493.60733"/>
+		<circle cx="566.91793" cy="484.54979" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(564.60818 488.32733)">♭</text>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-04">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g data-name="player-31-trb" id="player-31-trb-2">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="219.80175" x2="222.80175" y1="493.34042" y2="493.34042"/>
+		<circle cx="221.24679" cy="493.34042" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="221.24679" x2="221.24679" y1="486.00711" y2="493.34042"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="221.64806" x2="553.00989" y1="493.34042" y2="493.34042"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(220.55559 496.3584)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(270.08195 484.81288)">breathe when needed</text>
+		<text style="font-size:2.0145699977874756px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(223.39982 484.81274)">very slow wide vibrato</text>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-05">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g data-name="player-31-trb" id="player-31-trb-2">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="97.79791" x2="100.49791" y1="484.86682" y2="484.86682"/>
+		<circle cx="99.4725" cy="484.86647" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="99.4725" x2="99.4725" y1="494.48017" y2="485.14685"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="99.4725" x2="102.03124" y1="494.38017" y2="494.38017"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="99.36417" x2="101.92291" y1="493.5885" y2="493.5885"/>
+		<circle cx="99.2882" cy="483.43096" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(95.1792 494.48021)"></text>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="307.36132" x2="310.06132" y1="484.86682" y2="484.86682"/>
+		<circle cx="309.03592" cy="484.86647" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="309.03592" x2="309.03592" y1="494.48017" y2="485.14685"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="309.03592" x2="311.59466" y1="494.38017" y2="494.38017"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="308.92758" x2="311.48632" y1="493.5885" y2="493.5885"/>
+		<circle cx="308.71132" cy="483.23274" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(303.32617 494.38024)"></text>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="221.17031" x2="223.87031" y1="485.14158" y2="485.14158"/>
+		<circle cx="222.52031" cy="485.14642" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="222.52031" x2="222.52031" y1="485.21289" y2="494.07908"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="222.52031" x2="225.07905" y1="493.28742" y2="493.28742"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="222.41197" x2="224.97071" y1="494.07908" y2="494.07908"/>
+		<circle cx="222.51197" cy="484.21658" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(217.52808 494.07891)"></text>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="566.64956" x2="569.64956" y1="493.14042" y2="493.14042"/>
+		<circle cx="568.0946" cy="493.14042" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="568.0946" x2="568.0946" y1="485.80711" y2="493.14042"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="568.49587" x2="606.47543" y1="493.14042" y2="493.14042"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(567.40356 496.15844)"></text>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-06">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g data-name="player-31-trb" id="player-31-trb-2">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+		<circle cx="342.36982" cy="489.06647" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="342.36982" x2="342.36982" y1="494.58017" y2="489.34685"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="342.36982" x2="344.92857" y1="494.48017" y2="494.48017"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="342.26149" x2="344.82023" y1="493.6885" y2="493.6885"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(337.39516 494.38024)"></text>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-07">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g data-name="player-31-trb" id="player-31-trb-2">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="383.25473" x2="385.95473" y1="484.86682" y2="484.86682"/>
+		<circle cx="384.92932" cy="484.86647" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="384.92932" x2="384.92932" y1="494.48017" y2="485.14685"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="384.92932" x2="387.48806" y1="494.38017" y2="494.38017"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="384.82099" x2="387.37973" y1="493.5885" y2="493.5885"/>
+		<circle cx="384.74502" cy="483.43096" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(379.22 494.38024)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(562.82889 494.39904)"></text>
+		<circle cx="568.20689" cy="488.32706" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="568.20689" x2="568.20689" y1="494.499" y2="488.32706"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="568.20689" x2="570.76563" y1="494.399" y2="494.399"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="568.09856" x2="570.6573" y1="493.60733" y2="493.60733"/>
+		<circle cx="568.02259" cy="484.54979" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(565.71316 488.32732)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(582.4075 494.39904)"></text>
+		<circle cx="587.78562" cy="488.32706" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="587.78562" x2="587.78562" y1="494.499" y2="488.32706"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="587.78562" x2="590.34436" y1="494.399" y2="494.399"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="587.67729" x2="590.23603" y1="493.60733" y2="493.60733"/>
+		<circle cx="587.60132" cy="484.54979" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(585.29178 488.32732)">♭</text>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-08">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g data-name="player-31-trb" id="player-31-trb-2">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="220.92355" x2="223.92355" y1="493.14042" y2="493.14042"/>
+		<circle cx="222.36858" cy="493.14042" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="222.36858" x2="222.36858" y1="485.80711" y2="493.14042"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="222.76986" x2="554.13169" y1="493.14042" y2="493.14042"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(217.67766 495.15844)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(273.36101 484.81298)">breathe when needed</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(231.34221 484.81292)">very slow wide vibrato</text>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-09">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g data-name="player-31-trb" id="player-31-trb-2">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+		<circle cx="118.5878" cy="488.32706" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="118.5878" x2="118.5878" y1="494.499" y2="488.32706"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="118.5878" x2="121.14654" y1="494.399" y2="494.399"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="118.47946" x2="121.03821" y1="493.60733" y2="493.60733"/>
+		<circle cx="118.4035" cy="484.54979" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(116.09399 488.32737)">♭</text>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-10">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g data-name="player-31-trb" id="player-31-trb-2">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-11">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g data-name="player-31-trb" id="player-31-trb-2">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-12">
+		<g id="player-31-trb">
+			<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+			<g data-name="player-31-trb" id="player-31-trb-2">
+				<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+				<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+				<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+				<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+				<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+			</g>
+		</g>
+		<circle cx="473.95712" cy="492.76689" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="473.95712" x2="473.95712" y1="485.43358" y2="492.76689"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(469.39152 494.04648)"></text>
+		<circle cx="807.08633" cy="490.57567" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="807.08633" x2="807.08633" y1="483.24236" y2="490.57567"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(804.40324 494.86826)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(805.25236 490.50132)">♭</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="474.3584" x2="729.32756" y1="492.76689" y2="492.76689"/>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(478.26799 484.44761)">breath when needed</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(733.32829 491.19419)">gliss</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(755.77238 494.86802)">poco cresc.</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="730.56954" x2="804.06398" y1="492.56689" y2="490.87567"/>
+		<line data-name="spacer" id="spacer-46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<polyline points="802.832 493.667 772.427 494.454 802.832 495.131" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-13">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g id="player-31-trb">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-14">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g id="player-31-trb">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-15">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g id="player-31-trb">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+		<circle cx="84.31546" cy="484.84181" r="0.19822" style="fill:#231f20"/>
+		<circle cx="85.52782" cy="484.84181" r="0.19822" style="fill:#231f20"/>
+		<circle cx="86.74018" cy="484.84181" r="0.19822" style="fill:#231f20"/>
+		<circle cx="87.84636" cy="484.84181" r="0.19822" style="fill:#231f20"/>
+		<circle cx="89.16491" cy="484.84181" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(81.09912 495.76756)"></text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="84.39916" x2="84.39916" y1="486.53201" y2="494.80189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="85.58988" x2="85.58988" y1="486.50336" y2="494.80189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="86.78059" x2="86.78059" y1="486.47471" y2="494.80189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="87.97131" x2="87.97131" y1="486.44606" y2="494.80189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="89.16202" x2="89.16202" y1="486.41741" y2="494.80189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="84.31546" x2="89.07831" y1="494.61797" y2="494.61797"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="84.31546" x2="89.07831" y1="493.71797" y2="493.71797"/>
+		<circle cx="84.41546" cy="486.27757" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.088539454107423px" x1="83.28505" x2="88.23887" y1="492.96339" y2="495.68263"/>
+		<circle cx="461.72203" cy="484.84181" r="0.19822" style="fill:#231f20"/>
+		<circle cx="462.93439" cy="484.84181" r="0.19822" style="fill:#231f20"/>
+		<circle cx="464.14676" cy="484.84181" r="0.19822" style="fill:#231f20"/>
+		<circle cx="465.25294" cy="484.84181" r="0.19822" style="fill:#231f20"/>
+		<circle cx="466.57148" cy="484.84181" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(458.50562 495.76756)"></text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="461.80574" x2="461.80574" y1="486.53201" y2="494.80189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="462.99645" x2="462.99645" y1="486.50336" y2="494.80189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="464.18717" x2="464.18717" y1="486.47471" y2="494.80189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="465.37788" x2="465.37788" y1="486.44606" y2="494.80189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="466.56859" x2="466.56859" y1="486.41741" y2="494.80189"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="461.72203" x2="466.48489" y1="494.61797" y2="494.61797"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="461.72203" x2="466.48489" y1="493.71797" y2="493.71797"/>
+		<circle cx="461.82203" cy="486.27757" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.088539454107423px" x1="460.69162" x2="465.64544" y1="492.96339" y2="495.68263"/>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-16">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g id="player-31-trb">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+		<circle cx="130.52724" cy="484.80319" r="0.19822" style="fill:#231f20"/>
+		<circle cx="131.7396" cy="484.80319" r="0.19822" style="fill:#231f20"/>
+		<circle cx="132.95196" cy="484.80319" r="0.19822" style="fill:#231f20"/>
+		<circle cx="134.05814" cy="484.80319" r="0.19822" style="fill:#231f20"/>
+		<circle cx="135.37669" cy="484.80319" r="0.19822" style="fill:#231f20"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(127.31068 494.76366)"></text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="130.61094" x2="130.61094" y1="486.4934" y2="494.76328"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="131.80166" x2="131.80166" y1="486.46475" y2="494.76328"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="132.99237" x2="132.99237" y1="486.4361" y2="494.76328"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="134.18309" x2="134.18309" y1="486.40745" y2="494.76328"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="135.3738" x2="135.3738" y1="486.3788" y2="494.76328"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="130.52724" x2="135.29009" y1="494.57936" y2="494.57936"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="130.52724" x2="135.29009" y1="493.67936" y2="493.67936"/>
+		<circle cx="130.62724" cy="486.23896" r="0.47422" style="fill:#231f20"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.088539454107423px" x1="129.49683" x2="134.45065" y1="492.92478" y2="495.64402"/>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-17">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g id="player-31-trb">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(385.93973 494.76341)"></text>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="386.8595" x2="389.5595" y1="484.79898" y2="484.79898"/>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="386.8595" x2="389.5595" y1="483.49898" y2="483.49898"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="390.44042" x2="745.63996" y1="483.51902" y2="483.51902"/>
+		<circle cx="388.01779" cy="483.51902" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(746.40945 494.93822)"></text>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="747.32906" x2="750.02906" y1="484.97378" y2="484.97378"/>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="747.32906" x2="750.02906" y1="483.67378" y2="483.67378"/>
+		<circle cx="748.48734" cy="482.69382" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="750.00827" x2="808.57177" y1="482.69382" y2="482.69382"/>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-18">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g id="player-31-trb">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(81.04027 482.82265)">♯</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(82.4843 494.93822)"></text>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="82.48373" x2="85.18373" y1="484.97378" y2="484.97378"/>
+		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="82.48373" x2="85.18373" y1="483.67378" y2="483.67378"/>
+		<circle cx="83.64201" cy="482.69382" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="84.10449" x2="257.76068" y1="482.70787" y2="482.70787"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(301.13908 487.76534)">♯</text>
+		<circle cx="303.74084" cy="487.63652" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="304.20333" x2="519.34573" y1="487.65057" y2="487.65057"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="532.04616" x2="544.37883" y1="487.65057" y2="487.65057"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="550.64141" x2="562.97408" y1="487.65057" y2="487.65057"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="569.23666" x2="583.66333" y1="487.65057" y2="487.65057"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="735.99749" x2="746.33016" y1="487.65057" y2="487.65057"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="754.59274" x2="764.92541" y1="487.65057" y2="487.65057"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="684.04481" x2="725.73234" y1="487.65057" y2="487.65057"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(300.95207 494.76317)">
+			
+			<tspan style="font-size:2px;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" x="2.90796" y="0">subito</tspan>
+		</text>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="303.74084" x2="303.74084" y1="488.12247" y2="493.25094"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(529.02922 487.76534)">♯</text>
+		<circle cx="531.63109" cy="487.63652" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(547.58781 487.76534)">♯</text>
+		<circle cx="550.18969" cy="487.63652" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="531.63109" x2="531.63109" y1="488.12247" y2="493.25094"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="550.18969" x2="550.18969" y1="488.12247" y2="493.25094"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(566.24699 487.76534)">♯</text>
+		<circle cx="568.8489" cy="487.63652" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(680.75798 487.76534)">♯</text>
+		<circle cx="683.3599" cy="487.63652" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="568.7489" x2="568.7489" y1="488.12247" y2="493.25094"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="683.3599" x2="683.3599" y1="488.12247" y2="493.25094"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(732.76152 487.76534)">♯</text>
+		<circle cx="735.3635" cy="487.63652" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="735.3635" x2="735.3635" y1="488.12247" y2="493.25094"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(751.40104 487.76534)">♯</text>
+		<circle cx="754.00304" cy="487.63652" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="754.00304" x2="754.00304" y1="488.12247" y2="493.25094"/>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(770.86162 487.76534)">♯</text>
+		<circle cx="773.46385" cy="487.63652" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="773.46385" x2="773.46385" y1="488.12247" y2="493.25094"/>
+		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="773.98799" x2="786.41466" y1="487.65057" y2="487.65057"/>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-19">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g id="player-31-trb">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+	</g>
+	<g data-name="Layer 31 trb" id="Layer_31_trb-20">
+		<line data-name="spacer" id="spacer-45" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="491.89971" y2="477.72581"/>
+		<g id="player-31-trb">
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="486.20434" y2="486.20434"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="487.63652" y2="487.63652"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="489.0687" y2="489.0687"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="490.50088" y2="490.50088"/>
+			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="491.93306" y2="491.93306"/>
+		</g>
+	</g>
+</svg>
