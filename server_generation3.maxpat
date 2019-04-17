@@ -1958,9 +1958,9 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 27.0, 413.0, 143.0, 38.0 ],
-					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 47, 54, 55, 98, 47, 115, 118, 103, 47, 109, 111, 117, 115, 101, 47, 120, 121, 0, 0, 0, 44, 105, 105, 0, 0, 0, 5, -92, 0, 0, 1, -95 ],
-					"saved_bundle_length" : 52,
-					"text" : "/67b/svg/mouse/xy : [1444, 417]"
+					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 47, 49, 47, 115, 118, 103, 47, 109, 111, 117, 115, 101, 47, 120, 121, 0, 44, 105, 105, 0, 0, 0, 1, 83, 0, 0, 1, 24 ],
+					"saved_bundle_length" : 48,
+					"text" : "/1/svg/mouse/xy : [339, 280]"
 				}
 
 			}
@@ -2297,7 +2297,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-6",
@@ -3204,8 +3203,30 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "",
-										"visible" : 1,
 										"boxes" : [ 											{
+												"box" : 												{
+													"id" : "obj-44",
+													"maxclass" : "comment",
+													"numinlets" : 1,
+													"numoutlets" : 0,
+													"patching_rect" : [ 298.5, 428.29432700000001, 252.0, 20.0 ],
+													"presentation_linecount" : 2,
+													"text" : "<< elements that change based on the piece"
+												}
+
+											}
+, 											{
+												"box" : 												{
+													"id" : "obj-43",
+													"maxclass" : "comment",
+													"numinlets" : 1,
+													"numoutlets" : 0,
+													"patching_rect" : [ 271.5, 375.0, 211.0, 20.0 ],
+													"text" : "<< elements that are always the same"
+												}
+
+											}
+, 											{
 												"box" : 												{
 													"id" : "obj-41",
 													"maxclass" : "message",
@@ -3334,7 +3355,7 @@
  ]
 													}
 ,
-													"patching_rect" : [ 509.0, 405.0, 31.0, 22.0 ],
+													"patching_rect" : [ 777.0, 375.0, 31.0, 22.0 ],
 													"saved_object_attributes" : 													{
 														"description" : "",
 														"digest" : "",
@@ -4118,7 +4139,6 @@
 														"tags" : "",
 														"style" : "",
 														"subpatcher_template" : "",
-														"visible" : 1,
 														"boxes" : [ 															{
 																"box" : 																{
 																	"id" : "obj-6",
