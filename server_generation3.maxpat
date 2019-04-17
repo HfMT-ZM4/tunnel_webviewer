@@ -1934,15 +1934,15 @@
 					"fontface" : 0,
 					"fontsize" : 12.0,
 					"id" : "obj-40",
-					"linecount" : 3,
+					"linecount" : 2,
 					"maxclass" : "o.compose",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 27.0, 413.0, 143.0, 51.0 ],
-					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 49, 47, 99, 111, 110, 110, 101, 99, 116, 101, 100, 0, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 1, 0, 0, 0, 28, 47, 49, 47, 115, 99, 114, 101, 101, 110, 115, 105, 122, 101, 0, 0, 0, 44, 105, 105, 0, 0, 0, 5, 121, 0, 0, 2, 81 ],
-					"saved_bundle_length" : 76,
-					"text" : "/1/connected : 1,\n/1/screensize : [1401, 593]"
+					"patching_rect" : [ 27.0, 413.0, 143.0, 38.0 ],
+					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 47, 50, 47, 112, 108, 97, 121, 98, 117, 116, 116, 111, 110, 47, 109, 111, 117, 115, 101, 47, 115, 116, 97, 116, 101, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 0 ],
+					"saved_bundle_length" : 56,
+					"text" : "/2/playbutton/mouse/state : 0"
 				}
 
 			}
@@ -2227,8 +2227,9 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 330.0, 446.294326999999953, 234.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 37.0, 222.61790874999997, 224.0, 27.0 ],
-					"text" : "http://192.168.178.36:3002"
+					"presentation_linecount" : 2,
+					"presentation_rect" : [ 37.0, 222.61790874999997, 224.0, 47.0 ],
+					"text" : "http://192.168.178.177:3002"
 				}
 
 			}
@@ -2277,7 +2278,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-6",
@@ -3157,7 +3157,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 34.0, 79.0, 1414.0, 937.0 ],
+										"rect" : [ 506.0, 79.0, 1414.0, 937.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -3184,7 +3184,6 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "",
-										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-8",
@@ -3798,7 +3797,7 @@
 														}
 ,
 														"classnamespace" : "box",
-														"rect" : [ 34.0, 88.0, 1148.0, 937.0 ],
+														"rect" : [ 420.0, 79.0, 1148.0, 937.0 ],
 														"bglocked" : 0,
 														"openinpresentation" : 0,
 														"default_fontsize" : 12.0,
@@ -3825,7 +3824,6 @@
 														"tags" : "",
 														"style" : "",
 														"subpatcher_template" : "",
-														"visible" : 1,
 														"boxes" : [ 															{
 																"box" : 																{
 																	"id" : "obj-4",
@@ -3860,44 +3858,15 @@
 																"box" : 																{
 																	"fontface" : 0,
 																	"fontsize" : 12.0,
-																	"id" : "obj-2",
-																	"linecount" : 56,
-																	"maxclass" : "o.compose",
-																	"numinlets" : 2,
-																	"numoutlets" : 1,
-																	"outlettype" : [ "" ],
-																	"patching_rect" : [ 52.0, 1752.0, 301.0, 772.0 ],
-																	"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 120, 47, 115, 99, 114, 111, 108, 108, 98, 97, 114, 0, 0, 44, 46, 0, 0, 0, 0, 4, 100, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 115, 99, 114, 111, 108, 108, 98, 97, 114, 0, 0, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 114, 101, 99, 116, 0, 0, 0, 0, 0, 0, 0, 12, 47, 120, 0, 0, 44, 105, 0, 0, 0, 0, 0, 20, 0, 0, 0, 12, 47, 121, 0, 0, 44, 105, 0, 0, 0, 0, 1, -112, 0, 0, 0, 16, 47, 104, 101, 105, 103, 104, 116, 0, 44, 105, 0, 0, 0, 0, 0, 15, 0, 0, 0, 16, 47, 119, 105, 100, 116, 104, 0, 0, 44, 105, 0, 0, 0, 0, 4, 56, 0, 0, 0, 32, 47, 102, 105, 108, 108, 0, 0, 0, 44, 115, 0, 0, 114, 103, 98, 97, 40, 48, 44, 48, 44, 50, 53, 53, 44, 48, 46, 53, 41, 0, 0, 0, 0, 0, 1, -32, 47, 111, 110, 109, 111, 117, 115, 101, 109, 111, 118, 101, 0, 0, 0, 0, 44, 115, 0, 0, 32, 32, 32, 32, 10, 32, 32, 32, 32, 101, 118, 101, 110, 116, 46, 112, 114, 101, 118, 101, 110, 116, 68, 101, 102, 97, 117, 108, 116, 40, 41, 59, 10, 32, 32, 32, 32, 108, 101, 116, 32, 120, 32, 61, 32, 101, 118, 101, 110, 116, 46, 99, 108, 105, 101, 110, 116, 88, 59, 10, 32, 32, 32, 32, 105, 102, 40, 101, 118, 101, 110, 116, 46, 98, 117, 116, 116, 111, 110, 115, 32, 61, 61, 32, 49, 41, 123, 10, 32, 32, 32, 32, 32, 32, 108, 101, 116, 32, 114, 32, 61, 32, 40, 40, 120, 45, 50, 48, 41, 32, 47, 32, 49, 48, 56, 48, 41, 32, 42, 32, 55, 50, 49, 46, 57, 54, 57, 59, 10, 10, 32, 32, 32, 32, 32, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 105, 110, 112, 117, 116, 40, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 107, 101, 121, 58, 32, 39, 116, 119, 101, 101, 110, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 118, 97, 108, 58, 32, 91, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 99, 109, 100, 58, 32, 39, 112, 97, 117, 115, 101, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 116, 105, 109, 101, 58, 32, 114, 32, 10, 32, 32, 32, 32, 32, 32, 32, 32, 125, 44, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 109, 105, 110, 105, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 99, 109, 100, 58, 32, 39, 112, 97, 117, 115, 101, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 116, 105, 109, 101, 58, 32, 114, 10, 32, 32, 32, 32, 32, 32, 32, 32, 125, 93, 10, 32, 32, 32, 32, 32, 32, 125, 41, 59, 10, 32, 32, 32, 32, 32, 32, 108, 101, 116, 32, 117, 105, 84, 120, 116, 32, 61, 32, 100, 111, 99, 117, 109, 101, 110, 116, 46, 103, 101, 116, 69, 108, 101, 109, 101, 110, 116, 66, 121, 73, 100, 40, 39, 117, 115, 101, 114, 105, 110, 112, 117, 116, 39, 41, 59, 10, 32, 32, 32, 32, 32, 32, 117, 105, 84, 120, 116, 46, 118, 97, 108, 117, 101, 32, 61, 32, 114, 59, 10, 32, 32, 32, 32, 125, 0, 0, 0, 0, 0, 0, 1, -72, 47, 111, 110, 116, 111, 117, 99, 104, 109, 111, 118, 101, 0, 0, 0, 0, 44, 115, 0, 0, 10, 32, 32, 32, 32, 101, 118, 101, 110, 116, 46, 112, 114, 101, 118, 101, 110, 116, 68, 101, 102, 97, 117, 108, 116, 40, 41, 59, 10, 32, 32, 32, 32, 108, 101, 116, 32, 120, 32, 61, 32, 101, 118, 101, 110, 116, 46, 112, 97, 103, 101, 88, 59, 10, 10, 32, 32, 32, 32, 32, 32, 108, 101, 116, 32, 114, 32, 61, 32, 40, 40, 120, 45, 50, 48, 41, 32, 47, 32, 49, 48, 56, 48, 41, 32, 42, 32, 55, 50, 49, 46, 57, 54, 57, 59, 10, 10, 32, 32, 32, 32, 32, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 46, 105, 110, 112, 117, 116, 40, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 107, 101, 121, 58, 32, 39, 116, 119, 101, 101, 110, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 118, 97, 108, 58, 32, 91, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 99, 109, 100, 58, 32, 39, 112, 97, 117, 115, 101, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 116, 105, 109, 101, 58, 32, 114, 32, 10, 32, 32, 32, 32, 32, 32, 32, 32, 125, 44, 32, 123, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 105, 100, 58, 32, 39, 109, 105, 110, 105, 115, 99, 111, 114, 101, 45, 97, 110, 105, 109, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 99, 109, 100, 58, 32, 39, 112, 97, 117, 115, 101, 39, 44, 10, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 116, 105, 109, 101, 58, 32, 114, 10, 32, 32, 32, 32, 32, 32, 32, 32, 125, 93, 10, 32, 32, 32, 32, 32, 32, 32, 125, 41, 59, 10, 32, 32, 32, 32, 108, 101, 116, 32, 117, 105, 84, 120, 116, 32, 61, 32, 100, 111, 99, 117, 109, 101, 110, 116, 46, 103, 101, 116, 69, 108, 101, 109, 101, 110, 116, 66, 121, 73, 100, 40, 39, 117, 115, 101, 114, 105, 110, 112, 117, 116, 39, 41, 59, 10, 32, 32, 32, 32, 117, 105, 84, 120, 116, 46, 118, 97, 108, 117, 101, 32, 61, 32, 114, 59, 10, 32, 32, 32, 32, 0 ],
-																	"saved_bundle_length" : 1164,
-																	"text" : "/scrollbar : {\n\t/parent : \"overlay\",\n\t/id : \"scrollbar\",\n\t/new : \"rect\",\n\t/x : 20,\n\t/y : 400,\n\t/height : 15,\n\t/width : 1080,\n\t/fill : \"rgba(0,0,255,0.5)\",\n\t/onmousemove : \"    \n    event.preventDefault();\n    let x = event.clientX;\n    if(event.buttons == 1){\n      let r = ((x-20) / 1080) * 721.969;\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n      });\n      let uiTxt = document.getElementById('userinput');\n      uiTxt.value = r;\n    }\",\n\t/ontouchmove : \"\n    event.preventDefault();\n    let x = event.pageX;\n\n      let r = ((x-20) / 1080) * 721.969;\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n       });\n    let uiTxt = document.getElementById('userinput');\n    uiTxt.value = r;\n    \"\n}"
-																}
-
-															}
-, 															{
-																"box" : 																{
-																	"id" : "obj-1",
-																	"maxclass" : "newobj",
-																	"numinlets" : 1,
-																	"numoutlets" : 2,
-																	"outlettype" : [ "", "FullPacket" ],
-																	"patching_rect" : [ 116.0, 1437.0, 139.0, 22.0 ],
-																	"text" : "o.gather.select /scrollbar"
-																}
-
-															}
-, 															{
-																"box" : 																{
-																	"fontface" : 0,
-																	"fontsize" : 12.0,
 																	"id" : "obj-8",
 																	"linecount" : 182,
 																	"maxclass" : "o.expr.codebox",
 																	"numinlets" : 1,
 																	"numoutlets" : 2,
 																	"outlettype" : [ "FullPacket", "FullPacket" ],
-																	"patching_rect" : [ 378.0, 47.0, 1537.0, 2506.0 ],
+																	"patching_rect" : [ 307.0, 43.0, 1537.0, 2506.0 ],
 																	"presentation_linecount" : 182,
-																	"text" : "\n/players = aseq(1,72),\n\n/repeats = 1,\n\n/npages = 20,\n/secPerPage ??= 36,\n\n/x = 200,\n/y = 100,\n\n#/numbersY = 350,\n/numbersY = 80,\n\n/scale = 10,\n\n/stafflength = 731.441 * /scale,\n/leadin = 200 + /x,\n\n/scoreWidth = /stafflength * /npages ,\n\n/pixWidth = /scoreWidth * /repeats + /leadin,\n\n/secPerPix = /secPerPage / float32(/stafflength) ,\n\n/totalduration = /pixWidth * /secPerPix,\n\n/miniscaleX = 1080. / /pixWidth,\n\n/ministartX = 20,\n/ministartY = 700,\n\n/pages = aseq(1,/npages),\n\n\n/tween./id = \"score-anim\",\n/tween./target = \"#score\",\n/tween./dur = /totalduration,\n/tvars./x = -/pixWidth,\n/tvars./ease = \"linear\",\n/tvars./paused = \"true\",\n\n/tvars./onUpdate = [\"\",\" \n  if( this.time() % 1\t< 0.01){\n    let text = document.getElementById('userinput');\n    text.value = Math.floor(this.time());\n  }\n\"],\n\n/tween./vars = /tvars,\n\n\n/tween2./id = \"miniscore-anim\",\n/tween2./target = \"#miniplayhead\",\n/tween2./dur = /totalduration,\n/tvars2./x = \"+= 1080\",\n/tvars2./ease = \"linear\",\n/tvars2./paused = \"true\",\n\n/tween2./vars = /tvars2,\n\n/newtween./key = \"tween\",\n/newtween./val = [/tween, /tween2],\n\n#/out/all = /newtween,\n\n/instr = [\"vln\", \"vln\", \"fl\", \"fl\", \"cl\", \"asax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"srec\", \"cl\", \"trp\", \"tuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"ob\", \"cl\", \"tsax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"brec\", \"cl\", \"asax\", \"bsn\", \"db\", \"perc\", \"baritone\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"trec\", \"cl\", \"trp\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"ob\", \"cl\", \"tsax\", \"btuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\"],\n\nmap(\n  lambda([i],\n    /prefix = \"/\"+i,\n\n    /pid./new = \"text\",\n    /pid./id = \"playerID\",\n    /pid./x = 10,\n    /pid./y = 80,\n    /pid./text = i+\" \"+/instr[[i-1]],\n\n    /svg = /pid,\n\n    /n./parent = \"defscore\",\n    /n./new = \"use\",\n\n    map( \n      lambda([repeat],\n        /repeatStart = repeat * /scoreWidth, \n        map(\n          lambda([page],\n            /n./id = \"p\" + page + \"-\" + repeat,\n            /n./x = /leadin + /repeatStart + ((page - 1) * /stafflength),\n            /n./y = /y,\n\n            /layername = \"Layer_\" +i+ \"_\" +/instr[[i-1]],\n            /n./href = [\"scores/rama/\" +/layername+ \".svg#\"+/layername+ \"-\"+ (page < 10 ? \"0\" : \"\")+page , 1], \n\n            /n./transform = \"scale(\"+/scale+\")\",\n            /svg = [/svg, /n],\n\n            /n./id = \"n\"+page+\"-\"+repeat,\n            /n./y = /numbersY,\n            /n./href = [\"scores/rama/\" +/layername+ \".svg#count-\"+ (page < 10 ? \"0\" : \"\")+page , 1]#, \n\n          #  /svg = [/svg, /n]\n\n          ), /pages\n        )\n      ), aseq(0, /repeats-1)\n    ),\n  /new./key = \"svg\",\n  /new./val = /svg,\n\n  assign(\"/out\"+/prefix, /new )\n\n\n  ),  /players \n),\n\n/miniscore./id = \"mini\",\n/miniscore./new = \"use\",\n/miniscore./href = \"#defscore\",\n/miniscore./y = 720,\n/miniscore./x = /ministartX / /miniscaleX,\n/miniscore./transform = \"scale(\"+/miniscaleX+\", 0.5)\",\n/miniscore./class = \"noclick\",\n\n/scrollbar./parent = \"overlay\",\n/scrollbar./id = \"scrollbar\",\n/scrollbar./new = \"rect\",\n/scrollbar./x = /ministartX,\n/scrollbar./y = 400,\n/scrollbar./height = 15,\n/scrollbar./width = 1080,\n/scrollbar./fill = \"rgba(0,0,255,0.5)\",\n\n/scrollbar./onmousemove = \"    \n    event.preventDefault();\n    let x = event.clientX;\n    if(event.buttons == 1){\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n      });\n      let uiTxt = document.getElementById('userinput');\n      uiTxt.value = r;\n    }\",\n/scrollbar./ontouchmove = \"\n    event.preventDefault();\n    let x = event.pageX;\n\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n       });\n    let uiTxt = document.getElementById('userinput');\n    uiTxt.value = r;\n    \",\n\n/minisvg./key = \"svg\",\n/minisvg./val = [/miniscore, /scrollbar],\nassign(\"/out2/*\", [/newtween, /minisvg])\n"
+																	"text" : "\n/players = aseq(1,72),\n\n/repeats = 1,\n\n/npages = 20,\n/secPerPage ??= 36,\n\n/x = 200,\n/y = 100,\n\n#/numbersY = 350,\n/numbersY = 80,\n\n/scale = 10,\n\n/stafflength = 731.441 * /scale,\n/leadin = 200 + /x,\n\n/scoreWidth = /stafflength * /npages ,\n\n/pixWidth = /scoreWidth * /repeats + /leadin,\n\n/secPerPix = /secPerPage / float32(/stafflength) ,\n\n/totalduration = /pixWidth * /secPerPix,\n\n/miniscaleX = 1080. / /pixWidth,\n\n/ministartX = 20,\n/ministartY = 700,\n\n/pages = aseq(1,/npages),\n\n\n/tween./id = \"score-anim\",\n/tween./target = \"#score\",\n/tween./dur = /totalduration,\n/tvars./x = -/pixWidth,\n/tvars./ease = \"linear\",\n/tvars./paused = \"true\",\n\n/tvars./onUpdate = \" \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n\",\n\n/tween./vars = /tvars,\n\n\n/tween2./id = \"miniscore-anim\",\n/tween2./target = \"#miniplayhead\",\n/tween2./dur = /totalduration,\n/tvars2./x = \"+= 1080\",\n/tvars2./ease = \"linear\",\n/tvars2./paused = \"true\",\n\n/tween2./vars = /tvars2,\n\n/newtween./key = \"tween\",\n/newtween./val = [/tween, /tween2],\n\n#/out/all = /newtween,\n\n/instr = [\"vln\", \"vln\", \"fl\", \"fl\", \"cl\", \"asax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"srec\", \"cl\", \"trp\", \"tuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"ob\", \"cl\", \"tsax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"brec\", \"cl\", \"asax\", \"bsn\", \"db\", \"perc\", \"baritone\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"trec\", \"cl\", \"trp\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"ob\", \"cl\", \"tsax\", \"btuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\"],\n\nmap(\n  lambda([i],\n    /prefix = \"/\"+i,\n\n    /pid./new = \"text\",\n    /pid./id = \"playerID\",\n    /pid./x = 10,\n    /pid./y = 80,\n    /pid./text = i+\" \"+/instr[[i-1]],\n\n    /svg = /pid,\n\n    /n./parent = \"defscore\",\n    /n./new = \"use\",\n\n    map( \n      lambda([repeat],\n        /repeatStart = repeat * /scoreWidth, \n        map(\n          lambda([page],\n            /n./id = \"p\" + page + \"-\" + repeat,\n            /n./x = /leadin + /repeatStart + ((page - 1) * /stafflength),\n            /n./y = /y,\n\n            /layername = \"Layer_\" +i+ \"_\" +/instr[[i-1]],\n            /n./href = [\"scores/rama/\" +/layername+ \".svg#\"+/layername+ \"-\"+ (page < 10 ? \"0\" : \"\")+page , 1], \n\n            /n./transform = \"scale(\"+/scale+\")\",\n            /svg = [/svg, /n],\n\n            /n./id = \"n\"+page+\"-\"+repeat,\n            /n./y = /numbersY,\n            /n./href = [\"scores/rama/\" +/layername+ \".svg#count-\"+ (page < 10 ? \"0\" : \"\")+page , 1]#, \n\n          #  /svg = [/svg, /n]\n\n          ), /pages\n        )\n      ), aseq(0, /repeats-1)\n    ),\n  /new./key = \"svg\",\n  /new./val = /svg,\n\n  assign(\"/out\"+/prefix, /new )\n\n\n  ),  /players \n),\n\n/miniscore./id = \"mini\",\n/miniscore./new = \"use\",\n/miniscore./href = \"#defscore\",\n/miniscore./y = 720,\n/miniscore./x = /ministartX / /miniscaleX,\n/miniscore./transform = \"scale(\"+/miniscaleX+\", 0.5)\",\n/miniscore./class = \"noclick\",\n\n/scrollbar./parent = \"overlay\",\n/scrollbar./id = \"scrollbar\",\n/scrollbar./new = \"rect\",\n/scrollbar./x = /ministartX,\n/scrollbar./y = 400,\n/scrollbar./height = 15,\n/scrollbar./width = 1080,\n/scrollbar./fill = \"rgba(0,0,255,0.5)\",\n\n/scrollbar./onmousemove = \"    \n    event.preventDefault();\n    let x = event.clientX;\n    if(event.buttons == 1){\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n      });\n      let uiTxt = document.getElementById('userinput');\n      uiTxt.value = r;\n    }\",\n/scrollbar./ontouchmove = \"\n    event.preventDefault();\n    let x = event.pageX;\n\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n       });\n    let uiTxt = document.getElementById('userinput');\n    uiTxt.value = r;\n    \",\n\n/minisvg./key = \"svg\",\n/minisvg./val = [/miniscore, /scrollbar],\nassign(\"/out2/*\", [/newtween, /minisvg])\n"
 																}
 
 															}
@@ -3922,29 +3891,15 @@
 																	"maxclass" : "outlet",
 																	"numinlets" : 1,
 																	"numoutlets" : 0,
-																	"patching_rect" : [ 50.0, 1447.705672999999933, 30.0, 30.0 ]
+																	"patching_rect" : [ 88.5, 1951.705672999999933, 30.0, 30.0 ]
 																}
 
 															}
  ],
 														"lines" : [ 															{
 																"patchline" : 																{
-																	"destination" : [ "obj-2", 1 ],
-																	"source" : [ "obj-1", 0 ]
-																}
-
-															}
-, 															{
-																"patchline" : 																{
 																	"destination" : [ "obj-8", 0 ],
 																	"source" : [ "obj-12", 0 ]
-																}
-
-															}
-, 															{
-																"patchline" : 																{
-																	"destination" : [ "obj-3", 0 ],
-																	"source" : [ "obj-2", 0 ]
 																}
 
 															}
@@ -3957,16 +3912,7 @@
 															}
 , 															{
 																"patchline" : 																{
-																	"destination" : [ "obj-1", 0 ],
-																	"order" : 0,
-																	"source" : [ "obj-8", 0 ]
-																}
-
-															}
-, 															{
-																"patchline" : 																{
 																	"destination" : [ "obj-13", 0 ],
-																	"order" : 1,
 																	"source" : [ "obj-8", 0 ]
 																}
 
@@ -4053,15 +3999,15 @@
 													"fontface" : 0,
 													"fontsize" : 12.0,
 													"id" : "obj-2",
-													"linecount" : 41,
+													"linecount" : 47,
 													"maxclass" : "o.compose",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 365.0, 382.0, 417.0, 568.0 ],
-													"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 88, 47, 42, 0, 0, 44, 46, 0, 0, 0, 0, 3, 76, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 115, 118, 103, 0, 0, 0, 3, 36, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 46, 46, 46, 46, 0, 0, 0, 0, 0, 84, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 103, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 100, 101, 102, 115, 0, 0, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 100, 101, 102, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 0, 0, 56, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 103, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 1, 12, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 108, 105, 110, 101, 0, 0, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 112, 108, 97, 121, 104, 101, 97, 100, 0, 0, 0, 0, 0, 0, 0, 12, 47, 120, 49, 0, 44, 105, 0, 0, 0, 0, 0, -56, 0, 0, 0, 12, 47, 120, 50, 0, 44, 105, 0, 0, 0, 0, 0, -56, 0, 0, 0, 12, 47, 121, 49, 0, 44, 105, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 47, 121, 50, 0, 44, 105, 0, 0, 0, 0, 1, -112, 0, 0, 0, 112, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 96, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 115, 116, 114, 111, 107, 101, 0, 44, 115, 0, 0, 114, 101, 100, 0, 0, 0, 0, 24, 47, 115, 116, 114, 111, 107, 101, 45, 119, 105, 100, 116, 104, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 3, 0, 0, 0, 28, 47, 115, 116, 114, 111, 107, 101, 45, 111, 112, 97, 99, 105, 116, 121, 0, 44, 100, 0, 0, 63, -32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 84, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 117, 115, 101, 0, 0, 0, 0, 24, 47, 104, 114, 101, 102, 0, 0, 0, 44, 115, 0, 0, 35, 100, 101, 102, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 1, 20, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 108, 105, 110, 101, 0, 0, 0, 0, 0, 0, 0, 24, 47, 105, 100, 0, 44, 115, 0, 0, 109, 105, 110, 105, 112, 108, 97, 121, 104, 101, 97, 100, 0, 0, 0, 0, 0, 0, 0, 12, 47, 120, 49, 0, 44, 105, 0, 0, 0, 0, 0, 20, 0, 0, 0, 12, 47, 120, 50, 0, 44, 105, 0, 0, 0, 0, 0, 20, 0, 0, 0, 12, 47, 121, 49, 0, 44, 105, 0, 0, 0, 0, 1, -112, 0, 0, 0, 12, 47, 121, 50, 0, 44, 105, 0, 0, 0, 0, 1, -12, 0, 0, 0, 116, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 100, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 115, 116, 114, 111, 107, 101, 0, 44, 115, 0, 0, 98, 108, 117, 101, 0, 0, 0, 0, 0, 0, 0, 24, 47, 115, 116, 114, 111, 107, 101, 45, 119, 105, 100, 116, 104, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 3, 0, 0, 0, 28, 47, 115, 116, 114, 111, 107, 101, 45, 111, 112, 97, 99, 105, 116, 121, 0, 44, 100, 0, 0, 63, -32, 0, 0, 0, 0, 0, 0 ],
-													"saved_bundle_length" : 876,
-													"text" : "/* : {\n\t/key : \"svg\",\n\t/val : [{\n\t\t/new : \"g\",\n\t\t/parent : \"defs\",\n\t\t/id : \"defscore\"\n\t}, {\n\t\t/new : \"g\",\n\t\t/id : \"overlay\"\n\t}, {\n\t\t/parent : \"overlay\",\n\t\t/new : \"line\",\n\t\t/id : \"playhead\",\n\t\t/x1 : 200,\n\t\t/x2 : 200,\n\t\t/y1 : 0,\n\t\t/y2 : 400,\n\t\t/style : {\n\t\t\t/stroke : \"red\",\n\t\t\t/stroke-width : 3,\n\t\t\t/stroke-opacity : 0.5\n\t\t}\n\t}, {\n\t\t/id : \"score\",\n\t\t/new : \"use\",\n\t\t/href : \"#defscore\"\n\t}, {\n\t\t/parent : \"overlay\",\n\t\t/new : \"line\",\n\t\t/id : \"miniplayhead\",\n\t\t/x1 : 20,\n\t\t/x2 : 20,\n\t\t/y1 : 400,\n\t\t/y2 : 500,\n\t\t/style : {\n\t\t\t/stroke : \"blue\",\n\t\t\t/stroke-width : 3,\n\t\t\t/stroke-opacity : 0.5\n\t\t}\n\t}]\n}"
+													"patching_rect" : [ 365.0, 382.0, 417.0, 649.0 ],
+													"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, -44, 47, 42, 0, 0, 44, 46, 0, 0, 0, 0, 3, -56, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 115, 118, 103, 0, 0, 0, 3, -96, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 46, 46, 46, 46, 46, 0, 0, 0, 0, 84, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 103, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 100, 101, 102, 115, 0, 0, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 100, 101, 102, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 0, 0, 56, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 103, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 1, 12, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 108, 105, 110, 101, 0, 0, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 112, 108, 97, 121, 104, 101, 97, 100, 0, 0, 0, 0, 0, 0, 0, 12, 47, 120, 49, 0, 44, 105, 0, 0, 0, 0, 0, -56, 0, 0, 0, 12, 47, 120, 50, 0, 44, 105, 0, 0, 0, 0, 0, -56, 0, 0, 0, 12, 47, 121, 49, 0, 44, 105, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 47, 121, 50, 0, 44, 105, 0, 0, 0, 0, 1, -112, 0, 0, 0, 112, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 96, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 115, 116, 114, 111, 107, 101, 0, 44, 115, 0, 0, 114, 101, 100, 0, 0, 0, 0, 24, 47, 115, 116, 114, 111, 107, 101, 45, 119, 105, 100, 116, 104, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 3, 0, 0, 0, 28, 47, 115, 116, 114, 111, 107, 101, 45, 111, 112, 97, 99, 105, 116, 121, 0, 44, 100, 0, 0, 63, -32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 116, 101, 120, 116, 0, 0, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 116, 105, 109, 101, 99, 111, 117, 110, 116, 0, 0, 0, 0, 0, 0, 12, 47, 120, 0, 0, 44, 105, 0, 0, 0, 0, 0, -61, 0, 0, 0, 12, 47, 121, 0, 0, 44, 105, 0, 0, 0, 0, 0, 35, 0, 0, 0, 84, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 0, 16, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 117, 115, 101, 0, 0, 0, 0, 24, 47, 104, 114, 101, 102, 0, 0, 0, 44, 115, 0, 0, 35, 100, 101, 102, 115, 99, 111, 114, 101, 0, 0, 0, 0, 0, 1, 20, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 112, 97, 114, 101, 110, 116, 0, 44, 115, 0, 0, 111, 118, 101, 114, 108, 97, 121, 0, 0, 0, 0, 20, 47, 110, 101, 119, 0, 0, 0, 0, 44, 115, 0, 0, 108, 105, 110, 101, 0, 0, 0, 0, 0, 0, 0, 24, 47, 105, 100, 0, 44, 115, 0, 0, 109, 105, 110, 105, 112, 108, 97, 121, 104, 101, 97, 100, 0, 0, 0, 0, 0, 0, 0, 12, 47, 120, 49, 0, 44, 105, 0, 0, 0, 0, 0, 20, 0, 0, 0, 12, 47, 120, 50, 0, 44, 105, 0, 0, 0, 0, 0, 20, 0, 0, 0, 12, 47, 121, 49, 0, 44, 105, 0, 0, 0, 0, 1, -112, 0, 0, 0, 12, 47, 121, 50, 0, 44, 105, 0, 0, 0, 0, 1, -12, 0, 0, 0, 116, 47, 115, 116, 121, 108, 101, 0, 0, 44, 46, 0, 0, 0, 0, 0, 100, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 115, 116, 114, 111, 107, 101, 0, 44, 115, 0, 0, 98, 108, 117, 101, 0, 0, 0, 0, 0, 0, 0, 24, 47, 115, 116, 114, 111, 107, 101, 45, 119, 105, 100, 116, 104, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 3, 0, 0, 0, 28, 47, 115, 116, 114, 111, 107, 101, 45, 111, 112, 97, 99, 105, 116, 121, 0, 44, 100, 0, 0, 63, -32, 0, 0, 0, 0, 0, 0 ],
+													"saved_bundle_length" : 1000,
+													"text" : "/* : {\n\t/key : \"svg\",\n\t/val : [{\n\t\t/new : \"g\",\n\t\t/parent : \"defs\",\n\t\t/id : \"defscore\"\n\t}, {\n\t\t/new : \"g\",\n\t\t/id : \"overlay\"\n\t}, {\n\t\t/parent : \"overlay\",\n\t\t/new : \"line\",\n\t\t/id : \"playhead\",\n\t\t/x1 : 200,\n\t\t/x2 : 200,\n\t\t/y1 : 0,\n\t\t/y2 : 400,\n\t\t/style : {\n\t\t\t/stroke : \"red\",\n\t\t\t/stroke-width : 3,\n\t\t\t/stroke-opacity : 0.5\n\t\t}\n\t}, {\n\t\t/parent : \"overlay\",\n\t\t/new : \"text\",\n\t\t/id : \"timecount\",\n\t\t/x : 195,\n\t\t/y : 35\n\t}, {\n\t\t/id : \"score\",\n\t\t/new : \"use\",\n\t\t/href : \"#defscore\"\n\t}, {\n\t\t/parent : \"overlay\",\n\t\t/new : \"line\",\n\t\t/id : \"miniplayhead\",\n\t\t/x1 : 20,\n\t\t/x2 : 20,\n\t\t/y1 : 400,\n\t\t/y2 : 500,\n\t\t/style : {\n\t\t\t/stroke : \"blue\",\n\t\t\t/stroke-width : 3,\n\t\t\t/stroke-opacity : 0.5\n\t\t}\n\t}]\n}"
 												}
 
 											}
@@ -5206,13 +5152,6 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "o.gather.select.maxpat",
-				"bootpath" : "~/Documents/dev-lib/CNMAT-odot/patchers/namespace",
-				"patcherrelativepath" : "../CNMAT-odot/patchers/namespace",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "o.deferlow.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/Music-and-Computing/patchers/internal",
 				"patcherrelativepath" : "../../Max 8/Packages/Music-and-Computing/patchers/internal",
@@ -5249,14 +5188,6 @@
 			}
 , 			{
 				"name" : "o.compose.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "o.collect.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "o.if.mxo",
 				"type" : "iLaX"
 			}
 , 			{
