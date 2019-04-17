@@ -389,10 +389,15 @@ var drawsocket = (function(){
 
           let fix_position = (timestamp) => {
             let bb = el.node().getBBox();
-            if( bb.width === 0 && retries-- > 0)
+            if( bb.width === 0 && retries-- > 0){
+//              console.log('retrying');
               window.requestAnimationFrame(fix_position);
+            }
             else
             {
+              if( retries <= 0 )
+                console.log("retry timeout", retries);
+
               TweenMax.set(el.node(), {x: oldx - bb.x, y: oldy - bb.y, width: bb.width, height: bb.height} );
               el.node().classList.remove("invisible");
             }
@@ -718,6 +723,12 @@ var drawsocket = (function(){
 
       if( _obj[key] == "false" )
         _obj[key] = false;
+
+      if( key == "onUpdate" )
+      {
+        //_obj[key] = new Function( ..._obj[key] );
+        _obj[key] = new Function( "", _obj[key] );
+      }
 
     }    
     return _obj;
@@ -1699,6 +1710,10 @@ var drawsocket = (function(){
             else
               disableMultitouch();
         break;
+        case "do_sync":
+          do_sync();
+        break;
+
         default:
             console.log("unrouted command key:", key, objValue );
         break;
@@ -1853,6 +1868,13 @@ var drawsocket = (function(){
 
   }
 
+  function do_sync()
+  {
+    setTimeout(function () {
+      ts.sync().catch(err => console.loig('timesync err', err));
+    }, 100);
+  }
+
   function _SocketPort_()
   {
 
@@ -1970,7 +1992,7 @@ var drawsocket = (function(){
       port = new _SocketPort_();
       hasstate = false;
       document.getElementById("loading").style.visibility = "visible";
-      ts.sync();
+      do_sync();
     }
     else
     {
@@ -2020,12 +2042,14 @@ var drawsocket = (function(){
 
     ts = timesync.create({
         server:   port,
-        interval: 5000,
-        delay: 250
+        interval: null,
+        repeat: 5,
+        delay: 100
     });
 
     ts.on('sync', function (state) {
 
+      console.log('syncing', state);
       if( state === 'end' )
       {
         display_log('sync offset: ' + ts.offset + ' ms');
@@ -2037,9 +2061,11 @@ var drawsocket = (function(){
           document.getElementById("loading").style.visibility = "hidden";
 
           // ask server for current state
-        port.sendObj({ statereq: 1 });
-        hasstate = true;
+          port.sendObj({ statereq: 1 });
+
+          hasstate = true;
         }
+
       }
       else
       {
@@ -2067,11 +2093,12 @@ var drawsocket = (function(){
   
 
     ts.send = function (socket, data, timeout) {
+  //    console.log('sending', data, timeout);
       return new Promise(function (resolve, reject) {
         let timeoutFn = setTimeout(reject, timeout);
         if(port.readyState === port.OPEN)
         {
-      //    console.log(data);
+         //console.log('data',data);
           port.sendObj({
             timesync: data
           });
@@ -2091,7 +2118,8 @@ var drawsocket = (function(){
       this.ts.receive(null, data);
     });
     */
-
+    
+    
 
     if (typeof document.addEventListener === "undefined" || hidden === undefined) {
       console.log("Page Visibility API not found");
@@ -2103,6 +2131,8 @@ var drawsocket = (function(){
     initMultitouch("main-div");
     initMultitouch("touchdiv");
 
+    
+    do_sync();
   }
 
 

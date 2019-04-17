@@ -40,10 +40,29 @@
         for( let i = 0; i < 144; i++)
         {
             let idx = i+1;
-            let instr_i = (i % 72);
+
             let _link = document.createElement("a");
-            _link.href = `webview.html?fetch=scores/rama/echoic.json&prefix=/${instr_i+1}`;
-            _link.innerHTML = `${idx} ${instrs[instr_i]}`;
+            let instr_i = (i % 72);
+            
+            switch(idx){
+              case 112:
+              _link.href = `webview.html?fetch=scores/rama/echoic.json&prefix=/${instr_i+1}b`;
+              _link.innerHTML = `${idx} sub rec`;
+              break;
+              case 136:
+              _link.href = `webview.html?fetch=scores/rama/echoic.json&prefix=/${instr_i+1}b`;
+              _link.innerHTML = `${idx} alto rec`;
+              break;
+              case 139:
+              _link.href = `webview.html?fetch=scores/rama/echoic.json&prefix=/${instr_i+1}b`;
+              _link.innerHTML = `${idx} horn`;
+              break;
+              default:
+              _link.href = `webview.html?fetch=scores/rama/echoic.json&prefix=/${instr_i+1}`;
+              _link.innerHTML = `${idx} ${instrs[instr_i]}`;
+              break;
+            }
+
             _div.appendChild(_link);
             _div.appendChild(document.createElement("br"));
         }

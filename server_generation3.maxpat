@@ -1934,15 +1934,14 @@
 					"fontface" : 0,
 					"fontsize" : 12.0,
 					"id" : "obj-40",
-					"linecount" : 2,
 					"maxclass" : "o.compose",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 27.0, 413.0, 143.0, 38.0 ],
-					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 47, 50, 47, 112, 108, 97, 121, 98, 117, 116, 116, 111, 110, 47, 109, 111, 117, 115, 101, 47, 115, 116, 97, 116, 101, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 0 ],
-					"saved_bundle_length" : 56,
-					"text" : "/2/playbutton/mouse/state : 0"
+					"patching_rect" : [ 27.0, 413.0, 143.0, 24.0 ],
+					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 49, 52, 47, 99, 111, 110, 110, 101, 99, 116, 101, 100, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 0 ],
+					"saved_bundle_length" : 44,
+					"text" : "/14/connected : 0"
 				}
 
 			}
@@ -3157,7 +3156,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 506.0, 79.0, 1414.0, 937.0 ],
+										"rect" : [ 34.0, 79.0, 981.0, 937.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -3797,7 +3796,7 @@
 														}
 ,
 														"classnamespace" : "box",
-														"rect" : [ 420.0, 79.0, 1148.0, 937.0 ],
+														"rect" : [ 34.0, 79.0, 1612.0, 937.0 ],
 														"bglocked" : 0,
 														"openinpresentation" : 0,
 														"default_fontsize" : 12.0,
@@ -3825,6 +3824,81 @@
 														"style" : "",
 														"subpatcher_template" : "",
 														"boxes" : [ 															{
+																"box" : 																{
+																	"id" : "obj-6",
+																	"maxclass" : "newobj",
+																	"numinlets" : 0,
+																	"numoutlets" : 0,
+																	"patcher" : 																	{
+																		"fileversion" : 1,
+																		"appversion" : 																		{
+																			"major" : 8,
+																			"minor" : 0,
+																			"revision" : 6,
+																			"architecture" : "x64",
+																			"modernui" : 1
+																		}
+,
+																		"classnamespace" : "box",
+																		"rect" : [ 0.0, 0.0, 640.0, 480.0 ],
+																		"bglocked" : 0,
+																		"openinpresentation" : 0,
+																		"default_fontsize" : 12.0,
+																		"default_fontface" : 0,
+																		"default_fontname" : "Arial",
+																		"gridonopen" : 1,
+																		"gridsize" : [ 15.0, 15.0 ],
+																		"gridsnaponopen" : 1,
+																		"objectsnaponopen" : 1,
+																		"statusbarvisible" : 2,
+																		"toolbarvisible" : 1,
+																		"lefttoolbarpinned" : 0,
+																		"toptoolbarpinned" : 0,
+																		"righttoolbarpinned" : 0,
+																		"bottomtoolbarpinned" : 0,
+																		"toolbars_unpinned_last_save" : 0,
+																		"tallnewobj" : 0,
+																		"boxanimatetime" : 200,
+																		"enablehscroll" : 1,
+																		"enablevscroll" : 1,
+																		"devicewidth" : 0.0,
+																		"description" : "",
+																		"digest" : "",
+																		"tags" : "",
+																		"style" : "",
+																		"subpatcher_template" : "",
+																		"boxes" : [ 																			{
+																				"box" : 																				{
+																					"fontface" : 0,
+																					"fontsize" : 12.0,
+																					"id" : "obj-5",
+																					"linecount" : 185,
+																					"maxclass" : "o.expr.codebox",
+																					"numinlets" : 1,
+																					"numoutlets" : 2,
+																					"outlettype" : [ "FullPacket", "FullPacket" ],
+																					"patching_rect" : [ 50.0, 100.0, 1537.0, 2547.0 ],
+																					"text" : "\n/npages = 20,\n/secPerPage ??= 36,\n\n/x = 200,\n/y = 100,\n\n#/numbersY = 350,\n/numbersY = 80,\n\n/scale = 10,\n\n/stafflength = 731.441 * /scale,\n/leadin = 200 + /x,\n\n/scoreWidth = /stafflength * /npages ,\n\n/pixWidth = /scoreWidth + /leadin,\n\n/secPerPix = /secPerPage / float32(/stafflength) ,\n\n/totalduration = /pixWidth * /secPerPix,\n\n/miniscaleX = 1080. / /pixWidth,\n\n/ministartX = 20,\n/ministartY = 700,\n\n/pages = aseq(1,/npages),\n\n\n/tween./id = \"score-anim\",\n/tween./target = \"#score\",\n/tween./dur = /totalduration,\n/tvars./x = -/pixWidth,\n/tvars./ease = \"linear\",\n/tvars./paused = \"true\",\n\n/tvars./onUpdate = \" \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n\",\n\n/tween./vars = /tvars,\n\n\n/tween2./id = \"miniscore-anim\",\n/tween2./target = \"#miniplayhead\",\n/tween2./dur = /totalduration,\n/tvars2./x = \"+= 1080\",\n/tvars2./ease = \"linear\",\n/tvars2./paused = \"true\",\n\n/tween2./vars = /tvars2,\n\n/newtween./key = \"tween\",\n/newtween./val = [/tween, /tween2],\n\n#/out/all = /newtween,\n\n/instr = [\"vln\", \"vln\", \"fl\", \"fl\", \"cl\", \"asax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"srec\", \"cl\", \"trp\", \"tuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"ob\", \"cl\", \"tsax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"brec\", \"cl\", \"asax\", \"bsn\", \"db\", \"perc\", \"baritone\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"trec\", \"cl\", \"trp\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"ob\", \"cl\", \"tsax\", \"btuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\"],\n\n/instrB = [ \"subrec\", #40 + 72 = 112\n            \"arec\", #64 + 72 = 136\n            \"hrn\" ], #67 + 72 = 139\n            \n\n/players = aseq(1,72),\n\n\n\nmap(\n  lambda([i],\n    /prefix = \"/\"+i,\n\n    /pid./new = \"text\",\n    /pid./id = \"playerID\",\n    /pid./x = 10,\n    /pid./y = 80,\n    /pid./text = i+\" \"+/instr[[i-1]],\n\n    /svg = /pid,\n\n    /n./parent = \"defscore\",\n    /n./new = \"use\",\n\n\n        map(\n          lambda([page],\n            /n./id = \"p\" + page,\n            /n./x = /leadin + ((page - 1) * /stafflength),\n            /n./y = /y,\n\n            /layername = \"Layer_\" +i+ \"_\" +/instr[[i-1]],\n            /pageZeroPadded = (page < 10 ? \"0\" : \"\")+page,\n            /n./href = [\"scores/rama/\" +/layername+ \".svg#\"+ /layername +\"-\"+ /pageZeroPadded , 1], \n\n            /n./transform = \"scale(\"+/scale+\")\",\n            /svg = [/svg, /n],\n\n            /n./id = \"n\"+page,\n            /n./y = /numbersY,\n            /n./href = [\"scores/rama/\" +/layername+ \".svg#count-\"+ (page < 10 ? \"0\" : \"\")+page , 1]#, \n\n          #  /svg = [/svg, /n]\n\n          ), /pages\n        ),\n\n  /new./key = \"svg\",\n  /new./val = /svg,\n\n  assign(\"/out\"+/prefix, /new )\n\n\n  ),  /players \n),\n\n/miniscore./id = \"mini\",\n/miniscore./new = \"use\",\n/miniscore./href = \"#defscore\",\n/miniscore./y = 720,\n/miniscore./x = /ministartX / /miniscaleX,\n/miniscore./transform = \"scale(\"+/miniscaleX+\", 0.5)\",\n/miniscore./class = \"noclick\",\n\n/scrollbar./parent = \"overlay\",\n/scrollbar./id = \"scrollbar\",\n/scrollbar./new = \"rect\",\n/scrollbar./x = /ministartX,\n/scrollbar./y = 400,\n/scrollbar./height = 15,\n/scrollbar./width = 1080,\n/scrollbar./fill = \"rgba(0,0,255,0.5)\",\n\n/scrollbar./onmousemove = \"    \n    event.preventDefault();\n    let x = event.clientX;\n    if(event.buttons == 1){\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n      });\n      let uiTxt = document.getElementById('userinput');\n      uiTxt.value = r;\n    }\",\n/scrollbar./ontouchmove = \"\n    event.preventDefault();\n    let x = event.pageX;\n\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n       });\n    let uiTxt = document.getElementById('userinput');\n    uiTxt.value = r;\n    \",\n\n/minisvg./key = \"svg\",\n/minisvg./val = [/miniscore, /scrollbar],\nassign(\"/out2/*\", [/newtween, /minisvg])\n"
+																				}
+
+																			}
+ ],
+																		"lines" : [  ]
+																	}
+,
+																	"patching_rect" : [ 307.0, 12.0, 57.0, 22.0 ],
+																	"saved_object_attributes" : 																	{
+																		"description" : "",
+																		"digest" : "",
+																		"globalpatchername" : "",
+																		"tags" : ""
+																	}
+,
+																	"text" : "p backup"
+																}
+
+															}
+, 															{
 																"box" : 																{
 																	"id" : "obj-4",
 																	"maxclass" : "newobj",
@@ -3859,14 +3933,14 @@
 																	"fontface" : 0,
 																	"fontsize" : 12.0,
 																	"id" : "obj-8",
-																	"linecount" : 182,
+																	"linecount" : 240,
 																	"maxclass" : "o.expr.codebox",
 																	"numinlets" : 1,
 																	"numoutlets" : 2,
 																	"outlettype" : [ "FullPacket", "FullPacket" ],
-																	"patching_rect" : [ 307.0, 43.0, 1537.0, 2506.0 ],
-																	"presentation_linecount" : 182,
-																	"text" : "\n/players = aseq(1,72),\n\n/repeats = 1,\n\n/npages = 20,\n/secPerPage ??= 36,\n\n/x = 200,\n/y = 100,\n\n#/numbersY = 350,\n/numbersY = 80,\n\n/scale = 10,\n\n/stafflength = 731.441 * /scale,\n/leadin = 200 + /x,\n\n/scoreWidth = /stafflength * /npages ,\n\n/pixWidth = /scoreWidth * /repeats + /leadin,\n\n/secPerPix = /secPerPage / float32(/stafflength) ,\n\n/totalduration = /pixWidth * /secPerPix,\n\n/miniscaleX = 1080. / /pixWidth,\n\n/ministartX = 20,\n/ministartY = 700,\n\n/pages = aseq(1,/npages),\n\n\n/tween./id = \"score-anim\",\n/tween./target = \"#score\",\n/tween./dur = /totalduration,\n/tvars./x = -/pixWidth,\n/tvars./ease = \"linear\",\n/tvars./paused = \"true\",\n\n/tvars./onUpdate = \" \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n\",\n\n/tween./vars = /tvars,\n\n\n/tween2./id = \"miniscore-anim\",\n/tween2./target = \"#miniplayhead\",\n/tween2./dur = /totalduration,\n/tvars2./x = \"+= 1080\",\n/tvars2./ease = \"linear\",\n/tvars2./paused = \"true\",\n\n/tween2./vars = /tvars2,\n\n/newtween./key = \"tween\",\n/newtween./val = [/tween, /tween2],\n\n#/out/all = /newtween,\n\n/instr = [\"vln\", \"vln\", \"fl\", \"fl\", \"cl\", \"asax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"srec\", \"cl\", \"trp\", \"tuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"ob\", \"cl\", \"tsax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"brec\", \"cl\", \"asax\", \"bsn\", \"db\", \"perc\", \"baritone\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"trec\", \"cl\", \"trp\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"ob\", \"cl\", \"tsax\", \"btuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\"],\n\nmap(\n  lambda([i],\n    /prefix = \"/\"+i,\n\n    /pid./new = \"text\",\n    /pid./id = \"playerID\",\n    /pid./x = 10,\n    /pid./y = 80,\n    /pid./text = i+\" \"+/instr[[i-1]],\n\n    /svg = /pid,\n\n    /n./parent = \"defscore\",\n    /n./new = \"use\",\n\n    map( \n      lambda([repeat],\n        /repeatStart = repeat * /scoreWidth, \n        map(\n          lambda([page],\n            /n./id = \"p\" + page + \"-\" + repeat,\n            /n./x = /leadin + /repeatStart + ((page - 1) * /stafflength),\n            /n./y = /y,\n\n            /layername = \"Layer_\" +i+ \"_\" +/instr[[i-1]],\n            /n./href = [\"scores/rama/\" +/layername+ \".svg#\"+/layername+ \"-\"+ (page < 10 ? \"0\" : \"\")+page , 1], \n\n            /n./transform = \"scale(\"+/scale+\")\",\n            /svg = [/svg, /n],\n\n            /n./id = \"n\"+page+\"-\"+repeat,\n            /n./y = /numbersY,\n            /n./href = [\"scores/rama/\" +/layername+ \".svg#count-\"+ (page < 10 ? \"0\" : \"\")+page , 1]#, \n\n          #  /svg = [/svg, /n]\n\n          ), /pages\n        )\n      ), aseq(0, /repeats-1)\n    ),\n  /new./key = \"svg\",\n  /new./val = /svg,\n\n  assign(\"/out\"+/prefix, /new )\n\n\n  ),  /players \n),\n\n/miniscore./id = \"mini\",\n/miniscore./new = \"use\",\n/miniscore./href = \"#defscore\",\n/miniscore./y = 720,\n/miniscore./x = /ministartX / /miniscaleX,\n/miniscore./transform = \"scale(\"+/miniscaleX+\", 0.5)\",\n/miniscore./class = \"noclick\",\n\n/scrollbar./parent = \"overlay\",\n/scrollbar./id = \"scrollbar\",\n/scrollbar./new = \"rect\",\n/scrollbar./x = /ministartX,\n/scrollbar./y = 400,\n/scrollbar./height = 15,\n/scrollbar./width = 1080,\n/scrollbar./fill = \"rgba(0,0,255,0.5)\",\n\n/scrollbar./onmousemove = \"    \n    event.preventDefault();\n    let x = event.clientX;\n    if(event.buttons == 1){\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n      });\n      let uiTxt = document.getElementById('userinput');\n      uiTxt.value = r;\n    }\",\n/scrollbar./ontouchmove = \"\n    event.preventDefault();\n    let x = event.pageX;\n\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n       });\n    let uiTxt = document.getElementById('userinput');\n    uiTxt.value = r;\n    \",\n\n/minisvg./key = \"svg\",\n/minisvg./val = [/miniscore, /scrollbar],\nassign(\"/out2/*\", [/newtween, /minisvg])\n"
+																	"patching_rect" : [ 370.0, 42.0, 1301.0, 3295.0 ],
+																	"presentation_linecount" : 239,
+																	"text" : "\n/npages = 20,\n/secPerPage ??= 36,\n\n/x = 200,\n/y = 100,\n\n#/numbersY = 350,\n/numbersY = 80,\n\n/scale = 10,\n\n/stafflength = 731.441 * /scale,\n/leadin = 200 + /x,\n\n/scoreWidth = /stafflength * /npages ,\n\n/pixWidth = /scoreWidth + /leadin,\n\n/secPerPix = /secPerPage / float32(/stafflength) ,\n\n/totalduration = /pixWidth * /secPerPix,\n\n/miniscaleX = 1080. / /pixWidth,\n\n/ministartX = 20,\n/ministartY = 700,\n\n/pages = aseq(1,/npages),\n\n\n/tween./id = \"score-anim\",\n/tween./target = \"#score\",\n/tween./dur = /totalduration,\n/tvars./x = -/pixWidth,\n/tvars./ease = \"linear\",\n/tvars./paused = \"true\",\n\n/tvars./onUpdate = \" \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n\",\n\n/tween./vars = /tvars,\n\n\n/tween2./id = \"miniscore-anim\",\n/tween2./target = \"#miniplayhead\",\n/tween2./dur = /totalduration,\n/tvars2./x = \"+= 1080\",\n/tvars2./ease = \"linear\",\n/tvars2./paused = \"true\",\n\n/tween2./vars = /tvars2,\n\n/newtween./key = \"tween\",\n/newtween./val = [/tween, /tween2],\n\n#/out/all = /newtween,\n\n/instr = [\"vln\", \"vln\", \"fl\", \"fl\", \"cl\", \"asax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"srec\", \"cl\", \"trp\", \"tuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"ob\", \"cl\", \"tsax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"brec\", \"cl\", \"asax\", \"bsn\", \"db\", \"perc\", \"baritone\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"trec\", \"cl\", \"trp\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"ob\", \"cl\", \"tsax\", \"btuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\"],\n\n/instrB = [ \"subrec\", #40 + 72 = 112\n            \"arec\", #64 + 72 = 136\n            \"hrn\" ], #67 + 72 = 139\n\n/gclef = [\"vln\", \"fl\", \"ob\",\"arec\", \"trec\", \"cl\", \"trp\",  \"asax\", \"tsax\", \"sopr\"],\n/fclef = [\"trb\", \"tuba\", \"btuba\", \"vc\", \"db\", \"subrec\", \"bsn\", \"baritone\" ],\n\n/getClef = quote(lambda([instr],\n  if( max( instr == /gclef ) > 0, [\"clef-1-vln\", 64],\n    if( max( instr == /fclef ) > 0, [\"clef-7-trb\", 80],\n      if( instr == \"accord\", [\"clef-12-accord\", 56],\n        if( instr == \"egtr\", [\"clef-11-egtr\", 56],\n          if( instr == \"srec\", [\"clef-16-srec\", 64],\n            if( instr == \"brec\", [\"clef-40-brec\", 64],\n              if( instr == \"vla\", [\"clef-14-vla\", 80]\n  )))))))\n)),\n\n\n/players = aseq(1,72),\n\n\n\n/n./parent = \"defscore\",\n/n./new = \"use\",\n/pid./new = \"text\",\n/pid./id = \"playerID\",\n/pid./x = 10,\n/pid./y = 80,\n\n/new./key = \"svg\",\n\nmap(\n  lambda([i],\n\n    /pid./text = i+\" \"+/instr[[i-1]],\n    /svg = /pid,\n\n    /prefix = \"/\"+i,\n\n    map(\n      lambda([page],\n        /n./id = \"p\" + page,\n        /n./x = /leadin + ((page - 1) * /stafflength),\n        /n./y = /y,\n\n        /layername = \"Layer_\" +i+ \"_\" +/instr[[i-1]],\n        /pageZeroPadded = (page < 10 ? \"0\" : \"\")+page,\n        /n./href = [\"scores/rama/\" +/layername+ \".svg#\"+ /layername +\"-\"+ /pageZeroPadded , 1], \n        /n./transform = \"scale(\"+/scale+\")\",\n\n        /svg = [/svg, /n]\n\n      ), /pages\n    ),\n\n    if( /instr[[i-1]] != \"perc\",\n      progn(\n        /lookupClef = /getClef( /instr[[i-1]] ),\n        /clef./parent = \"overlay\",\n        /clef./id = \"clef\",\n        /clef./new = \"use\",\n        /clef./href = [ \"scores/rama/clefs.svg#\"+  /lookupClef[[0]]  , 1],\n        /clef./y = /y + /lookupClef[[1]] ,\n        /clef./x = 0,\n        /clef./transform = \"scale(\"+/scale+\")\",\n        /svg = [/svg, /clef]\n      )\n    ),\n    \n    /new./val = /svg,\n    assign(\"/out\"+/prefix, /new ),\n\n\n    if( i == 40 || i == 64 || i == 67, \n      progn(\n        /instrName = if( i == 40, /instrB[[0]],\n                       if( i == 64, /instrB[[1]],\n                         if( i == 67, /instrB[[2]]))),\n\n        /pid./text = i+\" \"+/instrName,\n        /svg = /pid,\n\n        /prefix = \"/\" +i+ \"b\",\n\n        map(\n          lambda([page],\n            /n./id = \"p\" + page,\n            /n./x = /leadin + ((page - 1) * /stafflength),\n            /n./y = /y,\n\n            /layername = \"Layer_\" +i+ \"b_\" +/instrName,\n            /pageZeroPadded = (page < 10 ? \"0\" : \"\")+page,\n            /n./href = [\"scores/rama/\" +/layername+ \".svg#\"+ /layername +\"-\"+ /pageZeroPadded , 1], \n            /n./transform = \"scale(\"+/scale+\")\",\n\n            /svg = [/svg, /n]\n\n          ), /pages\n        ),\n\n        /new./val = /svg,\n        assign(\"/out\"+/prefix, /new )\n\n      )\n    )\n\n  ),  /players \n),\n\n/miniscore./id = \"mini\",\n/miniscore./new = \"use\",\n/miniscore./href = \"#defscore\",\n/miniscore./y = 720,\n/miniscore./x = /ministartX / /miniscaleX,\n/miniscore./transform = \"scale(\"+/miniscaleX+\", 0.5)\",\n/miniscore./class = \"noclick\",\n\n/scrollbar./parent = \"overlay\",\n/scrollbar./id = \"scrollbar\",\n/scrollbar./new = \"rect\",\n/scrollbar./x = /ministartX,\n/scrollbar./y = 400,\n/scrollbar./height = 15,\n/scrollbar./width = 1080,\n/scrollbar./fill = \"rgba(0,0,255,0.5)\",\n\n/scrollbar./onmousemove = \"    \n    event.preventDefault();\n    let x = event.clientX;\n    if(event.buttons == 1){\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n      });\n      let uiTxt = document.getElementById('userinput');\n      uiTxt.value = r;\n    }\",\n/scrollbar./ontouchmove = \"\n    event.preventDefault();\n    let x = event.pageX;\n\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n       });\n    let uiTxt = document.getElementById('userinput');\n    uiTxt.value = r;\n    \",\n\n/minisvg./key = \"svg\",\n/minisvg./val = [/miniscore, /scrollbar],\nassign(\"/out2/*\", [/newtween, /minisvg])\n"
 																}
 
 															}
