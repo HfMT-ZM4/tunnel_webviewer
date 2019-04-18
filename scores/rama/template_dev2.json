@@ -1,0 +1,492 @@
+{
+    "/1": [
+        {
+            "key": "css",
+            "val": [
+                {
+                    "selector": ".ready",
+                    "props": {
+                        "background-color": "lightblue",
+                        "color": "black"
+                    },
+                    "timetag": 1555507543137
+                },
+                {
+                    "selector": ".noclick",
+                    "props": {
+                        "user-select": "none",
+                        "pointer-events": "none"
+                    },
+                    "timetag": 1555507543137
+                }
+            ]
+        },
+        {
+            "key": "html",
+            "val": [
+                {
+                    "parent": "forms",
+                    "id": "UI",
+                    "new": "div",
+                    "style": {
+                        "position": "absolute",
+                        "float": "left",
+                        "width": "100vw"
+                    },
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "UI",
+                    "id": "playbutton",
+                    "new": "button",
+                    "text": "play",
+                    "class": "button",
+                    "style": {
+                        "float": "left"
+                    },
+                    "onclick": "\n     if( !this.classList.contains('ready') )\n     {\n        this.classList.add('ready');\n        drawsocket.input({\n          key: 'tween',\n          val: [ {\n            id: 'score-anim',\n       \t\t   cmd : 'play'\n          }, {\n            id: 'miniscore-anim',\n       \t\t   cmd : 'play'\n          } ],\n          timetag: Date.now()\n        });\n     } else { \n        this.classList.remove('ready');\n\n       let starttime = document.getElementById('userinput');\n\n        drawsocket.input({\n          key: 'tween',\n          val: [{\n            id: 'score-anim',\n       \t\t   cmd: 'pause',\n            time: starttime.value\n          }, {\n            id: 'miniscore-anim',\n       \t\t   cmd : 'pause',\n            time: starttime.value\n          }]\n        });\n     }",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "UI",
+                    "new": "label",
+                    "for": "userinput",
+                    "id": "sent",
+                    "name": "sent",
+                    "text": "start at time<br>",
+                    "style": {
+                        "font-size": "60%",
+                        "color": "gray",
+                        "margin-left": "20px"
+                    },
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "UI",
+                    "new": "input",
+                    "type": "text",
+                    "id": "userinput",
+                    "name": "userinput",
+                    "placeholder": "0",
+                    "size": 5,
+                    "onkeydown": "\n     if( drawsocket.submitOnEnterKey(this) ) { \n       let button = document.getElementById('playbutton');\n       if( button.classList.contains('ready') )\n            button.classList.remove('ready');\n\n       drawsocket.input({\n         key: 'tween',\n         val: [{\n           id: 'score-anim',\n           cmd: 'pause',\n           time: this.value\n         }, {\n          id: 'miniscore-anim',\n       \t\t cmd : 'pause',\n          time: this.value\n          }]\n       });\n     }",
+                    "style": {
+                        "margin-left": "35px",
+                        "text-align": "center"
+                    },
+                    "timetag": 1555507543137
+                }
+            ]
+        },
+        {
+            "key": "svg",
+            "val": [
+                {
+                    "new": "g",
+                    "parent": "defs",
+                    "id": "defscore",
+                    "timetag": 1555507543137
+                },
+                {
+                    "new": "g",
+                    "id": "scoreGroup",
+                    "timetag": 1555507543137
+                },
+                {
+                    "new": "g",
+                    "id": "overlay",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "overlay",
+                    "new": "line",
+                    "id": "playhead",
+                    "x1": 250,
+                    "x2": 250,
+                    "y1": 0,
+                    "y2": 400,
+                    "style": {
+                        "stroke": "red",
+                        "stroke-width": 3,
+                        "stroke-opacity": 0.5
+                    },
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "overlay",
+                    "new": "line",
+                    "id": "miniplayhead",
+                    "x1": 20,
+                    "x2": 20,
+                    "y1": 400,
+                    "y2": 500,
+                    "style": {
+                        "stroke": "blue",
+                        "stroke-width": 3,
+                        "stroke-opacity": 0.5
+                    },
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "overlay",
+                    "new": "text",
+                    "id": "timecount",
+                    "x": 195,
+                    "y": 35,
+                    "timetag": 1555507543137
+                },
+                {
+                    "id": "mini",
+                    "parent": "scoreGroup",
+                    "new": "use",
+                    "href": "#defscore",
+                    "y": 720,
+                    "x": 2717.3740234375,
+                    "transform": "scale(0.00736005, 0.5)",
+                    "class": "noclick",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "overlay",
+                    "id": "scrollbar",
+                    "new": "rect",
+                    "x": 20,
+                    "y": 400,
+                    "height": 15,
+                    "width": 1080,
+                    "fill": "rgba(0,0,255,0.5)",
+                    "onmousemove": "    \n    event.preventDefault();\n    let x = event.clientX;\n    if(event.buttons == 1){\n      let r = ((x-20) / 1080) * 722.215;\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n      });\n      let uiTxt = document.getElementById('userinput');\n      uiTxt.value = r;\n    }",
+                    "ontouchmove": "\n    event.preventDefault();\n    let x = event.pageX;\n\n      let r = ((x-20) / 1080) * 722.215;\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n       });\n    let uiTxt = document.getElementById('userinput');\n    uiTxt.value = r;\n    ",
+                    "timetag": 1555507543137
+                },
+                {
+                    "new": "text",
+                    "id": "playerID",
+                    "x": 10,
+                    "y": 80,
+                    "text": "1 vln",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p1",
+                    "x": 450,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-01",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p2",
+                    "x": 7764.41015625,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-02",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p3",
+                    "x": 15078.8203125,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-03",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p4",
+                    "x": 22393.23046875,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-04",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p5",
+                    "x": 29707.640625,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-05",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p6",
+                    "x": 37022.05078125,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-06",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p7",
+                    "x": 44336.4609375,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-07",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p8",
+                    "x": 51650.87109375,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-08",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p9",
+                    "x": 58965.28125,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-09",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p10",
+                    "x": 66279.6875,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-10",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p11",
+                    "x": 73594.1015625,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-11",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p12",
+                    "x": 80908.5078125,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-12",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p13",
+                    "x": 88222.921875,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-13",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p14",
+                    "x": 95537.328125,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-14",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p15",
+                    "x": 102851.7421875,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-15",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p16",
+                    "x": 110166.1484375,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-16",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p17",
+                    "x": 117480.5625,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-17",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p18",
+                    "x": 124794.96875,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-18",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p19",
+                    "x": 132109.375,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-19",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "defscore",
+                    "new": "use",
+                    "id": "p20",
+                    "x": 139423.796875,
+                    "y": 100,
+                    "href": [
+                        "scores/rama/Layer_1_vln.svg#Layer_1_vln-20",
+                        1
+                    ],
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                },
+                {
+                    "id": "score",
+                    "parent": "scoreGroup",
+                    "new": "use",
+                    "href": "#defscore",
+                    "timetag": 1555507543137
+                },
+                {
+                    "id": "whiteout",
+                    "parent": "scoreGroup",
+                    "new": "rect",
+                    "x": 0,
+                    "y": 75,
+                    "width": 100,
+                    "height": 250,
+                    "fill": "white",
+                    "timetag": 1555507543137
+                },
+                {
+                    "parent": "scoreGroup",
+                    "id": "clef",
+                    "new": "use",
+                    "href": [
+                        "scores/rama/clefs.svg#clef-1-vln",
+                        1
+                    ],
+                    "y": 164,
+                    "x": 0,
+                    "transform": "scale(10)",
+                    "timetag": 1555507543137
+                }
+            ]
+        },
+        {
+            "key": "tween",
+            "val": [
+                {
+                    "id": "score-anim",
+                    "target": "#score",
+                    "dur": 722.2147827148438,
+                    "vars": {
+                        "x": -146738.203125,
+                        "ease": "linear",
+                        "paused": "true",
+                        "onUpdate": " \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n"
+                    },
+                    "timetag": 1555507543137
+                },
+                {
+                    "id": "miniscore-anim",
+                    "target": "#miniplayhead",
+                    "dur": 722.2147827148438,
+                    "vars": {
+                        "x": "+= 1080",
+                        "ease": "linear",
+                        "paused": "true"
+                    },
+                    "timetag": 1555507543137
+                }
+            ]
+        }
+    ]
+}
