@@ -1,0 +1,135 @@
+{
+	"ui/css" : 	{
+		"key" : "css",
+		"val" : [ 			{
+				"selector" : ".ready",
+				"props" : 				{
+					"background-color" : "lightblue",
+					"color" : "black"
+				}
+
+			}
+, 			{
+				"selector" : ".noclick",
+				"props" : 				{
+					"user-select" : "none",
+					"pointer-events" : "none"
+				}
+
+			}
+ ]
+	}
+,
+	"ui/html" : 	{
+		"key" : "html",
+		"val" : [ 			{
+				"parent" : "forms",
+				"id" : "UI",
+				"new" : "div",
+				"style" : 				{
+					"position" : "absolute",
+					"float" : "left",
+					"width" : "100vw"
+				}
+
+			}
+, 			{
+				"parent" : "UI",
+				"id" : "playbutton",
+				"new" : "button",
+				"text" : "play",
+				"class" : "button",
+				"style" : 				{
+					"float" : "left"
+				}
+,
+				"onclick" : "\n     if( !this.classList.contains('ready') )\n     {\n        this.classList.add('ready');\n        drawsocket.input({\n          key: 'tween',\n          val: [ {\n            id: 'score-anim',\n       \t\t   cmd : 'play'\n          }, {\n            id: 'miniscore-anim',\n       \t\t   cmd : 'play'\n          } ],\n          timetag: Date.now()\n        });\n     } else { \n        this.classList.remove('ready');\n\n       let starttime = document.getElementById('userinput');\n\n        drawsocket.input({\n          key: 'tween',\n          val: [{\n            id: 'score-anim',\n       \t\t   cmd: 'pause',\n            time: starttime.value\n          }, {\n            id: 'miniscore-anim',\n       \t\t   cmd : 'pause',\n            time: starttime.value\n          }]\n        });\n     }"
+			}
+, 			{
+				"parent" : "UI",
+				"new" : "label",
+				"for" : "userinput",
+				"id" : "sent",
+				"name" : "sent",
+				"text" : "start at time<br>",
+				"style" : 				{
+					"font-size" : "60%",
+					"color" : "gray",
+					"margin-left" : "20px"
+				}
+
+			}
+, 			{
+				"parent" : "UI",
+				"new" : "input",
+				"type" : "text",
+				"id" : "userinput",
+				"name" : "userinput",
+				"placeholder" : "0",
+				"size" : 5,
+				"onkeydown" : "\n     if( drawsocket.submitOnEnterKey(this) ) { \n       let button = document.getElementById('playbutton');\n       if( button.classList.contains('ready') )\n            button.classList.remove('ready');\n\n       drawsocket.input({\n         key: 'tween',\n         val: [{\n           id: 'score-anim',\n           cmd: 'pause',\n           time: this.value\n         }, {\n          id: 'miniscore-anim',\n       \t\t cmd : 'pause',\n          time: this.value\n          }]\n       });\n     }",
+				"style" : 				{
+					"margin-left" : "35px",
+					"text-align" : "center"
+				}
+
+			}
+ ]
+	}
+,
+	"ui/svg" : 	{
+		"key" : "svg",
+		"val" : [ 			{
+				"new" : "g",
+				"parent" : "defs",
+				"id" : "defscore"
+			}
+, 			{
+				"new" : "g",
+				"id" : "scoreGroup"
+			}
+, 			{
+				"new" : "g",
+				"id" : "overlay"
+			}
+, 			{
+				"parent" : "overlay",
+				"new" : "line",
+				"id" : "playhead",
+				"x1" : 250,
+				"x2" : 250,
+				"y1" : 0,
+				"y2" : 400,
+				"style" : 				{
+					"stroke" : "red",
+					"stroke-width" : 3,
+					"stroke-opacity" : 0.5
+				}
+
+			}
+, 			{
+				"parent" : "overlay",
+				"new" : "line",
+				"id" : "miniplayhead",
+				"x1" : 20,
+				"x2" : 20,
+				"y1" : 400,
+				"y2" : 500,
+				"style" : 				{
+					"stroke" : "blue",
+					"stroke-width" : 3,
+					"stroke-opacity" : 0.5
+				}
+
+			}
+, 			{
+				"parent" : "overlay",
+				"new" : "text",
+				"id" : "timecount",
+				"x" : 195,
+				"y" : 35
+			}
+ ]
+	}
+
+}
