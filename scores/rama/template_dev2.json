@@ -136,17 +136,6 @@
                     "timetag": 1555507543137
                 },
                 {
-                    "id": "mini",
-                    "parent": "scoreGroup",
-                    "new": "use",
-                    "href": "#defscore",
-                    "y": 720,
-                    "x": 2717.3740234375,
-                    "transform": "scale(0.00736005, 0.5)",
-                    "class": "noclick",
-                    "timetag": 1555507543137
-                },
-                {
                     "parent": "overlay",
                     "id": "scrollbar",
                     "new": "rect",
@@ -432,6 +421,17 @@
                     "parent": "scoreGroup",
                     "new": "use",
                     "href": "#defscore",
+                    "timetag": 1555507543137
+                },
+                {
+                    "id": "mini",
+                    "parent": "scoreGroup",
+                    "new": "use",
+                    "href": "#defscore",
+                    "y": 720,
+                    "x": 2717.3740234375,
+                    "transform": "scale(0.00736005, 0.5)",
+                    "class": "noclick",
                     "timetag": 1555507543137
                 },
                 {
