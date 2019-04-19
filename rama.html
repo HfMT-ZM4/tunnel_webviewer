@@ -14,27 +14,32 @@
       function makeLinks()
       {
 
-        // to do: make 1-72 lookup into this list
-        let instrs = [
-            "vln", "vln", "fl", "fl",   "cl", "asax", "trb", "vc", "perc", "sopr", "egtr", "accord", 
-            "vln", "vla", "fl", "srec", "cl", "trp", "tuba", "vc", "perc", "sopr", "egtr", "accord", 
-            "vln", "vln", "fl", "ob",   "cl", "tsax", "trb", "vc", "perc", "sopr", "egtr", "accord", 
-            "vln", "vla", "fl", "brec", "cl", "asax", "bsn", "db", "perc", "baritone", "egtr", "accord", 
-            "vln", "vln", "fl", "trec", "cl", "trp", "trb", "vc", "perc", "sopr", "egtr", "accord", 
-            "vln", "vla", "fl", "ob",   "cl", "tsax", "btuba", "vc", "perc", "sopr", "egtr", "accord",
+       
 
-            "subrec", //40 + 72 = 112
-            "arec", //64 + 72 = 136
-            "hrn" //67 + 72 = 139
-            
-            /*,
-            "vln", "vln", "fl", "fl",   "cl", "asax", "trb", "vc", "perc", "sopr", "egtr", "accord", 
-            "vln", "vla", "fl", "srec", "cl", "trp", "tuba", "vc", "perc", "sopr", "egtr", "accord", 
-            "vln", "vln", "fl", "arec", "cl", "tsax", "trb", "vc", "perc", "sopr", "egtr", "accord", 
-            "vln", "vla", "fl", "subrec", "cl", "asax", "bsn", "db", "perc", "baritone", "egtr", "accord", 
-            "vln", "vln", "fl", "trec", "cl", "trp", "trb", "vc", "perc", "sopr", "egtr", "accord", 
-            "vln", "vla", "fl", "ob",   "cl", "tsax", "hrn", "vc", "perc", "sopr", "egtr", "accord" */
-        ];
+        var instr = [
+            "violin", "violin", "flute", "flute", "clarinet in Bb", "alto sax in Eb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", 
+            "violin", "viola", "flute", "soprano recorder", "clarinet in Bb", "trumpet in Bb", "tuba", "violoncello", "percussion", "soprano", "e.guitar", "accordion", 
+            "violin", "violin", "flute", "oboe", "clarinet in Bb", "tenor sax in Bb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", 
+            "violin", "viola", "flute", "bass recorder", "clarinet in Bb", "alto sax in Eb", "bassoon", "double bass", "percussion", "baritone", "e.guitar", "accordion", 
+            "violin", "violin", "flute", "tenor recorder", "clarinet in Bb", "trumpet in Bb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", 
+            "violin", "viola", "flute", "oboe", "clarinet in Bb", "tenor sax in Bb", "bass tuba", "violoncello", "percussion", "soprano", "e.guitar", "accordion"];
+
+        function getName(i_)
+        {
+            switch(i_)
+            {
+                case 111: // 112
+                    return "sub recorder";
+                case 135: // 136
+                    return "alto recorder";
+                case 138: // 139
+                    return "horn in F";
+                default:
+                    return instr[ i_ % 72 ];
+            }
+        }
+
+
 
         let _div = document.getElementById("piecelist");
         for( let i = 0; i < 144; i++)
@@ -44,24 +49,30 @@
             let _link = document.createElement("a");
             let instr_i = (i % 72);
             
+
+
             switch(idx){
               case 112:
               _link.href = `webview.html?fetch=scores/rama/echoic.json&prefix=/${instr_i+1}b`;
-              _link.innerHTML = `${idx} sub rec`;
+              _link.innerHTML = `${idx} sub recorder`;
               break;
               case 136:
               _link.href = `webview.html?fetch=scores/rama/echoic.json&prefix=/${instr_i+1}b`;
-              _link.innerHTML = `${idx} alto rec`;
+              _link.innerHTML = `${idx} alto recorder`;
               break;
               case 139:
               _link.href = `webview.html?fetch=scores/rama/echoic.json&prefix=/${instr_i+1}b`;
-              _link.innerHTML = `${idx} horn`;
+              _link.innerHTML = `${idx} horn in F`;
               break;
               default:
-              _link.href = `webview.html?fetch=scores/rama/echoic.json&prefix=/${instr_i+1}`;
-              _link.innerHTML = `${idx} ${instrs[instr_i]}`;
+              let inst_name = getName(i);
+              _link.href = `webview.html?fetch=scores/rama/echoic.json&prefix=/${idx}`;
+              _link.innerHTML = `${idx} ${inst_name}`;
               break;
             }
+
+
+            
 
             _div.appendChild(_link);
             _div.appendChild(document.createElement("br"));
