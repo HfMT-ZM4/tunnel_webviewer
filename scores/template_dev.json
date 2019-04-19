@@ -16,7 +16,7 @@
                 "new": "use",
                 "parent": "scoreGroup",
                 "href": "#defscore",
-                "x": "< lead-in-time * timeToPixScalar >",
+                "x": 0,
                 "y": 100
             },
             {

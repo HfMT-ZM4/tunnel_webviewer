@@ -472,8 +472,7 @@
                         "ease": "linear",
                         "paused": "true",
                         "onUpdate": " \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n"
-                    },
-                    "timetag": 1555507543137
+                    }
                 },
                 {
                     "id": "miniscore-anim",
@@ -483,8 +482,7 @@
                         "x": "+= 1080",
                         "ease": "linear",
                         "paused": "true"
-                    },
-                    "timetag": 1555507543137
+                    }
                 }
             ]
         }

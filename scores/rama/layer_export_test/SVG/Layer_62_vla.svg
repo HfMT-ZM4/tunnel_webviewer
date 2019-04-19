@@ -44,16 +44,16 @@
 		<line style="fill:#fff;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="278.70631" x2="291.55657" y1="987.23112" y2="988.27284"/>
 		<circle cx="277.67507" cy="987.23112" r="0.53124" style="fill:#231f20"/>
 		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(274.34766 988.27283)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(272.02986 979.7981)">jeté</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(272.02979 979.7981)">jeté</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.354157816429693px" x1="277.53998" x2="292.30284" y1="989.97007" y2="989.97007"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(294.46483 978.96472)">pizz</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(294.46484 978.96472)">pizz</text>
 		<circle cx="790.59624" cy="982.07026" r="0.47422" style="fill:#231f20"/>
 		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(788.76367 982.07056)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="790.59624" x2="790.59624" y1="988.40357" y2="982.07026"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="790.59624" x2="793.15498" y1="988.30357" y2="988.30357"/>
 		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(785.97607 988.61237)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(781.90121 978.96472)">pizz</text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(648.13356 978.96472)">arco</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(781.90112 978.96472)">pizz</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(648.13354 978.96472)">arco</text>
 		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(655.98169 991.4176)"></text>
 		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(675.22998 991.11758)"></text>
 		<path d="M673.14954,989.41237c-.61007.25-13.10923,1-13.10923,1l13.44246,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
@@ -107,7 +107,7 @@
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="487.21754" x2="489.77628" y1="990.10357" y2="990.10357"/>
 		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(484.75258 988.61237)"></text>
 		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(217.83266 988.96411)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(215.73463 979.49924)">arco</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(215.73463 979.49927)">arco</text>
 		<path d="M225.7138,988.99333c.15279.16871,13.15733.808,13.15733.808l-12.98089.85828" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
 		<polygon data-name="beam" id="beam-5" points="234.041 988.092 232.298 988.104 232.298 987.514 234.041 987.502 234.041 988.092" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="223.03867" x2="223.03867" y1="978.19061" y2="986.90281"/>
@@ -129,7 +129,7 @@
 		<path d="M233.22816,983.32394c0,.22361.82022,1.64,1.64021,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22362s1.49106-1.99424,1.56529-1.17425" data-name="flz" id="flz-12" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<polygon data-name="beam" id="beam-6" points="230.031 978.775 223.056 978.787 223.056 978.197 230.031 978.185 230.031 978.775" style="fill:#231f20"/>
 		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(662.01674 988.96411)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(659.91872 979.49924)">arco</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(659.91872 979.49927)">arco</text>
 		<path d="M669.8979,988.99333c.15279.16871,13.15733.808,13.15733.808l-12.98089.85828" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
 		<polygon data-name="beam" id="beam-7" points="678.226 988.092 676.482 988.104 676.482 987.514 678.226 987.502 678.226 988.092" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="667.22277" x2="667.22277" y1="978.19061" y2="986.90281"/>
@@ -163,7 +163,7 @@
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="547.59267" x2="547.59267" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="547.59267" x2="550.15141" y1="978.61609" y2="978.61609"/>
 		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(542.42934 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(540.41371 979.36655)">pizz</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(540.41371 979.36658)">pizz</text>
 	</g>
 	<g data-name="Layer 62 vla" id="Layer_62_vla-03">
 		<line data-name="spacer" id="spacer-13" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="986.41011" y2="972.23622"/>
@@ -215,7 +215,7 @@
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="410.20349" x2="413.36223" y1="988.81368" y2="988.81368"/>
 		<circle cx="413.33993" cy="978.38774" r="0.47422" style="fill:#231f20"/>
 		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(441.47635 988.96411)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(439.3782 979.49924)">arco</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(439.3782 979.49927)">arco</text>
 		<path d="M449.35732,988.99333c.15278.16871,13.15733.808,13.15733.808l-12.9809.85828" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
 		<polygon data-name="beam" id="beam-3" points="457.685 988.092 455.942 988.104 455.942 987.514 457.685 987.502 457.685 988.092" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="446.68218" x2="446.68218" y1="978.19061" y2="986.90281"/>
@@ -251,7 +251,7 @@
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.4px" x1="81.3968" x2="121.06803" y1="980.51609" y2="980.51609"/>
 		<path d="M89.65366,988.263c.61007.25,13.10923,1,13.10923,1l-13.44246,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
 		<polygon points="80.871 981.158 81.513 980.516 80.871 979.875 80.857 979.875 80.215 980.516 80.857 981.158 80.871 981.158" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(78.59273 978.96484)">II</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(78.5927 978.96484)">II</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="323.60555" x2="323.60555" y1="981.11992" y2="986.50928"/>
 		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(319.49992 990.2731)"></text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.4px" x1="323.97014" x2="363.34137" y1="980.49079" y2="980.49079"/>
@@ -272,19 +272,19 @@
 		<circle cx="80.76675" cy="982.07026" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="80.76675" x2="80.76675" y1="987.99463" y2="982.07026"/>
 		<circle cx="100.87884" cy="982.07026" r="0.47422" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(99.146 982.07061)">♭</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(79.08032 982.07061)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(99.14605 982.07056)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(79.08014 982.07056)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="100.87884" x2="100.87884" y1="987.60755" y2="982.07026"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="80.76675" x2="99.14591" y1="982.07026" y2="982.07026"/>
 		<path d="M93.02407,987.60755c-.25.25-8.19166,1-8.19166,1l8.19166,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(79.08032 990.30358)"></text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(298.53955 988.61235)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(79.08014 990.30359)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(298.53961 988.61237)"></text>
 		<circle cx="221.80215" cy="982.77026" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="221.80215" x2="221.80215" y1="990.10357" y2="982.77026"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="221.80215" x2="224.3609" y1="990.10357" y2="990.10357"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="221.69382" x2="224.25256" y1="989.2119" y2="989.2119"/>
 		<circle cx="221.8086" cy="979.19531" r="0.19822" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(219.33691 988.61235)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(219.33697 988.61237)"></text>
 		<rect data-name="beam" height="0.59003" id="beam-4" style="fill:#231f20" width="4.52175" x="277.75738" y="978.30809"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="277.74045" x2="277.74045" y1="978.30185" y2="986.99122"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="277.65156" x2="277.65156" y1="987.79695" y2="989.97007"/>
@@ -296,34 +296,34 @@
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.088539454107423px" x1="276.55452" x2="280.50834" y1="988.79759" y2="990.61683"/>
 		<line style="fill:#fff;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="278.70631" x2="291.55657" y1="987.23112" y2="988.27284"/>
 		<circle cx="277.67507" cy="987.23112" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(274.34766 988.27281)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(272.02986 979.79814)">jeté</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(274.34771 988.27283)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(272.02978 979.79816)">jeté</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.354157816429693px" x1="277.53998" x2="292.30284" y1="989.97007" y2="989.97007"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(294.46483 978.96477)">pizz</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(98.43799 989.74468)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(294.46484 978.96478)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(98.43805 989.74469)"></text>
 		<path d="M214.892,987.18183h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="216.23481" cy="988.15121" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(78.7728 979.17229)">IV</text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(106.33115 989.20354)">glissando</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(78.7727 979.1723)">IV</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(106.33105 989.20355)">glissando</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="213.7" x2="101.21656" y1="987.54073" y2="982.07646"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(130.26544 989.08147)">decrescendo</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(130.26538 989.08148)">decrescendo</text>
 		<circle cx="302.75155" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="302.75155" x2="302.75155" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="302.75155" x2="305.31029" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(416.20874 988.9641)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(414.11071 979.49919)">arco</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(416.20855 988.96411)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(414.11059 979.49921)">arco</text>
 		<path d="M424.0899,988.99333c.15278.16871,13.15733.808,13.15733.808l-12.98089.85828" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
 		<polygon data-name="beam" id="beam-5" points="432.418 988.092 430.674 988.104 430.674 987.514 432.418 987.502 432.418 988.092" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="421.41477" x2="421.41477" y1="978.19061" y2="986.90281"/>
 		<path d="M423.29257,987.44965h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="421.34939" cy="987.2427" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(419.10083 987.3427)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(419.10064 987.34271)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="424.44931" x2="424.44931" y1="978.48022" y2="987.19242"/>
 		<circle cx="424.38393" cy="987.43231" r="0.53124" style="fill:#231f20"/>
 		<path d="M427.22165,987.44965h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="428.37839" x2="428.37839" y1="978.28022" y2="986.99242"/>
 		<circle cx="428.31302" cy="987.43231" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(426.33667 987.44951)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(426.33648 987.44952)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="432.41751" x2="432.41751" y1="982.33177" y2="988.0427"/>
 		<circle cx="432.35213" cy="982.00971" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="432.75022" x2="438.81554" y1="982.02697" y2="981.99465"/>
@@ -332,12 +332,12 @@
 		<path d="M427.49767,981.074c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-7" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M431.60426,983.32394c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22362s1.49106-1.99424,1.5653-1.17425" data-name="flz" id="flz-8" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<polygon data-name="beam" id="beam-6" points="428.408 978.775 421.432 978.787 421.432 978.197 428.408 978.185 428.408 978.775" style="fill:#231f20"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(658.84164 978.96477)">arco</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(666.68994 991.41759)"></text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(704.00342 991.1176)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(658.84161 978.96478)">arco</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(666.69 991.4176)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(704.00348 991.11761)"></text>
 		<path d="M701.9229,989.41237c-.61008.25-31.17452,1-31.17452,1l31.50775,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
 		<circle cx="668.47816" cy="983.44882" r="0.47422" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(666.23828 983.44927)">♯</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(666.23834 983.44922)">♯</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.4px" x1="668.35919" x2="706.15448" y1="983.45014" y2="983.45014"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="668.45808" x2="668.45808" y1="983.44882" y2="989.46667"/>
 	</g>
@@ -353,15 +353,15 @@
 		<circle cx="567.58342" cy="982.07026" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="567.58342" x2="567.58342" y1="987.99463" y2="982.07026"/>
 		<circle cx="587.69551" cy="982.07026" r="0.47422" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(585.96254 982.07061)">♭</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(565.89662 982.07061)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(585.9626 982.07056)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(565.89619 982.07056)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="587.69551" x2="587.69551" y1="990.40357" y2="982.07026"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px" x1="567.58342" x2="585.96259" y1="982.07026" y2="982.07026"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="587.69551" x2="590.25425" y1="990.30357" y2="990.30357"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="587.58718" x2="590.14592" y1="989.5119" y2="989.5119"/>
 		<path d="M579.84075,987.60755c-.25.25-8.19167,1-8.19167,1l8.19167,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
 		<circle cx="587.70196" cy="978.39531" r="0.19822" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(565.89662 990.30358)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(565.89619 990.30359)"></text>
 		<circle cx="323.99213" cy="980.61714" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="323.99213" x2="323.99213" y1="987.55046" y2="980.51714"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="344.10422" x2="344.10422" y1="987.85046" y2="980.51714"/>
@@ -369,8 +369,8 @@
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="344.10422" x2="346.66296" y1="987.85046" y2="987.85046"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="343.99589" x2="346.55463" y1="986.95879" y2="986.95879"/>
 		<path d="M338.913,986.75959c-.25.25-8.19166,1-8.19166,1l8.19166,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(317.72133 987.76494)"></text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(339.71107 988.2661)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(317.72139 987.76495)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(339.71113 988.26611)"></text>
 	</g>
 	<g data-name="Layer 62 vla" id="Layer_62_vla-07">
 		<line data-name="spacer" id="spacer-13" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="986.41011" y2="972.23622"/>
@@ -381,36 +381,36 @@
 			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="984.85698" y2="984.85698"/>
 			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="986.28916" y2="986.28916"/>
 		</g>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(187.61307 979.76482)">arco</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(195.46072 991.41765)"></text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(195.48709 983.30944)">♯</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(223.71316 991.11766)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(187.61312 979.76483)">arco</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(195.46078 991.41766)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(195.48715 983.30945)">♯</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(223.71322 991.11768)"></text>
 		<path d="M221.63277,989.41237c-.61007.25-22.113,1-22.113,1l22.44628,1.01029" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
 		<circle cx="197.2495" cy="983.44882" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.4px" x1="197.13052" x2="225.86436" y1="983.45014" y2="983.45014"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="197.22941" x2="197.22941" y1="983.44882" y2="989.46667"/>
 		<circle cx="324.22752" cy="982.07026" r="0.47422" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(322.3948 982.07061)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(322.39486 982.07056)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="324.22752" x2="324.22752" y1="988.40357" y2="982.07026"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="324.22752" x2="326.78626" y1="988.30357" y2="988.30357"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(319.60721 988.61235)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(315.5325 978.96477)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(319.60727 988.61237)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(315.53256 978.96478)">pizz</text>
 		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="387.0762" x2="389.3262" y1="979.38774" y2="979.38774"/>
 		<circle cx="385.08879" cy="982.74498" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="385.08879" x2="385.08879" y1="989.84851" y2="982.9152"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="385.08879" x2="388.24753" y1="989.74851" y2="989.74851"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(382.5198 988.56676)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(382.51986 988.56677)"></text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="388.09183" x2="388.09183" y1="989.96067" y2="978.02262"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="384.95538" x2="388.11413" y1="988.81368" y2="988.81368"/>
 		<circle cx="388.09183" cy="978.38774" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="352.90119" x2="355.15119" y1="979.38774" y2="979.38774"/>
 		<circle cx="350.91378" cy="982.74498" r="0.47422" style="fill:#231f20"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(351.70779 978.52349)">♯</text>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(385.56375 978.52349)">♯</text>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(431.49588 978.52349)">♯</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(351.70785 978.52344)">♯</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(385.56381 978.52344)">♯</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(431.49594 978.52344)">♯</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="350.91378" x2="350.91378" y1="989.84851" y2="982.9152"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="350.91378" x2="354.07252" y1="989.74851" y2="989.74851"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(348.345 988.56676)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(348.34506 988.56677)"></text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="353.91682" x2="353.91682" y1="989.96067" y2="978.02262"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="350.78037" x2="353.93912" y1="988.81368" y2="988.81368"/>
 		<circle cx="353.91682" cy="978.38774" r="0.47422" style="fill:#231f20"/>
@@ -418,24 +418,24 @@
 		<circle cx="431.02028" cy="982.74498" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="431.02028" x2="431.02028" y1="989.84851" y2="982.9152"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="431.02028" x2="434.17902" y1="989.74851" y2="989.74851"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(428.45145 988.56676)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(428.4515 988.56677)"></text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="434.02332" x2="434.02332" y1="989.96067" y2="978.02262"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="430.88688" x2="434.04562" y1="988.81368" y2="988.81368"/>
 		<circle cx="434.02332" cy="978.38774" r="0.47422" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(462.15994 988.9641)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(460.06155 979.49919)">arco</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(462.16 988.96411)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(460.06161 979.49921)">arco</text>
 		<path d="M470.04071,988.99333c.15278.16871,13.15733.808,13.15733.808l-12.9809.85828" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
 		<polygon data-name="beam" id="beam-3" points="478.368 988.092 476.625 988.104 476.625 987.514 478.368 987.502 478.368 988.092" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="467.36557" x2="467.36557" y1="978.19061" y2="986.90281"/>
 		<path d="M469.24337,987.44965h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="467.30019" cy="987.2427" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(465.05203 987.3427)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(465.05209 987.34271)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="470.40011" x2="470.40011" y1="978.48022" y2="987.19242"/>
 		<circle cx="470.33474" cy="987.43231" r="0.53124" style="fill:#231f20"/>
 		<path d="M473.17246,987.44965h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="474.3292" x2="474.3292" y1="978.28022" y2="986.99242"/>
 		<circle cx="474.26382" cy="987.43231" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(472.28787 987.44951)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(472.28793 987.44952)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="478.36831" x2="478.36831" y1="982.33177" y2="988.0427"/>
 		<circle cx="478.30294" cy="982.00971" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px" x1="478.70102" x2="484.76634" y1="982.02697" y2="981.99465"/>
@@ -455,11 +455,11 @@
 			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="986.28916" y2="986.28916"/>
 		</g>
 		<circle cx="307.03326" cy="982.07026" r="0.47422" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(305.20061 982.07061)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(305.20066 982.07056)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="307.03326" x2="307.03326" y1="988.40357" y2="982.07026"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="307.03326" x2="309.592" y1="988.30357" y2="988.30357"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(302.41301 988.61235)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(298.3383 978.96477)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(302.41307 988.61237)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(298.33836 978.96478)">pizz</text>
 	</g>
 	<g data-name="Layer 62 vla" id="Layer_62_vla-09">
 		<line data-name="spacer" id="spacer-13" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="986.41011" y2="972.23622"/>
@@ -473,15 +473,15 @@
 		<circle cx="93.9999" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="93.9999" x2="93.9999" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="93.9999" x2="96.55864" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(88.83667 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(86.82098 979.36655)">pizz</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(114.37598 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(110.96381 979.11973)">arco</text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(226.98413 978.78159)">arco</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(88.83654 989.15244)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(86.82092 979.36658)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(114.37609 989.15244)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(110.96374 979.11975)">arco</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(226.98425 978.78162)">arco</text>
 		<polygon data-name="beam" id="beam-29" points="125.929 978.87 118.868 978.451 118.868 977.861 125.929 978.28 125.929 978.87" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="118.85095" x2="118.85095" y1="977.85514" y2="984.36733"/>
 		<circle cx="118.78557" cy="984.90723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(120.52026 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(120.52014 985.04037)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="122.48549" x2="122.48549" y1="978.34475" y2="984.65694"/>
 		<circle cx="122.42011" cy="984.89684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="125.81457" x2="125.81457" y1="978.84475" y2="985.90035"/>
@@ -489,11 +489,11 @@
 		<path d="M118.06743,979.07554c0,.22361.82021,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-81" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M121.702,979.43853c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22362s1.49106.7453,1.5653,1.56529" data-name="flz" id="flz-82" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M124.93385,979.53853c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22362s1.49106.7453,1.5653,1.56529" data-name="flz" id="flz-83" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(231.55908 989.15244)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(231.5592 989.15244)"></text>
 		<polygon data-name="beam" id="beam-30" points="243.112 978.27 236.051 977.651 236.051 977.061 243.112 977.68 243.112 978.27" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="236.03396" x2="236.03396" y1="977.05514" y2="984.36733"/>
 		<circle cx="235.96858" cy="984.90723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(237.70337 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(237.70324 985.04037)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="239.6685" x2="239.6685" y1="977.84475" y2="984.65694"/>
 		<circle cx="239.60313" cy="984.89684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="242.99759" x2="242.99759" y1="978.24475" y2="985.90035"/>
@@ -501,12 +501,12 @@
 		<path d="M235.25044,978.57554c0,.22361.82022,1.64,1.64021,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22361s1.49105.74531,1.56529,1.5653" data-name="flz" id="flz-84" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M238.885,979.43853c0,.22361.82021,1.64,1.6402,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22362s1.49106.7453,1.5653,1.56529" data-name="flz" id="flz-85" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M242.11687,979.53853c0,.22361.82021,1.64,1.6402,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22362s1.49106.7453,1.5653,1.56529" data-name="flz" id="flz-86" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(454.88142 978.827)">arco</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(460.41553 989.15244)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(454.88146 978.82703)">arco</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(460.41564 989.15244)"></text>
 		<polygon data-name="beam" id="beam-31" points="471.968 978.27 464.907 977.651 464.907 977.061 471.968 977.68 471.968 978.27" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="464.89034" x2="464.89034" y1="977.05514" y2="984.36733"/>
 		<circle cx="464.82496" cy="984.90723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(466.55981 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(466.55969 985.04037)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="468.52489" x2="468.52489" y1="977.84475" y2="984.65694"/>
 		<circle cx="468.45951" cy="984.89684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="471.85397" x2="471.85397" y1="978.24475" y2="985.90035"/>
@@ -517,7 +517,7 @@
 		<polygon data-name="beam" id="beam-32" points="482.948 978.27 475.887 977.651 475.887 977.061 482.948 977.68 482.948 978.27" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="475.86992" x2="475.86992" y1="977.05514" y2="984.36733"/>
 		<circle cx="475.80454" cy="984.90723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(477.53931 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(477.53918 985.04037)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="479.50446" x2="479.50446" y1="977.84475" y2="984.65694"/>
 		<circle cx="479.43908" cy="984.89684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="482.83355" x2="482.83355" y1="978.24475" y2="985.90035"/>
@@ -528,7 +528,7 @@
 		<polygon data-name="beam" id="beam-33" points="385.02 978.27 377.96 977.651 377.96 977.061 385.02 977.68 385.02 978.27" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="377.94272" x2="377.94272" y1="977.05514" y2="984.36733"/>
 		<circle cx="377.87734" cy="984.90723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(379.61206 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(379.61193 985.04037)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="381.57726" x2="381.57726" y1="977.84475" y2="984.65694"/>
 		<circle cx="381.51188" cy="984.89684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="384.90635" x2="384.90635" y1="978.24475" y2="985.90035"/>
@@ -539,7 +539,7 @@
 		<polygon data-name="beam" id="beam-34" points="261.527 978.27 254.466 977.651 254.466 977.061 261.527 977.68 261.527 978.27" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="254.44925" x2="254.44925" y1="977.05514" y2="984.36733"/>
 		<circle cx="254.38388" cy="984.90723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(256.11865 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(256.11877 985.04037)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="258.0838" x2="258.0838" y1="977.84475" y2="984.65694"/>
 		<circle cx="258.01842" cy="984.89684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="261.41288" x2="261.41288" y1="978.24475" y2="985.90035"/>
@@ -550,7 +550,7 @@
 		<polygon data-name="beam" id="beam-35" points="276.137 978.27 269.077 977.651 269.077 977.061 276.137 977.68 276.137 978.27" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="269.05963" x2="269.05963" y1="977.05514" y2="984.36733"/>
 		<circle cx="268.99425" cy="984.80723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(270.729 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(270.72912 985.04037)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="272.69417" x2="272.69417" y1="977.84475" y2="984.65694"/>
 		<circle cx="272.62879" cy="984.89684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="276.02326" x2="276.02326" y1="978.24475" y2="985.90035"/>
@@ -561,7 +561,7 @@
 		<polygon data-name="beam" id="beam-36" points="286.222 978.27 279.161 977.651 279.161 977.061 286.222 977.68 286.222 978.27" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="279.14414" x2="279.14414" y1="977.05514" y2="984.36733"/>
 		<circle cx="279.07876" cy="984.80723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(280.81348 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(280.81359 985.04037)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="282.77869" x2="282.77869" y1="977.84475" y2="984.65694"/>
 		<circle cx="282.71331" cy="984.89684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="286.10777" x2="286.10777" y1="978.24475" y2="985.90035"/>
@@ -569,13 +569,13 @@
 		<path d="M278.36062,978.57554c0,.22361.82022,1.64,1.64021,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22361s1.491.74531,1.56529,1.5653" data-name="flz" id="flz-102" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M281.99517,979.43853c0,.22361.82021,1.64,1.6402,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22362s1.49106.7453,1.5653,1.56529" data-name="flz" id="flz-103" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M285.22705,979.53853c0,.22361.82021,1.64,1.6402,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22362s1.49106.7453,1.5653,1.56529" data-name="flz" id="flz-104" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(325.77661 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(325.77648 985.04037)">♭</text>
 		<path d="M407.112,979.46783h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<path d="M407.112,978.15282h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<polygon data-name="beam" id="beam-37" points="501.379 977.8 497.762 977.622 497.762 977.14 501.379 977.318 501.379 977.8" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="497.74478" x2="497.74478" y1="977.13535" y2="984.64985"/>
 		<circle cx="497.6794" cy="984.90723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(499.41382 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(499.41369 985.04037)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="501.37932" x2="501.37932" y1="977.53473" y2="984.88608"/>
 		<circle cx="501.31394" cy="984.89684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="504.70841" x2="504.70841" y1="977.74259" y2="985.70035"/>
@@ -586,7 +586,7 @@
 		<polygon data-name="beam" id="beam-38" points="296.271 978.17 303.332 977.851 303.332 977.261 296.271 977.58 296.271 978.17" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="303.34844" x2="303.34844" y1="977.25514" y2="984.36733"/>
 		<circle cx="303.41382" cy="984.90723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(297.85815 985.39634)">♯</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(297.85803 985.39633)">♯</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="300.1139" x2="300.1139" y1="977.84475" y2="985.65694"/>
 		<circle cx="300.07927" cy="985.59684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="296.38481" x2="296.38481" y1="978.14475" y2="985.90035"/>
@@ -597,7 +597,7 @@
 		<polygon data-name="beam" id="beam-39" points="528.946 978.17 536.007 977.851 536.007 977.261 528.946 977.58 528.946 978.17" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="536.02378" x2="536.02378" y1="977.25514" y2="984.36733"/>
 		<circle cx="535.98916" cy="985.00723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(530.53345 985.49644)">♯</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(530.53332 985.49643)">♯</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="532.78924" x2="532.78924" y1="977.84475" y2="985.65694"/>
 		<circle cx="532.75461" cy="985.59684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="529.06015" x2="529.06015" y1="978.14475" y2="985.90035"/>
@@ -608,7 +608,7 @@
 		<polygon data-name="beam" id="beam-40" points="650.119 978.07 657.18 977.751 657.18 977.161 650.119 977.48 650.119 978.07" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="657.19663" x2="657.19663" y1="977.15514" y2="984.26733"/>
 		<circle cx="657.26201" cy="984.80723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(651.7063 985.39634)">♯</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(651.70617 985.39633)">♯</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="653.96209" x2="653.96209" y1="977.74475" y2="985.55694"/>
 		<circle cx="653.92747" cy="985.49684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="650.233" x2="650.233" y1="978.04475" y2="985.80035"/>
@@ -619,7 +619,7 @@
 		<polygon data-name="beam" id="beam-41" points="660.145 978.07 667.205 977.751 667.205 977.161 660.145 977.48 660.145 978.07" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="667.22228" x2="667.22228" y1="977.15514" y2="984.26733"/>
 		<circle cx="667.28766" cy="984.80723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(661.73193 985.39634)">♯</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(661.73156 985.39633)">♯</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="663.98774" x2="663.98774" y1="977.74475" y2="985.55694"/>
 		<circle cx="663.95312" cy="985.49684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="660.25865" x2="660.25865" y1="978.04475" y2="985.80035"/>
@@ -630,7 +630,7 @@
 		<polygon data-name="beam" id="beam-42" points="670.17 978.07 677.231 977.751 677.231 977.161 670.17 977.48 670.17 978.07" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="677.24793" x2="677.24793" y1="977.15514" y2="984.26733"/>
 		<circle cx="677.31331" cy="984.80723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(671.75757 985.39634)">♯</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(671.75793 985.39633)">♯</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="674.01339" x2="674.01339" y1="977.74475" y2="985.55694"/>
 		<circle cx="673.97877" cy="985.49684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="670.2843" x2="670.2843" y1="978.04475" y2="985.80035"/>
@@ -641,7 +641,7 @@
 		<polygon data-name="beam" id="beam-43" points="680.195 978.07 684.126 977.951 684.126 977.361 680.195 977.48 680.195 978.07" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="687.27358" x2="687.27358" y1="977.25514" y2="984.36733"/>
 		<circle cx="687.13896" cy="984.90723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(681.7832 985.39634)">♯</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(681.78332 985.39633)">♯</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="684.03904" x2="684.03904" y1="977.74475" y2="985.55694"/>
 		<circle cx="684.00442" cy="985.49684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="680.30995" x2="680.30995" y1="978.04475" y2="985.80035"/>
@@ -652,7 +652,7 @@
 		<polygon data-name="beam" id="beam-44" points="306.566 977.77 310.509 977.651 310.509 977.061 306.566 977.18 306.566 977.77" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="313.64394" x2="313.64394" y1="977.25514" y2="984.36733"/>
 		<circle cx="313.70932" cy="984.90723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(307.95337 985.2562)">♯</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(307.95324 985.2562)">♯</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="310.3094" x2="310.3094" y1="977.64475" y2="985.60035"/>
 		<circle cx="310.37478" cy="985.60035" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="306.68032" x2="306.68032" y1="977.74475" y2="985.60035"/>
@@ -674,7 +674,7 @@
 		<circle cx="328.76668" cy="984.90723" r="0.53124" style="fill:#231f20"/>
 		<path d="M327.8563,979.28382c0,.22361.82021,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22362s1.49106.7453,1.5653,1.5653" data-name="flz" id="flz-131" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="329.89447" x2="354.51136" y1="984.75873" y2="984.75873"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(595.69971 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(595.69934 985.04037)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="568.40417" x2="568.40417" y1="977.25514" y2="984.36733"/>
 		<circle cx="568.46954" cy="984.90723" r="0.53124" style="fill:#231f20"/>
 		<path d="M567.36692,979.05194c0,.22361.82022,1.64,1.64021,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22361s1.491.74531,1.56529,1.5653" data-name="flz" id="flz-132" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
@@ -692,8 +692,8 @@
 		<circle cx="200.92318" cy="985.52601" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="200.92318" x2="200.92318" y1="977.27188" y2="985.52601"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="200.89897" x2="203.45772" y1="977.27188" y2="977.27188"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(196.65967 990.4166)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(193.71399 978.452)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(196.65979 990.4166)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(193.71398 978.45203)">pizz</text>
 		<circle cx="207.39495" cy="985.52601" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="207.39495" x2="207.39495" y1="977.27188" y2="985.52601"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="207.37074" x2="209.92949" y1="977.27188" y2="977.27188"/>
@@ -703,7 +703,7 @@
 		<polygon data-name="beam" id="beam-45" points="722.615 978.225 715.554 978.107 715.554 977.517 722.615 977.635 722.615 978.225" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="715.53741" x2="715.53741" y1="977.51045" y2="984.32264"/>
 		<circle cx="715.47203" cy="984.86254" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(717.30615 984.89536)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(717.30578 984.89536)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="719.27195" x2="719.27195" y1="977.80006" y2="984.61225"/>
 		<circle cx="719.20657" cy="984.85215" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="722.50103" x2="722.50103" y1="978.20006" y2="985.85566"/>
@@ -714,7 +714,7 @@
 		<polygon data-name="beam" id="beam-46" points="732.009 978.225 724.948 978.107 724.948 977.517 732.009 977.635 732.009 978.225" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="724.93138" x2="724.93138" y1="977.51045" y2="984.32264"/>
 		<circle cx="724.866" cy="984.86254" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(726.7002 984.89536)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(726.70031 984.89536)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="728.66592" x2="728.66592" y1="977.80006" y2="984.61225"/>
 		<circle cx="728.60055" cy="984.85215" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="731.89501" x2="731.89501" y1="978.20006" y2="985.85566"/>
@@ -725,7 +725,7 @@
 		<polygon data-name="beam" id="beam-47" points="741.347 978.225 734.286 978.107 734.286 977.517 741.347 977.635 741.347 978.225" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="734.26952" x2="734.26952" y1="977.51045" y2="984.32264"/>
 		<circle cx="734.20414" cy="984.86254" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(736.03809 984.89536)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(736.0382 984.89536)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="738.00406" x2="738.00406" y1="977.80006" y2="984.61225"/>
 		<circle cx="737.93868" cy="984.85215" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="741.23314" x2="741.23314" y1="978.20006" y2="985.85566"/>
@@ -736,7 +736,7 @@
 		<polygon data-name="beam" id="beam-48" points="750.685 978.225 743.625 978.107 743.625 977.517 750.685 977.635 750.685 978.225" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="743.60765" x2="743.60765" y1="977.51045" y2="984.32264"/>
 		<circle cx="743.54227" cy="984.86254" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(745.37598 984.89536)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(745.37609 984.89536)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="747.34219" x2="747.34219" y1="977.80006" y2="984.61225"/>
 		<circle cx="747.27682" cy="984.85215" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="750.57128" x2="750.57128" y1="978.20006" y2="985.85566"/>
@@ -747,7 +747,7 @@
 		<polygon data-name="beam" id="beam-49" points="760.024 978.225 752.963 978.107 752.963 977.517 760.024 977.635 760.024 978.225" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="752.94579" x2="752.94579" y1="977.51045" y2="984.32264"/>
 		<circle cx="752.88041" cy="984.86254" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(754.71387 984.89536)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(754.71398 984.89536)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="756.68033" x2="756.68033" y1="977.80006" y2="984.61225"/>
 		<circle cx="756.61495" cy="984.85215" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="759.90941" x2="759.90941" y1="978.20006" y2="985.85566"/>
@@ -758,7 +758,7 @@
 		<polygon data-name="beam" id="beam-50" points="769.362 978.225 762.301 978.107 762.301 977.517 769.362 977.635 769.362 978.225" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="762.28392" x2="762.28392" y1="977.51045" y2="984.32264"/>
 		<circle cx="762.21854" cy="984.86254" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(764.05176 984.89536)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(764.05188 984.89536)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="766.01846" x2="766.01846" y1="977.80006" y2="984.61225"/>
 		<circle cx="765.95309" cy="984.85215" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="769.24755" x2="769.24755" y1="978.20006" y2="985.85566"/>
@@ -769,7 +769,7 @@
 		<polygon data-name="beam" id="beam-51" points="778.7 978.225 771.639 978.107 771.639 977.517 778.7 977.635 778.7 978.225" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="771.62205" x2="771.62205" y1="977.51045" y2="984.32264"/>
 		<circle cx="771.55668" cy="984.86254" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(773.38965 984.89536)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(773.38977 984.89536)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="775.3566" x2="775.3566" y1="977.80006" y2="984.61225"/>
 		<circle cx="775.29122" cy="984.85215" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="778.58568" x2="778.58568" y1="978.20006" y2="985.85566"/>
@@ -780,7 +780,7 @@
 		<polygon data-name="beam" id="beam-52" points="788.038 978.225 780.977 978.107 780.977 977.517 788.038 977.635 788.038 978.225" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="780.96019" x2="780.96019" y1="977.51045" y2="984.32264"/>
 		<circle cx="780.89481" cy="984.86254" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(782.72754 984.89536)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(782.72766 984.89536)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="784.69473" x2="784.69473" y1="977.80006" y2="984.61225"/>
 		<circle cx="784.62936" cy="984.85215" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="787.92382" x2="787.92382" y1="978.20006" y2="985.85566"/>
@@ -791,7 +791,7 @@
 		<polygon data-name="beam" id="beam-53" points="797.376 978.225 790.315 978.107 790.315 977.517 797.376 977.635 797.376 978.225" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="790.29832" x2="790.29832" y1="977.51045" y2="984.32264"/>
 		<circle cx="790.23295" cy="984.86254" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(792.06543 984.89536)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(792.06555 984.89536)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="794.03287" x2="794.03287" y1="977.80006" y2="984.61225"/>
 		<circle cx="793.96749" cy="984.85215" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="797.26195" x2="797.26195" y1="978.20006" y2="985.85566"/>
@@ -802,7 +802,7 @@
 		<polygon data-name="beam" id="beam-54" points="806.714 978.225 799.653 978.107 799.653 977.517 806.714 977.635 806.714 978.225" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="799.63646" x2="799.63646" y1="977.51045" y2="984.32264"/>
 		<circle cx="799.57108" cy="984.86254" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(801.40332 984.89536)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(801.40344 984.89536)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="803.371" x2="803.371" y1="977.80006" y2="984.61225"/>
 		<circle cx="803.30562" cy="984.85215" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="806.60009" x2="806.60009" y1="978.20006" y2="985.85566"/>
@@ -811,7 +811,7 @@
 		<path d="M802.58748,979.49384c0,.22361.82022,1.64,1.64021,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22362s1.491-.2547,1.56529.56529" data-name="flz" id="flz-163" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M805.71936,979.49384c0,.22361.82022,1.64,1.64021,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22362s1.491-.2547,1.56529.56529" data-name="flz" id="flz-164" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<polygon data-name="beam" id="beam-55" points="711.907 978.325 708.499 978.207 708.499 977.617 711.907 977.735 711.907 978.325" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(706.59839 984.99546)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(706.59875 984.99545)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="708.56416" x2="708.56416" y1="977.90006" y2="984.71225"/>
 		<circle cx="708.49878" cy="984.95215" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="711.79324" x2="711.79324" y1="978.30006" y2="985.95566"/>
@@ -828,9 +828,9 @@
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.354157816429693px" x1="181.47894" x2="190.25889" y1="978.78153" y2="978.78153"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.088539454107423px" x1="180.32129" x2="183.33572" y1="980.02255" y2="978.03477"/>
 		<circle cx="181.50246" cy="982.62048" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(178.17529 989.1522)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(174.39893 978.61631)">jeté</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="matrix(1, 0, 0, -1, 180.97168, 977.24619)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(178.17541 989.15219)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(174.39904 978.61633)">jeté</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="matrix(1, 0, 0, -1, 180.9718, 977.24658)"></text>
 		<ellipse cx="183.23504" cy="982.64582" rx="0.24799" ry="0.19822" style="fill:#231f20"/>
 		<ellipse cx="185.00207" cy="982.64582" rx="0.24799" ry="0.19822" style="fill:#231f20"/>
 		<ellipse cx="186.76909" cy="982.64582" rx="0.24799" ry="0.19822" style="fill:#231f20"/>
@@ -848,9 +848,9 @@
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.354157816429693px" x1="361.9917" x2="370.77165" y1="978.78153" y2="978.78153"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.088539454107423px" x1="360.83405" x2="363.84848" y1="980.02255" y2="978.03477"/>
 		<circle cx="362.01522" cy="982.62048" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(358.68799 989.1522)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(354.91168 978.61631)">jeté</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="matrix(1, 0, 0, -1, 361.48438, 977.24619)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(358.68811 989.15219)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(354.91174 978.61633)">jeté</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="matrix(1, 0, 0, -1, 361.48449, 977.24658)"></text>
 		<ellipse cx="363.7478" cy="982.64582" rx="0.24799" ry="0.19822" style="fill:#231f20"/>
 		<ellipse cx="365.51483" cy="982.64582" rx="0.24799" ry="0.19822" style="fill:#231f20"/>
 		<ellipse cx="367.28186" cy="982.64582" rx="0.24799" ry="0.19822" style="fill:#231f20"/>
@@ -858,12 +858,12 @@
 		<ellipse cx="370.81591" cy="982.64582" rx="0.24799" ry="0.19822" style="fill:#231f20"/>
 		<path d="M363.49981,983.80745a10.76578,10.76578,0,0,0,7.06811,0" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="362.16443" x2="364.72318" y1="988.41626" y2="988.41626"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(406.10815 977.72397)">♭</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(395.6355 991.75596)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(406.10803 977.72397)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(395.63537 991.75595)"></text>
 		<polygon data-name="beam" id="beam-56" points="550.882 978.17 543.821 977.751 543.821 977.161 550.882 977.58 550.882 978.17" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="543.80433" x2="543.80433" y1="977.15514" y2="984.36733"/>
 		<circle cx="543.73895" cy="984.90723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(545.57349 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(545.57336 985.04037)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="547.53887" x2="547.53887" y1="977.84475" y2="984.65694"/>
 		<circle cx="547.4735" cy="984.89684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="550.76796" x2="550.76796" y1="978.14475" y2="985.90035"/>
@@ -874,7 +874,7 @@
 		<polygon data-name="beam" id="beam-57" points="560.74 978.17 553.679 977.751 553.679 977.161 560.74 977.58 560.74 978.17" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="553.662" x2="553.662" y1="977.15514" y2="984.36733"/>
 		<circle cx="553.59662" cy="984.90723" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(555.33105 985.04038)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(555.33117 985.04037)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="557.29654" x2="557.29654" y1="977.84475" y2="984.65694"/>
 		<circle cx="557.23116" cy="984.89684" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="560.62563" x2="560.62563" y1="978.14475" y2="985.90035"/>
@@ -882,12 +882,12 @@
 		<path d="M552.87848,978.57554c0,.22361.82021,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-170" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M556.513,979.43853c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22362s1.49105.7453,1.56529,1.56529" data-name="flz" id="flz-171" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M559.7449,979.53853c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22362s1.491.7453,1.56529,1.56529" data-name="flz" id="flz-172" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(407.65527 975.25693)"></text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(398.52661 978.82725)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(407.65539 975.25693)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(398.52648 978.82724)"></text>
 		<circle cx="399.01121" cy="982.68868" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="399.01121" x2="399.01121" y1="988.022" y2="982.68868"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="399.01121" x2="401.56996" y1="987.922" y2="987.922"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(417.96582 979.04844)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(417.96594 979.04843)"></text>
 		<circle cx="418.45058" cy="982.70944" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="418.45058" x2="418.45058" y1="988.04275" y2="982.70944"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="418.45058" x2="421.00932" y1="987.94275" y2="987.94275"/>
@@ -896,19 +896,19 @@
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="408.14854" x2="410.70728" y1="987.69597" y2="987.69597"/>
 		<path d="M426.58218,979.33853H428.954" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<path d="M426.58218,978.02351H428.954" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(425.57837 977.59458)">♭</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(427.12549 975.12754)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(425.57824 977.59457)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(427.12561 975.12753)"></text>
 		<circle cx="427.61872" cy="977.35884" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="427.61872" x2="427.61872" y1="987.66667" y2="977.35884"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="427.61872" x2="430.17746" y1="987.56667" y2="987.56667"/>
 		<path d="M437.67481,979.33853h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<path d="M437.67481,978.02351h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(436.67114 977.59458)">♭</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(438.21826 975.12754)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(436.67102 977.59457)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(438.21838 975.12753)"></text>
 		<circle cx="438.71135" cy="977.35884" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="438.71135" x2="438.71135" y1="987.66667" y2="977.35884"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="438.71135" x2="441.27009" y1="987.56667" y2="987.56667"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(391.85043 978.17612)">pizz</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(391.85021 978.17615)">pizz</text>
 	</g>
 	<g data-name="Layer 62 vla" id="Layer_62_vla-10">
 		<line data-name="spacer" id="spacer-13" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="986.41011" y2="972.23622"/>
@@ -922,7 +922,7 @@
 		<polygon data-name="beam" id="beam-48" points="90.249 977.8 83.188 977.682 83.188 977.092 90.249 977.21 90.249 977.8" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="83.17142" x2="83.17142" y1="977.08531" y2="984.2975"/>
 		<circle cx="83.10604" cy="984.8374" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(84.83998 984.86997)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(84.83961 984.86996)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="86.80596" x2="86.80596" y1="977.37492" y2="984.58711"/>
 		<circle cx="86.74058" cy="984.82701" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="90.13504" x2="90.13504" y1="977.77492" y2="985.83052"/>
@@ -931,7 +931,7 @@
 		<path d="M86.02244,978.4687c0,.22362.82022,1.64,1.64021,1.49084.81954-.14916-1.4166.44722-1.4166.44722l1.193.67084-1.193.22362s1.49106.7453,1.5653,1.5653" data-name="flz" id="flz-50" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M89.25432,978.78211c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22362s1.49106.7453,1.5653,1.56529" data-name="flz" id="flz-51" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<circle cx="194.14334" cy="984.8374" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(195.87709 984.86997)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(195.87672 984.86996)">♭</text>
 		<circle cx="197.77788" cy="984.82701" r="0.53124" style="fill:#231f20"/>
 		<circle cx="201.10697" cy="985.52701" r="0.53124" style="fill:#231f20"/>
 		<circle cx="92.24622" cy="982.70053" r="0.26562" style="fill:#231f20"/>
@@ -942,13 +942,13 @@
 		<circle cx="80.25235" cy="984.1058" r="0.26562" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="79.5751" x2="79.5751" y1="981.73924" y2="985.0012"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="78.9501" x2="78.9501" y1="981.73924" y2="985.0012"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-ItalicMT, Courier New;font-style:italic" transform="translate(94.52467 979.9838)">repeat, ad lib, as fast as possible</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-ItalicMT, Courier New;font-style:italic" transform="translate(94.52467 979.98376)">repeat, ad lib, as fast as possible</text>
 		<path d="M191.65052,984.20209c-1.446,0-1.387,2.55932,0,2.55932" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px"/>
 		<path d="M202.25907,984.20209c1.446,0,1.387,2.55932,0,2.55932" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px"/>
 		<polygon data-name="beam" id="beam-49" points="332.554 977.8 325.493 977.682 325.493 977.092 332.554 977.21 332.554 977.8" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="325.47599" x2="325.47599" y1="977.08531" y2="984.2975"/>
 		<circle cx="325.41062" cy="984.8374" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(326.84437 984.86997)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(326.84449 984.86996)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="328.81054" x2="328.81054" y1="977.37492" y2="984.58711"/>
 		<circle cx="328.74516" cy="984.82701" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="332.43962" x2="332.43962" y1="977.77492" y2="985.83052"/>
@@ -960,7 +960,7 @@
 		<polygon data-name="beam" id="beam-50" points="301.992 977.068 295.231 976.95 295.231 976.36 301.992 976.478 301.992 977.068" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="295.21436" x2="295.21436" y1="976.35371" y2="983.9659"/>
 		<circle cx="295.24898" cy="984.1058" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(299.9098 984.93833)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(299.90992 984.93832)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="297.7489" x2="297.7489" y1="976.64332" y2="984.65551"/>
 		<circle cx="297.68352" cy="984.89541" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="301.87799" x2="301.87799" y1="976.77733" y2="984.83293"/>
@@ -968,7 +968,7 @@
 		<path d="M294.43084,978.14749c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-55" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M296.96538,978.1371c0,.22361.82022,1.64,1.64021,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22361s1.491.74531,1.56529,1.5653" data-name="flz" id="flz-56" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M300.99726,978.1371c0,.22361.82022,1.64,1.64021,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22361s1.491.74531,1.56529,1.5653" data-name="flz" id="flz-57" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(293.29701 984.20127)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(293.29664 984.20126)">♭</text>
 		<circle cx="334.53301" cy="982.70053" r="0.26562" style="fill:#231f20"/>
 		<circle cx="334.53301" cy="984.1058" r="0.26562" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="335.63018" x2="432.38539" y1="983.32841" y2="983.32841"/>
@@ -986,7 +986,7 @@
 		<polygon data-name="beam" id="beam-51" points="518.928 977.8 511.867 977.682 511.867 977.092 518.928 977.21 518.928 977.8" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="511.85013" x2="511.85013" y1="977.08531" y2="984.2975"/>
 		<circle cx="511.78475" cy="984.8374" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(513.5182 984.86997)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(513.51832 984.86996)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="515.48467" x2="515.48467" y1="977.37492" y2="984.58711"/>
 		<circle cx="515.41929" cy="984.82701" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="518.81375" x2="518.81375" y1="977.77492" y2="985.83052"/>
@@ -1010,7 +1010,7 @@
 		<polygon data-name="beam" id="beam-52" points="445.648 977.068 438.887 976.95 438.887 976.36 445.648 976.478 445.648 977.068" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="438.87042" x2="438.87042" y1="976.35371" y2="983.9659"/>
 		<circle cx="438.90504" cy="984.1058" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(443.56605 984.93833)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(443.56617 984.93832)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="441.90496" x2="441.90496" y1="976.74332" y2="984.75551"/>
 		<circle cx="441.83958" cy="984.99541" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="445.53404" x2="445.53404" y1="976.77733" y2="984.83293"/>
@@ -1018,7 +1018,7 @@
 		<path d="M438.0869,978.14749c0,.22361.82021,1.64,1.6402,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-61" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M441.12144,978.2371c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-62" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M444.65332,978.1371c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-63" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(436.95326 984.20127)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(436.95289 984.20126)">♭</text>
 		<circle cx="447.55995" cy="982.70053" r="0.26562" style="fill:#231f20"/>
 		<circle cx="447.55995" cy="984.1058" r="0.26562" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="448.65712" x2="507.19498" y1="983.32841" y2="983.32841"/>
@@ -1031,7 +1031,7 @@
 		<polygon data-name="beam" id="beam-53" points="681.807 977.068 675.046 976.95 675.046 976.36 681.807 976.478 681.807 977.068" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="675.02912" x2="675.02912" y1="976.35371" y2="983.9659"/>
 		<circle cx="675.06374" cy="984.1058" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(679.72475 984.93833)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(679.72437 984.93832)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="677.66366" x2="677.66366" y1="976.64332" y2="984.65551"/>
 		<circle cx="677.59828" cy="984.89541" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="681.69275" x2="681.69275" y1="976.77733" y2="984.83293"/>
@@ -1039,7 +1039,7 @@
 		<path d="M674.2456,978.14749c0,.22361.82021,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-64" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M676.88014,978.1371c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22361s1.49105.74531,1.56529,1.5653" data-name="flz" id="flz-65" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M680.812,978.1371c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-66" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(673.11195 984.20127)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(673.11207 984.20126)">♭</text>
 		<circle cx="683.71865" cy="982.70053" r="0.26562" style="fill:#231f20"/>
 		<circle cx="683.71865" cy="984.1058" r="0.26562" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="684.3959" x2="684.3959" y1="981.73924" y2="985.0012"/>
@@ -1058,7 +1058,7 @@
 		<path d="M576.7517,990.1905c0-.22362-.82021-1.64-1.64021-1.49084-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-67" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M573.41716,989.49671c0-.22361-.82022-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-68" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M570.18528,989.49671c0-.22361-.82022-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-69" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(567.37172 982.80088)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(567.37184 982.80087)">♭</text>
 		<polygon data-name="beam" id="beam-55" points="731.492 989.766 738.253 989.884 738.253 990.474 731.492 990.356 731.492 989.766" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="738.26988" x2="738.26988" y1="990.48011" y2="983.66791"/>
 		<circle cx="731.62526" cy="982.7058" r="0.53124" style="fill:#231f20"/>
@@ -1069,7 +1069,7 @@
 		<path d="M739.0534,990.1905c0-.22362-.82022-1.64-1.64021-1.49084-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-70" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M735.71885,989.49671c0-.22361-.82021-1.64-1.6402-1.49083-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-71" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M732.487,989.49671c0-.22361-.82021-1.64-1.6402-1.49083-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-72" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(729.67348 982.80088)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(729.67359 982.80087)">♭</text>
 		<polygon data-name="beam" id="beam-56" points="740.925 989.766 747.686 989.884 747.686 990.474 740.925 990.356 740.925 989.766" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="747.70304" x2="747.70304" y1="990.48011" y2="983.66791"/>
 		<circle cx="741.05842" cy="982.7058" r="0.53124" style="fill:#231f20"/>
@@ -1080,7 +1080,7 @@
 		<path d="M748.48656,990.1905c0-.22362-.82022-1.64-1.64021-1.49084-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-73" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M745.152,989.49671c0-.22361-.82022-1.64-1.64021-1.49083-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-74" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M741.92014,989.49671c0-.22361-.82022-1.64-1.64021-1.49083-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-75" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(739.10707 982.80088)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(739.10719 982.80087)">♭</text>
 		<polygon data-name="beam" id="beam-57" points="770.284 988.966 777.045 989.084 777.045 989.674 770.284 989.556 770.284 988.966" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="777.06144" x2="777.06144" y1="989.68011" y2="982.16791"/>
 		<circle cx="770.41682" cy="981.9058" r="0.53124" style="fill:#231f20"/>
@@ -1091,7 +1091,7 @@
 		<path d="M777.845,989.3905c0-.22362-.82022-1.64-1.64021-1.49084-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-76" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M774.51042,988.69671c0-.22361-.82022-1.64-1.64021-1.49083-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-77" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M771.27854,988.69671c0-.22361-.82022-1.64-1.64021-1.49083-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.49105-.74531-1.56529-1.5653" data-name="flz" id="flz-78" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(771.56703 982.16367)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(771.56715 982.16367)">♭</text>
 		<polygon data-name="beam" id="beam-58" points="790.2 988.24 796.961 988.358 796.961 988.948 790.2 988.83 790.2 988.24" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="796.97765" x2="796.97765" y1="988.95438" y2="981.44219"/>
 		<circle cx="790.33303" cy="980.48007" r="0.53124" style="fill:#231f20"/>
@@ -1099,7 +1099,7 @@
 		<circle cx="793.56758" cy="981.26968" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="790.31402" x2="790.31402" y1="988.53076" y2="980.57516"/>
 		<circle cx="796.89666" cy="981.88007" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(788.33217 980.58042)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(788.3318 980.58041)">♭</text>
 		<path d="M797.76117,988.66477c0-.22361-.82021-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-79" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M794.42663,987.971c0-.22361-.82022-1.64-1.64021-1.49083-.81954.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-80" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M791.19475,987.971c0-.22361-.82022-1.64-1.64021-1.49083-.81954.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-81" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
@@ -1113,11 +1113,11 @@
 		<path d="M787.55683,989.3905c0-.22362-.82022-1.64-1.64021-1.49084-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-82" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M784.22228,988.69671c0-.22361-.82021-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-83" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M780.9904,988.69671c0-.22361-.82021-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-84" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(784.85365 982.06797)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(784.85328 982.06796)">♭</text>
 		<polygon data-name="beam" id="beam-60" points="799.935 988.247 806.696 988.365 806.696 988.955 799.935 988.837 799.935 988.247" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="806.71269" x2="806.71269" y1="988.96149" y2="980.7493"/>
 		<circle cx="800.06808" cy="980.48718" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(801.15834 980.58384)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(801.15797 980.58383)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="803.37815" x2="803.37815" y1="988.67188" y2="980.05969"/>
 		<circle cx="803.30262" cy="980.57679" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="800.04907" x2="800.04907" y1="988.53787" y2="980.48226"/>
@@ -1135,7 +1135,7 @@
 		<path d="M758.53066,990.1905c0-.22362-.82021-1.64-1.64021-1.49084-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-88" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M755.19612,989.49671c0-.22361-.82022-1.64-1.64021-1.49083-.81954.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-89" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M751.96424,989.49671c0-.22361-.82022-1.64-1.64021-1.49083-.81954.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.49105-.74531-1.56529-1.5653" data-name="flz" id="flz-90" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(752.3307 982.80576)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(752.33082 982.80576)">♭</text>
 		<polygon data-name="beam" id="beam-62" points="760.685 989.766 767.446 989.884 767.446 990.474 760.685 990.356 760.685 989.766" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="767.46319" x2="767.46319" y1="990.48011" y2="982.86791"/>
 		<circle cx="760.81857" cy="982.7058" r="0.53124" style="fill:#231f20"/>
@@ -1146,7 +1146,7 @@
 		<path d="M768.24671,990.1905c0-.22362-.82022-1.64-1.64021-1.49084-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-91" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M764.91216,989.49671c0-.22361-.82021-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-92" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M761.68028,989.49671c0-.22361-.82021-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-93" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(762.04652 982.80576)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(762.04664 982.80576)">♭</text>
 		<circle cx="577.97848" cy="982.70053" r="0.26562" style="fill:#231f20"/>
 		<circle cx="577.97848" cy="984.1058" r="0.26562" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="579.07564" x2="618.23928" y1="983.32841" y2="983.32841"/>
@@ -1159,7 +1159,7 @@
 		<polygon data-name="beam" id="beam-63" points="630.92 977.8 623.859 977.682 623.859 977.092 630.92 977.21 630.92 977.8" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="623.84179" x2="623.84179" y1="977.08531" y2="984.2975"/>
 		<circle cx="623.77641" cy="984.8374" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(625.61 984.86997)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(625.61012 984.86996)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="627.57633" x2="627.57633" y1="977.37492" y2="984.58711"/>
 		<circle cx="627.51095" cy="984.82701" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="630.80542" x2="630.80542" y1="977.77492" y2="985.83052"/>
@@ -1191,45 +1191,45 @@
 		<circle cx="265.00378" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="265.00378" x2="265.00378" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="265.00378" x2="267.56252" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(259.84061 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(257.82486 979.36655)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(259.84058 989.15239)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(257.82495 979.3665)">pizz</text>
 		<circle cx="380.61585" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="380.61585" x2="380.61585" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="380.61585" x2="383.17459" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(375.45291 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(373.43692 979.36655)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(375.45288 989.15239)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(373.43701 979.3665)">pizz</text>
 		<circle cx="463.98474" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="463.98474" x2="463.98474" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="463.98474" x2="466.54349" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(458.82205 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(456.80582 979.36655)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(458.82202 989.15239)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(456.80591 979.3665)">pizz</text>
 		<circle cx="647.52294" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="647.52294" x2="647.52294" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="647.52294" x2="650.08169" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(642.36014 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(640.34402 979.36655)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(642.36011 989.15239)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(640.34399 979.3665)">pizz</text>
 		<circle cx="729.14295" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="729.14295" x2="729.14295" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="729.14295" x2="731.70169" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(723.98025 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(721.96402 979.36655)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(723.98022 989.15239)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(721.96411 979.3665)">pizz</text>
 		<circle cx="772.30056" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="772.30056" x2="772.30056" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="772.30056" x2="774.85931" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(767.13797 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(765.12161 979.36655)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(767.13794 989.15239)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(765.12158 979.3665)">pizz</text>
 		<circle cx="562.76143" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="562.76143" x2="562.76143" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="562.76143" x2="565.32017" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(557.59891 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(555.58255 979.36655)">pizz</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(176.66434 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(172.81399 977.83164)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(557.59888 989.15239)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(555.58252 979.3665)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(176.66431 989.15239)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(172.81396 977.83159)">pizz</text>
 		<path d="M180.69775,979.367h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="181.82741" cy="979.39031" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="181.82741" x2="181.82741" y1="987.92362" y2="979.59031"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="181.82741" x2="184.38615" y1="987.82362" y2="987.82362"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(178.83084 979.36631)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(178.83081 979.36626)">♭</text>
 		<polygon data-name="beam" id="beam-2" points="80.541 987.447 87.302 987.565 87.302 988.155 80.541 988.037 80.541 987.447" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="87.3189" x2="87.3189" y1="988.16149" y2="979.9493"/>
 		<circle cx="80.67429" cy="979.68718" r="0.53124" style="fill:#231f20"/>
@@ -1237,11 +1237,11 @@
 		<circle cx="83.90883" cy="980.47679" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="80.65527" x2="80.65527" y1="987.73787" y2="979.68226"/>
 		<circle cx="87.33791" cy="980.48718" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(78.97391 979.68784)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(78.97388 979.68779)">♭</text>
 		<path d="M88.10242,987.87188c0-.22361-.82021-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22362s-1.49106-.7453-1.5653-1.5653" data-name="flz" id="flz-4" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M84.76788,987.1781c0-.22362-.82022-1.64-1.64021-1.49084-.81954.14916,1.4166-.44722,1.4166-.44722l-1.193-.67084,1.193-.22362s-1.49106-.7453-1.5653-1.5653" data-name="flz" id="flz-5" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M81.536,987.1781c0-.22362-.82022-1.64-1.64021-1.49084-.81954.14916,1.4166-.44722,1.4166-.44722l-1.193-.67084,1.193-.22362s-1.49106-.7453-1.5653-1.5653" data-name="flz" id="flz-6" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(85.3992 980.54966)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(85.39917 980.54961)">♭</text>
 	</g>
 	<g data-name="Layer 62 vla" id="Layer_62_vla-12">
 		<line data-name="spacer" id="spacer-13" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="986.41011" y2="972.23622"/>
@@ -1255,7 +1255,7 @@
 		<polygon data-name="beam" id="beam-49" points="90.249 977.8 83.188 977.682 83.188 977.092 90.249 977.21 90.249 977.8" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="83.17142" x2="83.17142" y1="977.08531" y2="984.2975"/>
 		<circle cx="83.10604" cy="984.8374" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(84.83977 984.86997)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(84.83974 984.86992)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="86.80596" x2="86.80596" y1="977.37492" y2="984.58711"/>
 		<circle cx="86.74058" cy="984.82701" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="90.13504" x2="90.13504" y1="977.77492" y2="985.83052"/>
@@ -1264,7 +1264,7 @@
 		<path d="M86.02244,978.4687c0,.22362.82022,1.64,1.64021,1.49084.81954-.14916-1.4166.44722-1.4166.44722l1.193.67084-1.193.22362s1.49106.7453,1.5653,1.5653" data-name="flz" id="flz-50" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M89.25432,978.78211c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22362s1.49106.7453,1.5653,1.56529" data-name="flz" id="flz-51" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<circle cx="194.14334" cy="984.8374" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(195.87687 984.86997)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(195.87685 984.86992)">♭</text>
 		<circle cx="197.77788" cy="984.82701" r="0.53124" style="fill:#231f20"/>
 		<circle cx="201.10697" cy="985.52701" r="0.53124" style="fill:#231f20"/>
 		<circle cx="92.24622" cy="982.70053" r="0.26562" style="fill:#231f20"/>
@@ -1275,13 +1275,13 @@
 		<circle cx="80.25235" cy="984.1058" r="0.26562" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="79.5751" x2="79.5751" y1="981.73924" y2="985.0012"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="78.9501" x2="78.9501" y1="981.73924" y2="985.0012"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-ItalicMT, Courier New;font-style:italic" transform="translate(94.5247 979.9838)">repeat, ad lib, as fast as possible</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-ItalicMT, Courier New;font-style:italic" transform="translate(94.52479 979.9838)">repeat, ad lib, as fast as possible</text>
 		<path d="M191.65052,984.20209c-1.446,0-1.387,2.55932,0,2.55932" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px"/>
 		<path d="M202.25907,984.20209c1.446,0,1.387,2.55932,0,2.55932" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px"/>
 		<polygon data-name="beam" id="beam-50" points="332.554 977.8 325.493 977.682 325.493 977.092 332.554 977.21 332.554 977.8" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="325.47599" x2="325.47599" y1="977.08531" y2="984.2975"/>
 		<circle cx="325.41062" cy="984.8374" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(326.84416 984.86997)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(326.84413 984.86992)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="328.81054" x2="328.81054" y1="977.37492" y2="984.58711"/>
 		<circle cx="328.74516" cy="984.82701" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="332.43962" x2="332.43962" y1="977.77492" y2="985.83052"/>
@@ -1293,7 +1293,7 @@
 		<polygon data-name="beam" id="beam-51" points="301.992 977.068 295.231 976.95 295.231 976.36 301.992 976.478 301.992 977.068" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="295.21436" x2="295.21436" y1="976.35371" y2="983.9659"/>
 		<circle cx="295.24898" cy="984.1058" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(299.90959 984.93833)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(299.90956 984.93828)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="297.7489" x2="297.7489" y1="976.64332" y2="984.65551"/>
 		<circle cx="297.68352" cy="984.89541" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="301.87799" x2="301.87799" y1="976.77733" y2="984.83293"/>
@@ -1301,7 +1301,7 @@
 		<path d="M294.43084,978.14749c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-55" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M296.96538,978.1371c0,.22361.82022,1.64,1.64021,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22361s1.491.74531,1.56529,1.5653" data-name="flz" id="flz-56" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M300.99726,978.1371c0,.22361.82022,1.64,1.64021,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22361s1.491.74531,1.56529,1.5653" data-name="flz" id="flz-57" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(293.2968 984.20127)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(293.29677 984.20122)">♭</text>
 		<circle cx="334.53301" cy="982.70053" r="0.26562" style="fill:#231f20"/>
 		<circle cx="334.53301" cy="984.1058" r="0.26562" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="335.63018" x2="432.38539" y1="983.32841" y2="983.32841"/>
@@ -1319,7 +1319,7 @@
 		<polygon data-name="beam" id="beam-52" points="518.928 977.8 511.867 977.682 511.867 977.092 518.928 977.21 518.928 977.8" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="511.85013" x2="511.85013" y1="977.08531" y2="984.2975"/>
 		<circle cx="511.78475" cy="984.8374" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(513.51799 984.86997)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(513.51796 984.86992)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="515.48467" x2="515.48467" y1="977.37492" y2="984.58711"/>
 		<circle cx="515.41929" cy="984.82701" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="518.81375" x2="518.81375" y1="977.77492" y2="985.83052"/>
@@ -1343,7 +1343,7 @@
 		<polygon data-name="beam" id="beam-53" points="445.648 977.068 438.887 976.95 438.887 976.36 445.648 976.478 445.648 977.068" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="438.87042" x2="438.87042" y1="976.35371" y2="983.9659"/>
 		<circle cx="438.90504" cy="984.1058" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(443.56584 984.93833)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(443.56581 984.93828)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="441.90496" x2="441.90496" y1="976.74332" y2="984.75551"/>
 		<circle cx="441.83958" cy="984.99541" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="445.53404" x2="445.53404" y1="976.77733" y2="984.83293"/>
@@ -1351,7 +1351,7 @@
 		<path d="M438.0869,978.14749c0,.22361.82021,1.64,1.6402,1.49083.81955-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-61" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M441.12144,978.2371c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-62" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M444.65332,978.1371c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-63" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(436.95305 984.20127)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(436.95302 984.20122)">♭</text>
 		<circle cx="447.55995" cy="982.70053" r="0.26562" style="fill:#231f20"/>
 		<circle cx="447.55995" cy="984.1058" r="0.26562" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="448.65712" x2="507.19498" y1="983.32841" y2="983.32841"/>
@@ -1364,7 +1364,7 @@
 		<polygon data-name="beam" id="beam-54" points="681.807 977.068 675.046 976.95 675.046 976.36 681.807 976.478 681.807 977.068" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="675.02912" x2="675.02912" y1="976.35371" y2="983.9659"/>
 		<circle cx="675.06374" cy="984.1058" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(679.72453 984.93833)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(679.7245 984.93828)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="677.66366" x2="677.66366" y1="976.64332" y2="984.65551"/>
 		<circle cx="677.59828" cy="984.89541" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="681.69275" x2="681.69275" y1="976.77733" y2="984.83293"/>
@@ -1372,7 +1372,7 @@
 		<path d="M674.2456,978.14749c0,.22361.82021,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-64" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M676.88014,978.1371c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.41659.44723-1.41659.44723l1.193.67084-1.193.22361s1.49105.74531,1.56529,1.5653" data-name="flz" id="flz-65" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M680.812,978.1371c0,.22361.82022,1.64,1.64021,1.49083.81954-.14915-1.4166.44723-1.4166.44723l1.193.67084-1.193.22361s1.49106.74531,1.5653,1.5653" data-name="flz" id="flz-66" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(673.11174 984.20127)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(673.11171 984.20122)">♭</text>
 		<circle cx="683.71865" cy="982.70053" r="0.26562" style="fill:#231f20"/>
 		<circle cx="683.71865" cy="984.1058" r="0.26562" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" x1="684.3959" x2="684.3959" y1="981.73924" y2="985.0012"/>
@@ -1391,7 +1391,7 @@
 		<path d="M576.7517,990.1905c0-.22362-.82021-1.64-1.64021-1.49084-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-67" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M573.41716,989.49671c0-.22361-.82022-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-68" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M570.18528,989.49671c0-.22361-.82022-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-69" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(567.3715 982.80088)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(567.37147 982.80083)">♭</text>
 		<polygon data-name="beam" id="beam-56" points="731.492 989.766 738.253 989.884 738.253 990.474 731.492 990.356 731.492 989.766" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="738.26988" x2="738.26988" y1="990.48011" y2="983.66791"/>
 		<circle cx="731.62526" cy="982.7058" r="0.53124" style="fill:#231f20"/>
@@ -1402,7 +1402,7 @@
 		<path d="M739.0534,990.1905c0-.22362-.82022-1.64-1.64021-1.49084-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-70" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M735.71885,989.49671c0-.22361-.82021-1.64-1.6402-1.49083-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-71" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M732.487,989.49671c0-.22361-.82021-1.64-1.6402-1.49083-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-72" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(729.67326 982.80088)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(729.67323 982.80083)">♭</text>
 		<polygon data-name="beam" id="beam-57" points="740.925 989.766 747.686 989.884 747.686 990.474 740.925 990.356 740.925 989.766" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="747.70304" x2="747.70304" y1="990.48011" y2="983.66791"/>
 		<circle cx="741.05842" cy="982.7058" r="0.53124" style="fill:#231f20"/>
@@ -1413,7 +1413,7 @@
 		<path d="M748.48656,990.1905c0-.22362-.82022-1.64-1.64021-1.49084-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-73" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M745.152,989.49671c0-.22361-.82022-1.64-1.64021-1.49083-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-74" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M741.92014,989.49671c0-.22361-.82022-1.64-1.64021-1.49083-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-75" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(739.10686 982.80088)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(739.10683 982.80083)">♭</text>
 		<polygon data-name="beam" id="beam-58" points="770.284 988.966 777.045 989.084 777.045 989.674 770.284 989.556 770.284 988.966" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="777.06144" x2="777.06144" y1="989.68011" y2="982.16791"/>
 		<circle cx="770.41682" cy="981.9058" r="0.53124" style="fill:#231f20"/>
@@ -1424,7 +1424,7 @@
 		<path d="M777.845,989.3905c0-.22362-.82022-1.64-1.64021-1.49084-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-76" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M774.51042,988.69671c0-.22361-.82022-1.64-1.64021-1.49083-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-77" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M771.27854,988.69671c0-.22361-.82022-1.64-1.64021-1.49083-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.49105-.74531-1.56529-1.5653" data-name="flz" id="flz-78" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(771.56682 982.16367)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(771.56679 982.16362)">♭</text>
 		<polygon data-name="beam" id="beam-59" points="790.2 988.24 796.961 988.358 796.961 988.948 790.2 988.83 790.2 988.24" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="796.97765" x2="796.97765" y1="988.95438" y2="981.44219"/>
 		<circle cx="790.33303" cy="980.48007" r="0.53124" style="fill:#231f20"/>
@@ -1432,7 +1432,7 @@
 		<circle cx="793.56758" cy="981.26968" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="790.31402" x2="790.31402" y1="988.53076" y2="980.57516"/>
 		<circle cx="796.89666" cy="981.88007" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(788.33195 980.58042)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(788.33192 980.58037)">♭</text>
 		<path d="M797.76117,988.66477c0-.22361-.82021-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-79" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M794.42663,987.971c0-.22361-.82022-1.64-1.64021-1.49083-.81954.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-80" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M791.19475,987.971c0-.22361-.82022-1.64-1.64021-1.49083-.81954.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-81" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
@@ -1446,11 +1446,11 @@
 		<path d="M787.55683,989.3905c0-.22362-.82022-1.64-1.64021-1.49084-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-82" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M784.22228,988.69671c0-.22361-.82021-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-83" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M780.9904,988.69671c0-.22361-.82021-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-84" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(784.85344 982.06797)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(784.85341 982.06792)">♭</text>
 		<polygon data-name="beam" id="beam-61" points="799.935 988.247 806.696 988.365 806.696 988.955 799.935 988.837 799.935 988.247" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="806.71269" x2="806.71269" y1="988.96149" y2="980.7493"/>
 		<circle cx="800.06808" cy="980.48718" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(801.15812 980.58384)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(801.1581 980.58379)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="803.37815" x2="803.37815" y1="988.67188" y2="980.05969"/>
 		<circle cx="803.30262" cy="980.57679" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="800.04907" x2="800.04907" y1="988.53787" y2="980.48226"/>
@@ -1468,7 +1468,7 @@
 		<path d="M758.53066,990.1905c0-.22362-.82021-1.64-1.64021-1.49084-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-88" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M755.19612,989.49671c0-.22361-.82022-1.64-1.64021-1.49083-.81954.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.491-.74531-1.56529-1.5653" data-name="flz" id="flz-89" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M751.96424,989.49671c0-.22361-.82022-1.64-1.64021-1.49083-.81954.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.49105-.74531-1.56529-1.5653" data-name="flz" id="flz-90" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(752.33049 982.80576)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(752.33046 982.80571)">♭</text>
 		<polygon data-name="beam" id="beam-63" points="760.685 989.766 767.446 989.884 767.446 990.474 760.685 990.356 760.685 989.766" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="767.46319" x2="767.46319" y1="990.48011" y2="982.86791"/>
 		<circle cx="760.81857" cy="982.7058" r="0.53124" style="fill:#231f20"/>
@@ -1479,7 +1479,7 @@
 		<path d="M768.24671,990.1905c0-.22362-.82022-1.64-1.64021-1.49084-.81955.14915,1.41659-.44723,1.41659-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-91" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M764.91216,989.49671c0-.22361-.82021-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-92" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M761.68028,989.49671c0-.22361-.82021-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22361s-1.49106-.74531-1.5653-1.5653" data-name="flz" id="flz-93" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(762.04631 982.80576)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(762.04628 982.80571)">♭</text>
 		<circle cx="577.97848" cy="982.70053" r="0.26562" style="fill:#231f20"/>
 		<circle cx="577.97848" cy="984.1058" r="0.26562" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="579.07564" x2="618.23928" y1="983.32841" y2="983.32841"/>
@@ -1492,7 +1492,7 @@
 		<polygon data-name="beam" id="beam-64" points="630.92 977.8 623.859 977.682 623.859 977.092 630.92 977.21 630.92 977.8" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="623.84179" x2="623.84179" y1="977.08531" y2="984.2975"/>
 		<circle cx="623.77641" cy="984.8374" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(625.60979 984.86997)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(625.60976 984.86992)">♭</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="627.57633" x2="627.57633" y1="977.37492" y2="984.58711"/>
 		<circle cx="627.51095" cy="984.82701" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="630.80542" x2="630.80542" y1="977.77492" y2="985.83052"/>
@@ -1524,18 +1524,18 @@
 		<circle cx="122.01204" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="122.01204" x2="122.01204" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="122.01204" x2="124.57079" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(116.84863 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(114.83276 979.36655)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(116.84866 989.15239)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(114.83279 979.3665)">pizz</text>
 		<circle cx="202.02123" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="202.02123" x2="202.02123" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="202.02123" x2="204.57997" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(196.85791 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(194.84204 979.36655)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(196.85794 989.15239)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(194.84207 979.3665)">pizz</text>
 		<circle cx="283.57033" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="283.57033" x2="283.57033" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="283.57033" x2="286.12907" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(278.40723 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(276.39111 979.36655)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(278.40726 989.15239)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(276.39114 979.3665)">pizz</text>
 		<circle cx="347.00954" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="347.00954" x2="347.00954" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="347.00954" x2="349.56828" y1="978.61609" y2="978.61609"/>
@@ -1656,40 +1656,40 @@
 		<circle cx="679.0042" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="679.0042" x2="679.0042" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="679.0042" x2="681.56294" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(341.84668 989.15244)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(339.83032 979.36655)">pizz</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(356.17529 990.15171)">
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(341.84671 989.15239)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(339.83035 979.3665)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(356.17532 990.15166)">
 			 
 			<tspan style="font-size:2px;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" x="2.45996" y="0">sempre</tspan>
 		</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(525.43018 990.15171)">
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(525.43021 990.15166)">
 			 
 			<tspan style="font-size:2px;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" x="2.45996" y="0">sempre</tspan>
 		</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(509.52734 990.15146)"></text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(677.44824 989.1522)">
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(509.52737 990.15142)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(677.44827 989.15215)">
 			 
 			<tspan style="font-size:2px;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" x="2.45996" y="0">sempre</tspan>
 		</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(650.09912 989.15195)"></text>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(509.59961 976.93882)"></text>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(650.09961 976.93882)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(650.09915 989.1519)"></text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(509.59964 976.93877)"></text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(650.09964 976.93877)"></text>
 		<circle cx="657.43457" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="657.43457" x2="657.43457" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="657.43457" x2="659.99331" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(656.53418 976.93882)"></text>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(673.74854 976.93882)"></text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(798.57471 988.33726)">
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(656.53421 976.93877)"></text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(673.74856 976.93877)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(798.57474 988.33721)">
 			 
 			<tspan style="font-size:2px;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" x="2.45996" y="0">sempre</tspan>
 		</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(753.81885 989.65146)"></text>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(753.81885 976.93882)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(753.81888 989.65142)"></text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(753.81888 976.93877)"></text>
 		<circle cx="764.66667" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="764.66667" x2="764.66667" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="764.66667" x2="767.22542" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(763.76611 976.93882)"></text>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(780.71094 976.78184)"></text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(763.76614 976.93877)"></text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(780.71097 976.78179)"></text>
 		<polygon data-name="beam" id="beam-2" points="80.541 987.447 87.302 987.565 87.302 988.155 80.541 988.037 80.541 987.447" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="87.3189" x2="87.3189" y1="988.16149" y2="979.9493"/>
 		<circle cx="80.67429" cy="979.68718" r="0.53124" style="fill:#231f20"/>
@@ -1697,11 +1697,11 @@
 		<circle cx="83.70883" cy="980.47679" r="0.53124" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.177078908214847px" x1="80.65527" x2="80.65527" y1="987.73787" y2="979.68226"/>
 		<circle cx="87.33791" cy="980.48718" r="0.53124" style="fill:#231f20"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(78.97412 979.68784)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(78.97415 979.68779)">♭</text>
 		<path d="M88.10242,987.87188c0-.22361-.82021-1.64-1.64021-1.49083-.81954.14915,1.4166-.44723,1.4166-.44723l-1.193-.67084,1.193-.22362s-1.49106-.7453-1.5653-1.5653" data-name="flz" id="flz-4" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M84.56788,987.1781c0-.22362-.82022-1.64-1.64021-1.49084-.81954.14916,1.4166-.44722,1.4166-.44722l-1.193-.67084,1.193-.22362s-1.49106-.7453-1.5653-1.5653" data-name="flz" id="flz-5" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
 		<path d="M81.536,987.1781c0-.22362-.82022-1.64-1.64021-1.49084-.81954.14916,1.4166-.44722,1.4166-.44722l-1.193-.67084,1.193-.22362s-1.49106-.7453-1.5653-1.5653" data-name="flz" id="flz-6" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.300000011920929px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(85.39941 980.54966)">♭</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(85.39944 980.54961)">♭</text>
 	</g>
 	<g data-name="Layer 62 vla" id="Layer_62_vla-14">
 		<line data-name="spacer" id="spacer-13" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="986.41011" y2="972.23622"/>
@@ -1824,7 +1824,7 @@
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="752.96355" x2="752.96355" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="752.96355" x2="755.52229" y1="978.61609" y2="978.61609"/>
 		<circle cx="732.38332" cy="985.5494" r="0.47422" style="fill:#231f20"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(730.29676 985.54941)">♮</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(730.2968 985.54937)">♮</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="732.38332" x2="732.38332" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="732.38332" x2="734.94206" y1="978.61609" y2="978.61609"/>
 		<circle cx="710.84496" cy="985.5494" r="0.47422" style="fill:#231f20"/>
@@ -1854,35 +1854,35 @@
 		<circle cx="485.94005" cy="979.44302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="485.94005" x2="485.94005" y1="987.97634" y2="979.64302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="485.94005" x2="488.49879" y1="987.87634" y2="987.87634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(483.74208 979.41855)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(483.74211 979.41851)">♭</text>
 		<circle cx="500.99462" cy="979.44302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="500.99462" x2="500.99462" y1="987.97634" y2="979.64302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="500.99462" x2="503.55336" y1="987.87634" y2="987.87634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(498.79676 979.41855)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(498.7968 979.41851)">♭</text>
 		<circle cx="520.23058" cy="979.44302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="520.23058" x2="520.23058" y1="987.97634" y2="979.64302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="520.23058" x2="522.78932" y1="987.87634" y2="987.87634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(518.03309 979.41855)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(518.03313 979.41851)">♭</text>
 		<circle cx="463.48144" cy="979.44302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="463.48144" x2="463.48144" y1="987.97634" y2="979.64302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="463.48144" x2="466.04018" y1="987.87634" y2="987.87634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(461.28358 979.41855)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(461.28361 979.41851)">♭</text>
 		<circle cx="468.30456" cy="979.44302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="468.30456" x2="468.30456" y1="987.97634" y2="979.64302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="468.30456" x2="470.8633" y1="987.87634" y2="987.87634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(466.10634 979.41855)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(466.10637 979.41851)">♭</text>
 		<circle cx="455.75375" cy="979.44302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="455.75375" x2="455.75375" y1="987.97634" y2="979.64302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="455.75375" x2="458.31249" y1="987.87634" y2="987.87634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(453.55604 979.41855)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(453.55607 979.41851)">♭</text>
 		<circle cx="447.95341" cy="979.44302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="447.95341" x2="447.95341" y1="987.97634" y2="979.64302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="447.95341" x2="450.51215" y1="987.87634" y2="987.87634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(445.75575 979.41855)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(445.75578 979.41851)">♭</text>
 		<circle cx="473.92614" cy="979.44302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="473.92614" x2="473.92614" y1="987.97634" y2="979.64302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="473.92614" x2="476.48488" y1="987.87634" y2="987.87634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(471.72841 979.41855)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(471.72844 979.41851)">♭</text>
 		<path d="M167.69045,979.1197h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="168.82012" cy="979.14302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="168.82012" x2="168.82012" y1="987.67634" y2="979.34302"/>
@@ -1895,22 +1895,22 @@
 		<circle cx="269.20411" cy="979.14302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="269.20411" x2="269.20411" y1="987.67634" y2="979.34302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="269.20411" x2="271.76285" y1="987.57634" y2="987.57634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(266.80702 979.11924)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(266.80705 979.11919)">♭</text>
 		<path d="M275.04385,979.1197h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="276.17351" cy="979.14302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="276.17351" x2="276.17351" y1="987.67634" y2="979.34302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="276.17351" x2="278.73225" y1="987.57634" y2="987.57634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(273.77626 979.11924)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(273.77629 979.11919)">♭</text>
 		<path d="M286.0346,979.1197h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="287.16426" cy="979.14302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="287.16426" x2="287.16426" y1="987.67634" y2="979.34302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="287.16426" x2="289.72301" y1="987.57634" y2="987.57634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(284.76698 979.11924)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(284.76701 979.11919)">♭</text>
 		<path d="M302.77143,979.1197h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="303.90109" cy="979.14302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="303.90109" x2="303.90109" y1="987.67634" y2="979.34302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="303.90109" x2="306.45983" y1="987.57634" y2="987.57634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(301.5038 979.11924)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(301.50383 979.11919)">♭</text>
 		<path d="M618.937,979.1197h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="620.06663" cy="979.14302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="620.06663" x2="620.06663" y1="987.67634" y2="979.34302"/>
@@ -1935,32 +1935,32 @@
 		<circle cx="720.79616" cy="979.14302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="720.79616" x2="720.79616" y1="987.67634" y2="979.34302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="720.79616" x2="723.35491" y1="987.57634" y2="987.57634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(718.3993 979.11924)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(718.39934 979.11919)">♭</text>
 		<path d="M740.93577,979.1197h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="742.06543" cy="979.14302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="742.06543" x2="742.06543" y1="987.67634" y2="979.34302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="742.06543" x2="744.62417" y1="987.57634" y2="987.57634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(739.66884 979.11924)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(739.66887 979.11919)">♭</text>
 		<path d="M762.40649,979.1197h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="763.53616" cy="979.14302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="763.53616" x2="763.53616" y1="987.67634" y2="979.34302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="763.53616" x2="766.0949" y1="987.57634" y2="987.57634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(761.13954 979.11924)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(761.13957 979.11919)">♭</text>
 		<path d="M783.28526,979.1197h2.37186" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="784.41492" cy="979.14302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="784.41492" x2="784.41492" y1="987.67634" y2="979.34302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="784.41492" x2="786.97366" y1="987.57634" y2="987.57634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(782.01844 979.11924)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(782.01848 979.11919)">♭</text>
 		<path d="M794.63685,979.1197h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="795.76652" cy="979.14302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="795.76652" x2="795.76652" y1="987.67634" y2="979.34302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="795.76652" x2="798.32526" y1="987.57634" y2="987.57634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(793.37001 979.11924)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(793.37004 979.11919)">♭</text>
 		<path d="M805.29055,979.1197h2.37187" style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.177078908214847px"/>
 		<circle cx="806.42022" cy="979.14302" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="806.42022" x2="806.42022" y1="987.67634" y2="979.34302"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="806.42022" x2="808.97896" y1="987.57634" y2="987.57634"/>
-		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(804.02333 979.11924)">♭</text>
+		<text style="font-size:5px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(804.02336 979.11919)">♭</text>
 	</g>
 	<g data-name="Layer 62 vla" id="Layer_62_vla-15">
 		<line data-name="spacer" id="spacer-13" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="986.41011" y2="972.23622"/>
@@ -1975,28 +1975,28 @@
 		<circle cx="351.77221" cy="979.922" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="353.50956" x2="391.20031" y1="979.822" y2="979.822"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="353.40956" x2="391.10031" y1="980.122" y2="980.122"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(346.96289 977.55132)">
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(346.96295 977.55132)">
 			I
 			<tspan x="-0.60059" y="2.40039">II</tspan>
 		</text>
 		<path d="M366.50089,988.56181c-.25.25-13.26691.96532-13.26691.96532l13.26691,1.045" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
 		<path d="M376.03023,988.56181c.25.25,13.26692.96532,13.26692.96532l-13.26692,1.045" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(369.37354 989.56712)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(369.37359 989.56707)"></text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="352.95133" x2="352.95133" y1="976.90504" y2="979.46928"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="351.77221" x2="351.77221" y1="980.40795" y2="984.53642"/>
 		<circle cx="736.2578" cy="979.922" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
 		<circle cx="735.07868" cy="979.922" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="736.81603" x2="809.57177" y1="979.822" y2="979.822"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="736.71603" x2="809.47177" y1="980.122" y2="980.122"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPSMT, Courier New" transform="translate(730.26917 977.55132)">
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPSMT, Courier New" transform="translate(730.26922 977.55132)">
 			I
 			<tspan x="-0.60059" y="2.40039">II</tspan>
 		</text>
 		<path d="M749.80737,988.56181c-.25.25-13.26692.96532-13.26692.96532l13.26692,1.045" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(752.67969 989.56712)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(752.67975 989.56707)"></text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="736.2578" x2="736.2578" y1="976.90504" y2="979.46928"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="735.07868" x2="735.07868" y1="980.40795" y2="984.53642"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(80.06323 990.30394)"></text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(80.06305 990.30388)"></text>
 		<circle cx="81.72631" cy="979.79031" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="81.72631" x2="81.72631" y1="988.32362" y2="979.99031"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="81.72631" x2="84.28505" y1="988.22362" y2="988.22362"/>
@@ -2006,13 +2006,13 @@
 		<circle cx="90.1229" cy="979.79031" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="90.1229" x2="90.1229" y1="988.32362" y2="979.99031"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="90.1229" x2="92.68164" y1="988.22362" y2="988.22362"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(337.68799 979.46886)">arco</text>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(473.46973 990.30394)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(337.68805 979.46886)">arco</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(473.46979 990.30388)"></text>
 		<circle cx="475.13289" cy="979.79031" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="475.13289" x2="475.13289" y1="988.32362" y2="979.99031"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="475.13289" x2="477.69163" y1="988.22362" y2="988.22362"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(462.38379 979.21837)">pizz</text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(481.93726 979.21788)">arco</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(462.38385 979.21837)">pizz</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(481.93731 979.21788)">arco</text>
 	</g>
 	<g data-name="Layer 62 vla" id="Layer_62_vla-16">
 		<line data-name="spacer" id="spacer-13" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="986.41011" y2="972.23622"/>
@@ -2038,23 +2038,23 @@
 		<circle cx="103.93322" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="103.93322" x2="103.93322" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="103.93322" x2="106.49196" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(98.77029 989.15233)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(96.7543 979.36644)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(98.77035 989.15227)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(96.75424 979.3665)">pizz</text>
 		<circle cx="219.54529" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="219.54529" x2="219.54529" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="219.54529" x2="222.10403" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(214.3826 989.15233)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(212.36636 979.36644)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(214.38266 989.15227)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(212.3663 979.3665)">pizz</text>
 		<circle cx="277.19052" cy="985.5494" r="0.47422" style="fill:#231f20"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="277.19052" x2="277.19052" y1="978.51609" y2="985.5494"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.5px" x1="277.19052" x2="279.74927" y1="978.61609" y2="978.61609"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(272.02762 989.15233)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(270.01163 979.36644)">pizz</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(272.02768 989.15227)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(270.01156 979.3665)">pizz</text>
 		<circle cx="369.90353" cy="981.22287" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="370.46176" x2="808.57177" y1="981.32287" y2="981.32287"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="369.90353" x2="369.90353" y1="981.7863" y2="986.91477"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(367.43143 989.60106)"></text>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(359.83816 979.09984)">arco</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(367.43148 989.601)"></text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(359.83822 979.0999)">arco</text>
 	</g>
 	<g data-name="Layer 62 vla" id="Layer_62_vla-18">
 		<line data-name="spacer" id="spacer-13" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="986.41011" y2="972.23622"/>
@@ -2067,7 +2067,7 @@
 		</g>
 		<circle cx="80.77787" cy="976.39403" r="0.48595" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.200000002980232px"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="82.78694" x2="809.47177" y1="976.39403" y2="976.44838"/>
-		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(78.60002 976.50853)">♯</text>
+		<text style="font-size:4px;fill:#231f20;font-family:Bravura, Bravura" transform="translate(78.60008 976.50847)">♯</text>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="80.76847" x2="80.76847" y1="976.86534" y2="985.93766"/>
 		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="79.31302" x2="82.01302" y1="979.51338" y2="979.51338"/>
 		<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="79.31302" x2="82.01302" y1="978.41338" y2="978.41338"/>
@@ -2086,7 +2086,7 @@
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.400000005960465px" x1="480.80158" x2="702.88742" y1="980.5353" y2="980.51971"/>
 		<line style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.150000005960464px" x1="479.53272" x2="479.545" y1="981.45834" y2="988.11162"/>
 		<rect height="0.93062" style="fill:none;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.25px" transform="translate(833.78229 -51.89907) rotate(45)" width="0.93062" x="479.07355" y="980.04941"/>
-		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(478.17126 977.34477)">II</text>
+		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldMT, Courier New;font-weight:700" transform="translate(478.17126 977.34478)">II</text>
 	</g>
 	<g data-name="Layer 62 vla" id="Layer_62_vla-20">
 		<line data-name="spacer" id="spacer-13" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="986.41011" y2="972.23622"/>

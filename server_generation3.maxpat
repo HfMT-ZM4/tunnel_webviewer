@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 0.0, 45.0, 1322.0, 1005.0 ],
+		"rect" : [ 326.0, 45.0, 1322.0, 1005.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -48,7 +48,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 535.5, 147.0, 165.0, 65.0 ],
-					"presentation_linecount" : 5,
 					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 80, 47, 42, 0, 0, 44, 46, 0, 0, 0, 0, 0, 68, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 99, 108, 101, 97, 114, 0, 0, 0, 0, 0, 0, 24, 47, 118, 97, 108, 0, 0, 0, 0, 44, 115, 0, 0, 115, 99, 111, 114, 101, 71, 114, 111, 117, 112, 0, 0 ],
 					"saved_bundle_length" : 100,
 					"text" : "/* : {\n\t/key : \"clear\",\n\t/val : \"scoreGroup\"\n}"
@@ -63,7 +62,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 606.0, 446.294326999999953, 141.0, 22.0 ],
-					"presentation_linecount" : 2,
 					"text" : "writecache template.json"
 				}
 
@@ -1100,12 +1098,6 @@
  ],
 										"styles" : [ 											{
 												"name" : "black on white",
-												"number" : 												{
-													"fontname" : [ "Arial" ],
-													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-													"fontsize" : [ 12.0 ]
-												}
-,
 												"umenu" : 												{
 													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 													"bgfillcolor" : 													{
@@ -1118,6 +1110,12 @@
 														"autogradient" : 0
 													}
 
+												}
+,
+												"number" : 												{
+													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+													"fontname" : [ "Arial" ],
+													"fontsize" : [ 12.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -1958,9 +1956,9 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 27.0, 413.0, 143.0, 38.0 ],
-					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 47, 49, 47, 115, 118, 103, 47, 109, 111, 117, 115, 101, 47, 120, 121, 0, 44, 105, 105, 0, 0, 0, 1, 83, 0, 0, 1, 24 ],
+					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 47, 54, 57, 47, 115, 121, 110, 99, 79, 102, 102, 115, 101, 116, 0, 0, 44, 100, 0, 0, -65, -48, 0, 0, 0, 0, 0, 0 ],
 					"saved_bundle_length" : 48,
-					"text" : "/1/svg/mouse/xy : [339, 280]"
+					"text" : "/69/syncOffset : -0.25"
 				}
 
 			}
@@ -2223,11 +2221,11 @@
 					"presentation_rect" : [ 10.73230316978038, 225.294326999999953, 21.53539366043924, 21.647163499999976 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_shortname" : "live.button",
 							"parameter_enum" : [ "off", "on" ],
 							"parameter_type" : 2,
 							"parameter_longname" : "live.button",
-							"parameter_mmax" : 1,
-							"parameter_shortname" : "live.button"
+							"parameter_mmax" : 1
 						}
 
 					}
@@ -2240,15 +2238,13 @@
 				"box" : 				{
 					"fontsize" : 18.0,
 					"id" : "obj-114",
-					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 330.0, 446.294326999999953, 234.0, 47.0 ],
+					"patching_rect" : [ 330.0, 446.294326999999953, 234.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_linecount" : 2,
-					"presentation_rect" : [ 37.0, 222.61790874999997, 224.0, 47.0 ],
-					"text" : "http://192.168.178.177,169.254.233.139:3002"
+					"presentation_rect" : [ 37.0, 222.61790874999997, 224.0, 27.0 ],
+					"text" : "http://:3002"
 				}
 
 			}
@@ -2436,12 +2432,6 @@
  ],
 										"styles" : [ 											{
 												"name" : "black on white",
-												"number" : 												{
-													"fontname" : [ "Arial" ],
-													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-													"fontsize" : [ 12.0 ]
-												}
-,
 												"umenu" : 												{
 													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 													"bgfillcolor" : 													{
@@ -2454,6 +2444,12 @@
 														"autogradient" : 0
 													}
 
+												}
+,
+												"number" : 												{
+													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+													"fontname" : [ "Arial" ],
+													"fontsize" : [ 12.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -2655,12 +2651,6 @@
  ],
 										"styles" : [ 											{
 												"name" : "black on white",
-												"number" : 												{
-													"fontname" : [ "Arial" ],
-													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-													"fontsize" : [ 12.0 ]
-												}
-,
 												"umenu" : 												{
 													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 													"bgfillcolor" : 													{
@@ -2673,6 +2663,12 @@
 														"autogradient" : 0
 													}
 
+												}
+,
+												"number" : 												{
+													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+													"fontname" : [ "Arial" ],
+													"fontsize" : [ 12.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3041,12 +3037,6 @@
  ],
 										"styles" : [ 											{
 												"name" : "black on white",
-												"number" : 												{
-													"fontname" : [ "Arial" ],
-													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-													"fontsize" : [ 12.0 ]
-												}
-,
 												"umenu" : 												{
 													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 													"bgfillcolor" : 													{
@@ -3059,6 +3049,12 @@
 														"autogradient" : 0
 													}
 
+												}
+,
+												"number" : 												{
+													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+													"fontname" : [ "Arial" ],
+													"fontsize" : [ 12.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -3209,8 +3205,7 @@
 													"maxclass" : "comment",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 298.5, 428.29432700000001, 252.0, 20.0 ],
-													"presentation_linecount" : 2,
+													"patching_rect" : [ 298.5, 271.29432700000001, 252.0, 20.0 ],
 													"text" : "<< elements that change based on the piece"
 												}
 
@@ -3221,7 +3216,7 @@
 													"maxclass" : "comment",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 271.5, 375.0, 211.0, 20.0 ],
+													"patching_rect" : [ 280.5, 213.0, 211.0, 20.0 ],
 													"text" : "<< elements that are always the same"
 												}
 
@@ -3417,10 +3412,10 @@
 													"id" : "obj-26",
 													"maxclass" : "newobj",
 													"numinlets" : 1,
-													"numoutlets" : 2,
-													"outlettype" : [ "", "FullPacket" ],
-													"patching_rect" : [ 231.0, 485.0, 69.0, 22.0 ],
-													"text" : "o.route /out"
+													"numoutlets" : 3,
+													"outlettype" : [ "", "", "FullPacket" ],
+													"patching_rect" : [ 235.0, 485.0, 95.0, 22.0 ],
+													"text" : "o.route /out /test"
 												}
 
 											}
@@ -3471,6 +3466,36 @@
 														"subpatcher_template" : "",
 														"boxes" : [ 															{
 																"box" : 																{
+																	"id" : "obj-2",
+																	"maxclass" : "newobj",
+																	"numinlets" : 2,
+																	"numoutlets" : 4,
+																	"outlettype" : [ "dictionary", "", "", "" ],
+																	"patching_rect" : [ 991.0, 1900.0, 50.5, 22.0 ],
+																	"saved_object_attributes" : 																	{
+																		"embed" : 0,
+																		"parameter_enable" : 0,
+																		"parameter_mappable" : 0
+																	}
+,
+																	"text" : "dict"
+																}
+
+															}
+, 															{
+																"box" : 																{
+																	"id" : "obj-1",
+																	"maxclass" : "newobj",
+																	"numinlets" : 1,
+																	"numoutlets" : 1,
+																	"outlettype" : [ "" ],
+																	"patching_rect" : [ 985.0, 1787.0, 37.0, 22.0 ],
+																	"text" : "o.dict"
+																}
+
+															}
+, 															{
+																"box" : 																{
 																	"fontface" : 0,
 																	"fontsize" : 12.0,
 																	"id" : "obj-5",
@@ -3514,6 +3539,13 @@
  ],
 														"lines" : [ 															{
 																"patchline" : 																{
+																	"destination" : [ "obj-2", 0 ],
+																	"source" : [ "obj-1", 0 ]
+																}
+
+															}
+, 															{
+																"patchline" : 																{
 																	"destination" : [ "obj-5", 0 ],
 																	"source" : [ "obj-13", 0 ]
 																}
@@ -3521,7 +3553,16 @@
 															}
 , 															{
 																"patchline" : 																{
+																	"destination" : [ "obj-1", 0 ],
+																	"order" : 0,
+																	"source" : [ "obj-5", 0 ]
+																}
+
+															}
+, 															{
+																"patchline" : 																{
 																	"destination" : [ "obj-16", 0 ],
+																	"order" : 1,
 																	"source" : [ "obj-5", 0 ]
 																}
 
@@ -3529,7 +3570,7 @@
  ]
 													}
 ,
-													"patching_rect" : [ 231.0, 375.0, 31.0, 22.0 ],
+													"patching_rect" : [ 235.0, 213.0, 31.0, 22.0 ],
 													"saved_object_attributes" : 													{
 														"description" : "",
 														"digest" : "",
@@ -3680,12 +3721,6 @@
  ],
 														"styles" : [ 															{
 																"name" : "black on white",
-																"number" : 																{
-																	"fontname" : [ "Arial" ],
-																	"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-																	"fontsize" : [ 12.0 ]
-																}
-,
 																"umenu" : 																{
 																	"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 																	"bgfillcolor" : 																	{
@@ -3698,6 +3733,12 @@
 																		"autogradient" : 0
 																	}
 
+																}
+,
+																"number" : 																{
+																	"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+																	"fontname" : [ "Arial" ],
+																	"fontsize" : [ 12.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -3899,12 +3940,6 @@
  ],
 														"styles" : [ 															{
 																"name" : "black on white",
-																"number" : 																{
-																	"fontname" : [ "Arial" ],
-																	"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-																	"fontsize" : [ 12.0 ]
-																}
-,
 																"umenu" : 																{
 																	"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 																	"bgfillcolor" : 																	{
@@ -3917,6 +3952,12 @@
 																		"autogradient" : 0
 																	}
 
+																}
+,
+																"number" : 																{
+																	"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+																	"fontname" : [ "Arial" ],
+																	"fontsize" : [ 12.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -4141,6 +4182,23 @@
 														"subpatcher_template" : "",
 														"boxes" : [ 															{
 																"box" : 																{
+																	"id" : "obj-1",
+																	"maxclass" : "newobj",
+																	"numinlets" : 1,
+																	"numoutlets" : 1,
+																	"outlettype" : [ "" ],
+																	"patching_rect" : [ 119.0, 2633.0, 19.0, 22.0 ],
+																	"saved_object_attributes" : 																	{
+																		"filename" : "",
+																		"parameter_enable" : 0
+																	}
+,
+																	"text" : "js"
+																}
+
+															}
+, 															{
+																"box" : 																{
 																	"id" : "obj-6",
 																	"maxclass" : "newobj",
 																	"numinlets" : 0,
@@ -4249,14 +4307,14 @@
 																	"fontface" : 0,
 																	"fontsize" : 12.0,
 																	"id" : "obj-8",
-																	"linecount" : 273,
+																	"linecount" : 296,
 																	"maxclass" : "o.expr.codebox",
 																	"numinlets" : 1,
 																	"numoutlets" : 2,
 																	"outlettype" : [ "FullPacket", "FullPacket" ],
-																	"patching_rect" : [ 370.0, 48.0, 826.0, 3743.0 ],
-																	"presentation_linecount" : 272,
-																	"text" : "#---- Layout\n\n/npages = 20,\n/secPerPage ??= 36,\n\n/x = 250,\n/y = 100,\n\n#/numbersY = 350,\n/numbersY = 80,\n\n/scale = 10,\n\n/stafflength = 731.441 * /scale,\n/leadin = 200 + /x,\n\n/scoreWidth = /stafflength * /npages ,\n\n/pixWidth = /scoreWidth + /leadin,\n\n/secPerPix = /secPerPage / float32(/stafflength) ,\n\n/totalduration = /pixWidth * /secPerPix,\n\n/miniscaleX = 1080. / /pixWidth,\n\n/ministartX = 20,\n/ministartY = 700,\n\n#---- UI and Tween Setup\n/miniscore./id = \"mini\",\n/miniscore./parent = \"scoreGroup\",\n/miniscore./new = \"use\",\n/miniscore./href = \"#defscore\",\n/miniscore./y = 720,\n/miniscore./x = /ministartX / /miniscaleX,\n/miniscore./transform = \"scale(\"+/miniscaleX+\", 0.5)\",\n/miniscore./class = \"noclick\",\n\n/scrollbar./parent = \"overlay\",\n/scrollbar./id = \"scrollbar\",\n/scrollbar./new = \"rect\",\n/scrollbar./x = /ministartX,\n/scrollbar./y = 400,\n/scrollbar./height = 15,\n/scrollbar./width = 1080,\n/scrollbar./fill = \"rgba(0,0,255,0.5)\",\n\n/scrollbar./onmousemove = \"    \n    event.preventDefault();\n    let x = event.clientX;\n    if(event.buttons == 1){\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n      });\n      let uiTxt = document.getElementById('userinput');\n      uiTxt.value = r;\n    }\",\n/scrollbar./ontouchmove = \"\n    event.preventDefault();\n    let x = event.pageX;\n\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n       });\n    let uiTxt = document.getElementById('userinput');\n    uiTxt.value = r;\n    \",\n\n\n\n/ui/svg./val = [/ui/svg./val, /miniscore, /scrollbar],\n\n/pages = aseq(1,/npages),\n\n/tween./id = \"score-anim\",\n/tween./target = \"#score\",\n/tween./dur = /totalduration,\n/tvars./x = -/pixWidth,\n/tvars./ease = \"linear\",\n/tvars./paused = \"true\",\n\n/tvars./onUpdate = \" \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n\",\n\n/tween./vars = /tvars,\n\n\n/tween2./id = \"miniscore-anim\",\n/tween2./target = \"#miniplayhead\",\n/tween2./dur = /totalduration,\n/tvars2./x = \"+= 1080\",\n/tvars2./ease = \"linear\",\n/tvars2./paused = \"true\",\n\n/tween2./vars = /tvars2,\n\n/newtween./key = \"tween\",\n/newtween./val = [/tween, /tween2],\n\n\n#---- Score Setup\n\n/instr = [\"vln\", \"vln\", \"fl\", \"fl\", \"cl\", \"asax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"srec\", \"cl\", \"trp\", \"tuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"ob\", \"cl\", \"tsax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"brec\", \"cl\", \"asax\", \"bsn\", \"db\", \"perc\", \"baritone\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"trec\", \"cl\", \"trp\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"ob\", \"cl\", \"tsax\", \"btuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\"],\n\n/instrB = [ \"subrec\", #40 + 72 = 112\n            \"arec\", #64 + 72 = 136\n            \"hrn\" ], #67 + 72 = 139\n\n/gclef = [\"vln\", \"fl\", \"ob\",\"arec\", \"trec\", \"cl\", \"trp\",  \"asax\", \"tsax\", \"sopr\", \"hrn\"],\n/fclef = [\"trb\", \"tuba\", \"btuba\", \"vc\", \"db\", \"subrec\", \"bsn\", \"baritone\" ],\n\n/getClef = quote(lambda([instr],\n  if( max( instr == /gclef ) > 0, [\"clef-1-vln\", 64],\n    if( max( instr == /fclef ) > 0, [\"clef-7-trb\", 80],\n      if( instr == \"accord\", [\"clef-12-accord\", 56],\n        if( instr == \"egtr\", [\"clef-11-egtr\", 56],\n          if( instr == \"srec\", [\"clef-16-srec\", 64],\n            if( instr == \"brec\", [\"clef-40-brec\", 64],\n              if( instr == \"vla\", [\"clef-14-vla\", 80]\n  )))))))\n)),\n\n\n/players = aseq(1,72),\n\n/n./parent = \"defscore\",\n/n./new = \"use\",\n/pid./new = \"text\",\n/pid./id = \"playerID\",\n/pid./x = 10,\n/pid./y = 80,\n\n/score./id = \"score\",\n/score./parent = \"scoreGroup\",\n/score./new = \"use\",\n/score./href = \"#defscore\",\n\n/new./key = \"svg\",\n\n/clefbackground./id = \"whiteout\",\n/clefbackground./parent = \"scoreGroup\",\n/clefbackground./new = \"rect\",\n/clefbackground./x = 0,\n/clefbackground./y = 75,\n/clefbackground./width = 100,\n/clefbackground./height = 250,\n/clefbackground./fill = \"white\",\n\n\nmap(\n  lambda([i],\n\n    /pid./text = i+\" \"+/instr[[i-1]],\n    /svg = /pid,\n\n    /prefix = \"/\"+i,\n\n    map(\n      lambda([page],\n        /n./id = \"p\" + page,\n        /n./x = /leadin + ((page - 1) * /stafflength),\n        /n./y = /y,\n\n        /layername = \"Layer_\" +i+ \"_\" +/instr[[i-1]],\n        /pageZeroPadded = (page < 10 ? \"0\" : \"\")+page,\n        /n./href = [\"scores/rama/\" +/layername+ \".svg#\"+ /layername +\"-\"+ /pageZeroPadded , 1], \n        /n./transform = \"scale(\"+/scale+\")\",\n\n        /svg = [/svg, /n]\n\n      ), /pages\n    ),\n\n    /svg = [/ui/svg./val, /svg, /score],\n\n    if( /instr[[i-1]] != \"perc\",\n      progn(\n        /lookupClef = /getClef( /instr[[i-1]] ),\n        /clef./parent = \"scoreGroup\",\n        /clef./id = \"clef\",\n        /clef./new = \"use\",\n        /clef./href = [ \"scores/rama/clefs.svg#\"+  /lookupClef[[0]]  , 1],\n        /clef./y = /y + /lookupClef[[1]] ,\n        /clef./x = 0,\n        /clef./transform = \"scale(\"+/scale+\")\",\n\n        /svg = [/svg, /clefbackground, /clef]\n      )\n    ),\n    \n    /new./val = /svg,\n    assign(\"/out\"+/prefix, [/ui/css, /ui/html, /new, /newtween] ),\n\n  #---- Add extra instruments if necessary\n    if( i == 40 || i == 64 || i == 67, \n      progn(\n        /instrName = if( i == 40, /instrB[[0]],\n                       if( i == 64, /instrB[[1]],\n                         if( i == 67, /instrB[[2]]))),\n\n        /pid./text = i+\" \"+/instrName,\n        /svg = /pid,\n\n        /prefix = \"/\" +i+ \"b\",\n\n        map(\n          lambda([page],\n            /n./id = \"p\" + page,\n            /n./x = /leadin + ((page - 1) * /stafflength),\n            /n./y = /y,\n\n            /layername = \"Layer_\" +i+ \"b_\" +/instrName,\n            /pageZeroPadded = (page < 10 ? \"0\" : \"\")+page,\n            /n./href = [\"scores/rama/\" +/layername+ \".svg#\"+ /layername +\"-\"+ /pageZeroPadded , 1], \n            /n./transform = \"scale(\"+/scale+\")\",\n\n            /svg = [/svg, /n]\n\n          ), /pages\n        ),\n\n        /svg = [/ui/svg./val, /svg, /score],\n\n        /lookupClef = /getClef( /instrName ),\n        /clef./parent = \"scoreGroup\",\n        /clef./id = \"clef\",\n        /clef./new = \"use\",\n        /clef./href = [ \"scores/rama/clefs.svg#\"+  /lookupClef[[0]]  , 1],\n        /clef./y = /y + /lookupClef[[1]] ,\n        /clef./x = 0,\n        /clef./transform = \"scale(\"+/scale+\")\",\n\n        /svg = [/svg, /clefbackground, /clef],    \n        /new./val = /svg,\n\n        assign(\"/out\"+/prefix, [/ui/css, /ui/html, /new, /newtween] )\n\n      )\n    )\n\n  ),  /players \n)\n"
+																	"patching_rect" : [ 370.0, 48.0, 826.0, 4056.0 ],
+																	"presentation_linecount" : 296,
+																	"text" : "#---- Layout\n\n/npages = 20,\n/secPerPage ??= 36,\n\n/x = 250,\n/y = 100,\n\n#/numbersY = 350,\n/numbersY = 80,\n\n/scale = 10,\n\n/stafflength = 731.441 * /scale,\n/leadin = 200 + /x,\n\n/scoreWidth = /stafflength * /npages ,\n\n/pixWidth = /scoreWidth + /leadin,\n\n/secPerPix = /secPerPage / float32(/stafflength) ,\n\n/totalduration = /pixWidth * /secPerPix,\n\n/miniscaleX = 1080. / /pixWidth,\n\n/ministartX = 20,\n/ministartY = 700,\n\n#---- UI and Tween Setup\n/miniscore./id = \"mini\",\n/miniscore./parent = \"scoreGroup\",\n/miniscore./new = \"use\",\n/miniscore./href = \"#defscore\",\n/miniscore./y = 720,\n/miniscore./x = /ministartX / /miniscaleX,\n/miniscore./transform = \"scale(\"+/miniscaleX+\", 0.5)\",\n/miniscore./class = \"noclick\",\n\n/scrollbar./parent = \"overlay\",\n/scrollbar./id = \"scrollbar\",\n/scrollbar./new = \"rect\",\n/scrollbar./x = /ministartX,\n/scrollbar./y = 400,\n/scrollbar./height = 15,\n/scrollbar./width = 1080,\n/scrollbar./fill = \"rgba(0,0,255,0.5)\",\n\n/scrollbar./onmousemove = \"    \n    event.preventDefault();\n    let x = event.clientX;\n    if(event.buttons == 1){\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n      });\n      let uiTxt = document.getElementById('userinput');\n      uiTxt.value = r;\n    }\",\n/scrollbar./ontouchmove = \"\n    event.preventDefault();\n    let x = event.pageX;\n\n      let r = ((x-20) / 1080) * \"+ /totalduration +\";\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n       });\n    let uiTxt = document.getElementById('userinput');\n    uiTxt.value = r;\n    \",\n\n\n\n/ui/svg./val = [/ui/svg./val, /miniscore, /scrollbar],\n\n/pages = aseq(1,/npages),\n\n/tween./id = \"score-anim\",\n/tween./target = \"#score\",\n/tween./dur = /totalduration,\n/tvars./x = -/pixWidth,\n/tvars./ease = \"linear\",\n/tvars./paused = \"true\",\n\n/onUpdate./function = \" \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n\",\n\n/tvars./onUpdate = /onUpdate,\n\n/tween./vars = /tvars,\n\n\n/tween2./id = \"miniscore-anim\",\n/tween2./target = \"#miniplayhead\",\n/tween2./dur = /totalduration,\n/tvars2./x = \"+= 1080\",\n/tvars2./ease = \"linear\",\n/tvars2./paused = \"true\",\n\n/tween2./vars = /tvars2,\n\n/newtween./key = \"tween\",\n/newtween./val = [/tween, /tween2],\n\n\n#---- Score Setup\n\n/instr = [\"vln\", \"vln\", \"fl\", \"fl\", \"cl\", \"asax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"srec\", \"cl\", \"trp\", \"tuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"ob\", \"cl\", \"tsax\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"brec\", \"cl\", \"asax\", \"bsn\", \"db\", \"perc\", \"baritone\", \"egtr\", \"accord\", \"vln\", \"vln\", \"fl\", \"trec\", \"cl\", \"trp\", \"trb\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\", \"vln\", \"vla\", \"fl\", \"ob\", \"cl\", \"tsax\", \"btuba\", \"vc\", \"perc\", \"sopr\", \"egtr\", \"accord\"],\n\n/instrB = [ \"subrec\", #40 + 72 = 112\n            \"arec\", #64 + 72 = 136\n            \"hrn\" ], #67 + 72 = 139\n\n\n\n/instrNameList = [\"violin\", \"violin\", \"flute\", \"flute\", \"clarinet in Bb\", \"alto sax in Eb\", \"trombone\", \"violoncello\", \"percussion\", \"soprano\", \"e.guitar\", \"accordion\", \"violin\", \"viola\", \"flute\", \"soprano recorder\", \"clarinet in Bb\", \"trumpet in Bb\", \"tuba\", \"violoncello\", \"percussion\", \"soprano\", \"e.guitar\", \"accordion\", \"violin\", \"violin\", \"flute\", \"oboe\", \"clarinet in Bb\", \"tenor sax in Bb\", \"trombone\", \"violoncello\", \"percussion\", \"soprano\", \"e.guitar\", \"accordion\", \"violin\", \"viola\", \"flute\", \"bass recorder\", \"clarinet in Bb\", \"alto sax in Eb\", \"bassoon\", \"double bass\", \"percussion\", \"baritone\", \"e.guitar\", \"accordion\", \"violin\", \"violin\", \"flute\", \"tenor recorder\", \"clarinet in Bb\", \"trumpet in Bb\", \"trombone\", \"violoncello\", \"percussion\", \"soprano\", \"e.guitar\", \"accordion\", \"violin\", \"viola\", \"flute\", \"oboe\", \"clarinet in Bb\", \"tenor sax in Bb\", \"bass tuba\", \"violoncello\", \"percussion\", \"soprano\", \"e.guitar\", \"accordion\"],\n\n/getName = quote(lambda([i],\n          if(i == 111, \"sub recorder\",\n             if( i == 135, \"alto recorder\",\n              if( i == 138, \"horn in F\",\n                /instrNameList[[ i % 72 ]]\n          )))\n)),\n\n\n/gclef = [\"vln\", \"fl\", \"ob\",\"arec\", \"trec\", \"cl\", \"trp\",  \"asax\", \"tsax\", \"sopr\", \"hrn\"],\n/fclef = [\"trb\", \"tuba\", \"btuba\", \"vc\", \"db\", \"subrec\", \"bsn\", \"baritone\" ],\n\n/getClef = quote(lambda([instr],\n  if( max( instr == /gclef ) > 0, [\"clef-1-vln\", 64],\n    if( max( instr == /fclef ) > 0, [\"clef-7-trb\", 80],\n      if( instr == \"accord\", [\"clef-12-accord\", 56],\n        if( instr == \"egtr\", [\"clef-11-egtr\", 56],\n          if( instr == \"srec\", [\"clef-16-srec\", 64],\n            if( instr == \"brec\", [\"clef-40-brec\", 64],\n              if( instr == \"vla\", [\"clef-14-vla\", 80]\n  )))))))\n)),\n\n\n/players = aseq(1,72),\n\n/n./parent = \"defscore\",\n/n./new = \"use\",\n/pid./new = \"text\",\n/pid./id = \"playerID\",\n/pid./x = 10,\n/pid./y = 80,\n\n/score./id = \"score\",\n/score./parent = \"scoreGroup\",\n/score./new = \"use\",\n/score./href = \"#defscore\",\n\n/new./key = \"svg\",\n\n/clefbackground./id = \"whiteout\",\n/clefbackground./parent = \"scoreGroup\",\n/clefbackground./new = \"rect\",\n/clefbackground./x = 0,\n/clefbackground./y = 75,\n/clefbackground./width = 100,\n/clefbackground./height = 250,\n/clefbackground./fill = \"white\",\n\n\nmap(\n  lambda([i],\n\n    /pid./text = i+\" \"+/getName(i-1),\n    /svg = /pid,\n\n    /prefix = \"/\"+i,\n\n    map(\n      lambda([page],\n        /n./id = \"p\" + page,\n        /n./x = /leadin + ((page - 1) * /stafflength),\n        /n./y = /y,\n\n        /layername = \"Layer_\" +i+ \"_\" +/instr[[i-1]],\n        /pageZeroPadded = (page < 10 ? \"0\" : \"\")+page,\n        /n./href = [\"scores/rama/\" +/layername+ \".svg#\"+ /layername +\"-\"+ /pageZeroPadded , 1], \n        /n./transform = \"scale(\"+/scale+\")\",\n\n        /svg = [/svg, /n]\n\n      ), /pages\n    ),\n\n    /svg = [/ui/svg./val, /svg, /score],\n\n    if( /instr[[i-1]] != \"perc\",\n      progn(\n        /lookupClef = /getClef( /instr[[i-1]] ),\n        /clef./parent = \"scoreGroup\",\n        /clef./id = \"clef\",\n        /clef./new = \"use\",\n        /clef./href = [ \"scores/rama/clefs.svg#\"+  /lookupClef[[0]]  , 1],\n        /clef./y = /y + /lookupClef[[1]] ,\n        /clef./x = 0,\n        /clef./transform = \"scale(\"+/scale+\")\",\n\n        /svg = [/svg, /clefbackground, /clef]\n      )\n    ),\n    \n    /new./val = /svg,\n    assign(\"/out\"+/prefix, [/ui/css, /ui/html, /new, /newtween] ),\n\n  #---- Add extra instruments if necessary\n    if( i == 40 || i == 64 || i == 67, \n      progn(\n        /instrName = if( i == 40, /instrB[[0]],\n                       if( i == 64, /instrB[[1]],\n                         if( i == 67, /instrB[[2]]))),\n\n        /pid./text = i+\" \"+/instrName,\n        /svg = /pid,\n\n        /prefix = \"/\" +i+ \"b\",\n\n        map(\n          lambda([page],\n            /n./id = \"p\" + page,\n            /n./x = /leadin + ((page - 1) * /stafflength),\n            /n./y = /y,\n\n            /layername = \"Layer_\" +i+ \"b_\" +/instrName,\n            /pageZeroPadded = (page < 10 ? \"0\" : \"\")+page,\n            /n./href = [\"scores/rama/\" +/layername+ \".svg#\"+ /layername +\"-\"+ /pageZeroPadded , 1], \n            /n./transform = \"scale(\"+/scale+\")\",\n\n            /svg = [/svg, /n]\n\n          ), /pages\n        ),\n\n        /svg = [/ui/svg./val, /svg, /score],\n\n        /lookupClef = /getClef( /instrName ),\n        /clef./parent = \"scoreGroup\",\n        /clef./id = \"clef\",\n        /clef./new = \"use\",\n        /clef./href = [ \"scores/rama/clefs.svg#\"+  /lookupClef[[0]]  , 1],\n        /clef./y = /y + /lookupClef[[1]] ,\n        /clef./x = 0,\n        /clef./transform = \"scale(\"+/scale+\")\",\n\n        /svg = [/svg, /clefbackground, /clef],    \n        /new./val = /svg,\n\n        assign(\"/out\"+/prefix, [/ui/css, /ui/html, /new, /newtween] )\n\n      )\n    )\n\n  ),  /players \n)\n"
 																}
 
 															}
@@ -4307,10 +4365,78 @@
 																}
 
 															}
+ ],
+														"styles" : [ 															{
+																"name" : "black on white",
+																"umenu" : 																{
+																	"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+																	"bgfillcolor" : 																	{
+																		"type" : "color",
+																		"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
+																		"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
+																		"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+																		"angle" : 270.0,
+																		"proportion" : 0.39,
+																		"autogradient" : 0
+																	}
+
+																}
+,
+																"number" : 																{
+																	"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+																	"fontname" : [ "Arial" ],
+																	"fontsize" : [ 12.0 ]
+																}
+,
+																"parentstyle" : "",
+																"multi" : 0
+															}
+, 															{
+																"name" : "caption text",
+																"default" : 																{
+																	"fontface" : [ 2 ],
+																	"fontsize" : [ 11.0 ]
+																}
+,
+																"parentstyle" : "",
+																"multi" : 0
+															}
+, 															{
+																"name" : "section dividers",
+																"default" : 																{
+																	"fontname" : [ "Arial" ],
+																	"fontface" : [ 3 ],
+																	"fontsize" : [ 15.0 ]
+																}
+,
+																"parentstyle" : "",
+																"multi" : 0
+															}
+, 															{
+																"name" : "section info reg",
+																"default" : 																{
+																	"fontname" : [ "Arial" ],
+																	"fontsize" : [ 12.0 ]
+																}
+,
+																"parentstyle" : "",
+																"multi" : 0
+															}
+, 															{
+																"name" : "titles",
+																"default" : 																{
+																	"fontname" : [ "Arial" ],
+																	"fontface" : [ 1 ],
+																	"fontsize" : [ 20.0 ]
+																}
+,
+																"parentstyle" : "",
+																"multi" : 0
+															}
  ]
 													}
 ,
-													"patching_rect" : [ 231.0, 428.29432700000001, 64.0, 22.0 ],
+													"patching_rect" : [ 235.0, 271.29432700000001, 64.0, 22.0 ],
 													"saved_object_attributes" : 													{
 														"description" : "",
 														"digest" : "",
@@ -4344,7 +4470,7 @@
 													"numinlets" : 0,
 													"numoutlets" : 1,
 													"outlettype" : [ "bang" ],
-													"patching_rect" : [ 365.0, 148.0, 30.0, 30.0 ]
+													"patching_rect" : [ 235.0, 60.0, 30.0, 30.0 ]
 												}
 
 											}
@@ -4356,7 +4482,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "bang" ],
 													"parameter_enable" : 0,
-													"patching_rect" : [ 365.0, 198.0, 24.0, 24.0 ]
+													"patching_rect" : [ 235.0, 110.0, 24.0, 24.0 ]
 												}
 
 											}
@@ -4367,7 +4493,7 @@
 													"numinlets" : 1,
 													"numoutlets" : 3,
 													"outlettype" : [ "bang", "bang", "bang" ],
-													"patching_rect" : [ 365.0, 229.0, 42.0, 22.0 ],
+													"patching_rect" : [ 235.0, 141.0, 42.0, 22.0 ],
 													"text" : "t b b b"
 												}
 
@@ -4460,12 +4586,6 @@
  ],
 										"styles" : [ 											{
 												"name" : "black on white",
-												"number" : 												{
-													"fontname" : [ "Arial" ],
-													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-													"fontsize" : [ 12.0 ]
-												}
-,
 												"umenu" : 												{
 													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 													"bgfillcolor" : 													{
@@ -4478,6 +4598,12 @@
 														"autogradient" : 0
 													}
 
+												}
+,
+												"number" : 												{
+													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+													"fontname" : [ "Arial" ],
+													"fontsize" : [ 12.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -4657,12 +4783,6 @@
  ],
 										"styles" : [ 											{
 												"name" : "black on white",
-												"number" : 												{
-													"fontname" : [ "Arial" ],
-													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-													"fontsize" : [ 12.0 ]
-												}
-,
 												"umenu" : 												{
 													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 													"bgfillcolor" : 													{
@@ -4675,6 +4795,12 @@
 														"autogradient" : 0
 													}
 
+												}
+,
+												"number" : 												{
+													"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+													"fontname" : [ "Arial" ],
+													"fontsize" : [ 12.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -4829,12 +4955,6 @@
  ],
 						"styles" : [ 							{
 								"name" : "black on white",
-								"number" : 								{
-									"fontname" : [ "Arial" ],
-									"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-									"fontsize" : [ 12.0 ]
-								}
-,
 								"umenu" : 								{
 									"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 									"bgfillcolor" : 									{
@@ -4847,6 +4967,12 @@
 										"autogradient" : 0
 									}
 
+								}
+,
+								"number" : 								{
+									"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+									"fontname" : [ "Arial" ],
+									"fontsize" : [ 12.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -5091,11 +5217,11 @@
 					"presentation_rect" : [ 14.0, 18.5, 38.0, 28.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_shortname" : "live.text",
 							"parameter_enum" : [ "val1", "val2" ],
 							"parameter_type" : 2,
 							"parameter_longname" : "live.text",
-							"parameter_mmax" : 1,
-							"parameter_shortname" : "live.text"
+							"parameter_mmax" : 1
 						}
 
 					}
@@ -5121,11 +5247,11 @@
 					"presentation_rect" : [ 591.46460633956076, 228.294326999999953, 21.53539366043924, 21.647163499999976 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_shortname" : "live.button",
 							"parameter_enum" : [ "off", "on" ],
 							"parameter_type" : 2,
 							"parameter_longname" : "live.button[1]",
-							"parameter_mmax" : 1,
-							"parameter_shortname" : "live.button"
+							"parameter_mmax" : 1
 						}
 
 					}
@@ -5436,8 +5562,8 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-95" : [ "live.text", "live.text", 0 ],
 			"obj-119" : [ "live.button", "live.button", 0 ],
+			"obj-95" : [ "live.text", "live.text", 0 ],
 			"obj-26" : [ "live.button[1]", "live.button", 0 ],
 			"parameterbanks" : 			{
 
@@ -5513,12 +5639,6 @@
 		"autosave" : 0,
 		"styles" : [ 			{
 				"name" : "black on white",
-				"number" : 				{
-					"fontname" : [ "Arial" ],
-					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-					"fontsize" : [ 12.0 ]
-				}
-,
 				"umenu" : 				{
 					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 					"bgfillcolor" : 					{
@@ -5531,6 +5651,12 @@
 						"autogradient" : 0
 					}
 
+				}
+,
+				"number" : 				{
+					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+					"fontname" : [ "Arial" ],
+					"fontsize" : [ 12.0 ]
 				}
 ,
 				"parentstyle" : "",
