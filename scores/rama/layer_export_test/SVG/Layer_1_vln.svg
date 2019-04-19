@@ -81,7 +81,7 @@
 		<circle cx="221.69251" cy="41.75" r="0.19822" style="fill:#231f20"/>
 		<text style="font-size:2px;fill:#231f20;font-family:CourierNewPS-BoldItalicMT, Courier New;font-weight:700;font-style:italic" transform="translate(226.65845 31.83337)">jeté</text>
 	</g>
-	<g data-name="Layer 1 vln" id="Layer_1_vln-02">
+	<g data-name="Layer 1 vln" id="Layer_1_vln-02" >
 		<line data-name="spacer" id="spacer-74" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.13124" x2="78.13124" y1="40.7" y2="26.5261"/>
 		<g id="player-1-vln">
 			<line style="fill:none;stroke:#58595b;stroke-miterlimit:10;stroke-width:0.200000002980232px" x1="78.03124" x2="809.47177" y1="34.97128" y2="34.97128"/>
