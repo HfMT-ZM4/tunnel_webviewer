@@ -7,7 +7,7 @@ fs.readFile(__dirname + '/Layer_1_vln.svg', function(err, data) {
         console.dir(result);
         console.log('Done');
 
-        fs.writeFile(__dirname + '/Layer_1_vln.json', JSON.stringify(result), function(err) {
+        fs.writeFile(__dirname + '/Layer_1_vln2.json', JSON.stringify(result), function(err) {
             if(err) {
                 return console.log(err);
             }
