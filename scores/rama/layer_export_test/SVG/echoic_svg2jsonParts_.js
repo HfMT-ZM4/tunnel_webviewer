@@ -111,6 +111,7 @@ let ui_html = {
 
 var instr = ["violin", "violin", "flute", "flute", "clarinet in Bb", "alto sax in Eb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", "violin", "viola", "flute", "soprano recorder", "clarinet in Bb", "trumpet in Bb", "tuba", "violoncello", "percussion", "soprano", "e.guitar", "accordion", "violin", "violin", "flute", "oboe", "clarinet in Bb", "tenor sax in Bb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", "violin", "viola", "flute", "bass recorder", "clarinet in Bb", "alto sax in Eb", "bassoon", "double bass", "percussion", "baritone", "e.guitar", "accordion", "violin", "violin", "flute", "tenor recorder", "clarinet in Bb", "trumpet in Bb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", "violin", "viola", "flute", "oboe", "clarinet in Bb", "tenor sax in Bb", "bass tuba", "violoncello", "percussion", "soprano", "e.guitar", "accordion"];
 
+
 function getName(i_)
 {
 	switch(i_)
@@ -122,7 +123,6 @@ function getName(i_)
 		case 138: // 139
 			return "horn in F";
         default:
-            console.log( 'i_ % 72 ', i_ % 72 );
             return instr[ i_ % 72 ];
             break;
 	}
@@ -439,7 +439,6 @@ function getLayersAndSpacer()
 
 getLayersAndSpacer();
 
-
 function getLayerByID(_artboard, _id)
 {
     let svg_elements = getSVGElements(_artboard);
@@ -531,20 +530,11 @@ layerInfo.forEach( info => {
         svg_obj.val.push( _el );
     });
 
-    svg_obj.val.push({
-        "new": "text",
-        "id": "playerID",
-        "x": nameX,
-        "y": nameY,
-        "text": info.id + " " + getName(info.idx)
-    });
-
     if( !info.id.endsWith('perc') )
     {
         let clef_obj = getClef(info.id)
 
-     //   console.log(clef_obj, info.spacer.y);
-        
+        //   console.log(clef_obj, info.spacer.y);        
     
         let _x = -(scale * (info.spacer.x - 9.631));
         let _y = -(clef_obj.spacer.y * scale) + scoreY; 
@@ -561,14 +551,85 @@ layerInfo.forEach( info => {
     }
     
 
-    let obj = {
-        "/1" : [ ui_css, ui_html, svg_obj, ui_tween ]
-    }
+    let layerNameA = info.id.split("_");
 
-    fs.writeFile(__dirname + '/echoic-'+info.id+'.json', JSON.stringify(obj), function(err) {
-        if(err) {
-            return console.log(err);
+    let layerNumA = Number(layerNameA[1]);
+    let layerNumB = 0;
+
+    if(layerNumA != layerNumA)
+    {
+        layerNumB = Number(layerNameA[1].slice(0,2)) + 72;
+        let svgB = svg_obj;
+
+         // MAKE B
+         svgB.val.push({
+            "new": "text",
+            "id": "playerID",
+            "x": nameX,
+            "y": nameY,
+            "text": layerNumB + " " + getName(layerNumB-1)
+        });
+
+        let objB = {
+            "/1" : [ ui_css, ui_html, svgB, ui_tween ]
         }
-    });
+
+        fs.writeFile(__dirname + '/echoic-'+info.id+'_'+layerNumB+'.json', JSON.stringify(objB), function(err) {
+            if(err) {
+                return console.log(err);
+            }
+        });
+    }
+    else
+    {
+        layerNumB = layerNumA + 72;
+
+        let svgA = svg_obj;
+        let svgB = svg_obj;
+
+        // MAKE A
+        svgA.val.push({
+            "new": "text",
+            "id": "playerID",
+            "x": nameX,
+            "y": nameY,
+            "text": layerNumA + " " + getName(layerNumA-1)
+        });
+    
+        let obj = {
+            "/1" : [ ui_css, ui_html, svgA, ui_tween ]
+        }
+        
+        fs.writeFile(__dirname + '/echoic-'+info.id+'_'+layerNumA+'.json', JSON.stringify(obj), function(err) {
+            if(err) {
+                return console.log(err);
+            }
+        });
+
+        // MAKE B
+        svgB.val.push({
+            "new": "text",
+            "id": "playerID",
+            "x": nameX,
+            "y": nameY,
+            "text": layerNumB + " " + getName(layerNumA-1)
+        });
+
+        let objB = {
+            "/1" : [ ui_css, ui_html, svgB, ui_tween ]
+        }
+
+        fs.writeFile(__dirname + '/echoic-'+info.id+'_'+layerNumB+'.json', JSON.stringify(objB), function(err) {
+            if(err) {
+                return console.log(err);
+            }
+        });
+
+
+    }        
+
+  //  console.log(layerNameA,  Number(layerNameA[1]), layerNum == layerNum, info.id);
+    
+
     
 });
