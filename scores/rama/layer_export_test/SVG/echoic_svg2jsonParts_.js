@@ -8,6 +8,8 @@ const scale = 10;
 let playheadX = 250;
 let scoreY = 100;
 
+let nameX = 10;
+let nameY = 80;
 
 let obj_id_incr = 0; // unique id tag for every element
 
@@ -27,6 +29,13 @@ let ui_css = {
             "props": {
                 "user-select": "none",
                 "pointer-events": "none"
+            }
+        },
+        {
+            "selector": "path",
+            "props": {
+                "stroke-width": 0,
+                "fill": "none"
             }
         },
         {
@@ -112,17 +121,20 @@ function getName(i_)
 			return "alto recorder";
 		case 138: // 139
 			return "horn in F";
-		default:
-			return instr[ i_ % 72 ];
+        default:
+            console.log( 'i_ % 72 ', i_ % 72 );
+            return instr[ i_ % 72 ];
+            break;
 	}
 }
 
 function makeUIName(i_) {
     return {
         new: "text",
+        id: "playerID",
         text: getName(i_),
-        x: 100,
-        y: 100
+        x: nameX,
+        y: nameY
     };
 }
 
@@ -212,14 +224,7 @@ var ui_svg = {
             "width": 100,
             "height": 250,
             "fill": "white"
-        },
-        {
-            "new": "text",
-            "id": "playerID",
-            "x": 10,
-            "y": 80,
-            "text": "1 vln"
-        }
+        }    
     ]
 }
 
@@ -354,6 +359,9 @@ function getElementByID_startswith(_elements, _id)
     return null;
 }
 
+let layerCount = 0;
+let lookup = {};
+
 function getLayersAndSpacer()
 {
     let svg_elements = getSVGElements(artboards[0]);
@@ -373,47 +381,60 @@ function getLayersAndSpacer()
                         break;
                     }
                 }
+                lookup[ee.attributes.id] = layerCount;
+
                 layerInfo.push({
                     id: ee.attributes.id,
-                    spacer: spacer
+                    spacer: spacer,
+                    idx: layerCount
                 });    
+                layerCount++;
             }
             else if(ee.attributes.id.startsWith('clef-names') )
             {
                 clefs.g = {
                     svg: procElements(getElementByID_startswith(ee.elements, "clef-1-vln")),
-                    offset: 64
+                    offset: (649.938 - 8.412) * scale
                 };
                 clefs.f = {
                     svg: procElements(getElementByID_startswith(ee.elements, "clef-7-trb")),
-                    offset: 80
+                    offset: (734.055 - 8.412) * scale
                 };
                 clefs.grand = {
                     svg: procElements(getElementByID_startswith(ee.elements, "clef-12-accord")),
-                    offset: 56
+                    offset: (804.153 - 8.412) * scale
                 };
                 clefs.gtr = {
                     svg: procElements(getElementByID_startswith(ee.elements, "clef-11-egtr")),
-                    offset: 56
+                    offset: (790.134 - 8.412) * scale
                 };
                 clefs.srec = {
                     svg: procElements(getElementByID_startswith(ee.elements, "clef-16-srec")),
-                    offset: 64
+                    offset: (875.573 - 8.412) * scale
                 };
                 clefs.brec = {
                     svg: procElements(getElementByID_startswith(ee.elements, "clef-40-brec")),
-                    offset: 64
+                    offset: (1242.314 - 8.412) * scale
                 };
                 clefs.alto = {
                     svg: procElements(getElementByID_startswith(ee.elements, "clef-14-vla")),
-                    offset: 80
+                    offset: (847.534 - 8.412) * scale
                 };
 
             }    
 
         }
         
-    }    
+    }
+    
+    clefs.g.spacer = layerInfo[lookup['Layer_1_vln']].spacer;    
+    clefs.f.spacer = layerInfo[lookup['Layer_7_trb']].spacer;
+    clefs.grand.spacer = layerInfo[lookup['Layer_12_accord']].spacer;
+    clefs.gtr.spacer = layerInfo[lookup['Layer_11_egtr']].spacer;
+    clefs.srec.spacer = layerInfo[lookup['Layer_16_srec']].spacer; 
+    clefs.brec.spacer = layerInfo[lookup['Layer_40_brec']].spacer;
+    clefs.alto.spacer = layerInfo[lookup['Layer_14_vla']].spacer;
+    
 }
 
 getLayersAndSpacer();
@@ -437,11 +458,10 @@ let fclef = ["trb", "tuba", "btuba", "vc", "db", "subrec", "bsn", "baritone" ];
 
 function getClef(_layerName)
 {
-
     for(let i = 0; i < gclef.length; i++)
     {
         if( _layerName.endsWith( gclef[i] )  ){      
-            //console.log("found g", clefs.g.svg);                  
+            //console.log("found g", clefs.g.svg);
             return clefs.g;
         }
     }
@@ -463,15 +483,13 @@ function getClef(_layerName)
         return clefs.srec;
     else if( _layerName.endsWith( "brec" ) )
         return clefs.brec;
-    else if( _layerName.endsWith( "val" ) )
+    else if( _layerName.endsWith( "vla" ) )
         return clefs.alto;
     else
         return "not found clef "+_layerName;
 }
 
 let instrArr = {};
-
-let layerCount = 0;
 
 layerInfo.forEach( info => {
 
@@ -482,7 +500,6 @@ layerInfo.forEach( info => {
         child: []
     };
 
-//    const idx = layerCount++;
     for( let i = 0; i < artboards.length; i++)
     {
         let _ab = artboards[i];
@@ -514,22 +531,35 @@ layerInfo.forEach( info => {
         svg_obj.val.push( _el );
     });
 
-    let clef_obj = getClef(info.id)
+    svg_obj.val.push({
+        "new": "text",
+        "id": "playerID",
+        "x": nameX,
+        "y": nameY,
+        "text": info.id + " " + getName(info.idx)
+    });
 
-    let _x = -(scale * (info.spacer.x - 9.631));
-    let _y = -(scale * info.spacer.y) + scoreY;
+    if( !info.id.endsWith('perc') )
+    {
+        let clef_obj = getClef(info.id)
 
-    // add clef
-    let clef = {
-        new: "g",
-        id: "clef_"+info.id,
-        transform: `matrix(${scale},0,0,${scale},${_x},${_y})`,
-        child: clef_obj.svg
-    };
-
-
-
-    svg_obj.val.push(clef);
+     //   console.log(clef_obj, info.spacer.y);
+        
+    
+        let _x = -(scale * (info.spacer.x - 9.631));
+        let _y = -(clef_obj.spacer.y * scale) + scoreY; 
+    
+        // add clef
+        let clef = {
+            new: "g",
+            id: "clef_"+info.id,
+            transform: `matrix(${scale},0,0,${scale},${_x},${_y})`,
+            child: clef_obj.svg
+        };
+    
+        svg_obj.val.push(clef);
+    }
+    
 
     let obj = {
         "/1" : [ ui_css, ui_html, svg_obj, ui_tween ]
@@ -542,26 +572,3 @@ layerInfo.forEach( info => {
     });
     
 });
-
-/*
-fs.writeFile(__dirname + '/echoic-svg2json-raw.json', JSON.stringify(doc), function(err) {
-    if(err) {
-        return console.log(err);
-    }
-});
-
-for( let e of doc.elements )
-{
-    if( e.type == "element" && e.name == "svg" && e.elements )
-    {
-        let child_offset = procElements(e.elements);
-        fs.writeFile(__dirname + '/echoic-svg2json-test.json', JSON.stringify(child_offset.child), function(err) {
-            if(err) {
-                return console.log(err);
-            }
-        });
-
-    }
-}
-
-*/
