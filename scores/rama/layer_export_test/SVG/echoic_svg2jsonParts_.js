@@ -1,7 +1,7 @@
 const fs = require('fs');
 const convert = require('xml-js');
 
-const make = "perf"; // "play"
+const make = "play"; // "play" "perf"
 
 const sys_w = 731.441; // pixel with of system
 
@@ -10,6 +10,9 @@ const scale = 10;
 let playheadX = 250;
 let scoreY = 100;
 
+const leadin = 200;
+let scoreX = playheadX + leadin;
+
 let nameX = 10;
 let nameY = 120;
 
@@ -17,7 +20,6 @@ const npages = 20;
 const secPerPage = 36;
 
 const stafflength = sys_w * scale;
-const leadin = 200 + playheadX;
 
 const scoreWidth = stafflength * npages ;
 
@@ -28,11 +30,13 @@ const secPerPix = secPerPage / stafflength;
 const totalduration = pixWidth * secPerPix;
 
 
-const ministartX = 400;
+const ministartX = 320;
 const ministartY = 0;
 
-const miniplayH = 100;
-const scrollbarH = 20;
+const miniH = 50;
+const miniplayH = miniH;
+const scrollbarH = miniH;
+const scrollbarColor = "rgba(0,0,255,0.25)"
 
 const miniW = 800;
 const miniscaleX = miniW / pixWidth;
@@ -40,7 +44,6 @@ const miniscaleX = miniW / pixWidth;
 const standardH = 22.344 * scale;
 const accordH = 33.186 * scale;
 
-const miniH = 100;
 
 let miniscaleY = miniH / standardH;
 let miniscaleYaccord = miniH / accordH;
@@ -102,7 +105,7 @@ let ui_html = {
             "style": {
                 "position": "absolute",
                 "float": "left",
-                "width": "100vw"
+                "width": "200px"
             }
         },
         {
@@ -114,7 +117,36 @@ let ui_html = {
             "style": {
                 "float": "left"
             },
-            "onclick": "\n     if( !this.classList.contains('ready') )\n     {\n        this.classList.add('ready');\n        drawsocket.input({\n          key: 'tween',\n          val: [ {\n            id: 'score-anim',\n       \t\t   cmd : 'play'\n          }, {\n            id: 'miniscore-anim',\n       \t\t   cmd : 'play'\n          } ],\n          timetag: Date.now()\n        });\n     } else { \n        this.classList.remove('ready');\n\n       let starttime = document.getElementById('userinput');\n\n        drawsocket.input({\n          key: 'tween',\n          val: [{\n            id: 'score-anim',\n       \t\t   cmd: 'pause',\n            time: starttime.value\n          }, {\n            id: 'miniscore-anim',\n       \t\t   cmd : 'pause',\n            time: starttime.value\n          }]\n        });\n     }"
+            "onclick": `if( !this.classList.contains('ready') )
+            {
+                this.classList.add('ready');
+                drawsocket.input({
+                    key: 'tween',
+                    val: [ {
+                        id: 'score-anim',
+                        cmd : 'play'
+                    }, {
+                        id: 'miniscore-anim',
+                        cmd : 'play'
+                    } ],
+                    timetag: Date.now()
+                });
+            } else {
+                this.classList.remove('ready');
+                let starttime = document.getElementById('userinput');
+                drawsocket.input({
+                    key: 'tween',
+                    val: [{
+                        id: 'score-anim',
+                        cmd: 'pause',
+                        time: starttime.value
+                    }, {
+                        id: 'miniscore-anim',
+                        cmd : 'pause',
+                        time: starttime.value
+                    }]
+                });
+            }`
         },
         {
             "parent": "UI",
@@ -278,23 +310,11 @@ var ui_svg = {
             "y": 35
         },
         {
-            "parent": "overlay",
-            "id": "scrollbar",
-            "new": "rect",
-            "x": ministartX,
-            "y": ministartY,
-            "height": scrollbarH,
-            "width": miniW,
-            "fill": "rgba(0,0,255,0.5)",
-            "onmousemove": "    \n    event.preventDefault();\n    let x = event.clientX;\n    if(event.buttons == 1){\n      let r = ((x-20) / 1080) * 722.215;\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n      });\n      let uiTxt = document.getElementById('userinput');\n      uiTxt.value = r;\n    }",
-            "ontouchmove": "\n    event.preventDefault();\n    let x = event.pageX;\n\n      let r = ((x-20) / 1080) * 722.215;\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n       });\n    let uiTxt = document.getElementById('userinput');\n    uiTxt.value = r;\n    "
-        },
-        {
             "id": "score",
             "parent": "scoreGroup",
             "new": "use",
             "href": "#defscore",
-            "x": playheadX,
+            "x": scoreX,
             "y": scoreY
         }, {
             "id": "whiteout",
@@ -318,7 +338,7 @@ let ui_tween = {
             "target": "#score",
             "dur": totalduration,
             "vars": {
-                "x": -146738.203125,
+                "x": -pixWidth,
                 "ease": "linear",
                 "paused": "true",
                 "onUpdate": {
@@ -610,6 +630,63 @@ layerInfo.forEach( info => {
     ui_svg.val.forEach( _el => {
         svg_obj.val.push( _el );
     });
+
+    if( make != "perf")
+    {
+        svg_obj.val.push({
+            "parent": "overlay",
+            "id": "scrollbar",
+            "new": "rect",
+            "x": ministartX,
+            "y": ministartY,
+            "height": scrollbarH,
+            "width": miniW,
+            "fill": scrollbarColor,
+            "onmousemove": `
+                event.preventDefault();
+                let x = event.clientX;
+                if(event.buttons == 1){
+                    let r = ((x-${ministartX}) / ${miniW}) * ${totalduration};
+                    drawsocket.input({
+                        key: 'tween',
+                        val: [{
+                            id: 'score-anim',
+                            cmd: 'pause',
+                            time: r 
+                        }, {
+                            id: 'miniscore-anim',
+                            cmd: 'pause',
+                            time: r
+                        }]
+                    });
+                    let uiTxt = document.getElementById('userinput');
+                    uiTxt.value = r;
+                    let button = document.getElementById('playbutton');
+                    if( button.classList.contains('ready') )
+                        button.classList.remove('ready');
+
+                }`,
+            "ontouchmove": `
+                event.preventDefault();
+                let x = event.pageX;
+                let r = ((x-${ministartX}) / ${miniW}) * ${totalduration};
+                drawsocket.input({
+                    key: 'tween',
+                    val: [{
+                        id: 'score-anim',
+                        cmd: 'pause',
+                        time: r 
+                    }, {
+                        id: 'miniscore-anim',
+                        cmd: 'pause',
+                        time: r
+                    }]
+                });
+                let uiTxt = document.getElementById('userinput');
+                uiTxt.value = r;
+                `
+        });
+    }
 
     if( !info.id.endsWith('perc') )
     {
