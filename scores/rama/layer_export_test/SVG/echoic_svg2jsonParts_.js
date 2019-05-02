@@ -14,7 +14,7 @@ const leadin = 200;
 let scoreX = playheadX + leadin;
 
 let nameX = 10;
-let nameY = 120;
+let nameY = 90;
 
 const npages = 20;
 const secPerPage = 36;
@@ -31,15 +31,15 @@ const totalduration = pixWidth * secPerPix;
 
 
 const ministartX = 320;
-const ministartY = 0;
+const ministartY = 4;
 
 const miniH = 50;
 const miniplayH = miniH;
 const scrollbarH = miniH;
 const scrollbarColor = "rgba(0,0,255,0.25)"
 
-const miniW = 800;
-const miniscaleX = miniW / pixWidth;
+const miniW = 700;
+const miniscaleX = miniW / scoreWidth;
 
 const standardH = 22.344 * scale;
 const accordH = 33.186 * scale;
@@ -48,7 +48,7 @@ const accordH = 33.186 * scale;
 let miniscaleY = miniH / standardH;
 let miniscaleYaccord = miniH / accordH;
 
-const miniX = ministartX / miniscaleX;
+const miniX = (ministartX + (leadin * miniscaleX))/ miniscaleX;
 const miniY = ministartY / miniscaleY;// 2717.3740234375;
 
 
@@ -323,7 +323,7 @@ var ui_svg = {
             "x": 0,
             "y": 75,
             "width": 100,
-            "height": 250,
+            "height": accordH,
             "fill": "white"
         }
          
