@@ -1,18 +1,55 @@
 const fs = require('fs');
 const convert = require('xml-js');
 
+const make = "perf"; // "play"
 
 const sys_w = 731.441; // pixel with of system
+
 const scale = 10;
 
 let playheadX = 250;
 let scoreY = 100;
 
 let nameX = 10;
-let nameY = 80;
+let nameY = 120;
+
+const npages = 20;
+const secPerPage = 36;
+
+const stafflength = sys_w * scale;
+const leadin = 200 + playheadX;
+
+const scoreWidth = stafflength * npages ;
+
+const pixWidth = scoreWidth + leadin;
+
+const secPerPix = secPerPage / stafflength;
+
+const totalduration = pixWidth * secPerPix;
+
+
+const ministartX = 400;
+const ministartY = 0;
+
+const miniplayH = 100;
+const scrollbarH = 20;
+
+const miniW = 800;
+const miniscaleX = miniW / pixWidth;
+
+const standardH = 22.344 * scale;
+const accordH = 33.186 * scale;
+
+const miniH = 100;
+
+let miniscaleY = miniH / standardH;
+let miniscaleYaccord = miniH / accordH;
+
+const miniX = ministartX / miniscaleX;
+const miniY = ministartY / miniscaleY;// 2717.3740234375;
+
 
 let obj_id_incr = 0; // unique id tag for every element
-
 
 let ui_css = {
     "key": "css",
@@ -109,6 +146,62 @@ let ui_html = {
     ]
 };
 
+
+let perf_ui_html = {
+	key : "html",
+	val : [{
+		parent : "forms",
+		id : "UI",
+		new : "div",
+		style : {
+			position : "absolute",
+			float : "left",
+			width : "100vw"
+		}
+	}, {
+		parent : "UI",
+		id : "readybutton",
+		new : "button",
+		text : "ready",
+		class : "button",
+		onload : "let msg = {}; let addr = drawsocket.oscprefix+'/readybutton'; msg[addr] = 0; drawsocket.send(msg);",
+		onclick : "drawsocket.startAudio();  let msg = {};      let addr = drawsocket.oscprefix+'/readybutton/state';      if( !this.classList.contains('ready') )      {        this.classList.add('ready');        msg[addr] = 1;        drawsocket.send(msg);     } else {         this.classList.remove('ready');        msg[addr] = 0;    drawsocket.send(msg);     }"
+	}, {
+		parent : "UI",
+		id : "msg",
+		new : "div",
+		text : "hi! please click the button when you're ready to play<br> (we're not quite ready yet)",
+		style : {
+			position : "absolute",
+			left : "105px",
+			"font-size" : "12px"
+		}
+	}, {
+		parent : "UI",
+		new : "input",
+		type : "text",
+		id : "userinput",
+		name : "userinput",
+		size : 10,
+		onkeydown : " if( drawsocket.submitOnEnterKey(this) ) {     document.getElementById('sent').innerHTML = `sent: ${this.value}`; this.value = ''; }",
+		style : {
+			position : "relative",
+			"margin-left" : "5px"
+		}
+	}, {
+		parent : "UI",
+		new : "label",
+		for : "userinput",
+		id : "sent",
+		name : "sent",
+		text : "",
+		style : {
+			"font-size" : "60%",
+			color : "gray"
+		}
+	}]
+}
+
 var instr = ["violin", "violin", "flute", "flute", "clarinet in Bb", "alto sax in Eb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", "violin", "viola", "flute", "soprano recorder", "clarinet in Bb", "trumpet in Bb", "tuba", "violoncello", "percussion", "soprano", "e.guitar", "accordion", "violin", "violin", "flute", "oboe", "clarinet in Bb", "tenor sax in Bb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", "violin", "viola", "flute", "bass recorder", "clarinet in Bb", "alto sax in Eb", "bassoon", "double bass", "percussion", "baritone", "e.guitar", "accordion", "violin", "violin", "flute", "tenor recorder", "clarinet in Bb", "trumpet in Bb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", "violin", "viola", "flute", "oboe", "clarinet in Bb", "tenor sax in Bb", "bass tuba", "violoncello", "percussion", "soprano", "e.guitar", "accordion"];
 
 
@@ -124,7 +217,6 @@ function getName(i_)
 			return "horn in F";
         default:
             return instr[ i_ % 72 ];
-            break;
 	}
 }
 
@@ -168,10 +260,10 @@ var ui_svg = {
             "parent": "overlay",
             "new": "line",
             "id": "miniplayhead",
-            "x1": 20,
-            "x2": 20,
-            "y1": 400,
-            "y2": 500,
+            "x1": ministartX,
+            "x2": ministartX,
+            "y1": ministartY,
+            "y2": ministartY + miniplayH,
             "style": {
                 "stroke": "blue",
                 "stroke-width": 3,
@@ -189,10 +281,10 @@ var ui_svg = {
             "parent": "overlay",
             "id": "scrollbar",
             "new": "rect",
-            "x": 20,
-            "y": 400,
-            "height": 15,
-            "width": 1080,
+            "x": ministartX,
+            "y": ministartY,
+            "height": scrollbarH,
+            "width": miniW,
             "fill": "rgba(0,0,255,0.5)",
             "onmousemove": "    \n    event.preventDefault();\n    let x = event.clientX;\n    if(event.buttons == 1){\n      let r = ((x-20) / 1080) * 722.215;\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n      });\n      let uiTxt = document.getElementById('userinput');\n      uiTxt.value = r;\n    }",
             "ontouchmove": "\n    event.preventDefault();\n    let x = event.pageX;\n\n      let r = ((x-20) / 1080) * 722.215;\n\n      drawsocket.input({\n        key: 'tween',\n        val: [{\n          id: 'score-anim',\n          cmd: 'pause',\n          time: r \n        }, {\n          id: 'miniscore-anim',\n          cmd: 'pause',\n          time: r\n        }]\n       });\n    let uiTxt = document.getElementById('userinput');\n    uiTxt.value = r;\n    "
@@ -204,18 +296,7 @@ var ui_svg = {
             "href": "#defscore",
             "x": playheadX,
             "y": scoreY
-        },
-        {
-            "id": "mini",
-            "parent": "scoreGroup",
-            "new": "use",
-            "href": "#defscore",
-            "y": 720,
-            "x": 2717.3740234375,
-            "transform": "scale(0.00736005, 0.5)",
-            "class": "noclick"
-        },
-        {
+        }, {
             "id": "whiteout",
             "parent": "scoreGroup",
             "new": "rect",
@@ -224,7 +305,8 @@ var ui_svg = {
             "width": 100,
             "height": 250,
             "fill": "white"
-        }    
+        }
+         
     ]
 }
 
@@ -234,7 +316,7 @@ let ui_tween = {
         {
             "id": "score-anim",
             "target": "#score",
-            "dur": 722.2147827148438,
+            "dur": totalduration,
             "vars": {
                 "x": -146738.203125,
                 "ease": "linear",
@@ -247,9 +329,9 @@ let ui_tween = {
         {
             "id": "miniscore-anim",
             "target": "#miniplayhead",
-            "dur": 722.2147827148438,
+            "dur": totalduration,
             "vars": {
-                "x": "+= 1080",
+                "x": "+="+miniW,
                 "ease": "linear",
                 "paused": "true"
             }
@@ -449,9 +531,6 @@ function getLayerByID(_artboard, _id)
     }
 }
 
-let test = "layer_foo_vln";
-console.log( "test", test.endsWith("vln") );
-
 let gclef = ["vln", "fl", "ob","arec", "trec", "cl", "trp",  "asax", "tsax", "sopr", "hrn"];
 let fclef = ["trb", "tuba", "btuba", "vc", "db", "subrec", "bsn", "baritone" ];
 
@@ -489,6 +568,8 @@ function getClef(_layerName)
 }
 
 let instrArr = {};
+
+let perfObj = {};
 
 layerInfo.forEach( info => {
 
@@ -551,6 +632,20 @@ layerInfo.forEach( info => {
     }
     
 
+    let miniscaleY_ = info.id.endsWith('accord') ? miniscaleYaccord : miniscaleY;
+
+    svg_obj.val.push({
+        "id": "mini",
+        "parent": "scoreGroup",
+        "new": "use",
+        "href": "#defscore",
+        "y": miniY,
+        "x": miniX,
+        "transform": "scale("+miniscaleX+", "+miniscaleY_+")",
+        "class": "noclick"
+    });
+
+    
     let layerNameA = info.id.split("_");
 
     let layerNumA = Number(layerNameA[1]);
@@ -570,22 +665,34 @@ layerInfo.forEach( info => {
             "text": layerNumB + " " + getName(layerNumB-1)
         });
 
-        let objB = {
+/*        let objB = {
             "/1" : [ ui_css, ui_html, svgB, ui_tween ]
         }
+*/
+        if( make == 'perf')
+        {
+            perfObj["/"+layerNumB] =[ ui_css, perf_ui_html, svgB, ui_tween ];
+        }
+        else
+        {
+            let objB = {};
+            objB["/"+layerNumB] = [ ui_css, ui_html, svgB, ui_tween ];
+    
+            fs.writeFile(__dirname + '/echoic-'+layerNumB+'.json', JSON.stringify(objB), function(err) {
+                if(err) {
+                    return console.log(err);
+                }
+            });
+        }
+        
 
-        fs.writeFile(__dirname + '/echoic-'+info.id+'_'+layerNumB+'.json', JSON.stringify(objB), function(err) {
-            if(err) {
-                return console.log(err);
-            }
-        });
     }
     else
     {
         layerNumB = layerNumA + 72;
 
         let svgA = svg_obj;
-        let svgB = svg_obj;
+        let svgB = JSON.parse(JSON.stringify(svg_obj));
 
         // MAKE A
         svgA.val.push({
@@ -596,16 +703,24 @@ layerInfo.forEach( info => {
             "text": layerNumA + " " + getName(layerNumA-1)
         });
     
-        let obj = {
-            "/1" : [ ui_css, ui_html, svgA, ui_tween ]
-        }
-        
-        fs.writeFile(__dirname + '/echoic-'+info.id+'_'+layerNumA+'.json', JSON.stringify(obj), function(err) {
-            if(err) {
-                return console.log(err);
-            }
-        });
 
+        if( make == 'perf')
+        {
+            perfObj["/"+layerNumA] = [ ui_css, perf_ui_html, svgA, ui_tween ];
+        }
+        else
+        {
+            let obj = {};
+            obj["/"+layerNumA] = [ ui_css, ui_html, svgA, ui_tween ];
+    
+            fs.writeFile(__dirname + '/echoic-'+layerNumA+'.json', JSON.stringify(obj), function(err) {
+                if(err) {
+                    return console.log(err);
+                }
+            });    
+        }
+
+        
         // MAKE B
         svgB.val.push({
             "new": "text",
@@ -615,21 +730,34 @@ layerInfo.forEach( info => {
             "text": layerNumB + " " + getName(layerNumA-1)
         });
 
-        let objB = {
-            "/1" : [ ui_css, ui_html, svgB, ui_tween ]
+
+        if( make == 'perf')
+        {
+            perfObj["/"+layerNumB] = [ ui_css, perf_ui_html, svgB, ui_tween ];
         }
+        else
+        {
+            let objB = {};
+            objB["/"+layerNumB] = [ ui_css, ui_html, svgB, ui_tween ];
 
-        fs.writeFile(__dirname + '/echoic-'+info.id+'_'+layerNumB+'.json', JSON.stringify(objB), function(err) {
-            if(err) {
-                return console.log(err);
-            }
-        });
-
+            fs.writeFile(__dirname + '/echoic-'+layerNumB+'.json', JSON.stringify(objB), function(err) {
+                if(err) {
+                    return console.log(err);
+                }
+            });
+        }
 
     }        
 
   //  console.log(layerNameA,  Number(layerNameA[1]), layerNum == layerNum, info.id);
     
-
-    
 });
+
+if( make == "perf" )
+{
+    fs.writeFile(__dirname + '/echoic-performance.json', JSON.stringify(perfObj), function(err) {
+        if(err) {
+            return console.log(err);
+        }
+    });
+}
