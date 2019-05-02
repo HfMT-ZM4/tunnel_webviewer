@@ -1,7 +1,7 @@
 const fs = require('fs');
 const convert = require('xml-js');
 
-const make = "play"; // "play" "perf"
+const make = "perf"; // "play" "perf"
 
 const sys_w = 731.441; // pixel with of system
 
@@ -53,6 +53,11 @@ const miniY = ministartY / miniscaleY;// 2717.3740234375;
 
 
 let obj_id_incr = 0; // unique id tag for every element
+
+let ui_clear = {
+    key: "clear",
+    val: "*"
+}
 
 let ui_css = {
     "key": "css",
@@ -748,7 +753,16 @@ layerInfo.forEach( info => {
 */
         if( make == 'perf')
         {
-            perfObj["/"+layerNumB] =[ ui_css, perf_ui_html, svgB, ui_tween ];
+            perfObj["/"+layerNumB] =[ ui_clear, ui_css, perf_ui_html, svgB, ui_tween ];
+
+            let objB = {};
+            objB["/"+layerNumB] = perfObj["/"+layerNumB];
+
+            fs.writeFile(__dirname + '/echoic-perf-'+layerNumB+'.json', JSON.stringify(objB), function(err) {
+                if(err) {
+                    return console.log(err);
+                }
+            });
         }
         else
         {
@@ -783,7 +797,16 @@ layerInfo.forEach( info => {
 
         if( make == 'perf')
         {
-            perfObj["/"+layerNumA] = [ ui_css, perf_ui_html, svgA, ui_tween ];
+            perfObj["/"+layerNumA] = [ ui_clear, ui_css, perf_ui_html, svgA, ui_tween ];
+            
+            let obj = {};
+            obj["/"+layerNumA] = perfObj["/"+layerNumA];
+            
+            fs.writeFile(__dirname + '/echoic-perf-'+layerNumA+'.json', JSON.stringify(obj), function(err) {
+                if(err) {
+                    return console.log(err);
+                }
+            });
         }
         else
         {
@@ -810,7 +833,16 @@ layerInfo.forEach( info => {
 
         if( make == 'perf')
         {
-            perfObj["/"+layerNumB] = [ ui_css, perf_ui_html, svgB, ui_tween ];
+            perfObj["/"+layerNumB] = [ ui_clear, ui_css, perf_ui_html, svgB, ui_tween ];
+            
+            let objB = {};
+            objB["/"+layerNumB] = perfObj["/"+layerNumB];
+
+            fs.writeFile(__dirname + '/echoic-perf-'+layerNumB+'.json', JSON.stringify(objB), function(err) {
+                if(err) {
+                    return console.log(err);
+                }
+            });
         }
         else
         {
