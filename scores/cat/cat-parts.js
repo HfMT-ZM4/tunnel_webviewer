@@ -520,7 +520,7 @@ for( let i = 0; i < 144; i++)
         "id": "playerID",
         "x": nameX,
         "y": nameY,
-        "text": layerNumA + " " + getName(i)
+        "text": layerNumA + " " + getName(i) +", group "+ (Math.floor(i / 12 ) + 1)
     });
     
 
