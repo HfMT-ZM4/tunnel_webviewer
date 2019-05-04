@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE opus SYSTEM "opus.dtd">
+<opus>
+	<score>
+		<name>Musk</name>
+		<composer>Cat Hope</composer>
+		<type>ScrollScore</type>
+		<duration>720</duration>
+		<startoffset>0</startoffset>
+		<readoffset>180</readoffset>
+		<filename>Musk_allGroups.png</filename>
+		<instructions>Musk_ Instructions.png</instructions>
+		<part>Musk1_2.png</part>
+		<part>Musk3_4.png</part>
+		<part>Musk5_6.png</part>
+		<part>Musk7_8.png</part>
+		<part>Musk9_10.png</part>
+		<part>Musk11_12.png</part>
+	</score>
+</opus>

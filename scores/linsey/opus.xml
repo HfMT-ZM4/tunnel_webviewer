@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE opus SYSTEM "opus.dtd">
+<opus>
+	<score>
+		<name>dekompression</name>
+		<composer>lindsay vickery</composer>
+		<type>ScrollScore</type>
+		<duration>498</duration>
+		<filename>dekompressionScore-01_1.png</filename>
+		<prefsfile>preferences.xml</prefsfile>
+		<part>dekompression3group1-01_1.png</part>
+		<part>dekompression3group2-01_1.png</part>
+		<part>dekompression3group3-01_1.png</part>
+		<part>dekompression3group4-01_1.png</part>
+		<part>dekompression3group5-01_1.png</part>
+		<part>dekompression3group6-01_1.png</part>
+		<part>dekompression3group7-01_1.png</part>
+		<part>dekompression3group8-01_1.png</part>
+		<part>dekompression3group9-01_1.png</part>
+		<part>dekompression3group10-01_1.png</part>
+		<part>dekompression3group11-01_1.png</part>
+		<part>dekompression3group12-01_1.png</part>
+		<backgroundrgb>0,0,0</backgroundrgb>
+	</score>
+</opus>
