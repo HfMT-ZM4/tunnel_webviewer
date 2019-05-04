@@ -272,6 +272,10 @@ var ui_svg = {
     "val": [
         {
             "new": "g",
+            "id": "back"
+        },
+        {
+            "new": "g",
             "id": "scoreGroup"
         },
         {
@@ -320,16 +324,37 @@ var ui_svg = {
             "href": "#defscore",
             "x": scoreX,
             "y": scoreY
-        }, {
-            "id": "whiteout",
-            "parent": "scoreGroup",
-            "new": "rect",
-            "x": 0,
-            "y": 75,
-            "width": 100,
-            "height": standardH,
-            "fill": "white"
+        }, 
+        {
+            new: "text",
+            id: "group_instr",
+            text: `RED: strings, accordion, voice -- BLACK: winds, brass, percussion, guitar`,
+            x: ministartX,
+            y: miniplayH + 20
+        },
+        {
+            new: "text",
+            id: "instructions",
+            text: `pitches are indicated by relative vertical position, from lowest to highest possible`,
+            x: ministartX,
+            y: miniplayH + 40,
+            "font-style" : "italic",
+            "font-size" : 12
+        },
+        {
+            new: "rect",
+            id: "ui_rect",
+            parent: "back",
+            x: 0,
+            y: scoreY-1,
+            height: standardH+2,
+            width: 1024,
+            'stroke-weight' : 1,
+            fill: 'rgba(0,0,0,0.01)',
+            stroke: 'black'
         }
+        
+        
          
     ]
 }
@@ -374,7 +399,8 @@ const filenames = [
 
 function getFileForIDX(i_)
 {
-    return "scores/cat/"+filenames[ i_ % 6 ];
+    let group = Math.floor(i_ / 24 );
+    return "scores/cat/"+filenames[ group ];
 }
 
 /*
