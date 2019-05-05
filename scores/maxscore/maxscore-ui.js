@@ -89,27 +89,6 @@ let ui_css = {
                 "user-select": "none",
                 "pointer-events": "none"
             }
-        },
-        {
-            "selector": "path",
-            "props": {
-                "stroke-width": 0,
-                "fill": "none"
-            }
-        },
-        {
-            "selector": "polygon",
-            "props": {
-                "stroke-width": 0,
-                "fill": "none"
-            }
-        },
-        {
-            "selector": "polyline",
-            "props": {
-                "stroke-width": 0,
-                "fill": "none"
-            }
         }
     ]
 };
