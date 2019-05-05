@@ -2,67 +2,15 @@
 
 const fs = require('fs');
 
-// let make = ""; // if set to "perf" this script will produce the performance UI instead of the reherasal UI
-
-// let sys_w = 9129; // pixel width of system
-
-// let npages = 1
-
-// let secPerPage = 720;
-
-// let pieceName = 'testname';
-
-// let scale = 1.5;
-
-// let part_height = 716;
-// let accordion_height = 800;
-
-// let standardH = part_height * scale; // height of standard part notation
-// let accordH = accordion_height * scale; // height of accordion notation
-
-// let playheadX = 250;
-// let scoreY = 100;
-
-// let leadin = 0;
-// let scoreX = playheadX + leadin;
-
-// let nameX = 10;
-// let nameY = 90;
-
-// let stafflength = sys_w * scale;
-
-// let scoreWidth = stafflength * npages ;
-
-// let pixWidth = scoreWidth + leadin;
-
-// let secPerPix = secPerPage / stafflength;
-
-// let totalduration = pixWidth * secPerPix;
-
-// let ministartX = 320;
-// let ministartY = 4;
-
-// let miniH = 50;
-// let miniplayH = miniH;
-// let scrollbarH = miniH;
-// let scrollbarColor = "rgba(0,0,255,0.25)"
-
-// let miniW = 700;
-// let miniscaleX = miniW / scoreWidth;
-
-// let miniscaleY = miniH / standardH;
-// let miniscaleYaccord = miniH / accordH;
-
-// let miniX = (ministartX + (leadin * miniscaleX))/ miniscaleX;
-// let miniY = ministartY / miniscaleY;// 2717.3740234375;
-
-// let playheadH = 720;
 
 let setup = {
 
     make: "", // if set to "perf" this script will produce the performance UI instead of the reherasal UI
 
     sys_w: 9129, // pixel width of system
+
+    titleX: 300,
+    titleY: 100,
 
     npages: 1,
     
@@ -332,10 +280,10 @@ function ui_svg(){
                 "new": "g",
                 "id": "scoreGroup"
             },
-            // {
-            //     "new": "g",
-            //     "id": "overlay"
-            // },
+            {
+                "new": "g",
+                "id": "overlay"
+            },
             {
                 "parent": "overlay",
                 "new": "line",
@@ -481,7 +429,18 @@ function makeJSON( svg_json_full_score )
             }
             else if( n.id.startsWith('title') )
             {
-                ui_title = n;
+                if( n.hasOwnProperty('parent') )
+                    delete n.parent;
+
+                n.x = 0;
+                n.y = 0;
+
+                ui_title = {
+                    new: 'g',
+                    id: 'overlay_title',
+                    transform: `translate(${setup.titleX}, ${setup.titleY})`,
+                    child: n
+                };
             }
             else if( n.id.startsWith('instructions') )
             {
@@ -514,8 +473,14 @@ function makeJSON( svg_json_full_score )
             svg_obj.val.push( _el );
         });
 
+        if( typeof ui_clef !== "undefined" )
+            svg_obj.val.push( ...ui_clef);
 
-        svg_obj.val.push( ...ui_clef, ui_title, ui_instructions );
+        if( typeof ui_title !== "undefined" )
+            svg_obj.val.push( ui_title );
+
+        if( typeof ui_instructions !== "undefined" )
+            svg_obj.val.push( ui_instructions );
 
         if( setup.make != "perf")
         {
@@ -697,7 +662,10 @@ try {
             scrollbarColor: setup.scrollbarColor,
             
             miniW: setup.miniW,
-            playheadH: setup.playheadH
+            playheadH: setup.playheadH,
+
+            titleX: setup.titleX,
+            titleY: setup.titleY
         });
     });
 
