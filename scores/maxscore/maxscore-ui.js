@@ -324,99 +324,104 @@ function getName(i_)
 }
 
 
-var ui_svg = {
-    "key": "svg",
-    "val": [
-        {
-            "new": "g",
-            "id": "back"
-        },
-        {
-            "new": "g",
-            "id": "scoreGroup"
-        },
-        {
-            "new": "g",
-            "id": "overlay"
-        },
-        {
-            "parent": "overlay",
-            "new": "line",
-            "id": "playhead",
-            "x1": setup.playheadX,
-            "x2": setup.playheadX,
-            "y1": 0,
-            "y2": setup.playheadH,
-            "style": {
-                "stroke": "red",
-                "stroke-width": 3,
-                "stroke-opacity": 0.5
+function ui_svg(){
+    return {
+        "key": "svg",
+        "val": [
+            {
+                "new": "g",
+                "id": "back"
+            },
+            {
+                "new": "g",
+                "id": "scoreGroup"
+            },
+            {
+                "new": "g",
+                "id": "overlay"
+            },
+            {
+                "parent": "overlay",
+                "new": "line",
+                "id": "playhead",
+                "x1": setup.playheadX,
+                "x2": setup.playheadX,
+                "y1": 0,
+                "y2": setup.playheadH,
+                "style": {
+                    "stroke": "red",
+                    "stroke-width": 3,
+                    "stroke-opacity": 0.5
+                }
+            },
+            {
+                "parent": "overlay",
+                "new": "line",
+                "id": "miniplayhead",
+                "x1": setup.ministartX,
+                "x2": setup.ministartX,
+                "y1": setup.ministartY,
+                "y2": setup.ministartY + setup.miniplayH,
+                "style": {
+                    "stroke": "blue",
+                    "stroke-width": 3,
+                    "stroke-opacity": 0.5
+                }
+            },
+            {
+                "parent": "overlay",
+                "new": "text",
+                "id": "timecount",
+                "x": 195,
+                "y": 35
+            },
+            {
+                "id": "score",
+                "parent": "scoreGroup",
+                "new": "use",
+                "href": "#defscore",
+                "x": setup.scoreX,
+                "y": setup.scoreY
             }
-        },
-        {
-            "parent": "overlay",
-            "new": "line",
-            "id": "miniplayhead",
-            "x1": setup.ministartX,
-            "x2": setup.ministartX,
-            "y1": setup.ministartY,
-            "y2": setup.ministartY + setup.miniplayH,
-            "style": {
-                "stroke": "blue",
-                "stroke-width": 3,
-                "stroke-opacity": 0.5
-            }
-        },
-        {
-            "parent": "overlay",
-            "new": "text",
-            "id": "timecount",
-            "x": 195,
-            "y": 35
-        },
-        {
-            "id": "score",
-            "parent": "scoreGroup",
-            "new": "use",
-            "href": "#defscore",
-            "x": setup.scoreX,
-            "y": setup.scoreY
-        }
-    ]
-}
+        ]
+    }
+};
 
-let ui_tween = {
-    "key": "tween",
-    "val": [
-        {
-            "id": "score-anim",
-            "target": "#score",
-            "dur": setup.totalduration,
-            "vars": {
-                "x": -setup.pixWidth,
-                "ease": "linear",
-                "paused": "true",
-                "onUpdate": {
-                    "function": " \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n"
+function ui_tween(){
+    return {
+        "key": "tween",
+        "val": [
+            {
+                "id": "score-anim",
+                "target": "#score",
+                "dur": setup.totalduration,
+                "vars": {
+                    "x": -setup.pixWidth,
+                    "ease": "linear",
+                    "paused": "true",
+                    "onUpdate": {
+                        "function": " \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n"
+                    }
+                }
+            },
+            {
+                "id": "miniscore-anim",
+                "target": "#miniplayhead",
+                "dur": setup.totalduration,
+                "vars": {
+                    "x": "+="+setup.miniW,
+                    "ease": "linear",
+                    "paused": "true"
                 }
             }
-        },
-        {
-            "id": "miniscore-anim",
-            "target": "#miniplayhead",
-            "dur": setup.totalduration,
-            "vars": {
-                "x": "+="+setup.miniW,
-                "ease": "linear",
-                "paused": "true"
-            }
-        }
-    ]
+        ]
+    }
 };
 
 
 function makeJSON( svg_json_full_score )
 {
+    
     let perfObj = {};
 
     for( let i = 0; i < 144; i++ )
@@ -457,10 +462,13 @@ function makeJSON( svg_json_full_score )
             svg_val = part.val;
         }
 
+        //console.log('test');
+
         let def_score = {
             new: "g",
             parent: "defs",
             id: "defscore",
+            transform : `scale(${setup.scale})`,
             child: svg_val
         };
     
@@ -472,7 +480,7 @@ function makeJSON( svg_json_full_score )
         svg_obj.val.push(def_score);
     
         // add ui svg elements
-        ui_svg.val.forEach( _el => {
+        ui_svg().val.forEach( _el => {
             svg_obj.val.push( _el );
         });
     
@@ -491,7 +499,7 @@ function makeJSON( svg_json_full_score )
                     event.preventDefault();
                     let x = event.clientX;
                     if(event.buttons == 1){
-                        let r = ((x-${setup.ministartX}) / ${setup.miniW}) * ${setup.totalduration};
+                        let r = ( ( x - ${setup.ministartX} ) / ${setup.miniW}) * ${setup.totalduration};
                         drawsocket.input({
                             key: 'tween',
                             val: [{
@@ -563,7 +571,7 @@ function makeJSON( svg_json_full_score )
     
         if( setup.make == 'perf')
         {
-            perfObj["/"+layerNumA] = [ ui_clear, ui_css, perf_ui_html, svgA, ui_tween ];
+            perfObj["/"+layerNumA] = [ ui_clear, ui_css, perf_ui_html, svgA, ui_tween() ];
             
             let obj = {};
             obj["/"+layerNumA] = perfObj["/"+layerNumA];
@@ -580,7 +588,7 @@ function makeJSON( svg_json_full_score )
         else
         {
             let obj = {};
-            obj["/"+layerNumA] = [ ui_css, ui_html, svgA, ui_tween ];
+            obj["/"+layerNumA] = [ ui_css, ui_html, svgA, ui_tween() ];
     
             fs.writeFile(__dirname + '/'+setup.pieceName+'-'+layerNumA+'.json', JSON.stringify(obj), function(err) {
                 if(err) {
@@ -604,6 +612,8 @@ function makeJSON( svg_json_full_score )
         });
         console.log("output", __dirname + '/'+setup.pieceName+'-performance.json')
     }
+    console.log('------setup.totalduration------', ui_tween());
+
 }
 
 
@@ -618,9 +628,11 @@ try {
 
     Max.addHandler("setup", dict => {
 
-        for( let k in dict )
-        {
-            setup[k] = dict[k];
+        if( typeof dict == "object" ){
+            for( let k in dict )
+            {
+                setup[k] = dict[k];
+            }
         }
 
         Max.outlet({
@@ -657,7 +669,6 @@ try {
     });
 
     Max.post( "script save directory: "+ __dirname )
-
 
 } catch (e){}
 

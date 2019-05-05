@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 88.0, 79.0, 912.0, 874.0 ],
+		"rect" : [ 216.0, 94.0, 981.0, 864.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -56,7 +56,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 40.0, 211.0, 33.0, 22.0 ],
+					"patching_rect" : [ 51.0, 211.0, 33.0, 22.0 ],
 					"text" : "read"
 				}
 
@@ -108,16 +108,16 @@
 					"fontface" : 0,
 					"fontsize" : 12.0,
 					"id" : "obj-2",
-					"linecount" : 3,
+					"linecount" : 4,
 					"maxclass" : "o.compose",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 344.0, 27.0, 294.0, 51.0 ],
-					"presentation_linecount" : 3,
-					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 47, 112, 105, 101, 99, 101, 78, 97, 109, 101, 0, 0, 44, 115, 0, 0, 46, 46, 47, 106, 97, 110, 47, 98, 108, 117, 101, 115, 0, 0, 0, 0, 0, 0, 0, 20, 47, 115, 101, 99, 80, 101, 114, 80, 97, 103, 101, 0, 44, 105, 0, 0, 0, 0, 2, -48, 0, 0, 0, 16, 47, 115, 121, 115, 95, 119, 0, 0, 44, 105, 0, 0, 0, 0, 35, 40 ],
-					"saved_bundle_length" : 96,
-					"text" : "/pieceName : \"../jan/blues\",\n/secPerPage : 720,\n/sys_w : 9000"
+					"patching_rect" : [ 344.0, 18.0, 222.0, 65.0 ],
+					"presentation_linecount" : 4,
+					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 47, 112, 105, 101, 99, 101, 78, 97, 109, 101, 0, 0, 44, 115, 0, 0, 46, 46, 47, 106, 97, 110, 47, 98, 108, 117, 101, 115, 0, 0, 0, 0, 0, 0, 0, 24, 47, 115, 101, 99, 80, 101, 114, 80, 97, 103, 101, 0, 44, 100, 0, 0, 64, 101, -91, -62, -113, 92, 40, -10, 0, 0, 0, 16, 47, 115, 121, 115, 95, 119, 0, 0, 44, 105, 0, 0, 0, 0, 67, -90, 0, 0, 0, 16, 47, 115, 99, 97, 108, 101, 0, 0, 44, 105, 0, 0, 0, 0, 0, 1 ],
+					"saved_bundle_length" : 120,
+					"text" : "/pieceName : \"../jan/blues\",\n/secPerPage : 173.18,\n/sys_w : 17318,\n/scale : 1"
 				}
 
 			}
@@ -146,10 +146,10 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 5.0, 525.0, 301.0, 269.0 ],
-					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 47, 112, 105, 101, 99, 101, 78, 97, 109, 101, 0, 0, 44, 115, 0, 0, 46, 46, 47, 106, 97, 110, 47, 98, 108, 117, 101, 115, 0, 0, 0, 0, 0, 0, 0, 16, 47, 108, 101, 97, 100, 105, 110, 0, 44, 105, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 109, 105, 110, 105, 72, 0, 0, 44, 105, 0, 0, 0, 0, 0, 50, 0, 0, 0, 16, 47, 110, 112, 97, 103, 101, 115, 0, 44, 105, 0, 0, 0, 0, 0, 1, 0, 0, 0, 20, 47, 112, 108, 97, 121, 104, 101, 97, 100, 88, 0, 0, 44, 105, 0, 0, 0, 0, 0, -6, 0, 0, 0, 20, 47, 109, 105, 110, 105, 115, 116, 97, 114, 116, 88, 0, 44, 105, 0, 0, 0, 0, 1, 64, 0, 0, 0, 20, 47, 112, 108, 97, 121, 104, 101, 97, 100, 72, 0, 0, 44, 105, 0, 0, 0, 0, 2, -48, 0, 0, 0, 16, 47, 109, 97, 107, 101, 0, 0, 0, 44, 115, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 112, 97, 114, 116, 95, 104, 101, 105, 103, 104, 116, 0, 0, 0, 0, 44, 105, 0, 0, 0, 0, 2, -52, 0, 0, 0, 16, 47, 110, 97, 109, 101, 88, 0, 0, 44, 105, 0, 0, 0, 0, 0, 10, 0, 0, 0, 40, 47, 115, 99, 114, 111, 108, 108, 98, 97, 114, 67, 111, 108, 111, 114, 0, 44, 115, 0, 0, 114, 103, 98, 97, 40, 48, 44, 48, 44, 50, 53, 53, 44, 48, 46, 50, 53, 41, 0, 0, 0, 0, 0, 20, 47, 115, 101, 99, 80, 101, 114, 80, 97, 103, 101, 0, 44, 105, 0, 0, 0, 0, 2, -48, 0, 0, 0, 16, 47, 115, 99, 111, 114, 101, 89, 0, 44, 105, 0, 0, 0, 0, 0, 100, 0, 0, 0, 20, 47, 109, 105, 110, 105, 115, 116, 97, 114, 116, 89, 0, 44, 105, 0, 0, 0, 0, 0, 4, 0, 0, 0, 16, 47, 115, 121, 115, 95, 119, 0, 0, 44, 105, 0, 0, 0, 0, 35, 40, 0, 0, 0, 28, 47, 97, 99, 99, 111, 114, 100, 105, 111, 110, 95, 104, 101, 105, 103, 104, 116, 0, 0, 0, 44, 105, 0, 0, 0, 0, 3, 32, 0, 0, 0, 20, 47, 115, 99, 97, 108, 101, 0, 0, 44, 100, 0, 0, 63, -8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 110, 97, 109, 101, 89, 0, 0, 44, 105, 0, 0, 0, 0, 0, 90, 0, 0, 0, 16, 47, 109, 105, 110, 105, 87, 0, 0, 44, 105, 0, 0, 0, 0, 2, -68 ],
+					"patching_rect" : [ 40.0, 528.0, 301.0, 269.0 ],
+					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 47, 112, 105, 101, 99, 101, 78, 97, 109, 101, 0, 0, 44, 115, 0, 0, 46, 46, 47, 106, 97, 110, 47, 98, 108, 117, 101, 115, 0, 0, 0, 0, 0, 0, 0, 16, 47, 108, 101, 97, 100, 105, 110, 0, 44, 105, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 109, 105, 110, 105, 72, 0, 0, 44, 105, 0, 0, 0, 0, 0, 50, 0, 0, 0, 16, 47, 110, 112, 97, 103, 101, 115, 0, 44, 105, 0, 0, 0, 0, 0, 1, 0, 0, 0, 20, 47, 112, 108, 97, 121, 104, 101, 97, 100, 88, 0, 0, 44, 105, 0, 0, 0, 0, 0, -6, 0, 0, 0, 20, 47, 109, 105, 110, 105, 115, 116, 97, 114, 116, 88, 0, 44, 105, 0, 0, 0, 0, 1, 64, 0, 0, 0, 20, 47, 112, 108, 97, 121, 104, 101, 97, 100, 72, 0, 0, 44, 105, 0, 0, 0, 0, 2, -48, 0, 0, 0, 16, 47, 109, 97, 107, 101, 0, 0, 0, 44, 115, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 112, 97, 114, 116, 95, 104, 101, 105, 103, 104, 116, 0, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 100, 0, 0, 0, 16, 47, 110, 97, 109, 101, 88, 0, 0, 44, 105, 0, 0, 0, 0, 0, 10, 0, 0, 0, 40, 47, 115, 99, 114, 111, 108, 108, 98, 97, 114, 67, 111, 108, 111, 114, 0, 44, 115, 0, 0, 114, 103, 98, 97, 40, 48, 44, 48, 44, 50, 53, 53, 44, 48, 46, 50, 53, 41, 0, 0, 0, 0, 0, 24, 47, 115, 101, 99, 80, 101, 114, 80, 97, 103, 101, 0, 44, 100, 0, 0, 64, 101, -91, -62, -128, 0, 0, 0, 0, 0, 0, 16, 47, 115, 99, 111, 114, 101, 89, 0, 44, 105, 0, 0, 0, 0, 0, 100, 0, 0, 0, 20, 47, 109, 105, 110, 105, 115, 116, 97, 114, 116, 89, 0, 44, 105, 0, 0, 0, 0, 0, 4, 0, 0, 0, 16, 47, 115, 121, 115, 95, 119, 0, 0, 44, 105, 0, 0, 0, 0, 67, -90, 0, 0, 0, 28, 47, 97, 99, 99, 111, 114, 100, 105, 111, 110, 95, 104, 101, 105, 103, 104, 116, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 100, 0, 0, 0, 16, 47, 115, 99, 97, 108, 101, 0, 0, 44, 105, 0, 0, 0, 0, 0, 1, 0, 0, 0, 16, 47, 110, 97, 109, 101, 89, 0, 0, 44, 105, 0, 0, 0, 0, 0, 90, 0, 0, 0, 16, 47, 109, 105, 110, 105, 87, 0, 0, 44, 105, 0, 0, 0, 0, 2, -68 ],
 					"saved_bundle_length" : 480,
-					"text" : "/pieceName : \"../jan/blues\",\n/leadin : 0,\n/miniH : 50,\n/npages : 1,\n/playheadX : 250,\n/ministartX : 320,\n/playheadH : 720,\n/make : \"\",\n/part_height : 716,\n/nameX : 10,\n/scrollbarColor : \"rgba(0,0,255,0.25)\",\n/secPerPage : 720,\n/scoreY : 100,\n/ministartY : 4,\n/sys_w : 9000,\n/accordion_height : 800,\n/scale : 1.5,\n/nameY : 90,\n/miniW : 700"
+					"text" : "/pieceName : \"../jan/blues\",\n/leadin : 0,\n/miniH : 50,\n/npages : 1,\n/playheadX : 250,\n/ministartX : 320,\n/playheadH : 720,\n/make : \"\",\n/part_height : 100,\n/nameX : 10,\n/scrollbarColor : \"rgba(0,0,255,0.25)\",\n/secPerPage : 173.18,\n/scoreY : 100,\n/ministartY : 4,\n/sys_w : 17318,\n/accordion_height : 100,\n/scale : 1,\n/nameY : 90,\n/miniW : 700"
 				}
 
 			}
@@ -531,13 +531,13 @@
 									"fontface" : 0,
 									"fontsize" : 12.0,
 									"id" : "obj-27",
-									"linecount" : 20,
+									"linecount" : 19,
 									"maxclass" : "o.display",
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 50.0, 313.1666259765625, 602.0, 292.0 ],
-									"text" : "/terminated/error : {\n\t/stack : \"TypeError: part.isArray is not a function\n    at makeJSON (/Users/r/Documents/dev-lib/tunnel_webviewer/scores/maxscore/maxscore-ui.js:433:19)\n    at EventEmitter.Max.addHandler (/Users/r/Documents/dev-lib/tunnel_webviewer/scores/maxscore/maxscore-ui.js:611:9)\n    at EventEmitter.emit (events.js:182:13)\n    at APICommunicator.maxAPI.on (/Applications/Max.app/Contents/Resources/C74/packages/Node For Max/source/lib/exposed/max-api.js:283:37)\n    at APICommunicator.emit (events.js:182:13)\n    at APICommunicator._onInlet (/Applications/Max.app/Contents/Resources/C74/packages/Node For Max/source/lib/api/index.js:122:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)\",\n\t/message : \"part.isArray is not a function\",\n\t/code : 2,\n\t/time : 2019-05-05T16:07:26.064485Z\n}"
+									"patching_rect" : [ 50.0, 313.1666259765625, 602.0, 279.0 ],
+									"text" : "/terminated/error : {\n\t/stack : \"ReferenceError: Max is not defined\n    at makeJSON (/Users/r/Documents/dev-lib/tunnel_webviewer/scores/maxscore/maxscore-ui.js:611:5)\n    at EventEmitter.Max.addHandler (/Users/r/Documents/dev-lib/tunnel_webviewer/scores/maxscore/maxscore-ui.js:622:9)\n    at EventEmitter.emit (events.js:182:13)\n    at APICommunicator.maxAPI.on (/Applications/Max.app/Contents/Resources/C74/packages/Node For Max/source/lib/exposed/max-api.js:283:37)\n    at APICommunicator.emit (events.js:182:13)\n    at APICommunicator._onInlet (/Applications/Max.app/Contents/Resources/C74/packages/Node For Max/source/lib/api/index.js:122:8)\n    at process._tickCallback (internal/process/next_tick.js:68:7)\",\n\t/message : \"Max is not defined\",\n\t/code : 2,\n\t/time : 2019-05-05T18:04:09.630394Z\n}"
 								}
 
 							}
@@ -552,7 +552,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 680.0, 179.83331298828125, 572.0, 143.0 ],
-									"text" : "/restarted/success : {\n\t/filePath : \"/Users/r/Documents/dev-lib/tunnel_webviewer/scores/maxscore/maxscore-ui.js\",\n\t/id : \"u20043450007\",\n\t/restartCount : 5,\n\t/pid : 12865,\n\t/reason : \"file_change\",\n\t/time : 2019-05-05T16:08:06.966084Z\n}"
+									"text" : "/restarted/success : {\n\t/filePath : \"/Users/r/Documents/dev-lib/tunnel_webviewer/scores/maxscore/maxscore-ui.js\",\n\t/id : \"u20042210051\",\n\t/restartCount : 15,\n\t/pid : 13621,\n\t/reason : \"file_change\",\n\t/time : 2019-05-05T18:08:06.192702Z\n}"
 								}
 
 							}
