@@ -323,23 +323,19 @@ function getName(i_)
 	}
 }
 
-
+// removed overlay since it's created in maxscore
 function ui_svg(){
     return {
         "key": "svg",
         "val": [
             {
                 "new": "g",
-                "id": "back"
-            },
-            {
-                "new": "g",
                 "id": "scoreGroup"
             },
-            {
-                "new": "g",
-                "id": "overlay"
-            },
+            // {
+            //     "new": "g",
+            //     "id": "overlay"
+            // },
             {
                 "parent": "overlay",
                 "new": "line",
@@ -462,14 +458,48 @@ function makeJSON( svg_json_full_score )
             svg_val = part.val;
         }
 
-        //console.log('test');
+        
+        if( !Array.isArray(svg_val) )
+            svg_val = [ svg_val ];
+
+        // console.log(Array.isArray(svg_val), svg_val);
+
+        let main_svg = [];
+        let ui_title;
+        let ui_instructions;
+        let ui_clef = [];
+
+        svg_val.forEach( n => {
+            if( n.id.startsWith('clef') )
+            {
+                ui_clef.push({
+                    new: 'g',
+                    id: 'overlay_clef',
+                    transform: `scale(${setup.scale})`,
+                    child: n
+                });
+            }
+            else if( n.id.startsWith('title') )
+            {
+                ui_title = n;
+            }
+            else if( n.id.startsWith('instructions') )
+            {
+                ui_instructions = n;
+            }
+            else
+            {
+                main_svg.push(n);
+            }
+        });
+
 
         let def_score = {
             new: "g",
             parent: "defs",
             id: "defscore",
             transform : `scale(${setup.scale})`,
-            child: svg_val
+            child: main_svg
         };
     
         let svg_obj = {
@@ -483,7 +513,10 @@ function makeJSON( svg_json_full_score )
         ui_svg().val.forEach( _el => {
             svg_obj.val.push( _el );
         });
-    
+
+
+        svg_obj.val.push( ...ui_clef, ui_title, ui_instructions );
+
         if( setup.make != "perf")
         {
             svg_obj.val.push({
