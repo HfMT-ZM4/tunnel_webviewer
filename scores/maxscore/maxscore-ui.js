@@ -72,8 +72,8 @@ let setup = {
     
     scale: 1.5,
     
-    part_height: 716, // height of standard part notation
-    accordion_height: 800, // height of accordion notation
+    part_height: 100, // height of standard part notation
+    accordion_height: 100, // height of accordion notation
     
     playheadX: 250,
     scoreY: 100,
@@ -543,7 +543,7 @@ function makeJSON( svg_json_full_score )
             "href": "#defscore",
             "y": setup.miniY,
             "x": setup.miniX,
-            "transform": "scale("+setup.miniscaleX+", "+setup.miniscaleY_+")",
+            "transform": "scale("+setup.miniscaleX+", "+miniscaleY_+")",
             "class": "noclick"
         });
     
