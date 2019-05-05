@@ -424,22 +424,44 @@ function makeJSON( svg_json_full_score )
         let layerNumA = i+1;
 
         const _prefix = `${layerNumA}`;   
-        if( !svg_json_full_score.hasOwnProperty(_prefix ) )
+        if( !svg_json_full_score.hasOwnProperty( _prefix ) )
             continue;
 
         const part = svg_json_full_score[_prefix];
-        
-        if( !part.hasOwnProperty("key") || part.key !== "svg" || !part.hasOwnProperty("val") )
+        let svg_val;
+
+        if ( Array.isArray(part) )
         {
-            console.log('not found');
-            return;
+            for( let n of part )
+            {
+                if( n.hasOwnProperty("key") && n.key === "svg" && n.hasOwnProperty("val") )
+                {
+                    svg_val = n.val;
+                }            
+            }
+
+            if( typeof svg_val === "undefined" )
+            {
+                console.log('not found');
+                return;
+            }
+        }
+        else 
+        {
+            if( !part.hasOwnProperty("key") || part.key !== "svg" || !part.hasOwnProperty("val") )
+            {
+                console.log('not found');
+                return;
+            }
+
+            svg_val = part.val;
         }
 
         let def_score = {
             new: "g",
             parent: "defs",
             id: "defscore",
-            child: part.val
+            child: svg_val
         };
     
         let svg_obj = {
@@ -552,6 +574,8 @@ function makeJSON( svg_json_full_score )
                     return console.log(err);
                 }
             });
+            console.log("output", __dirname + '/'+setup.pieceName+'-'+layerNumA+'.json')
+
         }
         else
         {
@@ -563,6 +587,8 @@ function makeJSON( svg_json_full_score )
                     return console.log(err);
                 }
             });    
+            console.log("output", __dirname + '/'+setup.pieceName+'-'+layerNumA+'.json')
+
         }
     
              //  console.log(layerNameA,  Number(layerNameA[1]), layerNum == layerNum, info.id);
@@ -576,6 +602,7 @@ function makeJSON( svg_json_full_score )
                 return console.log(err);
             }
         });
+        console.log("output", __dirname + '/'+setup.pieceName+'-performance.json')
     }
 }
 
