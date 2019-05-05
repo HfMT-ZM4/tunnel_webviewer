@@ -9,9 +9,6 @@ let setup = {
 
     sys_w: 9129, // pixel width of system
 
-    titleX: 300,
-    titleY: 100,
-
     npages: 1,
     
     secPerPage: 720,
@@ -27,9 +24,12 @@ let setup = {
     scoreY: 100,
     leadin: 0,
  
-    nameX: 10,
+    nameX: 10, //instrument name
     nameY: 90,
  
+    titleX: 320,
+    titleY: 90,
+
     ministartX: 320,
     ministartY: 4,
     miniH: 50,
