@@ -401,7 +401,7 @@ function makeJSON( svg_json_full_score )
             {
                 ui_clef.push({
                     new: 'g',
-                    id: 'overlay_clef',
+                    id: 'overlay_'+n.id,
                     transform: `matrix(${setup.scale}, 0, 0, ${setup.scale}, 0, ${setup.scoreY})`,
                     child: n
                 });
