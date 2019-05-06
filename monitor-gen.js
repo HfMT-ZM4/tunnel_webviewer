@@ -110,6 +110,15 @@ let ui_css = {
 
 const maxY = 72 * y_step;
 
+monitor.push({
+    new: 'line',
+    id: 'separator',
+    x1: 800,
+    x2: 800,
+    y1: 0,
+    y2: 1024
+});
+
 for( let i = 1; i <= 144; i++)
 {
     let column = Math.floor((i-1) / 72);
