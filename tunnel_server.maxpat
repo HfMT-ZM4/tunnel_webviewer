@@ -1255,9 +1255,10 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 865.0, 439.0, 169.0, 20.0 ],
+					"patching_rect" : [ 857.0, 442.5, 169.0, 20.0 ],
 					"presentation_linecount" : 2,
-					"text" : "click to load performance view"
+					"text" : "click to load performance view",
+					"textcolor" : [ 0.035294117647059, 0.462745098039216, 0.996078431372549, 1.0 ]
 				}
 
 			}
@@ -1267,8 +1268,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 870.0, 361.0, 167.0, 20.0 ],
-					"text" : "click to load online webviewer"
+					"patching_rect" : [ 857.0, 367.0, 167.0, 20.0 ],
+					"text" : "click to load online webviewer",
+					"textcolor" : [ 0.596078431372549, 0.0, 0.996078431372549, 1.0 ]
 				}
 
 			}
