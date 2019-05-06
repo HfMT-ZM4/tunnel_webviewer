@@ -461,9 +461,55 @@ function makeJSON( svg_json_full_score )
         if( typeof ui_instructions !== "undefined" )
             svg_obj.val.push( ui_instructions );
 
-        if( setup.make != "perf")
+       
+        let instr_name = getName(i);
+        let miniscaleY_ = instr_name === "accordion" ? setup.miniscaleYaccord : setup.miniscaleY;
+    
+        svg_obj.val.push({
+            "id": "mini",
+            "parent": "scoreGroup",
+            "new": "use",
+            "href": "#defscore",
+            "y": setup.miniY,
+            "x": setup.miniX,
+            "transform": "scale("+setup.miniscaleX+", "+miniscaleY_+")",
+            "class": "noclick"
+        });
+    
+        
+    
+        let svgA = svg_obj;
+    
+        // MAKE A
+        svgA.val.push({
+            "new": "text",
+            "id": "playerID",
+            "x": setup.nameX,
+            "y": setup.nameY,
+            "text": layerNumA + " " + instr_name
+        });
+        
+    
+//        if( setup.make == 'perf')
         {
-            svg_obj.val.push({
+            
+            perfObj["/"+layerNumA] = [ ui_clear, ui_css, perf_ui_html, JSON.parse(JSON.stringify(svgA)), ui_tween() ];
+/*            
+            let obj = {};
+            obj["/"+layerNumA] = perfObj["/"+layerNumA];
+            
+    
+            fs.writeFile(__dirname + '/'+setup.pieceName+'-'+layerNumA+'.json', JSON.stringify(obj), function(err) {
+                if(err) {
+                    return console.log(err);
+                }
+            });
+            console.log("output", __dirname + '/'+setup.pieceName+'-'+layerNumA+'.json')
+*/
+        }
+//        else
+        {
+            svgA.val.push({
                 "parent": "overlay",
                 "id": "scrollbar",
                 "new": "rect",
@@ -516,54 +562,7 @@ function makeJSON( svg_json_full_score )
                     uiTxt.value = r;
                     `
             });
-        }
-    
-        let instr_name = getName(i);
-        let miniscaleY_ = instr_name === "accordion" ? setup.miniscaleYaccord : setup.miniscaleY;
-    
-        svg_obj.val.push({
-            "id": "mini",
-            "parent": "scoreGroup",
-            "new": "use",
-            "href": "#defscore",
-            "y": setup.miniY,
-            "x": setup.miniX,
-            "transform": "scale("+setup.miniscaleX+", "+miniscaleY_+")",
-            "class": "noclick"
-        });
-    
-        
-    
-        let svgA = svg_obj;
-    
-        // MAKE A
-        svgA.val.push({
-            "new": "text",
-            "id": "playerID",
-            "x": setup.nameX,
-            "y": setup.nameY,
-            "text": layerNumA + " " + instr_name
-        });
-        
-    
-        if( setup.make == 'perf')
-        {
-            perfObj["/"+layerNumA] = [ ui_clear, ui_css, perf_ui_html, svgA, ui_tween() ];
-            
-            let obj = {};
-            obj["/"+layerNumA] = perfObj["/"+layerNumA];
-            
-    
-            fs.writeFile(__dirname + '/'+setup.pieceName+'-'+layerNumA+'.json', JSON.stringify(obj), function(err) {
-                if(err) {
-                    return console.log(err);
-                }
-            });
-            console.log("output", __dirname + '/'+setup.pieceName+'-'+layerNumA+'.json')
 
-        }
-        else
-        {
             let obj = {};
             obj["/"+layerNumA] = [ ui_css, ui_html, svgA, ui_tween() ];
     
@@ -580,7 +579,7 @@ function makeJSON( svg_json_full_score )
         
     }
     
-    if( setup.make == "perf" )
+  //  if( setup.make == "perf" )
     {
         fs.writeFile(__dirname + '/'+setup.pieceName+'-performance.json', JSON.stringify(perfObj), function(err) {
             if(err) {
