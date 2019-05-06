@@ -1,5 +1,4 @@
 const fs = require('fs');
-const convert = require('xml-js');
 
 const make = ""; // "play" "perf"
 
@@ -399,8 +398,8 @@ const filenames = [
 
 function getFileForIDX(i_)
 {
-    let group = Math.floor(i_ / 24 );
-    return "scores/cat/"+filenames[ group ];
+    let group = Math.floor(i_ / 12 ) + 1;
+    return "scores/cat/Musk "+group+".png";
 }
 
 /*
