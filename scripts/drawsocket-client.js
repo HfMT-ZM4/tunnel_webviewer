@@ -68,6 +68,8 @@ var drawsocket = (function(){
   let maindef = d3.select("#defs");
   let forms = d3.select("#forms");
 
+  let log_enabled = false;
+
   function removeNode(node) {
     let parent = node.parentNode;
     if (parent) 
@@ -79,9 +81,12 @@ var drawsocket = (function(){
 
 
   function display_log(msg) {
-    let time = new Date();
-    let p = document.getElementById('log');
-    p.innerHTML ="["+time.toLocaleTimeString()+"] : "+msg ;
+    if( log_enabled )
+    {
+      let time = new Date();
+      let p = document.getElementById('log');
+      p.innerHTML ="["+time.toLocaleTimeString()+"] : "+msg ;
+    }
   }
 
 
@@ -1552,6 +1557,10 @@ var drawsocket = (function(){
      if( node.hasOwnProperty('fetch') )
      {
 
+      if( !node.fetch.startsWith("/") ){
+        node.fetch = "/"+node.fetch;
+      }
+        
       fetch(node.fetch).then( function(response) {
 
         try {
@@ -1806,7 +1815,9 @@ var drawsocket = (function(){
         case "do_sync":
           do_sync();
         break;
-
+        case "log":
+          log_enabled = ( objValue > 0 );
+        break;
         default:
             console.log("unrouted command key:", key, objValue );
         break;
@@ -1989,6 +2000,9 @@ var drawsocket = (function(){
           break;
           case 'ping':
             pingResponse();
+          break;
+          case 'statereq':
+            port.sendObj({ statereq: 1 });
           break;
           default:
             drawsocket_input(obj);
