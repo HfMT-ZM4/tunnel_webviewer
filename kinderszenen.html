@@ -11,7 +11,10 @@
 
   </head>
   <script>
-        let piece_path = "scores/template.json";
+      function makeLinks()
+      {
+
+       
 
         var instr = [
             "violin", "violin", "flute", "flute", "clarinet in Bb", "alto sax in Eb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", 
@@ -36,8 +39,7 @@
             }
         }
 
-      function makeLinks()
-      {        
+
 
         let _div = document.getElementById("piecelist");
         for( let i = 0; i < 144; i++)
@@ -45,11 +47,32 @@
             let idx = i+1;
 
             let _link = document.createElement("a");
+            let instr_i = (i % 72);
+            
 
-            let inst_name = getName(i);
 
-            _link.href = `webview.html?fetch=scores/xiao/growing-${idx}.json&prefix=/${idx}`;
-            _link.innerHTML = `${idx} ${inst_name}`;
+            switch(idx){
+              case 112:
+              _link.href = `webview.html?fetch=scores/georg/Fanfare.json&prefix=${instr_i+1}b`;
+              _link.innerHTML = `${idx} sub recorder`;
+              break;
+              case 136:
+              _link.href = `webview.html?fetch=scores/georg/Fanfare.json&prefix=${instr_i+1}b`;
+              _link.innerHTML = `${idx} alto recorder`;
+              break;
+              case 139:
+              _link.href = `webview.html?fetch=scores/georg/Fanfare.json&prefix=${instr_i+1}b`;
+              _link.innerHTML = `${idx} horn in F`;
+              break;
+              default:
+              let inst_name = getName(i);
+              _link.href = `webview.html?fetch=scores/georg/Fanfare.json&prefix=${idx}`;
+              _link.innerHTML = `${idx} ${inst_name}`;
+              break;
+            }
+
+
+            
 
             _div.appendChild(_link);
             _div.appendChild(document.createElement("br"));
@@ -59,9 +82,9 @@
   </script>
   <body onload="makeLinks()">
     <div class="basestyle">
-        <p><em>Kinderszenen</em></a> by Dong Zhou</p>   
-        <p>Please select the instrument-number you would like to view:</p>
-        
+      <p><em>Fanfare</em> by Georg Hajdu</p>
+      <p>Please select the instrument-number you would like to view:</p>
+
         <div id="piecelist"></div>
     </div>
 

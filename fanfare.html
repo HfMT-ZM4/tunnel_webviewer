@@ -45,10 +45,12 @@
             let idx = i+1;
 
             let _link = document.createElement("a");
+			
+			if (idx == 18 || idx == 21 || idx == 54 || idx == 57 || idx == 90 || idx == 93 || idx == 126 || idx == 129) {
 
             let inst_name = getName(i);
 
-            _link.href = `webview.html?fetch=scores/georg/fanfare-${idx}.json&prefix=/${idx}`;
+            _link.href = `webview.html?fetch=tunnel_webviewer/scores/georg/fanfare/fanfare-${idx}.json&prefix=/${idx}`;
             _link.innerHTML = `${idx} ${inst_name}`;
 
             _div.appendChild(_link);
@@ -56,12 +58,15 @@
         }
 
       }
-  </script>
+
+}
+
+   </script>
   <body onload="makeLinks()">
     <div class="basestyle">
-        <p><em>Fanfare for four trumpets and four bass drums</em></a> by Georg Hajdu</p>
-        <p>Please select the instrument-number you would like to view:</p>
-        
+      <p><em>Fanfare</em> by Georg Hajdu</p>
+      <p>Please select the instrument-number you would like to view:</p>
+
         <div id="piecelist"></div>
     </div>
 
