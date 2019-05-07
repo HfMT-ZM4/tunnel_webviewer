@@ -9,25 +9,25 @@ let tile_w = 800;
 let tile_files = [
     { 
         href: "scores/wendy/1-01.jpg",
-        dur: 1
+        dur: 30
     },{ 
         href: "scores/wendy/2-01.jpg",
-        dur: 1
+        dur: 30
     }, { 
         href: "scores/wendy/3-01.jpg",
-        dur: 1
+        dur: 30
     }, { 
         href: "scores/wendy/4-01.jpg",
-        dur: 1
+        dur: 30
     }, { 
         href: "scores/wendy/5-01.jpg",
-        dur: 1
+        dur: 30
     }, { 
         href: "scores/wendy/6-01.jpg",
-        dur: 1
+        dur: 30
     }, { 
         href: "scores/wendy/7-01.jpg",
-        dur: 1
+        dur: 30
     }
 ];
 
@@ -429,9 +429,6 @@ function makeJSON()
         });
 
 
-        
-   
-
         let def_score = {
             new: "g",
             parent: "defs",
@@ -452,8 +449,12 @@ function makeJSON()
             "vars": {
                 "x": "+=" + setup.miniW,
                 "ease": "linear",
-                "paused": "true"
+                "paused": "true",
+                "onUpdate": {
+                    "function": " \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n"
+                }
             }
+           
         });
 
         // add ui svg elements
