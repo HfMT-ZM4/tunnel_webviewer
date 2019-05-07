@@ -407,8 +407,41 @@ for( let i = 0; i < 144; i++)
         svg_obj.val.push( _el );
     });
 
-    if( make != "perf")
-    {
+  
+  
+    let miniscaleY_ = miniscaleY;
+
+    svg_obj.val.push({
+        "id": "mini",
+        "parent": "scoreGroup",
+        "new": "use",
+        "href": "#defscore",
+        "y": miniY,
+        "x": miniX,
+        "transform": "scale("+miniscaleX+", "+miniscaleY_+")",
+        "class": "noclick"
+    });
+
+    
+    let layerNumA = i+1;
+
+    let svgA = svg_obj;
+
+    // MAKE A
+    svgA.val.push({
+        "new": "text",
+        "id": "playerID",
+        "x": nameX,
+        "y": nameY,
+        "text": layerNumA + " " + getName(i)
+    });
+    
+
+
+        perfObj["/"+layerNumA] = [ ui_clear, ui_css, perf_ui_html, JSON.parse(JSON.stringify(svgA)), ui_tween ];
+        
+  
+
         svg_obj.val.push({
             "parent": "overlay",
             "id": "scrollbar",
@@ -462,51 +495,7 @@ for( let i = 0; i < 144; i++)
                 uiTxt.value = r;
                 `
         });
-    }
 
-    let miniscaleY_ = miniscaleY;
-
-    svg_obj.val.push({
-        "id": "mini",
-        "parent": "scoreGroup",
-        "new": "use",
-        "href": "#defscore",
-        "y": miniY,
-        "x": miniX,
-        "transform": "scale("+miniscaleX+", "+miniscaleY_+")",
-        "class": "noclick"
-    });
-
-    
-    let layerNumA = i+1;
-
-    let svgA = svg_obj;
-
-    // MAKE A
-    svgA.val.push({
-        "new": "text",
-        "id": "playerID",
-        "x": nameX,
-        "y": nameY,
-        "text": layerNumA + " " + getName(i)
-    });
-    
-
-    if( make == 'perf')
-    {
-        perfObj["/"+layerNumA] = [ ui_clear, ui_css, perf_ui_html, svgA, ui_tween ];
-        
-        let obj = {};
-        obj["/"+layerNumA] = perfObj["/"+layerNumA];
-        
-        fs.writeFile(__dirname + '/dekompression-'+layerNumA+'.json', JSON.stringify(obj), function(err) {
-            if(err) {
-                return console.log(err);
-            }
-        });
-    }
-    else
-    {
         let obj = {};
         obj["/"+layerNumA] = [ ui_css, ui_html, svgA, ui_tween ];
 
@@ -515,17 +504,15 @@ for( let i = 0; i < 144; i++)
                 return console.log(err);
             }
         });    
-    }
+ 
 
          //  console.log(layerNameA,  Number(layerNameA[1]), layerNum == layerNum, info.id);
     
 }
 
-if( make == "perf" )
-{
+
     fs.writeFile(__dirname + '/dekompression-performance.json', JSON.stringify(perfObj), function(err) {
         if(err) {
             return console.log(err);
         }
     });
-}

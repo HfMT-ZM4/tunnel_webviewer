@@ -205,10 +205,11 @@ let perf_ui_html = {
 		parent : "UI",
 		id : "msg",
 		new : "div",
-		text : "hi! please click the button when you're ready to play<br> (we're not quite ready yet)",
+		text : "please click the button<br>when you're ready to play",
 		style : {
 			position : "absolute",
-			left : "105px",
+            left : "105px",
+            "margin-top" : "-10px",
 			"font-size" : "12px"
 		}
 	}, {
@@ -438,7 +439,42 @@ for( let i = 0; i < 144; i++)
         svg_obj.val.push( _el );
     });
 
-    if( make != "perf")
+
+     
+    let miniscaleY_ = miniscaleY;
+
+    svg_obj.val.push({
+        "id": "mini",
+        "parent": "scoreGroup",
+        "new": "use",
+        "href": "#defscore",
+        "y": miniY,
+        "x": miniX,
+        "transform": "scale("+miniscaleX+", "+miniscaleY_+")",
+        "class": "noclick"
+    });
+
+    
+    let layerNumA = i+1;
+
+    let svgA = svg_obj;
+
+    // MAKE A
+    svgA.val.push({
+        "new": "text",
+        "id": "playerID",
+        "x": nameX,
+        "y": nameY,
+        "text": layerNumA + " " + getName(i) +", group "+ (Math.floor(i / 12 ) + 1)
+    });
+    
+
+//    if( make == 'perf')
+    {
+        perfObj["/"+layerNumA] = [ ui_clear, ui_css, perf_ui_html, JSON.parse(JSON.stringify(svgA)), ui_tween ];
+  
+    }
+  //  else
     {
         svg_obj.val.push({
             "parent": "overlay",
@@ -493,51 +529,7 @@ for( let i = 0; i < 144; i++)
                 uiTxt.value = r;
                 `
         });
-    }
-
-    let miniscaleY_ = miniscaleY;
-
-    svg_obj.val.push({
-        "id": "mini",
-        "parent": "scoreGroup",
-        "new": "use",
-        "href": "#defscore",
-        "y": miniY,
-        "x": miniX,
-        "transform": "scale("+miniscaleX+", "+miniscaleY_+")",
-        "class": "noclick"
-    });
-
-    
-    let layerNumA = i+1;
-
-    let svgA = svg_obj;
-
-    // MAKE A
-    svgA.val.push({
-        "new": "text",
-        "id": "playerID",
-        "x": nameX,
-        "y": nameY,
-        "text": layerNumA + " " + getName(i) +", group "+ (Math.floor(i / 12 ) + 1)
-    });
-    
-
-    if( make == 'perf')
-    {
-        perfObj["/"+layerNumA] = [ ui_clear, ui_css, perf_ui_html, svgA, ui_tween ];
         
-        let obj = {};
-        obj["/"+layerNumA] = perfObj["/"+layerNumA];
-        
-        fs.writeFile(__dirname + '/musk-'+layerNumA+'.json', JSON.stringify(obj), function(err) {
-            if(err) {
-                return console.log(err);
-            }
-        });
-    }
-    else
-    {
         let obj = {};
         obj["/"+layerNumA] = [ ui_css, ui_html, svgA, ui_tween ];
 
@@ -552,7 +544,7 @@ for( let i = 0; i < 144; i++)
     
 }
 
-if( make == "perf" )
+//if( make == "perf" )
 {
     fs.writeFile(__dirname + '/musk-performance.json', JSON.stringify(perfObj), function(err) {
         if(err) {

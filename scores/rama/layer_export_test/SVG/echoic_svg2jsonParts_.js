@@ -207,7 +207,7 @@ let perf_ui_html = {
 		parent : "UI",
 		id : "msg",
 		new : "div",
-		text : "hi! please click the button when you're ready to play<br> (we're not quite ready yet)",
+		text : "please click the button when you're ready to play",
 		style : {
 			position : "absolute",
 			left : "105px",
@@ -798,7 +798,7 @@ layerInfo.forEach( info => {
         if( make == 'perf')
         {
             perfObj["/"+layerNumA] = [ ui_clear, ui_css, perf_ui_html, svgA, ui_tween ];
-            
+           /* 
             let obj = {};
             obj["/"+layerNumA] = perfObj["/"+layerNumA];
             
@@ -806,7 +806,7 @@ layerInfo.forEach( info => {
                 if(err) {
                     return console.log(err);
                 }
-            });
+            });*/
         }
         else
         {
@@ -834,7 +834,7 @@ layerInfo.forEach( info => {
         if( make == 'perf')
         {
             perfObj["/"+layerNumB] = [ ui_clear, ui_css, perf_ui_html, svgB, ui_tween ];
-            
+            /*
             let objB = {};
             objB["/"+layerNumB] = perfObj["/"+layerNumB];
 
@@ -843,6 +843,7 @@ layerInfo.forEach( info => {
                     return console.log(err);
                 }
             });
+            */
         }
         else
         {
