@@ -486,7 +486,7 @@ function makeJSON()
             "id": "playerID",
             "x": setup.nameX,
             "y": setup.nameY,
-            "text": layerNumA + " " + instr_name
+            "text": layerNumA + " " + instr_name+", group "+ (Math.floor(i / 12 ) + 1)
         });
         
     
