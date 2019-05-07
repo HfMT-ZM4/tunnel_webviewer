@@ -205,7 +205,7 @@ let perf_ui_html = {
 		parent : "UI",
 		id : "msg",
 		new : "div",
-		text : "hi! please click the button when you're ready to play<br> (we're not quite ready yet)",
+		text : "please click the button when you're ready to play",
 		style : {
 			position : "absolute",
 			left : "105px",
