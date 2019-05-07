@@ -1,14 +1,51 @@
 let tile_offset = 2000;
+let tile_y = 100;
+let tile_w = 800;
+
+let tile_files = [
+    { 
+        href: "scores/wendy/root-01.jpg",
+        dur: 10
+    },{ 
+        href: "scores/wendy/sacral-01.jpg",
+        dur: 10
+    }, { 
+        href: "scores/wendy/heart-01.jpg",
+        dur: 10
+    }, { 
+        href: "scores/wendy/throat-01.jpg",
+        dur: 10
+    }, { 
+        href: "scores/wendy/solar-01.jpg",
+        dur: 10
+    }, { 
+        href: "scores/wendy/brow-01.jpg",
+        dur: 10
+    }, { 
+        href: "scores/wendy/crown-01.jpg",
+        dur: 10
+    }
+];
 
 
 function makeJSON()
 {
+    let svg = {
+        key: 'svg',
+        val: []
+    }
+
+    tile_files.forEach(img_obj => {
+        svg.val.push()
+    })
+
     return {
         "*" : [{
             "key": "svg",
             "val": [{
+                "parent": "defs",
                 "new":  "g",
-                "id": "tile_score"            
+                "id": "defscore"            
             },
             {
                 "parent": "tile_score",
@@ -76,7 +113,7 @@ function makeJSON()
         }, {
             "key" : "tween",
             "val" : {
-                "id" : "tile_timeline",
+                "id" : "score-anim",
                 "init" : {
                     "paused" : "true"
                 },
