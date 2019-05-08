@@ -27,10 +27,10 @@ let setup = {
     nameX: 10, //instrument name
     nameY: 90,
  
-    titleX: 320,
+    titleX: 287,
     titleY: 90,
 
-    ministartX: 320,
+    ministartX: 287,
     ministartY: 4,
     miniH: 50,
     scrollbarColor: "rgba(0,0,255,0.25)",
