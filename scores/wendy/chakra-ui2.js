@@ -4,7 +4,7 @@ const fs = require('fs');
 
 let tile_offset = 2000;
 let tile_y = 0;
-let tile_w = 800;
+let tile_w = 600;
 
 let tile_files = [
     { 
@@ -58,9 +58,9 @@ let setup = {
     part_height: 800, // height of standard part notation
     accordion_height: 800, // height of accordion notation
     
-    playheadX: 250,
+    playheadX: 0,
     scoreY: 100,
-    leadin: 0,
+    leadin: 100,
  
     nameX: 10, //instrument name
     nameY: 90,
