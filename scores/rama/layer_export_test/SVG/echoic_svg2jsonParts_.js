@@ -1,7 +1,7 @@
 const fs = require('fs');
 const convert = require('xml-js');
 
-const make = ""; // "play" "perf"
+const make = "perf"; // "play" "perf"
 
 const sys_w = 731.441; // pixel with of system
 
@@ -596,7 +596,7 @@ let instrArr = {};
 
 let perfObj = {};
 
-layerInfo.forEach( info => {
+layerInfo.reverse().forEach( info => {
 
     let def_score = {
         new: "g",
@@ -733,6 +733,8 @@ layerInfo.forEach( info => {
     let layerNumA = Number(layerNameA[1]);
     let layerNumB = 0;
 
+    console.log(layerNameA);
+    
     if(layerNumA != layerNumA)
     {
         layerNumB = Number(layerNameA[1].slice(0,2)) + 72;
@@ -746,6 +748,7 @@ layerInfo.forEach( info => {
             "y": nameY,
             "text": layerNumB + " " + getName(layerNumB-1)
         });
+        console.log(layerNumB, getName(layerNumB-1));
 
 /*        let objB = {
             "/1" : [ ui_css, ui_html, svgB, ui_tween ]
@@ -754,22 +757,25 @@ layerInfo.forEach( info => {
         if( make == 'perf')
         {
             perfObj["/"+layerNumB] =[ ui_clear, ui_css, perf_ui_html, svgB, ui_tween ];
-
+/*
             let objB = {};
             objB["/"+layerNumB] = perfObj["/"+layerNumB];
 
-            fs.writeFile(__dirname + '/echoic-perf-'+layerNumB+'.json', JSON.stringify(objB), function(err) {
+            fs.writeFileSync(__dirname + '/echoic-perf-'+layerNumB+'.json', JSON.stringify(objB), function(err) {
                 if(err) {
                     return console.log(err);
                 }
             });
+            */
         }
         else
         {
+
             let objB = {};
             objB["/"+layerNumB] = [ ui_css, ui_html, svgB, ui_tween ];
-    
-            fs.writeFile(__dirname + '/echoic-'+layerNumB+'.json', JSON.stringify(objB), function(err) {
+
+
+            fs.writeFileSync(__dirname + '/echoic-'+layerNumB+'.json', JSON.stringify(objB), function(err) {
                 if(err) {
                     return console.log(err);
                 }
@@ -795,6 +801,7 @@ layerInfo.forEach( info => {
         });
     
 
+
         if( make == 'perf')
         {
             perfObj["/"+layerNumA] = [ ui_clear, ui_css, perf_ui_html, svgA, ui_tween ];
@@ -813,7 +820,7 @@ layerInfo.forEach( info => {
             let obj = {};
             obj["/"+layerNumA] = [ ui_css, ui_html, svgA, ui_tween ];
     
-            fs.writeFile(__dirname + '/echoic-'+layerNumA+'.json', JSON.stringify(obj), function(err) {
+            fs.writeFileSync(__dirname + '/echoic-'+layerNumA+'.json', JSON.stringify(obj), function(err) {
                 if(err) {
                     return console.log(err);
                 }
@@ -829,7 +836,6 @@ layerInfo.forEach( info => {
             "y": nameY,
             "text": layerNumB + " " + getName(layerNumA-1)
         });
-
 
         if( make == 'perf')
         {
@@ -850,7 +856,7 @@ layerInfo.forEach( info => {
             let objB = {};
             objB["/"+layerNumB] = [ ui_css, ui_html, svgB, ui_tween ];
 
-            fs.writeFile(__dirname + '/echoic-'+layerNumB+'.json', JSON.stringify(objB), function(err) {
+            fs.writeFileSync(__dirname + '/echoic-'+layerNumB+'.json', JSON.stringify(objB), function(err) {
                 if(err) {
                     return console.log(err);
                 }
