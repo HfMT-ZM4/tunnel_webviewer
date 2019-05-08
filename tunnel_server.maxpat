@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 972.0, 225.0, 675.0, 287.0 ],
+		"rect" : [ 792.0, 338.0, 683.0, 301.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -38,6 +38,87 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"fontsize" : 12.0,
+					"id" : "obj-95",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 555.0, 53.584202738280965, 31.0, 33.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 545.23230316978038, 49.584202738280965, 57.0, 20.0 ],
+					"text" : "step time"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontsize" : 12.0,
+					"id" : "obj-94",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 580.0, 69.084202738280965, 31.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 581.0, 66.584202738280965, 28.0, 20.0 ],
+					"text" : "ms."
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-93",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 631.0, 328.5, 255.0, 20.0 ],
+					"text" : "make a gate to stop input during other pieces?"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-91",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 670.0, 366.0, 119.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 470.73230316978038, 190.382091250000144, 112.0, 20.0 ],
+					"text" : "udp input port 8880"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"activebgcolor" : [ 0.352941176470588, 0.352941176470588, 0.352941176470588, 0.0 ],
+					"bgcolor" : [ 0.352941176470588, 0.352941176470588, 0.352941176470588, 0.0 ],
+					"id" : "obj-89",
+					"maxclass" : "live.button",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"parameter_enable" : 1,
+					"patching_rect" : [ 612.73230316978038, 366.0, 21.53539366043924, 21.647163499999976 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 585.73230316978038, 189.558509500000127, 21.53539366043924, 21.647163499999976 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_shortname" : "live.button",
+							"parameter_enum" : [ "off", "on" ],
+							"parameter_type" : 2,
+							"parameter_longname" : "live.button[1]",
+							"parameter_mmax" : 1
+						}
+
+					}
+,
+					"varname" : "live.button[1]"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-87",
 					"maxclass" : "message",
@@ -145,15 +226,15 @@
 				"box" : 				{
 					"fontsize" : 11.0,
 					"id" : "obj-64",
-					"linecount" : 3,
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 433.0, 642.0, 421.0, 43.0 ],
+					"patching_rect" : [ 433.0, 642.0, 421.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 3,
 					"presentation_rect" : [ 18.23230316978038, 138.668405476561929, 267.0, 43.0 ],
-					"text" : "/loadcache/finished imported /Users/r/Documents/dev-lib/tunnel_webviewer/scores/rama/echoic-performance.json 5:28:37 PM"
+					"text" : "/loadcache/finished imported /Users/r/Documents/dev-lib/tunnel_webviewer/ID-test.json 5:42:20 PM"
 				}
 
 			}
@@ -261,8 +342,8 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 962.0, 84.0, 145.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 470.73230316978038, 36.584202738280965, 46.0, 27.0 ],
-					"text" : "sync"
+					"presentation_rect" : [ 470.73230316978038, 36.584202738280965, 71.0, 27.0 ],
+					"text" : "do sync"
 				}
 
 			}
@@ -6714,7 +6795,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 867.0, 72.725196511718877, 50.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 543.23230316978038, 66.584202738280965, 50.0, 22.0 ],
+					"presentation_rect" : [ 545.23230316978038, 66.584202738280965, 50.0, 22.0 ],
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
@@ -11151,8 +11232,8 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 111.0, 575.0, 280.0, 160.0 ],
-									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -36, 47, 109, 111, 110, 105, 116, 111, 114, 0, 0, 0, 0, 44, 46, 0, 0, 0, 0, 0, -56, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 115, 118, 103, 0, 0, 0, 0, -96, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 46, 0, 0, 0, 0, 64, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 105, 100, 0, 44, 115, 0, 0, 115, 121, 110, 99, 79, 102, 102, 115, 101, 116, 45, 49, 51, 0, 0, 0, 0, 0, 0, 16, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 48, 46, 50, 0, 0, 0, 0, 76, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 108, 111, 103, 45, 49, 51, 0, 0, 0, 0, 0, 36, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 47, 49, 51, 47, 115, 121, 110, 99, 79, 102, 102, 115, 101, 116, 58, 32, 48, 46, 50, 32, 0, 0, 0, 0 ],
-									"saved_bundle_length" : 240,
+									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -12, 47, 109, 111, 110, 105, 116, 111, 114, 0, 0, 0, 0, 44, 46, 0, 0, 0, 0, 0, -32, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 115, 118, 103, 0, 0, 0, 0, -72, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 46, 0, 0, 0, 0, 92, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 105, 100, 0, 44, 115, 0, 0, 99, 111, 110, 110, 101, 99, 116, 101, 100, 45, 49, 49, 50, 0, 0, 0, 0, 0, 0, 16, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 111, 117, 116, 0, 0, 0, 0, 24, 47, 99, 108, 97, 115, 115, 0, 0, 44, 115, 0, 0, 108, 111, 103, 103, 101, 100, 111, 117, 116, 0, 0, 0, 0, 0, 0, 72, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 108, 111, 103, 45, 49, 49, 50, 0, 0, 0, 0, 32, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 47, 49, 49, 50, 47, 99, 111, 110, 110, 101, 99, 116, 101, 100, 58, 32, 48, 32, 0, 0 ],
+									"saved_bundle_length" : 264,
 									"text" : "/monitor : {\n\t/key : \"svg\",\n\t/val : {\n\t\t/id : \"log-loadcache\",\n\t\t/text : \"/loadcache: finished import: /Users/r/Documents/dev-lib/tunnel_webviewer/scores/rama/echoic-performance.json \"\n\t}\n}"
 								}
 
@@ -11168,8 +11249,8 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 191.0, 164.0, 222.0, 78.0 ],
-									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 47, 49, 51, 47, 115, 121, 110, 99, 79, 102, 102, 115, 101, 116, 0, 0, 44, 100, 0, 0, 63, -55, -103, -103, -103, -103, -103, -102 ],
-									"saved_bundle_length" : 48,
+									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 49, 49, 50, 47, 99, 111, 110, 110, 101, 99, 116, 101, 100, 0, 0, 44, 105, 0, 0, 0, 0, 0, 0 ],
+									"saved_bundle_length" : 44,
 									"text" : "/loadcache : \"finished import: /Users/r/Documents/dev-lib/tunnel_webviewer/scores/rama/echoic-performance.json\""
 								}
 
@@ -11743,6 +11824,15 @@
 				"patchline" : 				{
 					"destination" : [ "obj-38", 0 ],
 					"midpoints" : [ 625.5, 351.916656494140625, 468.23230316978038, 351.916656494140625 ],
+					"order" : 1,
+					"source" : [ "obj-2", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-89", 0 ],
+					"order" : 0,
 					"source" : [ "obj-2", 0 ]
 				}
 
@@ -11973,6 +12063,7 @@
 			}
  ],
 		"parameters" : 		{
+			"obj-89" : [ "live.button[1]", "live.button", 0 ],
 			"obj-42::obj-41" : [ "live.text[1]", "live.text", 0 ],
 			"obj-119" : [ "live.button", "live.button", 0 ],
 			"parameterbanks" : 			{
