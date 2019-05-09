@@ -1,4 +1,3 @@
-
 IndexTest, ID-test.json;
 "Echoic Memory Capsule", scores/rama/echoic-performance.json;
 Musk, scores/cat/musk-performance.json;
@@ -12,12 +11,12 @@ Fanfare, scores/georg/fanfare/fanfare-performance.json;
 Norden, -;
 Kinderszenen, scores/shimo/kinderszenen-performance.json;
 Blues, scores/jan/blues-performance.json;
-Happiness, -;
+Happiness, scores/benjamin/happiness-performance.json;
 Dodekaederstern, scores/james/dodekaederstern-performance.json;
 Chakra, scores/wendy/chakra-performance.json;
-Sprial, -;
+Sprial, scores/seonghee/spiral-performance.json;
 texculpting, scores/victor/texculpting-performance.json;
-Lónglóng, -;
+Lónglóng, scores/minzuo/longlong-performance.json;
 Growing, -;
 "Open Fields", -;
 "The Maiden, the mother and the Hag", scores/tam/maiden-performance.json;
