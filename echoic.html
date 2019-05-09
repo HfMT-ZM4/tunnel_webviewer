@@ -14,12 +14,12 @@
         let piece_path = "scores/template.json";
 
         var instr = [
-            "violin", "violin", "flute", "flute", "clarinet in Bb", "alto sax in Eb", "trombone", "violoncello", "percussion", "alto", "e.guitar", "accordion", 
-            "violin", "viola", "flute", "soprano recorder", "clarinet in Bb", "trumpet in Bb", "tuba", "violoncello", "percussion", "soprano", "e.guitar", "accordion", 
-            "violin", "violin", "flute", "oboe", "clarinet in Bb", "tenor sax in Bb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", 
-            "violin", "viola", "flute", "bass recorder", "clarinet in Bb", "alto sax in Eb", "bassoon", "double bass", "percussion", "baritone", "e.guitar", "accordion", 
-            "violin", "violin", "flute", "tenor recorder", "clarinet in Bb", "trumpet in Bb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", 
-            "violin", "viola", "flute", "oboe", "clarinet in Bb", "tenor sax in Bb", "bass tuba", "violoncello", "percussion", "soprano", "e.guitar", "accordion"];
+            "violin", "violin", "flute", "flute", "clarinet in Bb", "alto sax in Eb", "trombone", "violoncello", "percussion", "alto voice", "e.guitar", "accordion", 
+            "violin", "viola", "flute", "soprano recorder", "clarinet in Bb", "trumpet in Bb", "tuba", "violoncello", "percussion", "soprano voice", "e.guitar", "accordion", 
+            "violin", "violin", "flute", "oboe", "clarinet in Bb", "tenor sax in Bb", "trombone", "violoncello", "percussion", "soprano voice", "e.guitar", "accordion", 
+            "violin", "viola", "flute", "bass recorder", "clarinet in Bb", "alto sax in Eb", "bassoon", "double bass", "percussion", "baritone voice", "e.guitar", "accordion", 
+            "violin", "violin", "flute", "tenor recorder", "clarinet in Bb", "trumpet in Bb", "trombone", "violoncello", "percussion", "soprano voice", "e.guitar", "accordion", 
+            "violin", "viola", "flute", "oboe", "clarinet in Bb", "tenor sax in Bb", "bass tuba", "violoncello", "percussion", "soprano voice", "e.guitar", "accordion"];
 
         function getName(i_)
         {
@@ -55,14 +55,68 @@
             _div.appendChild(document.createElement("br"));
         }
 
+        let vln1 = [];
+        let vln2 = [];
+        let vla = [];
+
+        for( let i = 0; i < 12; i++)
+        {
+          vln1.push( (i*12) + 1);
+
+          if( i % 2 == 0 )
+            vln2.push( (i*12) + 2);
+
+        }
+        //console.log(vln1, vln2, vla);
+
+        document.getElementById("vln1").innerHTML = `violin 1 (part numbers: ${vln1})`;
+        document.getElementById("vln2").innerHTML = `violin 2 (part numbers: ${vln2})`;
       }
+
   </script>
   <body onload="makeLinks()">
     <div class="basestyle">
-        <p><em>echoic memory capsule</em> by rama gottfried</p>
-        <p>Please select the instrument-number you would like to view:</p>
-        
+        <p><em><b>echoic memory capsule</b></em> by rama gottfried</p>
+        <p>Please select the instrument-number you would like to view:<br>
+          <span style="color:darkgray"><em>note: parts are transposed as indicated</em></span>
+        </p>
+
         <div id="piecelist"></div>
+
+        <div style="position: absolute; left: 25vw; white-space: nowrap;">
+          
+          
+          <p>
+            <b>rehearsal study PDFs:</b>
+          </p>
+          <a  href="scores/rama/flute1.pdf" target="_blank">flute</a><br>
+          <a  href="scores/rama/sop-rec.pdf" target="_blank">soprano recorder</a><br>
+          <a  href="scores/rama/oboe.pdf" target="_blank">oboe</a><br>
+          <a  href="scores/rama/clarinet.pdf" target="_blank">clarinet</a><br>
+          <a  href="scores/rama/bassoon.pdf" target="_blank">bassoon</a><br>
+          <a  href="scores/rama/alto-sax.pdf" target="_blank">alto sax</a><br>
+          <a  href="scores/rama/tenor-sax.pdf" target="_blank">tenor sax</a><br>
+          <a  href="scores/rama/trumpet.pdf" target="_blank">trumpet</a><br>          
+          <a  href="scores/rama/trombone.pdf" target="_blank">trombone</a><br>          
+          <a  href="scores/rama/tuba.pdf" target="_blank">tuba</a><br>          
+          <a  href="scores/rama/accordion.pdf" target="_blank">accordion</a><br>          
+          <a  href="scores/rama/eguitar.pdf" target="_blank">guitar</a><br>          
+          <a href="scores/rama/voice.pdf" target="_blank">voice (soprano, alto, baritone)</a><br>
+          <a id="vln1" href="scores/rama/violin.pdf" target="_blank">violin 1 (#1, #13, #25, #37, #49, #61, #73, #85, #97, #109, #121, #133)</a><br>
+          <a id="vln2" href="scores/rama/violin2.pdf" target="_blank">violin 2 (#1, #25, #49, #73, #97, #121)</a><br>
+          <a id="vla" href="scores/rama/viola.pdf" target="_blank">viola</a><br>
+          <a href="scores/rama/cello.pdf" target="_blank">cello</a><br>
+          <a href="scores/rama/doublebass.pdf" target="_blank">double bass</a><br>
+
+          <p>
+            <a  href="scores/rama/echoic_memory_capsule.pdf" target="_blank"><b>view full score PDF</b></a><br>
+            <span style="color:darkgray"><em>note: transposed socre. parts are scored vertically in order down the tunnel, 1-72. <br> 
+              in the second tunnel (b), parts 1-72 become 73-144; except parts labeled "b" are only in the second tunnel.</em></span>
+          </p>
+
+
+        </div>
+
     </div>
 
 

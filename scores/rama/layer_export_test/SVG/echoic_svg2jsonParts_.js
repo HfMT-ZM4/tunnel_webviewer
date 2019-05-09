@@ -30,7 +30,7 @@ const secPerPix = secPerPage / stafflength;
 const totalduration = pixWidth * secPerPix;
 
 
-const ministartX = 320;
+const ministartX = playheadX + 37;
 const ministartY = 4;
 
 const miniH = 50;
@@ -346,6 +346,7 @@ let ui_tween = {
                 "x": -pixWidth,
                 "ease": "linear",
                 "paused": "true",
+                force3D: false,
                 "onUpdate": {
                     "function": " \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n"
                 }
