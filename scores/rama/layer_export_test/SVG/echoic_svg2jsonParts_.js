@@ -346,7 +346,6 @@ let ui_tween = {
                 "x": -pixWidth,
                 "ease": "linear",
                 "paused": "true",
-                force3D: true,
                 "onUpdate": {
                     "function": " \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n"
                 }
