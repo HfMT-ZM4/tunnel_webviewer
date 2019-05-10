@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 0.0, 45.0, 1470.0, 1035.0 ],
+		"rect" : [ 174.0, 286.0, 897.0, 344.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -18997,7 +18997,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 99.5, 244.156955773437517, 191.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 350.73230316978038, 22.084202738280965, 255.0, 47.0 ],
+					"presentation_rect" : [ 350.73230316978038, 22.084202738280965, 294.0, 47.0 ],
 					"text" : "204 - [3:24]"
 				}
 
@@ -19027,17 +19027,6 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 551.23230316978038, 133.085506845702412, 28.0, 20.0 ],
 					"text" : "ms."
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-93",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 653.0, 321.5, 255.0, 20.0 ],
-					"text" : "make a gate to stop input during other pieces?"
 				}
 
 			}
@@ -27118,12 +27107,11 @@
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-9",
-									"linecount" : 2,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 516.0, 621.0, 50.0, 35.0 ],
+									"patching_rect" : [ 473.0, 615.0, 96.0, 22.0 ],
 									"text" : "statereq /144"
 								}
 
@@ -27220,7 +27208,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 550.0, 550.0, 108.0, 22.0 ],
+									"patching_rect" : [ 550.0, 567.0, 108.0, 22.0 ],
 									"text" : "sprintf statereq /%i"
 								}
 
@@ -28124,7 +28112,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 458.73230316978038, 286.83331298828125, 19.0, 22.0 ],
+					"patching_rect" : [ 458.73230316978038, 261.83331298828125, 19.0, 22.0 ],
 					"text" : "t l"
 				}
 
@@ -28154,7 +28142,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 925.0, 258.8333740234375, 172.0, 65.0 ],
+					"patching_rect" : [ 675.73230316978038, 265.33331298828125, 172.0, 65.0 ],
 					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 72, 47, 42, 0, 0, 44, 46, 0, 0, 0, 0, 0, 60, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 99, 108, 101, 97, 114, 0, 0, 0, 0, 0, 0, 16, 47, 118, 97, 108, 0, 0, 0, 0, 44, 115, 0, 0, 42, 0, 0, 0 ],
 					"saved_bundle_length" : 92,
 					"text" : "/* : {\n\t/key : \"clear\",\n\t/val : \"*\"\n}"
@@ -30906,7 +30894,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-53", 0 ],
+					"destination" : [ "obj-43", 0 ],
 					"source" : [ "obj-24", 0 ]
 				}
 
