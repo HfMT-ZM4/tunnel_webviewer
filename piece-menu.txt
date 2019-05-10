@@ -2,8 +2,7 @@ IndexTest, ID-test.json;
 "Echoic Memory Capsule", scores/rama/echoic-performance.json;
 Musk, scores/cat/musk-performance.json;
 Dekompression, scores/lindsay/dekompression-performance.json;
-"Roomtone Variations", -;
-Re:Sonate, scores/jacob/minimal-UI-performance.json;
+
 Tuning, scores/georg/tuning/tuning-performance.json;
 Fanfare, scores/georg/fanfare/fanfare-performance.json;
 "Cycling 144", scores/georg/cycling_144/cycling_144-performance.json;
