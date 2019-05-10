@@ -346,7 +346,7 @@ let ui_tween = {
                 "x": -pixWidth,
                 "ease": "linear",
                 "paused": "true",
-                force3D: false,
+                force3D: true,
                 "onUpdate": {
                     "function": " \n  if( this.time() % 1\t< 0.05){\n    let text = document.getElementById('timecount');\n    text.innerHTML = Math.floor( this.time() );\n  }\n"
                 }
@@ -426,7 +426,7 @@ for( let i = 0; i < 20; i++ )
         strI = "0"+strI
 
     pages.push(strI)
-    let svgFile = fs.readFileSync(__dirname +  '/echoic__-'+strI+'.svg', 'utf8');
+    let svgFile = fs.readFileSync(__dirname +  '/echoic_orgArtBoards-'+strI+'.svg', 'utf8');
     artboards.push( convert.xml2js(svgFile, { ignoreComment: true, compact: false }) );  
 }
 
@@ -693,6 +693,19 @@ layerInfo.reverse().forEach( info => {
                 `
         });
     }
+    else
+    {
+        svg_obj.val.push({
+            "parent": "overlay",
+            "id": "scrollbar",
+            "new": "rect",
+            "x": ministartX,
+            "y": ministartY + (miniH / 2),
+            "height": 5,
+            "width": miniW,
+            "fill": scrollbarColor
+        });
+    }
 
     if( !info.id.endsWith('perc') )
     {
@@ -717,17 +730,19 @@ layerInfo.reverse().forEach( info => {
 
     let miniscaleY_ = info.id.endsWith('accord') ? miniscaleYaccord : miniscaleY;
 
-    svg_obj.val.push({
-        "id": "mini",
-        "parent": "scoreGroup",
-        "new": "use",
-        "href": "#defscore",
-        "y": miniY,
-        "x": miniX,
-        "transform": "scale("+miniscaleX+", "+miniscaleY_+")",
-        "class": "noclick"
-    });
-
+    if( make != "perf" )
+    {
+        svg_obj.val.push({
+            "id": "mini",
+            "parent": "scoreGroup",
+            "new": "use",
+            "href": "#defscore",
+            "y": miniY,
+            "x": miniX,
+            "transform": "scale("+miniscaleX+", "+miniscaleY_+")",
+            "class": "noclick"
+        });
+    }
     
     let layerNameA = info.id.split("_");
 
