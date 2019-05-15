@@ -383,12 +383,18 @@ function styleStr2obj(style_)
     return ret;
 }
 
-function procElements(el_array)
+/**
+ * 
+ * @param {array/object} el_array - XML elements to be processed
+ * @param {number} artboard_index - artboard index is used to make sure ids are not overwritten when reused in different files
+ * @param {array} _ret_reflist - (optional) a reference to an array that will be filled with the ids of href links used in the layer
+ */
+function procElements(el_array, artboard_index, _ret_reflist)
 {
     if( !Array.isArray(el_array) )
         el_array = [ el_array ];
 
-    return el_array.map( (n, i, ar) => {
+    return el_array.map( n => {
         let obj_ = {};
         if( n.hasOwnProperty('name') )
             obj_.new = n.name;
@@ -397,18 +403,43 @@ function procElements(el_array)
         {
             for( let k in n.attributes )
             {
-                if( k == 'id' )
-                    obj_.id = n.attributes[k]+(obj_id_incr++);
-                else
-                    obj_[k] = ( k == "style" ) ? styleStr2obj(n.attributes[k]) : n.attributes[k];
+
+                switch(k)
+                {
+                    case 'id':
+                        obj_.id =`${n.attributes[k]}_${artboard_index}`;
+                    break;
+                    case 'style':
+                        obj_.style = styleStr2obj(n.attributes[k]);
+                    break;
+                    case 'xlink:href':
+                        if( typeof _ret_reflist !== 'undefined' && n.attributes[k].startsWith('#') )
+                        {                       
+                            obj_[k] =`${n.attributes[k]}_${artboard_index}`;     
+                            _ret_reflist.push( obj_[k].slice(1) );
+                        }
+                        else
+                            obj_[k] = n.attributes[k];
+
+
+                    break;
+                    default:
+                        obj_[k] = n.attributes[k];
+                    break;
+
+                }
+               
             }
+
+           
+                       
         }
 
         if( n.hasOwnProperty('elements') )
             if( obj_.new == "text" )
                 obj_.text = n.elements[0].text;
             else
-                obj_.child = procElements(n.elements);
+                obj_.child = procElements(n.elements, artboard_index, _ret_reflist);
 
         return obj_;
 
@@ -424,7 +455,7 @@ for( let i = 0; i < npages; i++ )
     if( i < 9 )
         strI = "0"+strI
 
-    pages.push(strI)
+    pages.push(strI);
     let svgFile = fs.readFileSync(__dirname +  '/tunnel_chakra1-'+strI+'.svg', 'utf8');
     artboards.push( convert.xml2js(svgFile, { ignoreComment: true, compact: false }) );  
 }
@@ -468,6 +499,39 @@ function getElementByID_startswith(_elements, _id)
 
 let layerCount = 0;
 let lookup = {};
+let defs_by_id = {};
+
+function getLayerByID(_artboard, _id)
+{
+    let svg_elements = getSVGElements(_artboard);
+    for( let ee of svg_elements )
+    {
+        if( ee.hasOwnProperty('attributes') && ee.attributes.id.startsWith(_id) )
+            return ee;
+    }
+}
+
+function getDefs(_artboard, artboard_index)
+{
+    let _def_arr = [];
+    let svg_elements = getSVGElements(_artboard);
+    for( let ee of svg_elements )
+    {
+        if( ee.name === 'defs' && ee.hasOwnProperty('elements') )
+        {
+            let _obj_arr = procElements(ee.elements, artboard_index);
+            _obj_arr.forEach( _ob => {
+                if( _ob.hasOwnProperty('id') )
+                {
+                    _def_arr[_ob.id] = _ob;
+                }
+            });
+        
+        }
+    }
+
+    return _def_arr
+}
 
 function getLayersAndSpacer()
 {
@@ -500,35 +564,35 @@ function getLayersAndSpacer()
             else if(ee.attributes.id.startsWith('clef-names') )
             {
                 clefs.g = {
-                    svg: procElements(getElementByID_startswith(ee.elements, "clef-1-vln")),
+                    svg: procElements(getElementByID_startswith(ee.elements, "clef-1-vln"), 0),
                     offset: (649.938 - 8.412) * scale
                 };
                 clefs.f = {
-                    svg: procElements(getElementByID_startswith(ee.elements, "clef-7-trb")),
+                    svg: procElements(getElementByID_startswith(ee.elements, "clef-7-trb"), 0),
                     offset: (734.055 - 8.412) * scale
                 };
                 clefs.grand = {
-                    svg: procElements(getElementByID_startswith(ee.elements, "clef-12-accord")),
+                    svg: procElements(getElementByID_startswith(ee.elements, "clef-12-accord"), 0),
                     offset: (804.153 - 8.412) * scale
                 };
                 clefs.gtr = {
-                    svg: procElements(getElementByID_startswith(ee.elements, "clef-11-egtr")),
+                    svg: procElements(getElementByID_startswith(ee.elements, "clef-11-egtr"), 0),
                     offset: (790.134 - 8.412) * scale
                 };
                 clefs.srec = {
-                    svg: procElements(getElementByID_startswith(ee.elements, "clef-16-srec")),
+                    svg: procElements(getElementByID_startswith(ee.elements, "clef-16-srec"), 0),
                     offset: (875.573 - 8.412) * scale
                 };
                 clefs.brec = {
-                    svg: procElements(getElementByID_startswith(ee.elements, "clef-40-brec")),
+                    svg: procElements(getElementByID_startswith(ee.elements, "clef-40-brec"), 0),
                     offset: (1242.314 - 8.412) * scale
                 };
                 clefs.alto = {
-                    svg: procElements(getElementByID_startswith(ee.elements, "clef-14-vla")),
+                    svg: procElements(getElementByID_startswith(ee.elements, "clef-14-vla"), 0),
                     offset: (847.534 - 8.412) * scale
                 };
-
-            }    
+            }
+            
 
         }
         
@@ -545,16 +609,9 @@ function getLayersAndSpacer()
 }
 
 getLayersAndSpacer();
+//console.log(defs_by_id);
 
-function getLayerByID(_artboard, _id)
-{
-    let svg_elements = getSVGElements(_artboard);
-    for( let ee of svg_elements )
-    {
-        if( ee.hasOwnProperty('attributes') && ee.attributes.id.startsWith(_id) )
-            return ee;
-    }
-}
+
 
 let gclef = ["vln", "fl", "ob","arec", "trec", "cl", "trp",  "asax", "tsax", "sopr", "hrn"];
 let fclef = ["trb", "tuba", "btuba", "vc", "db", "subrec", "bsn", "baritone" ];
@@ -598,6 +655,8 @@ let perfObj = {};
 
 layerInfo.reverse().forEach( info => {
 
+    let def_objs = [];
+
     let def_score = {
         new: "g",
         parent: "defs",
@@ -608,6 +667,12 @@ layerInfo.reverse().forEach( info => {
     for( let i = 0; i < artboards.length; i++)
     {
         let _ab = artboards[i];
+
+        // get defs
+        let def_arr = getDefs(_ab, i);
+        let ref_list = [];
+
+        
         let _page = pages[i];
         let layer = getLayerByID(_ab, info.id);
         
@@ -618,17 +683,30 @@ layerInfo.reverse().forEach( info => {
             new: "g",
             id: info.id + _page,
             transform: `matrix(${scale},0,0,${scale},${_x},${_y})`,
-            child: procElements(layer.elements)
+            child: procElements(layer.elements, i, ref_list)
         };
 
+        for( let _link of ref_list ){
+            def_objs.push( def_arr[_link] );
+        }
+
         def_score.child.push(layer_g);
-    };
+        
+    };    
 
     let svg_obj = {
         "key": "svg",
         "val":[]
     };
-    // score is first
+   
+    // first add defs
+    for( let _def of def_objs )
+    {
+        _def.parent = 'defs';
+        svg_obj.val.push( _def );
+    }
+
+    // then the score
     svg_obj.val.push(def_score);
 
     // add ui svg elements
@@ -710,7 +788,7 @@ layerInfo.reverse().forEach( info => {
     {
         let clef_obj = getClef(info.id)
 
-        console.log(info);        
+       // console.log(info);        
     
         let _x = -(scale * (info.spacer.x - 9.631));
         let _y = -(clef_obj.spacer.y * scale) + scoreY; 
@@ -748,7 +826,7 @@ layerInfo.reverse().forEach( info => {
     let layerNumA = Number(layerNameA[1]);
     let layerNumB = 0;
 
-    console.log(layerNameA);
+    //console.log(layerNameA);
     
     if(layerNumA != layerNumA)
     {
@@ -763,7 +841,7 @@ layerInfo.reverse().forEach( info => {
             "y": nameY,
             "text": layerNumB + " " + getName(layerNumB-1)
         });
-        console.log(layerNumB, getName(layerNumB-1));
+        //console.log(layerNumB, getName(layerNumB-1));
 
 /*        let objB = {
             "/1" : [ ui_css, ui_html, svgB, ui_tween ]
@@ -886,7 +964,7 @@ layerInfo.reverse().forEach( info => {
 
 if( make == "perf" )
 {
-    fs.writeFile(__dirname + '/chakra-performance.json', JSON.stringify(perfObj), function(err) {
+    fs.writeFileSync(__dirname + '/chakra-performance.json', JSON.stringify(perfObj), function(err) {
         if(err) {
             return console.log(err);
         }
