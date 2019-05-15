@@ -1,0 +1,2757 @@
+{
+	"138" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"137" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"136" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"120" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"119" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"118" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"100" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"102" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"101" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"83" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"84" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"82" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"61" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"62" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"63" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"45" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"44" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"43" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"27" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"26" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"25" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"9" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"7" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"8" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_01.mp3"
+			}
+
+		}
+
+	}
+,
+	"144" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"142" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"141" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"143" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"139" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"140" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"133" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"132" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"131" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"134" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"135" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"130" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"124" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"128" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"129" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"126" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"127" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"123" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"125" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"121" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"122" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"117" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"114" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"113" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"115" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"116" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"112" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"108" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"109" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"110" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"111" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"106" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"107" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"103" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"104" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"105" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"97" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"98" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"99" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"96" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"95" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"93" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"94" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"91" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"92" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"89" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"90" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"86" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"87" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"88" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"85" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"80" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"81" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"79" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"77" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"78" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"73" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"71" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"72" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"74" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"75" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"76" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"69" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"70" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"67" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"68" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"65" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"66" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"64" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"60" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"59" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"56" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"54" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"55" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"57" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"58" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"50" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"49" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"48" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"47" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"51" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"52" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"53" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"46" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"40" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"41" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"42" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"38" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"39" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"37" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"36" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"33" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"34" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"35" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"32" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"31" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"30" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"29" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"28" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"22" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"23" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"24" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"21" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"19" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"20" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"18" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"16" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"17" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_06.mp3"
+			}
+
+		}
+
+	}
+,
+	"15" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"14" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"13" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_05.mp3"
+			}
+
+		}
+
+	}
+,
+	"12" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"11" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"10" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_04.mp3"
+			}
+
+		}
+
+	}
+,
+	"4" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"5" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"6" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_03.mp3"
+			}
+
+		}
+
+	}
+,
+	"3" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"2" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"1" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+,
+	"0" : 	{
+		"key" : "sound",
+		"val" : 		{
+			"new" : "Player",
+			"call" : 			{
+				"method" : "toMaster"
+			}
+,
+			"id" : "the_mp3",
+			"vars" : 			{
+				"autostart" : "false",
+				"loop" : "false",
+				"url" : "scores/jan/vogel_02.mp3"
+			}
+
+		}
+
+	}
+
+}
