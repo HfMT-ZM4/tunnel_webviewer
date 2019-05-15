@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 131.0, 45.0, 1136.0, 1005.0 ],
+		"rect" : [ 397.0, 384.0, 1136.0, 1005.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -40,13 +40,12 @@
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-22",
-					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 379.0, 298.0, 50.0, 35.0 ],
-					"text" : "set /144"
+					"patching_rect" : [ 387.36615158489019, 290.0, 51.0, 22.0 ],
+					"text" : "/144"
 				}
 
 			}
@@ -190,7 +189,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 370.36615158489019, 256.656955773437517, 43.0, 22.0 ],
+					"patching_rect" : [ 387.36615158489019, 256.656955773437517, 43.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -18042,16 +18041,17 @@
 					"fontsize" : 10.0,
 					"frame_color" : [ 0.290196078431373, 0.309803921568627, 0.301960784313725, 0.0 ],
 					"id" : "obj-7",
+					"linecount" : 2,
 					"maxclass" : "o.compose",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 494.0, 642.5, 339.0, 22.0 ],
+					"patching_rect" : [ 494.0, 642.5, 339.0, 33.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 350.73230316978038, 293.5, 477.0, 22.0 ],
-					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 52, 47, 108, 111, 103, 0, 0, 0, 0, 44, 115, 0, 0, 115, 116, 111, 112, 112, 101, 100, 32, 91, 50, 48, 49, 57, 45, 48, 53, 45, 49, 53, 84, 49, 56, 58, 51, 56, 58, 52, 55, 46, 56, 54, 54, 57, 54, 50, 90, 93, 0, 0, 0 ],
-					"saved_bundle_length" : 72,
-					"text" : "/log : \"stopped [2019-05-15T18:38:47.866962Z]\""
+					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 80, 47, 108, 111, 103, 0, 0, 0, 0, 44, 115, 0, 0, 115, 116, 97, 114, 116, 101, 100, 58, 32, 100, 114, 97, 119, 115, 111, 99, 107, 101, 116, 45, 115, 101, 114, 118, 101, 114, 45, 99, 108, 117, 115, 116, 101, 114, 46, 106, 115, 32, 91, 50, 48, 49, 57, 45, 48, 53, 45, 49, 53, 84, 49, 57, 58, 51, 54, 58, 49, 54, 46, 49, 49, 51, 52, 55, 54, 90, 93, 0 ],
+					"saved_bundle_length" : 100,
+					"text" : "/log : \"started: drawsocket-server-cluster.js [2019-05-15T19:36:16.113476Z]\""
 				}
 
 			}
@@ -19162,7 +19162,7 @@
 					"patching_rect" : [ 99.5, 244.156955773437517, 191.0, 47.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 350.73230316978038, 22.084202738280965, 294.0, 47.0 ],
-					"text" : "0 - [0:0]"
+					"text" : "57 - [0:57]"
 				}
 
 			}
@@ -19303,7 +19303,7 @@
 					"presentation" : 1,
 					"presentation_linecount" : 4,
 					"presentation_rect" : [ 18.23230316978038, 144.668405476561929, 281.0, 56.0 ],
-					"text" : "imported /Users/r/Documents/dev-lib/tunnel_webviewer/scores/wendy/chakra-performance.json 8:37:59 PM"
+					"text" : "imported /Users/r/Documents/dev-lib/tunnel_webviewer/scores/benjamin/happiness-performance.json 9:40:51 PM"
 				}
 
 			}
@@ -28854,7 +28854,7 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "FullPacket", "FullPacket" ],
 									"patching_rect" : [ 49.0, 189.0, 378.0, 372.0 ],
-									"text" : "/starttime ??= 0,\n/play ??= 0,\n\n/tween./key = \"tween\",\n\n/scroll./id = \"score-anim\",\n/scroll./cmd = (/play == 1) ? \"playfrom\" : \"pause\",\n/scroll./time = /starttime,\n\n/mini./id = \"miniscore-anim\",\n/mini./cmd = (/play == 1) ? \"playfrom\" : \"pause\",\n/mini./time = /starttime,\n\n/tween./val = [/scroll, /mini],\n\n/html./key = \"html\",\n/msg./id = \"msg\",\n/msg./text = (/play == 1) ? \"\" : \"paused\",\n/html./val = /msg,\n\n/svg./key = \"svg\",\n/timecount./id = \"timecount\",\n/timecount./text = /starttime,\n/svg./val = /timecount,\n\nassign(\"/out/*\", [/tween, /html, /svg] )"
+									"text" : "/starttime ??= 0,\n/play ??= 0,\n\n/tween./key = \"tween\",\n\n/scroll./id = \"score-anim\",\n/scroll./cmd = (/play == 1) ? \"play\" : \"pause\",\n/scroll./time = /starttime,\n\n/mini./id = \"miniscore-anim\",\n/mini./cmd = (/play == 1) ? \"play\" : \"pause\",\n/mini./time = /starttime,\n\n/tween./val = [/scroll, /mini],\n\n/html./key = \"html\",\n/msg./id = \"msg\",\n/msg./text = (/play == 1) ? \"\" : \"paused\",\n/html./val = /msg,\n\n/svg./key = \"svg\",\n/timecount./id = \"timecount\",\n/timecount./text = /starttime,\n/svg./val = /timecount,\n\nassign(\"/out/*\", [/tween, /html, /svg] )"
 								}
 
 							}
@@ -29064,8 +29064,8 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 111.0, 575.0, 280.0, 160.0 ],
-									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -16, 47, 109, 111, 110, 105, 116, 111, 114, 0, 0, 0, 0, 44, 46, 0, 0, 0, 0, 0, -36, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 115, 118, 103, 0, 0, 0, 0, -76, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 46, 0, 0, 0, 0, 88, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 105, 100, 0, 44, 115, 0, 0, 99, 111, 110, 110, 101, 99, 116, 101, 100, 45, 49, 0, 0, 0, 0, 16, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 111, 117, 116, 0, 0, 0, 0, 24, 47, 99, 108, 97, 115, 115, 0, 0, 44, 115, 0, 0, 108, 111, 103, 103, 101, 100, 111, 117, 116, 0, 0, 0, 0, 0, 0, 72, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 108, 111, 103, 45, 49, 0, 0, 0, 0, 0, 0, 32, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 47, 49, 47, 99, 111, 110, 110, 101, 99, 116, 101, 100, 58, 32, 48, 32, 0, 0, 0, 0 ],
-									"saved_bundle_length" : 260,
+									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 47, 109, 111, 110, 105, 116, 111, 114, 0, 0, 0, 0, 44, 46, 0, 0, 0, 0, 0, -16, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 115, 118, 103, 0, 0, 0, 0, -56, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 46, 0, 0, 0, 0, 100, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 47, 105, 100, 0, 44, 115, 0, 0, 114, 101, 97, 100, 121, 98, 117, 116, 116, 111, 110, 45, 115, 116, 97, 116, 101, 45, 49, 51, 0, 0, 0, 0, 0, 0, 0, 20, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 114, 101, 97, 100, 121, 0, 0, 0, 0, 0, 0, 20, 47, 99, 108, 97, 115, 115, 0, 0, 44, 115, 0, 0, 114, 101, 97, 100, 121, 0, 0, 0, 0, 0, 0, 80, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 108, 111, 103, 45, 49, 51, 0, 0, 0, 0, 0, 40, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 47, 49, 51, 47, 114, 101, 97, 100, 121, 98, 117, 116, 116, 111, 110, 47, 115, 116, 97, 116, 101, 58, 32, 49, 32, 0, 0, 0 ],
+									"saved_bundle_length" : 280,
 									"text" : "/monitor : {\n\t/key : \"svg\",\n\t/val : {\n\t\t/id : \"log-loadcache\",\n\t\t/text : \"/loadcache: finished import: /Users/r/Documents/dev-lib/tunnel_webviewer/scores/rama/echoic-performance.json \"\n\t}\n}"
 								}
 
@@ -29081,8 +29081,8 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 191.0, 164.0, 222.0, 78.0 ],
-									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 49, 47, 99, 111, 110, 110, 101, 99, 116, 101, 100, 0, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 0 ],
-									"saved_bundle_length" : 44,
+									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 47, 49, 51, 47, 114, 101, 97, 100, 121, 98, 117, 116, 116, 111, 110, 47, 115, 116, 97, 116, 101, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 1 ],
+									"saved_bundle_length" : 52,
 									"text" : "/loadcache : \"finished import: /Users/r/Documents/dev-lib/tunnel_webviewer/scores/rama/echoic-performance.json\""
 								}
 
@@ -29563,7 +29563,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 59.0, 104.0, 1235.0, 802.0 ],
+						"rect" : [ 578.0, 214.0, 1235.0, 802.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -29591,6 +29591,18 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"boxes" : [ 							{
+								"box" : 								{
+									"id" : "obj-13",
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 210.0, 399.0, 50.0, 22.0 ],
+									"text" : "bang"
+								}
+
+							}
+, 							{
 								"box" : 								{
 									"id" : "obj-11",
 									"maxclass" : "newobj",
@@ -29931,7 +29943,7 @@
 									"maxclass" : "outlet",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 50.0, 494.5, 30.0, 30.0 ]
+									"patching_rect" : [ 53.0, 500.5, 30.0, 30.0 ]
 								}
 
 							}
@@ -29991,7 +30003,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "bang" ],
 									"patching_rect" : [ 53.0, 366.5, 91.0, 22.0 ],
-									"text" : "del 19666.6672"
+									"text" : "del 196666.672"
 								}
 
 							}
@@ -30004,7 +30016,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "FullPacket", "FullPacket" ],
-									"patching_rect" : [ 53.0, 400.0, 176.0, 32.0 ],
+									"patching_rect" : [ 53.0, 436.0, 176.0, 32.0 ],
 									"text" : "/addr = \"/\"+aseq(1,144)"
 								}
 
@@ -30228,7 +30240,16 @@
 							}
 , 							{
 								"patchline" : 								{
+									"destination" : [ "obj-13", 1 ],
+									"order" : 0,
+									"source" : [ "obj-77", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
 									"destination" : [ "obj-71", 0 ],
+									"order" : 1,
 									"source" : [ "obj-77", 0 ]
 								}
 
@@ -30387,7 +30408,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 352.23230316978038, 192.33331298828125, 67.0, 22.0 ],
+					"patching_rect" : [ 369.23230316978038, 192.33331298828125, 67.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -31324,7 +31345,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 286.0, 192.33331298828125, 57.0, 22.0 ],
+					"patching_rect" : [ 303.0, 192.33331298828125, 57.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -31520,7 +31541,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 299.0, 275.656955773437517, 53.0, 22.0 ],
+					"patching_rect" : [ 316.0, 275.656955773437517, 53.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -31710,7 +31731,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-22", 1 ],
+					"destination" : [ "obj-22", 0 ],
 					"source" : [ "obj-18", 0 ]
 				}
 
