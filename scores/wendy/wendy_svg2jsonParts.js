@@ -17,7 +17,7 @@ let nameX = 10;
 let nameY = 90;
 
 const npages = 2;
-const secPerPage = 36;
+const secPerPage = 66.666;
 
 const stafflength = sys_w * scale;
 
@@ -456,7 +456,9 @@ for( let i = 0; i < npages; i++ )
         strI = "0"+strI
 
     pages.push(strI);
-    let svgFile = fs.readFileSync(__dirname +  '/tunnel_chakra1-'+strI+'.svg', 'utf8');
+    console.log(`/tunnel_chakra${i+1}-01.svg`);
+    
+    let svgFile = fs.readFileSync(__dirname +  `/tunnel_chakra${i+1}-01.svg`, 'utf8');
     artboards.push( convert.xml2js(svgFile, { ignoreComment: true, compact: false }) );  
 }
 
@@ -672,6 +674,7 @@ layerInfo.reverse().forEach( info => {
         let def_arr = getDefs(_ab, i);
         let ref_list = [];
 
+        console.log(info.id);
         
         let _page = pages[i];
         let layer = getLayerByID(_ab, info.id);
