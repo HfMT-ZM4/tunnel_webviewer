@@ -5,21 +5,21 @@
 		<name>dekompression</name>
 		<composer>lindsay vickery</composer>
 		<type>ScrollScore</type>
-		<duration>498</duration>
-		<filename>dekompressionScore-01_1.png</filename>
+		<duration>466</duration>
+		<startoffset>443</startoffset>
+		<filename>dekompressionsc-01_1.png</filename>
 		<prefsfile>preferences.xml</prefsfile>
-		<part>dekompression3group1-01_1.png</part>
-		<part>dekompression3group2-01_1.png</part>
-		<part>dekompression3group3-01_1.png</part>
-		<part>dekompression3group4-01_1.png</part>
-		<part>dekompression3group5-01_1.png</part>
-		<part>dekompression3group6-01_1.png</part>
-		<part>dekompression3group7-01_1.png</part>
-		<part>dekompression3group8-01_1.png</part>
-		<part>dekompression3group9-01_1.png</part>
-		<part>dekompression3group10-01_1.png</part>
-		<part>dekompression3group11-01_1.png</part>
-		<part>dekompression3group12-01_1.png</part>
-		<backgroundrgb>0,0,0</backgroundrgb>
+		<part>dekompressiongroup1-01_1.png</part>
+		<part>dekompressiongroup2-01_1.png</part>
+		<part>dekompressiongroup3-01_1.png</part>
+		<part>dekompressiongroup4-01_1.png</part>
+		<part>dekompressiongroup5-01_1.png</part>
+		<part>dekompressiongroup6-01_1.png</part>
+		<part>dekompressiongroup7-01_1.png</part>
+		<part>dekompressiongroup8-01_1.png</part>
+		<part>dekompressiongroup9-01_1.png</part>
+		<part>dekompressiongroup10-01_1.png</part>
+		<part>dekompressiongroup11-01_1.png</part>
+		<part>dekompressiongroup12-01_1.png</part>
 	</score>
 </opus>

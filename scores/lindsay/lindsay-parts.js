@@ -386,7 +386,7 @@ for( let i = 0; i < 144; i++)
         let layer_g = {
             new: "image",
             id: '_'+j,
-            href: "scores/lindsay/dekompression3group"+_g+"-01_"+(j+1)+".png",
+            href: "scores/lindsay/dekompressiongroup"+_g+"-01_"+(j+1)+".png",
             transform: `matrix(${scale},0,0,${scale},${_x},${_y})` 
         };
 
