@@ -3,7 +3,7 @@ const convert = require('xml-js');
 
 const make = ""; // "play" "perf"
 
-const scale = 0.4;
+const scale = 0.3;
 const sys_w = 2030; // pixel with of system
 // 2031 × 1942
 const standardH = 1942 * scale;
