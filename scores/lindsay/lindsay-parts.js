@@ -6,6 +6,7 @@ const make = ""; // "play" "perf"
 const scale = 0.3;
 const sys_w = 2030; // pixel with of system
 // 2031 × 1942
+// 627 × 600
 const standardH = 1942 * scale;
 
 let playheadX = 250;
@@ -13,7 +14,7 @@ let scoreY = 100;
 
 const leadin = 0;
 let scoreX = playheadX + leadin;
-
+ 
 let nameX = 10;
 let nameY = 90;
 

@@ -5,7 +5,7 @@ const make = ""; // "play" "perf"
 const sys_w = 9129; // pixel with of system
 // 9129 × 716
 
-const scale = 0.7;
+const scale = 0.5;
 
 let playheadX = 250;
 let scoreY = 100;
