@@ -1,7 +1,7 @@
 const fs = require('fs');
 const convert = require('xml-js');
 
-const make = ""; // "play" "perf"
+const make = "perf"; // "play" "perf"
 
 const sys_w = 731.441; // pixel with of system
 
@@ -674,7 +674,7 @@ layerInfo.reverse().forEach( info => {
         let def_arr = getDefs(_ab, i);
         let ref_list = [];
 
-        console.log(info.id);
+        console.log(info.id, info.spacer.y);
         
         let _page = pages[i];
         let layer = getLayerByID(_ab, info.id);
