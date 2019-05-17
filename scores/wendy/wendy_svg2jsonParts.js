@@ -1,7 +1,7 @@
 const fs = require('fs');
 const convert = require('xml-js');
 
-const make = "perf"; // "play" "perf"
+const make = ""; // "play" "perf"
 
 const sys_w = 731.441; // pixel with of system
 
@@ -16,7 +16,7 @@ let scoreX = playheadX + leadin;
 let nameX = 10;
 let nameY = 90;
 
-const npages = 2;
+const npages = 4;
 const secPerPage = 66.666;
 
 const stafflength = sys_w * scale;
