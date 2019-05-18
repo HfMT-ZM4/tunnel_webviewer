@@ -6,6 +6,5 @@ const json = JSON.parse(file);
 
 Object.keys(json).forEach( k => {
     console.log( Number(k.slice(1)) % 12 );
-    
 });
 
