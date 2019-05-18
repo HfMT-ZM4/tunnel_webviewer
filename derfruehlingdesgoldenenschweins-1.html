@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    <!-- our stylesheet -->
+    <link rel="stylesheet" href="lib/drawsocket-defaults.css">
+
+  </head>
+  <script>
+        let piece_path = "scores/template.json";
+
+        var instr = [
+            "violin", "violin", "flute", "flute", "clarinet in Bb", "alto sax in Eb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", 
+            "violin", "viola", "flute", "soprano recorder", "clarinet in Bb", "trumpet in Bb", "tuba", "violoncello", "percussion", "soprano", "e.guitar", "accordion", 
+            "violin", "violin", "flute", "oboe", "clarinet in Bb", "tenor sax in Bb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", 
+            "violin", "viola", "flute", "bass recorder", "clarinet in Bb", "alto sax in Eb", "bassoon", "double bass", "percussion", "baritone", "e.guitar", "accordion", 
+            "violin", "violin", "flute", "tenor recorder", "clarinet in Bb", "trumpet in Bb", "trombone", "violoncello", "percussion", "soprano", "e.guitar", "accordion", 
+            "violin", "viola", "flute", "oboe", "clarinet in Bb", "tenor sax in Bb", "bass tuba", "violoncello", "percussion", "soprano", "e.guitar", "accordion"];
+
+        function getName(i_)
+        {
+            switch(i_)
+            {
+                case 111: // 112
+                    return "sub recorder";
+                case 135: // 136
+                    return "alto recorder";
+                case 138: // 139
+                    return "horn in F";
+                default:
+                    return instr[ i_ % 72 ];
+            }
+        }
+
+      function makeLinks()
+      {        
+
+        let _div = document.getElementById("piecelist");
+        for( let i = 0; i < 144; i++)
+        {
+            let idx = i+1;
+
+            let _link = document.createElement("a");
+
+            let inst_name = getName(i);
+
+            _link.href = `webview.html?fetch=/tunnel_webviewer/scores/shing-kwei/derfruehlingdesgoldenenschweins-1-${idx}.json&prefix=/${idx}`;
+            _link.innerHTML = `${idx} ${inst_name}`;
+
+            _div.appendChild(_link);
+            _div.appendChild(document.createElement("br"));
+        }
+
+      }
+  </script>
+  <body onload="makeLinks()">
+    <div class="basestyle">
+        <p><em>Der Frühling des goldenen Schweins: Part 1</em> by Shing-Kwei Tzeng</p> 
+
+        <p>Please select the instrument-number you would like to view:</p>
+        
+        <div id="piecelist"></div>
+    </div>
+
+
+  </body>
+</html>
