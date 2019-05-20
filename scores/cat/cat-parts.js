@@ -5,7 +5,7 @@ const make = ""; // "play" "perf"
 const sys_w = 9129; // pixel with of system
 // 9129 × 716
 
-const scale = 0.5;
+const scale = 600 / 716;
 
 let playheadX = 250;
 let scoreY = 100;
@@ -422,8 +422,8 @@ for( let i = 0; i < 144; i++)
         new: "image",
         parent: "defs",
         id: "defscore",
-        href: getFileForIDX(i) //,
-        //transform: `matrix(${scale},0,0,${scale},${_x},${_y})`,
+        href: getFileForIDX(i),
+        transform: `matrix(${scale},0,0,${scale},0,0)`,
 
     };
 
