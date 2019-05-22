@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 142.0, 79.0, 1122.0, 874.0 ],
+		"rect" : [ 375.0, 79.0, 1122.0, 874.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -38,6 +38,24 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"fontface" : 0,
+					"fontsize" : 12.0,
+					"id" : "obj-27",
+					"linecount" : 5,
+					"maxclass" : "o.compose",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 408.0, 411.0, 301.0, 78.0 ],
+					"presentation_linecount" : 5,
+					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40, 47, 112, 105, 101, 99, 101, 78, 97, 109, 101, 0, 0, 44, 115, 0, 0, 46, 46, 47, 115, 104, 105, 109, 111, 47, 107, 105, 110, 100, 101, 114, 115, 122, 101, 110, 101, 110, 0, 0, 0, 0, 0, 0, 24, 47, 115, 101, 99, 80, 101, 114, 80, 97, 103, 101, 0, 44, 100, 0, 0, 64, 103, -103, -103, -103, -103, -103, -102, 0, 0, 0, 16, 47, 115, 121, 115, 95, 119, 0, 0, 44, 105, 0, 0, 0, 0, 73, -64, 0, 0, 0, 20, 47, 115, 99, 97, 108, 101, 0, 0, 44, 100, 0, 0, 63, -8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 112, 97, 114, 116, 95, 104, 101, 105, 103, 104, 116, 0, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 100 ],
+					"saved_bundle_length" : 160,
+					"text" : "/pieceName : \"../shimo/kinderszenen\",\n/secPerPage : 188.8,\n/sys_w : 18880,\n/scale : 1.5,\n/part_height : 100"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"fontface" : 0,
 					"fontsize" : 12.0,
@@ -98,7 +116,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 752.0, 143.0, 301.0, 78.0 ],
+					"patching_rect" : [ 758.0, 107.0, 301.0, 78.0 ],
 					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 47, 112, 105, 101, 99, 101, 78, 97, 109, 101, 0, 0, 44, 115, 0, 0, 46, 46, 47, 115, 101, 111, 110, 103, 104, 101, 101, 47, 115, 112, 105, 114, 97, 108, 0, 0, 0, 0, 0, 24, 47, 115, 101, 99, 80, 101, 114, 80, 97, 103, 101, 0, 44, 100, 0, 0, 64, 114, -43, -21, -123, 30, -72, 82, 0, 0, 0, 16, 47, 115, 121, 115, 95, 119, 0, 0, 44, 105, 0, 0, 0, 0, 117, -71, 0, 0, 0, 20, 47, 115, 99, 97, 108, 101, 0, 0, 44, 100, 0, 0, 63, -8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 112, 97, 114, 116, 95, 104, 101, 105, 103, 104, 116, 0, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 100 ],
 					"saved_bundle_length" : 156,
 					"text" : "/pieceName : \"../seonghee/spiral\",\n/secPerPage : 301.37,\n/sys_w : 30137,\n/scale : 1.5,\n/part_height : 100"
@@ -344,7 +362,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 758.0, 18.0, 301.0, 78.0 ],
-					"presentation_linecount" : 5,
 					"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 47, 112, 105, 101, 99, 101, 78, 97, 109, 101, 0, 0, 44, 115, 0, 0, 46, 46, 47, 120, 105, 97, 111, 47, 103, 114, 111, 119, 105, 110, 103, 0, 0, 0, 0, 24, 47, 115, 101, 99, 80, 101, 114, 80, 97, 103, 101, 0, 44, 100, 0, 0, 64, 116, 12, -52, -52, -52, -52, -51, 0, 0, 0, 16, 47, 115, 121, 115, 95, 119, 0, 0, 44, 105, 0, 0, 0, 0, 125, 80, 0, 0, 0, 20, 47, 115, 99, 97, 108, 101, 0, 0, 44, 100, 0, 0, 63, -8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 112, 97, 114, 116, 95, 104, 101, 105, 103, 104, 116, 0, 0, 0, 0, 44, 105, 0, 0, 0, 0, 0, 100 ],
 					"saved_bundle_length" : 152,
 					"text" : "/pieceName : \"../xiao/growing\",\n/secPerPage : 320.8,\n/sys_w : 32080,\n/scale : 1.5,\n/part_height : 100"
@@ -1188,6 +1205,8 @@
 					"saved_object_attributes" : 					{
 						"autostart" : 1,
 						"defer" : 0,
+						"node_bin_path" : "",
+						"npm_bin_path" : "",
 						"watch" : 1
 					}
 ,
@@ -1310,6 +1329,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-20", 0 ],
+					"source" : [ "obj-27", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-8", 0 ],
 					"source" : [ "obj-3", 0 ]
 				}
@@ -1417,7 +1443,14 @@
 		"autosave" : 0,
 		"styles" : [ 			{
 				"name" : "black on white",
+				"number" : 				{
+					"fontname" : [ "Arial" ],
+					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
+					"fontsize" : [ 12.0 ]
+				}
+,
 				"umenu" : 				{
+					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "color",
 						"color1" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
@@ -1427,14 +1460,7 @@
 						"proportion" : 0.39,
 						"autogradient" : 0
 					}
-,
-					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ]
-				}
-,
-				"number" : 				{
-					"fontsize" : [ 12.0 ],
-					"fontname" : [ "Arial" ],
-					"textcolor_inverse" : [ 0.239216, 0.254902, 0.278431, 1.0 ]
+
 				}
 ,
 				"parentstyle" : "",
@@ -1443,8 +1469,8 @@
 , 			{
 				"name" : "caption text",
 				"default" : 				{
-					"fontsize" : [ 11.0 ],
-					"fontface" : [ 2 ]
+					"fontface" : [ 2 ],
+					"fontsize" : [ 11.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -1453,9 +1479,9 @@
 , 			{
 				"name" : "section dividers",
 				"default" : 				{
-					"fontsize" : [ 15.0 ],
 					"fontname" : [ "Arial" ],
-					"fontface" : [ 3 ]
+					"fontface" : [ 3 ],
+					"fontsize" : [ 15.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -1464,8 +1490,8 @@
 , 			{
 				"name" : "section info reg",
 				"default" : 				{
-					"fontsize" : [ 12.0 ],
-					"fontname" : [ "Arial" ]
+					"fontname" : [ "Arial" ],
+					"fontsize" : [ 12.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -1474,9 +1500,9 @@
 , 			{
 				"name" : "titles",
 				"default" : 				{
-					"fontsize" : [ 20.0 ],
 					"fontname" : [ "Arial" ],
-					"fontface" : [ 1 ]
+					"fontface" : [ 1 ],
+					"fontsize" : [ 20.0 ]
 				}
 ,
 				"parentstyle" : "",
