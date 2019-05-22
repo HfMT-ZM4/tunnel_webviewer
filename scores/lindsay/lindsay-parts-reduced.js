@@ -366,6 +366,20 @@ Musk11_12.png
 let perfObj = {};
 
 
+let groupLookup = [
+    1,
+    7,
+    3,
+    9,
+    5,
+    11,
+    2,
+    8,
+    4,
+    10,
+    6,
+    12 ];
+
 for( let i = 0; i < 144; i++)
 {
 
@@ -376,7 +390,7 @@ for( let i = 0; i < 144; i++)
         child: []
     };
 
-    const _g = Math.floor(i / 12) + 1;
+    const _g = groupLookup[ Math.floor(i / 12) ];// + 1;
 
     for( let j = 0; j < npages; j++)
     {
