@@ -1,7 +1,7 @@
 const fs = require('fs');
 const convert = require('xml-js');
 
-const make = "perf"; // "play" "perf"
+const make = ""; // "play" "perf"
 
 const sys_w = 731.441; // pixel with of system
 
