@@ -35,6 +35,12 @@ let x_log =  x2_line6 + x_space;
 let y_step = 12;
 let y_lineOffset = 4;
 
+const numLines = 152;
+const numCols = 2;
+const numInCol = Math.round(numLines / numCols);
+
+const maxY = numInCol * y_step;
+
 let ui_css = {
 		"key" : "css",
 		"val" : [ 			{
@@ -108,7 +114,6 @@ let ui_css = {
  ]
 };
 
-const maxY = 72 * y_step;
 
 monitor.push({
     new: 'line',
@@ -119,9 +124,9 @@ monitor.push({
     y2: 1024
 });
 
-for( let i = 1; i <= 144; i++)
+for( let i = 1; i <= numLines; i++)
 {
-    let column = Math.floor((i-1) / 72);
+    let column = Math.floor((i-1) / numInCol);
     let _y = (i * y_step) - (column * maxY);
     let lineY = _y - y_lineOffset;
     let xoffset = column * 800;

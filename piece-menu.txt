@@ -18,4 +18,4 @@ Lónglóng, scores/minzuo/longlong-performance.json;
 Growing, -;
 "Open Fields", -;
 "The Maiden, the mother and the Hag", scores/tam/maiden-performance.json;
-"Der Frühlings des goldenen Schweins", -;
+"Der Frühlings des goldenen Schweins", scores/shing-kwei/derfruehlingdesgoldenenschweins-performance.json;

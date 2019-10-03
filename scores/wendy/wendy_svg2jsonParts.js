@@ -17,7 +17,7 @@ let nameX = 10;
 let nameY = 90;
 
 const npages = 4;
-const secPerPage = 66.666;
+const secPerPage = 82;
 
 const stafflength = sys_w * scale;
 
