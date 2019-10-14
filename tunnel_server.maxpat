@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 105.0, 106.0, 1136.0, 1005.0 ],
+		"rect" : [ 211.0, 469.0, 1136.0, 1005.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -29143,13 +29143,61 @@
 						"subpatcher_template" : "",
 						"boxes" : [ 							{
 								"box" : 								{
+									"fontface" : 0,
+									"fontsize" : 12.0,
+									"id" : "obj-12",
+									"linecount" : 62,
+									"maxclass" : "o.expr.codebox",
+									"numinlets" : 1,
+									"numoutlets" : 2,
+									"outlettype" : [ "FullPacket", "FullPacket" ],
+									"patching_rect" : [ 915.0, 131.0, 443.0, 861.0 ],
+									"presentation_linecount" : 62,
+									"text" : "/addrs = getaddresses(),\n\n/log_msg = \"\",\n\n/monitor./key = \"svg\",\n/monitor./val = map(\n  lambda([a],\n\n    /log_msg += a+\": \",\n    map( lambda(v, /log_msg += string(v) + \" \" ), value(a)),\n\n    /tok = split(\"/\", a),\n    \n    /n./id = join(\"-\",[rest(/tok), first(/tok)]),\n    \n    if( /tok[[1]] == \"readybutton\",\n      if( value(a) == 1,\n        progn(\n          /n./text = \"ready\",\n          /n./class = \"ready\"\n        ),\n        progn(\n          /n./text = \"not ready\",\n          /n./class = \"notready\"\n        )\n      ),\n      if( /tok[[1]] == \"connected\",\n        if( value(a) == 1,\n          progn(\n            /n./text = \"in\",\n            /n./class = \"loggedin\"\n          ),\n          progn(\n            /n./text = \"out\",\n            /n./class = \"loggedout\"\n          )\n        ),\n        if( /tok[[1]] == \"connected\",\n          if( value(a) == 1,\n            progn(\n              /n./text = \"in\",\n              /n./class = \"loggedin\"\n            ),\n            progn(\n              /n./text = \"out\",\n              /n./class = \"loggedout\"\n            )\n          ),\n          if( /tok[[1]] == \"syncOffset\",\n            /n./text = string(round(value(a) * 10.) * 0.1),\n            /n./text = value(a)\n          )\n        )\n      )\n    ),\n    /n\n  ), /addrs\n),\n\n/l./id = \"log-\"+first(/tok),\n/l./text = /log_msg,\n/monitor./val = [/monitor./val, /l]"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontface" : 0,
+									"fontsize" : 12.0,
+									"id" : "obj-11",
+									"maxclass" : "o.compose",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 964.0, 135.0, 229.0, 24.0 ],
+									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 47, 49, 50, 50, 47, 114, 101, 97, 100, 121, 98, 117, 116, 116, 111, 110, 47, 115, 116, 97, 116, 101, 0, 0, 44, 105, 0, 0, 0, 0, 0, 0 ],
+									"saved_bundle_length" : 52,
+									"text" : "/122/readybutton/state : 0"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontface" : 0,
+									"fontsize" : 12.0,
+									"id" : "obj-10",
+									"linecount" : 62,
+									"maxclass" : "o.expr.codebox",
+									"numinlets" : 1,
+									"numoutlets" : 2,
+									"outlettype" : [ "FullPacket", "FullPacket" ],
+									"patching_rect" : [ 428.0, 154.0, 443.0, 861.0 ],
+									"presentation_linecount" : 62,
+									"text" : "\n\n/log_msg = \"\",\n\n/monitor./key = \"svg\",\n/monitor./val = map(\n  lambda([a],\n\n    /log_msg += a+\": \",\n    map( lambda(v, /log_msg += string(v) + \" \" ), value(a)),\n\n    /tok = split(\"/\", a),\n    \n    /n./id = join(\"-\",[rest(/tok), first(/tok)]),\n    \n    if( /tok[[1]] == \"readybutton\",\n      if( value(a) == 1,\n        progn(\n          /n./text = \"ready\",\n          /n./class = \"ready\"\n        ),\n        progn(\n          /n./text = \"not ready\",\n          /n./class = \"notready\"\n        )\n      ),\n      if( /tok[[1]] == \"connected\",\n        if( value(a) == 1,\n          progn(\n            /n./text = \"in\",\n            /n./class = \"loggedin\"\n          ),\n          progn(\n            /n./text = \"out\",\n            /n./class = \"loggedout\"\n          )\n        ),\n        if( /tok[[1]] == \"connected\",\n          if( value(a) == 1,\n            progn(\n              /n./text = \"in\",\n              /n./class = \"loggedin\"\n            ),\n            progn(\n              /n./text = \"out\",\n              /n./class = \"loggedout\"\n            )\n          ),\n          if( /tok[[1]] == \"syncOffset\",\n            /n./text = string(round(value(a) * 10.) * 0.1),\n            /n./text = value(a)\n          )\n        )\n      )\n    ),\n    /n\n  ), /addrs\n),\n\n/l./id = \"log-\"+first(/tok),\n/l./text = /log_msg,\n/monitor./val = [/monitor./val, /l]"
+								}
+
+							}
+, 							{
+								"box" : 								{
 									"id" : "obj-9",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "FullPacket", "FullPacket" ],
-									"patching_rect" : [ 337.0, 107.0, 123.0, 22.0 ],
-									"text" : "o.cond /key == status"
+									"patching_rect" : [ 403.0, 113.0, 311.0, 22.0 ],
+									"text" : "o.cond /url != monitor && (/key == status || /key == sync)"
 								}
 
 							}
@@ -29180,9 +29228,9 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 111.0, 575.0, 280.0, 160.0 ],
-									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 12, 47, 109, 111, 110, 105, 116, 111, 114, 0, 0, 0, 0, 44, 46, 0, 0, 0, 0, 0, -8, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 115, 118, 103, 0, 0, 0, 0, -48, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 46, 0, 0, 0, 0, 108, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 47, 105, 100, 0, 44, 115, 0, 0, 114, 101, 97, 100, 121, 98, 117, 116, 116, 111, 110, 45, 115, 116, 97, 116, 101, 45, 49, 50, 50, 0, 0, 0, 0, 0, 0, 24, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 110, 111, 116, 32, 114, 101, 97, 100, 121, 0, 0, 0, 0, 0, 0, 24, 47, 99, 108, 97, 115, 115, 0, 0, 44, 115, 0, 0, 110, 111, 116, 114, 101, 97, 100, 121, 0, 0, 0, 0, 0, 0, 0, 80, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 108, 111, 103, 45, 49, 50, 50, 0, 0, 0, 0, 40, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 47, 49, 50, 50, 47, 114, 101, 97, 100, 121, 98, 117, 116, 116, 111, 110, 47, 115, 116, 97, 116, 101, 58, 32, 48, 32, 0, 0 ],
-									"saved_bundle_length" : 288,
-									"text" : "/monitor : {\n\t/key : \"svg\",\n\t/val : [{\n\t\t/id : \"connected-1\",\n\t\t/text : \"out\",\n\t\t/class : \"loggedout\"\n\t}, {\n\t\t/id : \"log-1\",\n\t\t/text : \"/1/connected: 0 \"\n\t}]\n}"
+									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -12, 47, 109, 111, 110, 105, 116, 111, 114, 0, 0, 0, 0, 44, 46, 0, 0, 0, 0, 0, -32, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 115, 118, 103, 0, 0, 0, 0, -72, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 46, 0, 0, 0, 0, 92, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 105, 100, 0, 44, 115, 0, 0, 99, 111, 110, 110, 101, 99, 116, 101, 100, 45, 49, 50, 50, 0, 0, 0, 0, 0, 0, 16, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 111, 117, 116, 0, 0, 0, 0, 24, 47, 99, 108, 97, 115, 115, 0, 0, 44, 115, 0, 0, 108, 111, 103, 103, 101, 100, 111, 117, 116, 0, 0, 0, 0, 0, 0, 72, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 47, 105, 100, 0, 44, 115, 0, 0, 108, 111, 103, 45, 49, 50, 50, 0, 0, 0, 0, 32, 47, 116, 101, 120, 116, 0, 0, 0, 44, 115, 0, 0, 47, 49, 50, 50, 47, 99, 111, 110, 110, 101, 99, 116, 101, 100, 58, 32, 48, 32, 0, 0 ],
+									"saved_bundle_length" : 264,
+									"text" : "/monitor : {\n\t/key : \"svg\",\n\t/val : [{\n\t\t/id : \"connected-122\",\n\t\t/text : \"out\",\n\t\t/class : \"loggedout\"\n\t}, {\n\t\t/id : \"log-122\",\n\t\t/text : \"/122/connected: 0 \"\n\t}]\n}"
 								}
 
 							}
@@ -29191,15 +29239,15 @@
 									"fontface" : 0,
 									"fontsize" : 12.0,
 									"id" : "obj-2",
-									"linecount" : 6,
+									"linecount" : 5,
 									"maxclass" : "o.compose",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 377.0, 216.0, 229.0, 92.0 ],
-									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 115, 116, 97, 116, 117, 115, 0, 0, 0, 0, 0, 84, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 0, 0, 0, 0, 0, 68, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 115, 99, 114, 101, 101, 110, 115, 105, 122, 101, 0, 44, 105, 105, 0, 0, 0, 6, 0, 0, 0, 2, -117, 0, 0, 0, 20, 47, 99, 111, 110, 110, 101, 99, 116, 101, 100, 0, 0, 44, 105, 0, 0, 0, 0, 0, 1, 0, 0, 0, 20, 47, 117, 114, 108, 0, 0, 0, 0, 44, 115, 0, 0, 47, 49, 50, 50, 0, 0, 0, 0 ],
-									"saved_bundle_length" : 152,
-									"text" : "/key : \"status\",\n/val : {\n\t/screensize : [1481, 622],\n\t/connected : 1\n},\n/url : \"/1\""
+									"patching_rect" : [ 720.0, 16.0, 229.0, 78.0 ],
+									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 107, 101, 121, 0, 0, 0, 0, 44, 115, 0, 0, 115, 121, 110, 99, 0, 0, 0, 0, 0, 0, 0, 60, 47, 118, 97, 108, 0, 0, 0, 0, 44, 46, 0, 0, 0, 0, 0, 44, 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47, 115, 121, 110, 99, 79, 102, 102, 115, 101, 116, 0, 44, 100, 0, 0, 63, -59, 85, 85, 85, 85, 85, 85, 0, 0, 0, 20, 47, 117, 114, 108, 0, 0, 0, 0, 44, 115, 0, 0, 47, 49, 50, 50, 0, 0, 0, 0 ],
+									"saved_bundle_length" : 128,
+									"text" : "/key : \"sync\",\n/val : {\n\t/syncOffset : 0.166667\n},\n/url : \"/122\""
 								}
 
 							}
@@ -29242,7 +29290,7 @@
 									"patching_rect" : [ 77.0, 131.0, 222.0, 24.0 ],
 									"saved_bundle_data" : [ 35, 98, 117, 110, 100, 108, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 47, 99, 111, 110, 110, 101, 99, 116, 101, 100, 0, 0, 44, 105, 0, 0, 0, 0, 0, 0 ],
 									"saved_bundle_length" : 40,
-									"text" : "/syncOffset : -0.166667"
+									"text" : "/connected : 0"
 								}
 
 							}
@@ -29265,7 +29313,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "FullPacket" ],
-									"patching_rect" : [ 425.0, 692.0, 97.0, 22.0 ],
+									"patching_rect" : [ 294.0, 887.0, 97.0, 22.0 ],
 									"text" : "o.select /monitor"
 								}
 
@@ -29275,13 +29323,13 @@
 									"fontface" : 0,
 									"fontsize" : 12.0,
 									"id" : "obj-41",
-									"linecount" : 62,
+									"linecount" : 34,
 									"maxclass" : "o.expr.codebox",
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "FullPacket", "FullPacket" ],
-									"patching_rect" : [ 718.0, 76.0, 443.0, 861.0 ],
-									"text" : "/addrs = getaddresses(),\n\n/log_msg = \"\",\n\n/monitor./key = \"svg\",\n/monitor./val = map(\n  lambda([a],\n\n    /log_msg += a+\": \",\n    map( lambda(v, /log_msg += string(v) + \" \" ), value(a)),\n\n    /tok = split(\"/\", a),\n    \n    /n./id = join(\"-\",[rest(/tok), first(/tok)]),\n    \n    if( /tok[[1]] == \"readybutton\",\n      if( value(a) == 1,\n        progn(\n          /n./text = \"ready\",\n          /n./class = \"ready\"\n        ),\n        progn(\n          /n./text = \"not ready\",\n          /n./class = \"notready\"\n        )\n      ),\n      if( /tok[[1]] == \"connected\",\n        if( value(a) == 1,\n          progn(\n            /n./text = \"in\",\n            /n./class = \"loggedin\"\n          ),\n          progn(\n            /n./text = \"out\",\n            /n./class = \"loggedout\"\n          )\n        ),\n        if( /tok[[1]] == \"connected\",\n          if( value(a) == 1,\n            progn(\n              /n./text = \"in\",\n              /n./class = \"loggedin\"\n            ),\n            progn(\n              /n./text = \"out\",\n              /n./class = \"loggedout\"\n            )\n          ),\n          if( /tok[[1]] == \"syncOffset\",\n            /n./text = string(round(value(a) * 10.) * 0.1),\n            /n./text = value(a)\n          )\n        )\n      )\n    ),\n    /n\n  ), /addrs\n),\n\n/l./id = \"log-\"+first(/tok),\n/l./text = /log_msg,\n/monitor./val = [/monitor./val, /l]"
+									"patching_rect" : [ 897.0, 163.0, 443.0, 481.0 ],
+									"text" : "/addrs = getaddresses(),\n\n/log_msg = \"\",\n\n/monitor./key = \"svg\",\n/monitor./val = map(\n  lambda([a],\n\n    /log_msg += a+\": \",\n    map( lambda(v, /log_msg += string(v) + \" \" ), value(a)),\n\n    /tok = split(\"/\", a),\n    \n    /n./id = join(\"-\",[rest(/tok), first(/tok)]),\n    \n    if( /tok[[1]] == \"readybutton\",\n      if( value(a) == 1,\n        progn(\n          /n./text = \"ready\",\n          /n./class = \"ready\"\n        ),\n        progn(\n          /n./text = \"not ready\",\n          /n./class = \"notready\"\n        )\n      )\n    ),\n    /n\n  ), /addrs\n),\n\n/l./id = \"log-\"+first(/tok),\n/l./text = /log_msg,\n/monitor./val = [/monitor./val, /l]"
 								}
 
 							}
@@ -29389,13 +29437,6 @@
 								"patchline" : 								{
 									"destination" : [ "obj-58", 0 ],
 									"source" : [ "obj-8", 0 ]
-								}
-
-							}
-, 							{
-								"patchline" : 								{
-									"destination" : [ "obj-2", 1 ],
-									"source" : [ "obj-9", 0 ]
 								}
 
 							}
